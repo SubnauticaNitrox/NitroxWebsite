@@ -28,7 +28,7 @@ The website is written with the following frameworks
 To view the website you can either run
 - php artisan serve
 
-Or if you have a webserver such as <a href="https://laravel.com/docs/9.x/valet">Laravel Valet</a> you can visit the link you previously configured in the .env file.
+Or if you have a webserver such as <a href="https://laravel.com/docs/9.x/valet">Laravel Valet</a> you can visit the page according to your Valet configuration. 
 
 ## Requirements
 - php ^8.0.2
