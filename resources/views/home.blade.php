@@ -1,8 +1,8 @@
-@section('title', 'Nitrox for Subnautica · Subnautica Multiplayer Mod')
-@section('description', 'Nitrox is a free multiplayer mod for the game Subnautica developed by the community.')
+@section('title', __('pages.home.meta.title'))
+@section('description', __('pages.home.meta.description'))
 
-@section('og:title', 'Nitrox for Subnautica · Subnautica Multiplayer Mod')
-@section('og:description', 'Nitrox is a free multiplayer mod for the game Subnautica developed by the community.')
+@section('og:title', __('pages.home.meta.title'))
+@section('og:description', __('pages.home.meta.description'))
 @section('og:image', asset('/assets/img/favicon.png'))
 
 <x-layouts.default>
@@ -14,10 +14,10 @@
             <div class="row" style="perspective: 400px;">
 
                 <div class="col-md-8 offset-md-2 text-center mt-5 about-intro pt-md-5">
-                    <h1 class="pt-md-5 mt-3 font-weight-bold opacity-75"><span>Subnautica</span> <span>Nitrox</span></h1>
-                    <h1 class="mt-3 font-weight-bold display-3"><span>Your</span> <span>multiplayer</span> <span>mod</span> <span>for</span> <span>Subnautica.</span></h1>
+                    <h1 class="pt-md-5 mt-3 font-weight-bold opacity-75">{!! __('pages.home.hero_over') !!}</h1>
+                    <h1 class="mt-3 font-weight-bold display-3">{!!__('pages.home.hero_slogan') !!}</h1>
                     <a href="{{ route('download') }}" class="btn btn-lg btn-primary btn-loading btn-rounded mt-4 mb-4 px-5 py-3 ripple">
-                        Download for free
+                        {{ __('pages.home.hero_cta') }}
                     </a>
                 </div>
 
@@ -36,7 +36,8 @@
             <div class="row">
                 <div class="col-md-8 py-5 mt-4" id="reveal2">
                     <h3 class="font-weight-bold">
-                        Experience Subnautica <span class="opacity-5">like a completely new game. Team up. Explore new depths. Build epic bases.</span></h3>
+                        {!! __('pages.home.explore') !!}
+                    </h3>
                 </div>
             </div>
         </div>

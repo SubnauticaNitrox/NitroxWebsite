@@ -15,6 +15,12 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', \App\Http\Controllers\HomeController::class)->name('home');
 
+Route::get('language/{locale}', function ($locale) {
+    app()->setLocale($locale);
+    session()->put('locale', $locale);
+    return redirect()->back();
+})->name('language');
+
 Route::view('/wiki/home', 'wiki.home')->name('wiki.home');
 Route::view('/wiki/article/installing-nitrox-mod-subnautica', 'wiki.article.install')->name('wiki.article.install');
 Route::view('/wiki/article/run-and-host-nitrox-subnautica-server', 'wiki.article.run')->name('wiki.article.run');

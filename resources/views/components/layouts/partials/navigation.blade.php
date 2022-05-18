@@ -4,12 +4,17 @@
         <a class="navbar-brand p-0" href="{{ route('home') }}">
             Nitrox
         </a>
-        <button class="navbar-toggler p-1" style="outline: none; border: none;" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-            <div class="position-relative icon-box">
-                <span class="icon-bar top-bar"></span>
-                <span class="icon-bar bottom-bar"></span>
-            </div>
-        </button>
+        <div class="d-flex flex-columns">
+            <button class="navbar-toggler p-1" style="outline: none; border: none;" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                <div class="position-relative icon-box">
+                    <span class="icon-bar top-bar"></span>
+                    <span class="icon-bar bottom-bar"></span>
+                </div>
+            </button>
+            <ul class="navbar-nav d-flex d-lg-none">
+                <x-layouts.partials.language-select></x-layouts.partials.language-select>
+            </ul>
+        </div>
         <div class="collapse navbar-collapse" id="navbarText">
             <div class="d-block d-lg-none">
                 <div class="border-bottom mb-3 mt-3" style="opacity: .25;"></div>
@@ -39,6 +44,9 @@
                 <li class="nav-item">
                     <a href="{{ route('download') }}" class="btn btn-sm {{ Route::current()->getName() !== 'download' ? 'btn-primary' : 'btn-light' }} btn-rounded px-3 font-weight-500">Download</a>
                 </li>
+                <div class="d-none d-lg-block">
+                    <x-layouts.partials.language-select></x-layouts.partials.language-select>
+                </div>
             </ul>
             <ul class="navbar-nav d-none flex-row">
                 <li class="nav-item mr-3 mr-md-0">
