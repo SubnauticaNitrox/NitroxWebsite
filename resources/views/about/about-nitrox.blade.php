@@ -1,8 +1,8 @@
-@section('title', 'About Nitrox · Subnautica Multiplayer Mod')
-@section('description', 'Find out more behind the team and open source Nitrox project')
+@section('title', __('pages.about.meta.title'))
+@section('description', __('pages.about.meta.description'))
 
-@section('og:title', 'About Nitrox · Subnautica Multiplayer Mod')
-@section('og:description', 'Find out more behind the team and open source Nitrox project')
+@section('og:title', __('pages.about.meta.title'))
+@section('og:description', __('pages.about.meta.description'))
 @section('og:image', asset('/assets/img/favicon.png'))
 
 <x-layouts.default>
@@ -13,10 +13,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 text-left">
-                    <h1 class="mt-5 display-4 font-weight-bold">Modders have brought multiplayer to Subnautica.</h1>
+                    <h1 class="mt-5 display-4 font-weight-bold">{{ __('pages.about.title') }}</h1>
 
                     <div class="credits opacity-75 d-flex pt-5">
-                        <p class="mr-3">Quote from</p>
+                        <p class="mr-3">{{ __('pages.about.quote') }}</p>
                         <svg width="162px" height="24px" viewBox="0 0 162 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
                             <title>PCGN_NavLogo</title>
@@ -63,16 +63,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="mb-5 font-weight-bold">Why Nitrox?</h1>
+                    <h1 class="mb-5 font-weight-bold">{{ __('pages.about.why') }}</h1>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <p class="lead" style="font-weight: 500">Multiplayer. <span class="opacity-5">Play Subnautica how it was intented to be, in Multiplayer.</span></p>
+                    <p class="lead" style="font-weight: 500">{!! __('pages.about.multiplayer') !!}</p>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <p class="lead" style="font-weight: 500">Open source. <span class="opacity-5">Regular support and updates from the generous contributors.</span></p>
+                    <p class="lead" style="font-weight: 500">{!! __('pages.about.opensource') !!}</p>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <p class="lead" style="font-weight: 500">Community. <span class="opacity-5">Find new servers, get help and talk to other Nitrox players.</span></p>
+                    <p class="lead" style="font-weight: 500">{!!  __('pages.about.servers') !!}</p>
                 </div>
             </div>
 
@@ -83,26 +83,26 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="mb-5 mt-4 font-weight-bold">Our metrics</h1>
+                    <h1 class="mb-5 mt-4 font-weight-bold">{{ __('pages.about.metrics') }}</h1>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <h1 class="font-weight-bold">1,000,000+</h1>
-                    <h6>Downloads</h6>
+                    <h1 class="font-weight-bold">{{ __('pages.about.download_count') }}</h1>
+                    <h6>{{ __('pages.about.downloads') }}</h6>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <h1 class="font-weight-bold">500,250+</h1>
-                    <h6>Users</h6>
+                    <h1 class="font-weight-bold">{{ __('pages.about.user_count') }}</h1>
+                    <h6>{{ __('pages.about.users') }}</h6>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <h1 class="font-weight-bold">27,000+</h1>
-                    <h6>Discord members</h6>
+                    <h1 class="font-weight-bold">{{ __('pages.about.discord_members') }}</h1>
+                    <h6>{{ __('pages.about.discord') }}</h6>
                 </div>
             </div>
 
 
             <div class="row d-flex mb-4 mt-2">
                 <div class="col-md-12">
-                    <h3 class="mb-4 mt-4 font-weight-bold">Featured on</h3>
+                    <h3 class="mb-4 mt-4 font-weight-bold"></h3>
                 </div>
                 <div class="col-md-2 col-6 text-center mb-3 my-auto">
                     <a href="https://www.pcgameshardware.de/Subnautica-Spiel-55121/News/Nitrox-Mod-Multiplayer-Coop-1272188/" target="_blank">
@@ -180,11 +180,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 offset-md-2 text-center mb-5">
-                    <span class="badge badge-primary mb-3">EARLY ALPHA</span>
-                    <h1>Ready? Get the mod!</h1>
-                    <p class="lead pt-2">Your adventure awaits. Download the Nitrox Mod for free and start playing subnautica multiplayer!</p>
+                    <span class="badge badge-primary mb-3">{{ __('pages.about.download_title') }}</span>
+                    <h1>{{ __('pages.about.download_header') }}</h1>
+                    <p class="lead pt-2">{{ __('pages.about.download_description') }}</p>
                     <a href="{{ route('download') }}" class="btn ripple btn-lg btn-primary btn-rounded mt-3 mb-4"  style="animation-delay: .1s;">Download</a>
-                    <p class="text-muted">Latest version {{ $version['version'] }}</p>
+                    <p class="text-muted">{{ __('pages.about.version') }}{{ $version['version'] }}</p>
                 </div>
             </div>
         </div>

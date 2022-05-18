@@ -12,7 +12,9 @@
                 </div>
             </button>
             <ul class="navbar-nav d-flex d-lg-none">
-                <x-layouts.partials.language-select></x-layouts.partials.language-select>
+                <a class="nav-link d-flex p-1 ml-2 ml-lg-3" data-toggle="modal" data-target="#translationSelectModal">
+                    <span class="material-icons" style="cursor: pointer">language</span>
+                </a>
             </ul>
         </div>
         <div class="collapse navbar-collapse" id="navbarText">
@@ -20,20 +22,20 @@
                 <div class="border-bottom mb-3 mt-3" style="opacity: .25;"></div>
             </div>
             <ul class="navbar-nav mr-auto ml-auto text-left">
-                <li class="nav-item {% if currentUrl() == baseUrl() ~ urlFor("home") %} active{% endif %}">
-                <a class="nav-link px-3 ripple" href="{{ route('home') }}">Home <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item {% if currentUrl() == baseUrl() ~ urlFor("wiki.home") %} active{% endif %}">
-                <a class="nav-link px-3 ripple" href="{{ route('wiki.home') }}">Guides</a>
-                </li>
-                <li class="nav-item {% if currentUrl() == baseUrl() ~ urlFor("about.about") %} active{% endif %}">
-                <a class="nav-link px-3 ripple" href="{{ route('about.about') }}">About</a>
-                </li>
-                <li class="nav-item {% if currentUrl() == baseUrl() ~ urlFor("community") %} active{% endif %}">
-                <a class="nav-link px-3 ripple" href="{{ route('community') }}">Community</a>
+                <li class="nav-item">
+                <a class="nav-link px-3" href="{{ route('home') }}">{{ __('navigation.home') }} <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link px-3 ripple" href="https://nitroxblog.rux.gg">Blog</a>
+                <a class="nav-link px-3" href="{{ route('wiki.home') }}">{{ __('navigation.guides') }}</a>
+                </li>
+                <li class="nav-item}">
+                <a class="nav-link px-3" href="{{ route('about.about') }}">{{ __('navigation.about') }}</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link px-3" href="{{ route('community') }}">{{ __('navigation.community') }}</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link px-3" href="https://nitroxblog.rux.gg">{{ __('navigation.blog') }}</a>
                 </li>
             </ul>
 
@@ -44,28 +46,28 @@
                 <li class="nav-item">
                     <a href="{{ route('download') }}" class="btn btn-sm {{ Route::current()->getName() !== 'download' ? 'btn-primary' : 'btn-light' }} btn-rounded px-3 font-weight-500">Download</a>
                 </li>
-                <div class="d-none d-lg-block">
-                    <x-layouts.partials.language-select></x-layouts.partials.language-select>
-                </div>
+                <a class="nav-link d-flex p-1 ml-2 ml-lg-3" data-toggle="modal" data-target="#translationSelectModal">
+                    <span class="material-icons" style="cursor: pointer">language</span>
+                </a>
             </ul>
             <ul class="navbar-nav d-none flex-row">
                 <li class="nav-item mr-3 mr-md-0">
-                    <a class="nav-link ripple" href="https://discord.gg/E8B4X9s" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Discord" data-offset="0 5 0 0">
+                    <a class="nav-link" href="https://discord.gg/E8B4X9s" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Discord" data-offset="0 5 0 0">
                         <img src="{{ asset('/assets/img/Discord.svg') }}" alt="Discord Logo" width="20px" height="20px">
                     </a>
                 </li>
                 <li class="nav-item mr-3 mr-md-0">
-                    <a class="nav-link ripple" href="https://twitter.com/modnitrox" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Twitter" data-offset="0 5 0 0">
+                    <a class="nav-link" href="https://twitter.com/modnitrox" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Twitter" data-offset="0 5 0 0">
                         <img src="{{ asset('/assets/img/Twitter.svg') }}" alt="Twitter" width="20px" height="20px">
                     </a>
                 </li>
                 <li class="nav-item mr-3 mr-md-0">
-                    <a class="nav-link ripple" href="https://www.reddit.com/r/SubnauticaNitrox/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Reddit" data-offset="0 5 0 0">
+                    <a class="nav-link" href="https://www.reddit.com/r/SubnauticaNitrox/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Reddit" data-offset="0 5 0 0">
                         <img src="{{ asset('/assets/img/Reddit.svg') }}" alt="Reddit" width="20px" height="20px">
                     </a>
                 </li>
                 <li class="nav-item mr-3 mr-md-0">
-                    <a class="nav-link ripple" href="https://github.com/SubnauticaNitrox/Nitrox" target="_blank" data-toggle="tooltip" data-placement="bottom" title="GitHub" data-offset="0 5 0 0">
+                    <a class="nav-link" href="https://github.com/SubnauticaNitrox/Nitrox" target="_blank" data-toggle="tooltip" data-placement="bottom" title="GitHub" data-offset="0 5 0 0">
                         <img src="{{ asset('/assets/img/github.svg') }}" alt="GitHub" width="20px" height="20px">
                     </a>
                 </li>
@@ -81,10 +83,10 @@
                 <div class="container ribbon-color">
                     <div class="row">
                         <div class="col">
-                    <span class="">
-                        From the Nitrox Blog: Why we left NexusMods.
-                    </span>
-                            <a href="https://on.rux.gg/cTkeO" target="_blank" class="stretched-link">Read more
+                            <span>
+                                {{ __('navigation.motd') }}
+                            </span>
+                            <a href="https://on.rux.gg/cTkeO" target="_blank" class="stretched-link">{{ __('navigation.read_more') }}
                                 <span class="material-icons" style="position: absolute;font-size: 20px;margin: 1px 0px 0px -2px;">
                              chevron_right
                          </span>

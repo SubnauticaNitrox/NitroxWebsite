@@ -31,6 +31,7 @@
 </head>
 <body data-spy="scroll" data-target="#toc">
 
+    <x-layouts.partials.language-select></x-layouts.partials.language-select>
     <x-layouts.partials.message></x-layouts.partials.message>
     <x-layouts.partials.navigation></x-layouts.partials.navigation>
 

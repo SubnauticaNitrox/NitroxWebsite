@@ -29,8 +29,6 @@
         </div>
     </div>
 
-
-
     <div class="section my-5 pb-4" id="trigger2">
         <div class="container">
             <div class="row">
@@ -43,8 +41,6 @@
         </div>
     </div>
 
-
-
     <div class="section mt-5">
         <div class="container">
             <div class="row">
@@ -52,9 +48,9 @@
                     <div class="nitrox-card nc-1 ">
                         <div class="row pb-5">
                             <div class="col-md-6 text-white">
-                                <h6 class="pb-5">The mod</h6>
-                                <h1 class="font-weight-bold display-3">Nitrox multiplayer</h1>
-                                <p class="lead">Finally begin playing Subnautica together with your friends. Join or create your very own server.</p>
+                                <h6 class="pb-5">{{ __('pages.home.feature.multiplayer.headline') }}</h6>
+                                <h1 class="font-weight-bold display-3">{{ __('pages.home.feature.multiplayer.title') }}</h1>
+                                <p class="lead">{{ __('pages.home.feature.multiplayer.description') }}</p>
                             </div>
                         </div>
                     </div>
@@ -66,9 +62,9 @@
                     <div class="nitrox-card nc-2 ">
                         <div class="row pb-5">
                             <div class="col-md-6 text-white py-3">
-                                <h6 class="pb-5">Supported Store Versions</h6>
-                                <h1 class="font-weight-bold display-3">Cross platform</h1>
-                                <p class="lead">Compatible with your favourite stores. Native cross-play support built into the mod allowing for seamless multiplayer.</p>
+                                <h6 class="pb-5">{{ __('pages.home.feature.stores.headline') }}</h6>
+                                <h1 class="font-weight-bold display-3">{{ __('pages.home.feature.stores.title') }}</h1>
+                                <p class="lead">{{ __('pages.home.feature.stores.description') }}</p>
                             </div>
                             <div class="col-md-6 my-auto">
                                 <div class="row">
@@ -79,7 +75,7 @@
                                         <img src="{{ asset('/assets/img/logos/epic.png') }}" class="img-fluid" style="filter: invert(1);">
                                     </div>
                                     <div class="col">
-                                        <img src="{{ asset('/assets/img/logos/windows.png') }}" class="img-fluid" style="filter: invert(1); opacity: .25" data-toggle="tooltip" data-placement="bottom" title="Currently not available">
+                                        <img src="{{ asset('/assets/img/logos/windows.png') }}" class="img-fluid" style="filter: invert(1); opacity: .25" data-toggle="tooltip" data-placement="bottom" title="{{ __('pages.home.feature.stores.tooltip') }}">
                                         <sup class="fnote" style="position: absolute; top: 3em; margin-left: -8px"><a class="text-white opacity-5 p-1" href="#footnote-1">1</a></sup>
                                     </div>
                                 </div>
@@ -94,9 +90,9 @@
                     <div class="nitrox-card nc-3 ">
                         <div class="row pb-5">
                             <div class="col-md-6 text-white">
-                                <h6 class="pb-5">Gameplay</h6>
-                                <h1 class="font-weight-bold display-3">Your gameplay</h1>
-                                <p class="lead">Play Subnautica, from a survival play-through with your friends to a creative build session.</p>
+                                <h6 class="pb-5">{{ __('pages.home.feature.gameplay.headline') }}</h6>
+                                <h1 class="font-weight-bold display-3">{{ __('pages.home.feature.gameplay.title') }}</h1>
+                                <p class="lead">{{ __('pages.home.feature.gameplay.description') }}</p>
                             </div>
                         </div>
                     </div>
@@ -112,9 +108,9 @@
                     <div class="nitrox-card nc-4 h-100">
                         <div class="row">
                             <div class="col text-white">
-                                <h6 class="pb-5">Code base</h6>
-                                <h1 class="font-weight-bold">Open source</h1>
-                                <p class="lead">Regular support and updates from the generous contributors. Contribute and make the mod better.</p>
+                                <h6 class="pb-5">{{ __('pages.home.feature.code.headline') }}</h6>
+                                <h1 class="font-weight-bold">{{ __('pages.home.feature.code.title') }}</h1>
+                                <p class="lead">{{ __('pages.home.feature.code.description') }}</p>
                             </div>
                         </div>
                     </div>
@@ -123,15 +119,15 @@
                     <div class="nitrox-card nc-5">
                         <div class="row">
                             <div class="col text-white">
-                                <h6 class="pb-5">Community</h6>
-                                <h1 class="font-weight-bold">Player base</h1>
-                                <p class="lead">Be part of the large, growing Nitrox community. Find new servers, get help and talk to other Nitrox players.</p>
+                                <h6 class="pb-5">{{ __('pages.home.feature.community.headline') }}</h6>
+                                <h1 class="font-weight-bold">{{ __('pages.home.feature.community.title') }}</h1>
+                                <p class="lead">{{ __('pages.home.feature.community.description') }}</p>
 
-                                <h1 class="display-2 font-weight-bold pt-3">1 M</h1>
-                                <h6>Downloads</h6>
+                                <h1 class="display-2 font-weight-bold pt-3">{{ __('pages.home.feature.community.download_count') }}</h1>
+                                <h6>{{ __('pages.home.feature.community.downloads') }}</h6>
 
-                                <h1 class="display-2 font-weight-bold pt-3">27 K</h1>
-                                <h6>Discord Members</h6>
+                                <h1 class="display-2 font-weight-bold pt-3">{{ __('pages.home.feature.community.discord_count') }}</h1>
+                                <h6>{{ __('pages.home.feature.community.discord') }}</h6>
                             </div>
                         </div>
                     </div>
@@ -148,11 +144,11 @@
                     <div class="nitrox-card nc-launcher">
                         <div class="row pb-5">
                             <div class="col-md-6 text-white  platform-logos">
-                                <h6 class="pb-5">Experience</h6>
-                                <h1 class="font-weight-bold display-3 pt-2">Nitrox Launcher</h1>
-                                <p class="lead">Use the Nitrox Launcher, currently available for Windows. Featuring a well designed user interface to make playing multiplayer even easier.</p>
+                                <h6 class="pb-5">{{ __('pages.home.feature.launcher.headline') }}</h6>
+                                <h1 class="font-weight-bold display-3 pt-2">{{ __('pages.home.feature.launcher.title') }}</h1>
+                                <p class="lead">{{ __('pages.home.feature.launcher.description') }}</p>
                                 <p class="font-weight-500">
-                                    <a href="{{ route("features.launcher") }}">View work in progress concepts
+                                    <a href="{{ route("features.launcher") }}">{{ __('pages.home.feature.launcher.view') }}
                                         <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                             chevron_right
                                         </span>
@@ -172,9 +168,9 @@
                     <div class="nitrox-card nc-chat">
                         <div class="row pb-0">
                             <div class="col-md-12 text-white platform-logos">
-                                <h6 class="pb-5">Communication</h6>
-                                <h1 class="font-weight-bold display-3 pt-2">In-game messaging</h1>
-                                <p class="lead">Stay in touch with the Nitrox cross-platform compatibile built in game messaging system.</p>
+                                <h6 class="pb-5">{{ __('pages.home.feature.chat.headline') }}</h6>
+                                <h1 class="font-weight-bold display-3 pt-2">{{ __('pages.home.feature.chat.title') }}</h1>
+                                <p class="lead">{{ __('pages.home.feature.chat.description') }}</p>
                             </div>
                             <div class="col-md-12 mt-5">
                                 <img src="{{ asset('/assets/img/chat-2.png') }}" alt="Launcher Screenshot" class="img-fluid my-auto">
@@ -187,9 +183,9 @@
                     <div class="nitrox-card nc-ports h-100">
                         <div class="row pb-0">
                             <div class="col-md-12 text-white platform-logos">
-                                <h6 class="pb-5">UPNP Support</h6>
-                                <h1 class="font-weight-bold display-3 pt-2">Automatic port forwarding</h1>
-                                <p class="lead">Nitrox automatically opens the required ports making it possible to connect to your friends straight away without any need for third party VPN software.</p>
+                                <h6 class="pb-5">{{ __('pages.home.feature.upnp.headline') }}</h6>
+                                <h1 class="font-weight-bold display-3 pt-2">{{ __('pages.home.feature.upnp.title') }}</h1>
+                                <p class="lead">{{ __('pages.home.feature.upnp.description') }}</p>
                             </div>
                         </div>
                     </div>
@@ -199,10 +195,10 @@
 
             <div class="row pt-5 mt-5 mb-5">
                 <div class="col-md-10 mt-5 mb-5">
-                    <h6 class="pb-5">Community added languages</h6>
-                    <h1 class="font-weight-bold"><span class="opacity-75">Nitrox also speaks your language.</span> English, German, French, Spanish, Romanian, Finnish, Russian, Italian, Hungarian, Slovakian...</h1>
+                    <h6 class="pb-5">{{ __('pages.home.feature.lang.headline') }}</h6>
+                    <h1 class="font-weight-bold"><span class="opacity-75">{{ __('pages.home.feature.lang.title') }}</span> {{ __('pages.home.feature.lang.languages') }}</h1>
                     <p class="lead mt-3 font-weight-bold">
-                        <a href="https://github.com/SubnauticaNitrox/Nitrox" target="_blank">Contribute & add your language.</a>
+                        <a href="https://hosted.weblate.org/engage/subnauticanitrox/" target="_blank">{{ __('pages.home.feature.lang.link') }}</a>
                     </p>
                 </div>
             </div>
@@ -212,10 +208,10 @@
                     <div class="nitrox-card nc-empty h-100">
                         <div class="row pb-4">
                             <div class="col-md-12 text-white platform-logos">
-                                <h6 class="pb-5">Host</h6>
-                                <p class="lead">Easily host a large player event with support up to 100 players.</p>
-                                <h1 class="display-1 font-weight-bold pt-3 text-center">100<sup class="fnote"><a class="text-white opacity-5" href="#footnote-2">2</a></sup></h1>
-                                <h6 class="text-center">Max. Slots</h6>
+                                <h6 class="pb-5">{{ __('pages.home.feature.host.headline') }}</h6>
+                                <p class="lead">{{ __('pages.home.feature.host.description') }}</p>
+                                <h1 class="display-1 font-weight-bold pt-3 text-center">{{ __('pages.home.feature.host.number') }}<sup class="fnote"><a class="text-white opacity-5" href="#footnote-2">2</a></sup></h1>
+                                <h6 class="text-center">{{ __('pages.home.feature.host.subtitle') }}</h6>
                             </div>
                         </div>
                     </div>
@@ -225,8 +221,8 @@
                     <div class="nitrox-card nc-empty h-100">
                         <div class="row pb-4">
                             <div class="col-md-12 text-white platform-logos">
-                                <h6 class="pb-5">Play</h6>
-                                <p class="lead">Randomized starter Escape Pod, Randomized & Saved Seeds for Resources and Fauna, New Save system, Plants & Farming... and so much more.</p>
+                                <h6 class="pb-5">{{ __('pages.home.feature.play.headline') }}</h6>
+                                <p class="lead">{{ __('pages.home.feature.play.description') }}</p>
                             </div>
                         </div>
                     </div>
@@ -236,10 +232,10 @@
                     <div class="nitrox-card nc-empty h-100">
                         <div class="row pb-4">
                             <div class="col-md-12 text-white platform-logos">
-                                <h6 class="pb-5">Public Server</h6>
-                                <p class="lead">Find permanent servers to play on, in the Nitrox Discord.</p>
-                                <h1 class="display-1 font-weight-bold pt-3 text-center">24/7<sup class="fnote"><a class="text-white opacity-5" href="#footnote-3">3</a></sup></h1>
-                                <h6 class="text-center">Servers</h6>
+                                <h6 class="pb-5">{{ __('pages.home.feature.server.headline') }}</h6>
+                                <p class="lead"{{ __('pages.home.feature.server.number') }}></p>
+                                <h1 class="display-1 font-weight-bold pt-3 text-center">{{ __('pages.home.feature.server.number') }}<sup class="fnote"><a class="text-white opacity-5" href="#footnote-3">3</a></sup></h1>
+                                <h6 class="text-center">{{ __('pages.home.feature.server.subtitle') }}</h6>
                             </div>
                         </div>
                     </div>
@@ -253,19 +249,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center mb-5">
-                    <h1 class="font-weight-bold display-3">Get the mod</h1>
-                    <p class="lead pt-2">Download the Nitrox Mod for free and start playing Multiplayer!</p>
-                    <a href="{{ route('download') }}" class="btn btn-lg btn-primary btn-loading btn-rounded mt-4 mb-4 px-5 py-3" style="animation-delay: .1s;">Download</a>
-                    <p class="text-muted">Latest version&nbsp;{{ $version['version'] }}</p>
+                    <h1 class="font-weight-bold display-3">{{ __('pages.home.nextsteps.get.title') }}</h1>
+                    <p class="lead pt-2">{{ __('pages.home.nextsteps.get.description') }}</p>
+                    <a href="{{ route('download') }}" class="btn btn-lg btn-primary btn-loading btn-rounded mt-4 mb-4 px-5 py-3" style="animation-delay: .1s;">{{ __('pages.home.nextsteps.get.download') }}</a>
+                    <p class="text-muted">{{ __('pages.home.nextsteps.get.latest_version') }}&nbsp;{{ $version['version'] }}</p>
                 </div>
             </div>
 
             <div class="row">
                 <div class="col">
                     <div class="col-md-12 sm-cover-faq p-5 mt-3 rounded text-left">
-                        <h6 class="pb-5">Getting Started</h6>
-                        <h2 class="font-weight-bold pt-5">Read the install guide and FAQ's</h2>
-                        <a href="{{ route('wiki.home') }}" class="btn btn-lg btn-outline mt-4 mb-4">Visit Guides</a>
+                        <h6 class="pb-5">{{ __('pages.home.nextsteps.wiki.title') }}</h6>
+                        <h2 class="font-weight-bold pt-5">{{ __('pages.home.nextsteps.wiki.description') }}</h2>
+                        <a href="{{ route('wiki.home') }}" class="btn btn-lg btn-outline mt-4 mb-4">{{ __('pages.home.nextsteps.wiki.link') }}</a>
                     </div>
                 </div>
             </div>

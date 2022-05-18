@@ -1,9 +1,19 @@
 /*!
  * Nitrox Website Theme - https://nitrox.rux.gg
- * Version - 2.0.0
+ * Version - 2.0.1
  *
- * Copyright (c) 2021 Andreas Palmer
+ * Copyright (c) 2022 Keebfox
+ * https://github.com/SubnauticaNitrox/NitroxWebsite
  */
+
+.border.active {
+    border: 1px solid black !important;
+}
+
+.hover-bg:hover {
+    background: rgba(0, 0, 0, 0.05) !important;
+}
+
 @media (max-width: 768px) {
     .display-3 {
         font-size: 3rem
@@ -21,7 +31,7 @@
     text-transform: uppercase;
 }
 
-h1, h2, h3, h4, h5, h6, .about-intro span, {
+h1, h2, h3, h4, h5, h6, .about-intro span {
     font-family: 'Inter', sans-serif;
 }
 
@@ -62,6 +72,10 @@ h1 .fnote {
 
 .rounded-xl {
     border-radius: 1rem;
+}
+
+.rounded-8 {
+    border-radius: 8px;
 }
 
 .badge-outline {
