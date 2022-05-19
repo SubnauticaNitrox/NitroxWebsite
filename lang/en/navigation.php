@@ -1,6 +1,15 @@
 <?php
 
 return [
+    /*
+    |--------------------------------------------------------------------------
+    | Navigation Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | Translations for the primary navigation bar, visible on all pages.
+    |
+    */
+
     'home' => 'Home',
     'guides' => 'Guides',
     'about' => 'About',

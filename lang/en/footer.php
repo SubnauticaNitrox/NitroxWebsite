@@ -1,6 +1,15 @@
 <?php
 
 return [
+    /*
+    |--------------------------------------------------------------------------
+    | Footer Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | Translations for both the extended footer and regular footer.
+    |
+    */
+
     'footer-extended' => [
         'community_title' => 'Community',
         'community_description' => 'Connect & chat with other Nitrox players',

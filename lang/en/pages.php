@@ -1,6 +1,15 @@
 <?php
 
 return [
+    /*
+    |--------------------------------------------------------------------------
+    | Page Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | Main translations for the primary pages on the site
+    |
+    */
+
     'home' => [
         'meta' => [
             'title' => 'Nitrox for Subnautica · Subnautica Multiplayer Mod',
@@ -173,6 +182,86 @@ return [
         'download' => 'Download',
         'version' => 'Latest version:',
     ],
+    'os' => [
+        'meta' => [
+            'title' => 'Open Source Nitrox · Features',
+            'description' => 'Open source code is at the heart of the Nitrox mod. From the community that built it up to the support maintaining it.'
+        ],
+        'title' => 'Powered by<br>open source.',
+        'hero' => 'Open source is at the core of Nitrox. <span class="opacity-5">The mod is in the very early stages of development; however, a solid foundation has been laid for the community to iterate on.</span>',
+        'license' => 'GNU General Public License v3.0',
+        'license_info' => 'SubnauticaNitrox/Nitrox is licensed under the GNU General Public License v3.0',
+        'license_link' => 'Learn more',
+        'dev_resources' => 'Dev resources',
+        'dev_resources_info' => 'Read our getting started and code contributing guideline on GitHub.',
+        'dev_resources_code' => 'Code wiki',
+        'dev_resources_contribute' => 'Contributing',
+        'join' => 'Do you want to be part of the team?',
+        'join_info' => 'Here are ways you can contribute.',
+    ],
+    'resources' => [
+        'meta' => [
+            'title' => 'Official Nitrox Resources · Logo, typography, images',
+            'description' => 'Download the official Nitrox Mod resources including the logo, fonts, images and more.'
+        ],
+        'title' => 'Nitrox <span class="opacity-5">Resources</span>',
+        'fonts' => 'Fonts',
+        'images' => 'Images',
+        'images_info' => 'Nitrox Multiplayer screenshots. <span class="opacity-5">Use these to share the multiplayer experience of Subnautica.<br> Want to add your own? Share them on the Discord server or tweet us.</span>',
+    ],
+    'server' => [
+        'meta' => [
+            'title' => 'Nitrox Server · Features',
+            'description' => 'Nitrox features a powerful multiplayer server, all while being extremely lightweight and resource efficient.'
+        ],
+        'title' => 'Nitrox Server <br>Lightweight & powerful.',
+        'features' => 'Nitrox servers <span class="opacity-5">are powerful, yet easy to host. With optimised code written for Subnautica. It runs exteremly lightweight and requires hardly any resources, for the best game performance.</span>',
+        'cards' => [
+            'host' => 'Host',
+            'host_info' => 'Easily host a large player event with support up to 100 players.',
+            'host_slots' => 'Max. Slots',
+            'host_footnote' => 'Max. 100 server players, recommened player count 5.',
+            'connect' => 'Connect',
+            'connect_info' => 'Automatic portforwading through use of UPNP for fast setup.',
+            'connect_subtitle' => 'Technology',
+            'play' => 'Play',
+            'play_info' => 'Host or find permanent servers to play on, in the Nitrox community.',
+            'play_subtitle' => 'Servers',
+            'play_footnote' => 'Public servers are not hosted by Nitrox and 100% uptime not ensured. Third party servers are not moderated by the Nitrox team.'
+        ],
+        'features_included' => 'What\'s included?',
+        'feature_list' => '
+            <p class="lead">Nitrox server includes everything you need to start, host and play Subnautica in multiplayer mode.</p>
+            <ul class="lead">
+                <li>Server console</li>
+                <li>Built in chat system</li>
+                <li>Configurable server port</li>
+                <li>Max. 100 connected players</li>
+                <li>Automatic save function</li>
+                <li>Configurable game mode setting</li>
+                <li>Public server mode</li>
+                <li>Private password protected server</li>
+            </ul>
+        ',
+    ],
+    'launcher' => [
+        'meta' => [
+            'title' => 'Nitrox Launcher · Features',
+            'description' => 'The Nitrox Launcher is your entry to the multiplayer subnautica experience.',
+        ],
+        'hero' => 'All in one<br>multiplayer.',
+        'coming_soon' => 'Coming soon',
+        'launcher' => 'Nitrox Launcher.',
+        'preview' => 'Preview the new Nitrox Launcher. <span class="opacity-5">Your entry to the multiplayer experience. Carefully designed to be easy to use. Coming soon.</span>',
+        'redesigned' => 'Redesigned from the ground up. <span class="opacity-5">With a focus on providing helpful information. Fast access to multiplayer. Detailed diagnostics. Everything you need to host a server.</span>',
+        'hub' => 'Your hub for everything Nitrox.',
+        'hub_info' => 'With the redesigned launcher you can easily stay up-to-date with everything Nitrox related. Be first to get the latest versions, detailed information to enhance your server experience and a community tab with access to 24/7 community-hosted servers.',
+        'settings' => 'Smart settings',
+        'settings_info' => 'Bought multiple copies of Subnautica? No problem. The Nitrox Launcher can automatically detect all your Subnautica game installations, allowing you to quickly choose between different store versions. Simplifying the setup and removing the need to manually specify a path.',
+        'server' => 'Server',
+        'server_info' => 'Nitrox Server is integrated into the launcher. This allows for a quick setup of your very own multiplayer instance. Thanks to UPNP Nitrox automatically takes care of port forwarding. The server is lightweight and easy to run without using lots of system resources.',
+        'server_more' => 'Learn more'
+    ],
     'team' => [
         'meta' => [
             'title' => 'Team Nitrox · Subnautica Multiplayer Mod',
@@ -181,5 +270,15 @@ return [
         'title' => 'Nitrox is built by a passionate team of open source contributors.',
         'join' => 'Wanna join the team?',
         'join_description' => 'You too can be a contributor for this mod. You can develop for Nitrox or join the support team! Simply apply in the discord server or subreddit page',
+    ],
+    'changelog' => [
+        'meta' => [
+            'title' => 'Changelog · Subnautica Multiplayer Mod',
+            'description' => 'View the latest changelog and version history for the Nitrox Mod releases.',
+        ],
+        'title' => 'Changelog',
+        'subtitle' => 'View the latest changelog and version history for the Nitrox Mod releases.',
+        'latest_version' => 'Latest version:',
+        'download' => 'Download',
     ],
 ];

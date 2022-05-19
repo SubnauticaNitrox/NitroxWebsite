@@ -1,8 +1,8 @@
-@section('title', 'Open Source Nitrox · Features')
-@section('description', 'Open source code is at the heart of the Nitrox mod. From the community that built it up to the support maintaining it.')
+@section('title', __('pages.os.meta.title'))
+@section('description', __('pages.os.meta.description'))
 
-@section('og:title', 'Open Source Nitrox · Features')
-@section('og:description', 'Open source code is at the heart of the Nitrox mod. From the community that built it up to the support maintaining it.')
+@section('og:title', __('pages.os.meta.title'))
+@section('og:description', __('pages.os.meta.description'))
 @section('og:image', asset('/assets/img/favicon.png'))
 
 <x-layouts.default>
@@ -16,7 +16,7 @@
                         <div class="mt-md-5 pt-md-5"></div>
                     </div>
 
-                    <h1 class="font-weight-bold display-3">Powered by<br>open source.</h1>
+                    <h1 class="font-weight-bold display-3">{!! __('pages.os.title') !!}</h1>
                     <div class="mt-5 pt-5"></div>
                 </div>
             </div>
@@ -31,8 +31,7 @@
                     <div class="mt-5 pt-5"></div>
 
                     <h3 class="font-weight-bold">
-                        Open source is at the core of Nitrox.
-                        <span class="opacity-5">The mod is in the very early stages of development; however, a solid foundation has been laid for the community to iterate on.</span>
+                        {!! __('pages.os.hero') !!}
                     </h3>
 
                     <div class="mt-5"></div>
@@ -43,9 +42,9 @@
                             <span class="material-icons text-primary" style="font-size: 2rem;">source</span>
                         </div>
                         <div class="ml-4">
-                            <h4 class="font-weight-bold">GNU General Public License v3.0</h4>
-                            <p class="mb-1">SubnauticaNitrox/Nitrox is licensed under the GNU General Public License v3.0.</p>
-                            <a href="https://github.com/SubnauticaNitrox/Nitrox/blob/master/LICENSE.txt" target="_blank">Learn more
+                            <h4 class="font-weight-bold">{{ __('pages.os.license') }}</h4>
+                            <p class="mb-1">{{ __('pages.os.license_info') }}</p>
+                            <a href="https://github.com/SubnauticaNitrox/Nitrox/blob/master/LICENSE.txt" target="_blank">{{ __('pages.os.license_link') }}
                                 <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                     chevron_right
                                 </span>
@@ -58,14 +57,14 @@
                             <span class="material-icons text-success" style="font-size: 2rem;">code</span>
                         </div>
                         <div class="ml-4">
-                            <h4 class="font-weight-bold">Dev resources</h4>
-                            <p class="mb-1">Read our getting started and code contributing guideline on GitHub. </p>
-                            <a href="https://github.com/SubnauticaNitrox/Nitrox/wiki" target="_blank" class="mr-4 pr-2">Code wiki
+                            <h4 class="font-weight-bold">{{ __('pages.os.dev_resources') }}</h4>
+                            <p class="mb-1">{{ __('pages.os.dev_resources_info') }}</p>
+                            <a href="https://github.com/SubnauticaNitrox/Nitrox/wiki" target="_blank" class="mr-4 pr-2">{{ __('pages.os.dev_resources_code') }}
                                 <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                     chevron_right
                                 </span>
                             </a>
-                            <a href="https://github.com/SubnauticaNitrox/Nitrox/blob/master/CONTRIBUTING.md" target="_blank">Contributing
+                            <a href="https://github.com/SubnauticaNitrox/Nitrox/blob/master/CONTRIBUTING.md" target="_blank">{{ __('pages.os.dev_resources_contribute') }}
                                 <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                     chevron_right
                                 </span>
@@ -87,8 +86,8 @@
                     <div class="mt-5 pt-5"></div>
 
                     <h1 class="font-weight-bold">
-                        Do you want to be part of the team?<br>
-                        <span class="opacity-5">Here are ways you can contribute.</span>
+                        {{ __('pages.os.join') }}<br>
+                        <span class="opacity-5">{{ __('pages.os.join_info') }}</span>
                     </h1>
                     <div class="mt-5"></div>
 
