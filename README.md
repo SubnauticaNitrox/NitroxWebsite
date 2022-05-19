@@ -16,6 +16,10 @@ The website is written with the following frameworks
 - [Laravel](https://laravel.com/)
 - [Bootstrap](https://getbootstrap.com/)
 
+## Translations
+To make the website more accessible we have added a translation feature. If you would like to contribute by translating the Nitrox website into another language, please add your translations to the Weblate project.
+- [Weblate translations](https://hosted.weblate.org/engage/subnauticanitrox/)
+
 ## Installing
 
 - Clone the project
@@ -35,7 +39,7 @@ Or if you have a webserver such as <a href="https://laravel.com/docs/9.x/valet">
 - [Composer](https://getcomposer.org/)
 
 ## Encountered a bug?
-Please open a new issue with a detailed description of the bug you encountered and provide the url, browser and steps to reproduce the issue. If you have a screenshot that is also helpful.
+Please open a [new issue](https://github.com/SubnauticaNitrox/NitroxWebsite/issues/new) with a detailed description of the bug you encountered and provide the url, browser and steps to reproduce the issue. If you have a screenshot that is also helpful.
 
 ## Need help?
 If you need any help please contact the Nitrox team using the following method:
