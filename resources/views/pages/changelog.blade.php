@@ -1,5 +1,5 @@
 @section('title', 'Changelog · Subnautica Multiplayer Mod')
-@section('description', 'View the latest changelog and version history for the Nitrox Mod releases.')
+@section('description', '')
 
 @section('og:title', 'Changelog · Subnautica Multiplayer Mod')
 @section('og:description', 'View the latest changelog and version history for the Nitrox Mod releases.')
@@ -12,9 +12,9 @@
         <div class="container">
             <div class="row d-flex justify-content-center">
                 <div class="col-md-8 text-center">
-                    <h1 class="mt-5 font-weight-bold" data-toc-skip>Changelog</h1>
-                    <p class="lead mt-4">View the latest changelog and version history for the Nitrox Mod releases.</p>
-                    <p class="opacity-75 mb-0">Latest version: <a href="{{ route('download') }}">Download</a></p>
+                    <h1 class="mt-5 font-weight-bold" data-toc-skip>{{ __('pages.changelog.title') }}</h1>
+                    <p class="lead mt-4">{{ __('pages.changelog.subtitle') }}</p>
+                    <p class="opacity-75 mb-0">{{ __('pages.changelog.latest_version') }} <a href="{{ route('download') }}">{{ __('pages.changelog.download') }}</a></p>
                 </div>
             </div>
         </div>
@@ -56,9 +56,9 @@
                 <div class="col-md-8">
                     <div class="card" style="border: none">
                         <div class="card-body text-center">
-                            <h4 class="card-title" data-toc-skip>Want to join the team?</h4>
+                            <h4 class="card-title" data-toc-skip>{{ __('pages.team.join') }}</h4>
                             <p class="card-text">
-                                You too can be a contributor for this mod. You can develop for Nitrox or join the support team! Simply apply in the discord server or subreddit page
+                                {{ __('pages.team.join_description') }}
                             </p>
                             <a href="https://discord.gg/E8B4X9s" class="card-link">Discord</a>
                             <a href="https://www.reddit.com/r/SubnauticaNitrox/" class="card-link">Reddit</a>

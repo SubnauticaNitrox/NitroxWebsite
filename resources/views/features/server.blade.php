@@ -1,8 +1,8 @@
-@section('title', 'Nitrox Server · Features')
-@section('description', 'Nitrox features a powerful multiplayer server, all while being extremely lightweight and resource efficient.')
+@section('title', __('pages.server.meta.title'))
+@section('description', __('pages.server.meta.description'))
 
-@section('og:title', 'Nitrox Server · Features')
-@section('og:description', 'Nitrox features a powerful multiplayer server, all while being extremely lightweight and resource efficient.')
+@section('og:title', __('pages.server.meta.title'))
+@section('og:description', __('pages.server.meta.description'))
 @section('og:image', asset('/assets/img/favicon.png'))
 
 <x-layouts.default>
@@ -15,13 +15,14 @@
                     <div class="mt-mb-5 pt-md-5">
 
                     </div>
-                    <h1 class="display-4 font-weight-bold pt-5 mt-5">Nitrox Server <br>Lightweight & powerful.</h1>
+                    <h1 class="display-4 font-weight-bold pt-5 mt-5">{!! __('pages.server.title') !!}</h1>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-10">
                     <h3 class="font-weight-bold">
-                        Nitrox servers <span class="opacity-5">are powerful, yet easy to host. With optimised code written for Subnautica. It runs exteremly lightweight and requires hardly any resources, for the best game performance.</span></h3>
+                        {!! __('pages.server.features') !!}
+                    </h3>
                 </div>
             </div>
             <div class="row py-5">
@@ -29,10 +30,10 @@
                     <div class="nitrox-card nc-empty h-100">
                         <div class="row pb-4">
                             <div class="col-md-12 text-white platform-logos">
-                                <h6 class="pb-5">Host</h6>
-                                <p class="lead">Easily host a large player event with support up to 100 players.</p>
+                                <h6 class="pb-5">{{ __('pages.server.cards.host') }}</h6>
+                                <p class="lead">{{ __('pages.server.cards.host_info') }}</p>
                                 <h1 class="display-1 font-weight-bold pt-3 text-center">100<sup class="fnote"><a class="text-white opacity-5" href="#footnote-1">1</a></sup></h1>
-                                <h6 class="text-center">Max. Slots</h6>
+                                <h6 class="text-center">{{ __('pages.server.cards.host_slots') }}</h6>
                             </div>
                         </div>
                     </div>
@@ -42,10 +43,10 @@
                     <div class="nitrox-card nc-empty h-100">
                         <div class="row pb-4">
                             <div class="col-md-12 text-white platform-logos">
-                                <h6 class="pb-5">Connect</h6>
-                                <p class="lead">Automatic portforwading through use of UPNP for fast setup.</p>
+                                <h6 class="pb-5">{{ __('pages.server.cards.connect') }}</h6>
+                                <p class="lead">{{ __('pages.server.cards.connect_info') }}</p>
                                 <h1 class="display-1 font-weight-bold pt-3 text-center">UPNP</h1>
-                                <h6 class="text-center">Technology</h6>
+                                <h6 class="text-center">{{ __('pages.server.cards.connect_subtitle') }}</h6>
                             </div>
                         </div>
                     </div>
@@ -55,10 +56,10 @@
                     <div class="nitrox-card nc-empty h-100">
                         <div class="row pb-4">
                             <div class="col-md-12 text-white platform-logos">
-                                <h6 class="pb-5">Play</h6>
-                                <p class="lead">Host or find permanent servers to play on, in the Nitrox community.</p>
+                                <h6 class="pb-5">{{ __('pages.server.cards.play') }}</h6>
+                                <p class="lead">{{ __('pages.server.cards.play_info') }}</p>
                                 <h1 class="display-1 font-weight-bold pt-3 text-center">24/7<sup class="fnote"><a class="text-white opacity-5" href="#footnote-2">2</a></sup></h1>
-                                <h6 class="text-center">Servers</h6>
+                                <h6 class="text-center">{{ __('pages.server.cards.play_subtitle') }}</h6>
                             </div>
                         </div>
                     </div>
@@ -68,18 +69,8 @@
 
             <div class="row pb-5">
                 <div class="col-md-12">
-                    <h1 class="font-weight-bold">What's included?</h1>
-                    <p class="lead">Nitrox server includes everything you need to start, host and play Subnautica in multiplayer mode.</p>
-                    <ul class="lead">
-                        <li>Server console</li>
-                        <li>Built in chat system</li>
-                        <li>Configurable server port</li>
-                        <li>Max. 100 connected players</li>
-                        <li>Automatic save function</li>
-                        <li>Configurable game mode setting</li>
-                        <li>Public server mode</li>
-                        <li>Private password protected server</li>
-                    </ul>
+                    <h1 class="font-weight-bold">{{ __('pages.server.features_included') }}</h1>
+                    {!! __('pages.server.feature_list') !!}
                 </div>
             </div>
 
@@ -91,8 +82,8 @@
             <div class="row d-flex">
                 <div class="col-12 mt-5 mb-4">
                     <ol class="small opacity-5 pl-3">
-                        <li id="footnote-1">Max. 100 server players, recommened player count 5.</li>
-                        <li id="footnote-2">Public servers are not hosted by Nitrox and 100% uptime not ensured. Third party servers are not moderated by the Nitrox team.</li>
+                        <li id="footnote-1">{{ __('pages.server.cards.host_footnote') }}</li>
+                        <li id="footnote-2">{{ __('pages.server.cards.play_footnote') }}</li>
                     </ol>
                 </div>
 

@@ -1,8 +1,8 @@
-@section('title', 'Nitrox Community · Subnautica Multiplayer Mod')
-@section('description', 'Be part of the large, growing Nitrox community. Find new servers, get help and talk to other Nitrox players.')
+@section('title', __('pages.community.meta.title'))
+@section('description', __('pages.community.meta.description'))
 
-@section('og:title', 'Nitrox Community · Subnautica Multiplayer Mod')
-@section('og:description', 'Be part of the large, growing Nitrox community. Find new servers, get help and talk to other Nitrox players.')
+@section('og:title', __('pages.community.meta.title'))
+@section('og:description',  __('pages.community.meta.description'))
 @section('og:image', asset('/assets/img/favicon.png'))
 
 <x-layouts.default>
@@ -10,9 +10,9 @@
 <div class="section home-cover bg-black cover coverHome overflow-hidden">
     <div class="container pb-5">
         <div class="row">
-            <div class="col-md-8 offset-md-2 text-center mt-5 mb-5">
-                <h1 class="font-weight-bold">Nitrox community</h1>
-                <p class="font-weight-500">Join the large Nitrox community <br>with players from around the world.</p>
+            <div class="col-md-6 offset-md-3 text-center mt-5 mb-5">
+                <h1 class="font-weight-bold">{{ __('pages.community.title') }}</h1>
+                <p class="font-weight-500">{{ __('pages.community.subtitle') }}</p>
             </div>
        </div>
     </div>
@@ -32,9 +32,9 @@
                             </div>
 
                             <h2 class="font-weight-bold mt-4">Discord</h2>
-                            <p>Join our active Discord server to find servers to play on, get help from the support team and much more.</p>
+                            <p>{{ __('pages.community.discord') }}</p>
                             <p class="font-weight-500">
-                                <a href="https://discord.gg/E8B4X9s" target="_blank">Join Discord
+                                <a href="https://discord.gg/E8B4X9s" target="_blank">{{ __('pages.community.discord_join') }}
                                     <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                         chevron_right
                                     </span>
@@ -55,9 +55,9 @@
                             </div>
 
                             <h2 class="font-weight-bold mt-4">Twitter</h2>
-                            <p>Follow the Nitrox Twitter account to always be up to date on latest developments, events, and releases.</p>
+                            <p>{{ __('pages.community.twitter') }}</p>
                             <p class="font-weight-500">
-                                <a href="https://twitter.com/modnitrox" target="_blank">Follow on Twitter
+                                <a href="https://twitter.com/modnitrox" target="_blank">{{ __('pages.community.twitter_follow') }}
                                     <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                         chevron_right
                                     </span>
@@ -78,9 +78,9 @@
                             </div>
 
                             <h2 class="font-weight-bold mt-4">Reddit</h2>
-                            <p>Join the Nitrox Subreddit to stay informed about latest releases and post community content.</p>
+                            <p>{{ __('pages.community.reddit') }}</p>
                             <p class="font-weight-500">
-                                <a href="https://www.reddit.com/r/SubnauticaNitrox/" target="_blank">Join Subreddit
+                                <a href="https://www.reddit.com/r/SubnauticaNitrox/" target="_blank">{{ __('pages.community.reddit_join') }}
                                     <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                         chevron_right
                                     </span>
@@ -101,9 +101,9 @@
                             </div>
 
                             <h2 class="font-weight-bold mt-4">GitHub</h2>
-                            <p>Want to be part of the team? Contribute from code to translations to the Nitrox project on GitHub.</p>
+                            <p>{{ __('pages.community.github') }}</p>
                             <p class="font-weight-500">
-                                <a href="https://github.com/SubnauticaNitrox/Nitrox" target="_blank">Contribute on GitHub
+                                <a href="https://github.com/SubnauticaNitrox/Nitrox" target="_blank">{{ __('pages.community.github_link') }}
                                     <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                         chevron_right
                                     </span>
