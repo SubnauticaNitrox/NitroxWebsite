@@ -34,6 +34,16 @@ Or if you have a webserver such as <a href="https://laravel.com/docs/9.x/valet">
 - php ^8.0.2
 - [Composer](https://getcomposer.org/)
 
+## Encountered a bug?
+Please open a new issue with a detailed description of the bug you encountered and provide the url, browser and steps to reproduce the issue. If you have a screenshot that is also helpful.
+
+## Need help?
+If you need any help please contact the Nitrox team using the following method:
+- [Discord](https://discord.gg/E8B4X9s)
+
+## Supported by
+- [JetBrains software](https://jb.gg/OpenSourceSupport)
+
 ## License
 
 The project is open-sourced software licensed under the [GNU General Public License v3.0](https://github.com/SubnauticaNitrox/NitroxWebsite/blob/master/LICENSE).
