@@ -78,46 +78,49 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-12 mt-2">
-                    <div class="border-bottom mb-4 mt-4" style="opacity: .25;"></div>
-                    <div class="d-flex flex-row">
-                        <small class="d-block mt-3 mb-3 text-white">© 2022 Nitrox&nbsp;&#183;&nbsp;</small>
-
-                        <small class="d-block mt-3 mb-3">
-                            <a class="text-white opacity-5" href="https://github.com/keyboardfox" target="_blank">Design + Code by Rux</a>
-                        </small>
-                        <ul class="nav ml-auto">
-                            <li class="nav-item">
-                                <a class="nav-link p-2 mr-2 link-bg ripple text-center" style="width: 42px" href="https://discord.gg/E8B4X9s" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Discord" data-offset="0, 5, 0, 0">
-                                    <img width="24px" src="{{ asset('/assets/img/Discord.svg') }}" alt="Discord Logo">
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link p-2 mr-2 link-bg ripple text-center" style="width: 42px" href="https://twitter.com/modnitrox" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Twitter" data-offset="0, 5, 0, 0">
-                                    <img width="24px" src="{{ asset('/assets/img/Twitter.svg') }}" alt="Twitter">
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link p-2 mr-2 link-bg ripple text-center" style="width: 42px" href="https://www.reddit.com/r/SubnauticaNitrox/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Reddit" data-offset="0, 5, 0, 0">
-                                    <img width="24px" src="{{ asset('/assets/img/Reddit.svg') }}" alt="Reddit">
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link p-2 mr-2 link-bg ripple text-center" style="width: 42px" href="https://github.com/SubnauticaNitrox/Nitrox" target="_blank" data-toggle="tooltip" data-placement="bottom" title="GitHub" data-offset="0, 5, 0, 0">
-                                    <img width="24px" src="{{ asset('/assets/img/github.svg') }}" alt="GitHub">
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link p-2 mr-2 link-bg text-center d-flex" data-toggle="modal" data-target="#translationSelectModal">
-                                    <div style="cursor: pointer; margin: 1px 0" class="d-flex">
-                                        <span class="material-icons">language</span>
-                                        <span class="d-inline text-uppercase ml-2">{{ str_replace('_', '-', app()->getLocale()) }}</span>
-                                    </div>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
+                <div class="col-12"><div class="border-bottom mb-4 mt-4" style="opacity: .25;"></div></div>
+                <div class="col-md-6 col-12">
+                    <a class="d-inline-block text-decoration-none mb-3 mr-2" target="_blank" href="https://hosted.weblate.org/engage/subnauticanitrox/">
+                        <img src="https://hosted.weblate.org/widgets/subnauticanitrox/-/website/svg-badge.svg" alt="Translation status" />
+                    </a>
+                    <small class="d-inline-block mt-3 mb-3 text-white">© 2022 Nitrox &#183</small>
+                    <small class="d-inline-block mt-3 mb-3">
+                        <a class="text-white opacity-5" href="https://github.com/keyboardfox" target="_blank">Design + Code by Rux</a>
+                    </small>
                 </div>
+                <div class="col-md-6 col-12">
+                    <ul class="nav">
+                        <li class="nav-item ml-md-auto">
+                            <a class="nav-link p-2 mr-2 link-bg ripple text-center" style="width: 42px" href="https://discord.gg/E8B4X9s" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Discord" data-offset="0, 5, 0, 0">
+                                <img width="24px" src="{{ asset('/assets/img/Discord.svg') }}" alt="Discord Logo">
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link p-2 mr-2 link-bg ripple text-center" style="width: 42px" href="https://twitter.com/modnitrox" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Twitter" data-offset="0, 5, 0, 0">
+                                <img width="24px" src="{{ asset('/assets/img/Twitter.svg') }}" alt="Twitter">
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link p-2 mr-2 link-bg ripple text-center" style="width: 42px" href="https://www.reddit.com/r/SubnauticaNitrox/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Reddit" data-offset="0, 5, 0, 0">
+                                <img width="24px" src="{{ asset('/assets/img/Reddit.svg') }}" alt="Reddit">
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link p-2 mr-2 link-bg ripple text-center" style="width: 42px" href="https://github.com/SubnauticaNitrox/Nitrox" target="_blank" data-toggle="tooltip" data-placement="bottom" title="GitHub" data-offset="0, 5, 0, 0">
+                                <img width="24px" src="{{ asset('/assets/img/github.svg') }}" alt="GitHub">
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link p-2 mr-2 link-bg text-center d-flex" data-toggle="modal" data-target="#translationSelectModal">
+                                <div style="cursor: pointer; margin: 1px 0" class="d-flex">
+                                    <span class="material-icons">language</span>
+                                    <span class="d-inline text-uppercase ml-2">{{ str_replace('_', '-', app()->getLocale()) }}</span>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
             </div>
         </footer>
     </div>

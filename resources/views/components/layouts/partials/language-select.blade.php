@@ -29,7 +29,7 @@
                         @endif
                     @endforeach
                     <a class="col text-decoration-none mb-3 px-2" target="_blank" href="https://hosted.weblate.org/engage/subnauticanitrox/">
-                        <img src="https://hosted.weblate.org/widgets/subnauticanitrox/-/svg-badge.svg" alt="Translation status" />
+                        <img src="https://hosted.weblate.org/widgets/subnauticanitrox/-/website/svg-badge.svg" alt="Translation status" />
                     </a>
                 </div>
             </div>
