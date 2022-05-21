@@ -12,9 +12,11 @@
                 </div>
             </button>
             <ul class="navbar-nav d-flex d-lg-none">
-                <a class="nav-link d-flex p-1 ml-2 ml-lg-3" data-toggle="modal" data-target="#translationSelectModal">
-                    <span class="material-icons" style="cursor: pointer">language</span>
-                </a>
+                <span data-toggle="tooltip" data-placement="bottom" title="{{ __('lang-select.title') }}">
+                    <a class="nav-link d-flex p-1 ml-2 ml-lg-3" data-toggle="modal" data-target="#translationSelectModal" >
+                        <span class="material-icons" style="cursor: pointer">language</span>
+                    </a>
+                </span>
             </ul>
         </div>
         <div class="collapse navbar-collapse" id="navbarText">
@@ -46,8 +48,8 @@
                 <li class="nav-item">
                     <a href="{{ route('download') }}" class="btn btn-sm {{ Route::current()->getName() !== 'download' ? 'btn-primary' : 'btn-light' }} btn-rounded px-3 font-weight-500">Download</a>
                 </li>
-                <a class="nav-link d-flex p-1 ml-2 ml-lg-3" data-toggle="modal" data-target="#translationSelectModal">
-                    <span class="material-icons" style="cursor: pointer">language</span>
+                <a class="nav-link p-1 ml-2 ml-lg-3 d-none d-lg-flex" data-toggle="modal" data-target="#translationSelectModal">
+                    <span class="material-icons" style="cursor: pointer" data-toggle="tooltip" data-placement="bottom" title="{{ __('lang-select.title') }}">language</span>
                 </a>
             </ul>
             <ul class="navbar-nav d-none flex-row">
