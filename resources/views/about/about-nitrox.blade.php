@@ -1,8 +1,8 @@
-@section('title', __('pages.about.meta.title'))
-@section('description', __('pages.about.meta.description'))
+@section('title', __('about.meta.title'))
+@section('description', __('about.meta.description'))
 
-@section('og:title', __('pages.about.meta.title'))
-@section('og:description', __('pages.about.meta.description'))
+@section('og:title', __('about.meta.title'))
+@section('og:description', __('about.meta.description'))
 @section('og:image', asset('/assets/img/favicon.png'))
 
 <x-layouts.default>
@@ -13,10 +13,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 text-left">
-                    <h1 class="mt-5 display-4 font-weight-bold">{{ __('pages.about.title') }}</h1>
+                    <h1 class="mt-5 display-4 font-weight-bold">{{ __('about.title') }}</h1>
 
                     <div class="credits opacity-75 d-flex pt-5">
-                        <p class="mr-3">{{ __('pages.about.quote') }}</p>
+                        <p class="mr-3">{{ __('about.quote') }}</p>
                         <svg width="162px" height="24px" viewBox="0 0 162 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
                             <title>PCGN_NavLogo</title>
@@ -63,16 +63,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="mb-5 font-weight-bold">{{ __('pages.about.why') }}</h1>
+                    <h1 class="mb-5 font-weight-bold">{{ __('about.why') }}</h1>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <p class="lead" style="font-weight: 500">{!! __('pages.about.multiplayer') !!}</p>
+                    <p class="lead" style="font-weight: 500">{!! __('about.multiplayer') !!}</p>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <p class="lead" style="font-weight: 500">{!! __('pages.about.opensource') !!}</p>
+                    <p class="lead" style="font-weight: 500">{!! __('about.opensource') !!}</p>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <p class="lead" style="font-weight: 500">{!!  __('pages.about.servers') !!}</p>
+                    <p class="lead" style="font-weight: 500">{!!  __('about.servers') !!}</p>
                 </div>
             </div>
 
@@ -83,19 +83,19 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="mb-5 mt-4 font-weight-bold">{{ __('pages.about.metrics') }}</h1>
+                    <h1 class="mb-5 mt-4 font-weight-bold">{{ __('about.metrics') }}</h1>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <h1 class="font-weight-bold">{{ __('pages.about.download_count') }}</h1>
-                    <h6>{{ __('pages.about.downloads') }}</h6>
+                    <h1 class="font-weight-bold">{{ __('about.download_count') }}</h1>
+                    <h6>{{ __('about.downloads') }}</h6>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <h1 class="font-weight-bold">{{ __('pages.about.user_count') }}</h1>
-                    <h6>{{ __('pages.about.users') }}</h6>
+                    <h1 class="font-weight-bold">{{ __('about.user_count') }}</h1>
+                    <h6>{{ __('about.users') }}</h6>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <h1 class="font-weight-bold">{{ __('pages.about.discord_members') }}</h1>
-                    <h6>{{ __('pages.about.discord') }}</h6>
+                    <h1 class="font-weight-bold">{{ __('about.discord_members') }}</h1>
+                    <h6>{{ __('about.discord') }}</h6>
                 </div>
             </div>
 
@@ -180,11 +180,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 offset-md-2 text-center mb-5">
-                    <span class="badge badge-primary mb-3">{{ __('pages.about.download_title') }}</span>
-                    <h1>{{ __('pages.about.download_header') }}</h1>
-                    <p class="lead pt-2">{{ __('pages.about.download_description') }}</p>
+                    <span class="badge badge-primary mb-3">{{ __('about.download_title') }}</span>
+                    <h1>{{ __('about.download_header') }}</h1>
+                    <p class="lead pt-2">{{ __('about.download_description') }}</p>
                     <a href="{{ route('download') }}" class="btn ripple btn-lg btn-primary btn-rounded mt-3 mb-4"  style="animation-delay: .1s;">Download</a>
-                    <p class="text-muted">{{ __('pages.about.version') }}{{ $version['version'] }}</p>
+                    <p class="text-muted">{{ __('about.version') }}{{ $version['version'] }}</p>
                 </div>
             </div>
         </div>

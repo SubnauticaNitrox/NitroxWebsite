@@ -1,8 +1,8 @@
-@section('title', __('pages.launcher.meta.title'))
-@section('description', __('pages.launcher.meta.description'))
+@section('title', __('launcher.meta.title'))
+@section('description', __('launcher.meta.description'))
 
-@section('og:title', __('pages.launcher.meta.title'))
-@section('og:description', __('pages.launcher.meta.description'))
+@section('og:title', __('launcher.meta.title'))
+@section('og:description', __('launcher.meta.description'))
 @section('og:image', asset('/assets/img/favicon.png'))
 
 <x-layouts.default>
@@ -13,7 +13,7 @@
             <svg class="float-anim text-fade-out" id="launcher-scroll-arrow" style="position: absolute;bottom: 26px;left: 50%;right: 50%;"width="28" height="12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2 2l10.336 6.89a3 3 0 0 0 3.328 0L26 2" stroke="#fff" stroke-opacity=".75" stroke-width="4" stroke-linecap="round" filter="url(#filter0_b)"/><defs><filter id="filter0_b" x="-4" y="-4" width="36" height="19.395" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feGaussianBlur in="BackgroundImage" stdDeviation="2"/><feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/><feBlend in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/></filter></defs></svg>
 
             <div class="col-md-8 text-center mx-auto my-auto text-fade-out"  id="launcher-intro">
-                <h1 class="font-weight-bold display-3 text-white">{!! __('pages.launcher.hero') !!}</h1>
+                <h1 class="font-weight-bold display-3 text-white">{!! __('launcher.hero') !!}</h1>
             </div>
         </div>
         <div class="container pb-5">
@@ -25,8 +25,8 @@
                     <div class="my-5 pt-5"></div>
                     <div class="my-5 pt-5"></div>
                     <div class="my-5 pt-5"></div>
-                    <h6 class="d-inline-block py-1 px-2 badge-outline border">{{ __('pages.launcher.coming_soon') }}</h6>
-                    <h1 class="font-weight-bold display-3">{{ __('pages.launcher.launcher') }}</h1>
+                    <h6 class="d-inline-block py-1 px-2 badge-outline border">{{ __('launcher.coming_soon') }}</h6>
+                    <h1 class="font-weight-bold display-3">{{ __('launcher.launcher') }}</h1>
                 </div>
                 <div class="embed-responsive embed-responsive-16by9 rounded-xl shadow-lg overflow-hidden" id="launcher-anim" >
                     <video src="{{ asset('/assets/img/video/launcher-trailer-16s.mp4') }}" autoplay loop muted poster="{{ asset('/assets/img/video/launcher.jpg') }}" class="embed-responsive-item"></video>
@@ -41,7 +41,7 @@
                 <div class="col-12 text-center">
                     <div class="my-5 pt-5"></div>
 
-                    <h1 class="font-weight-bold">{{ __('pages.launcher.launcher') }}</h1>
+                    <h1 class="font-weight-bold">{{ __('launcher.launcher') }}</h1>
                 </div>
                 <div class="col-12 pt-5">
                     <img src="{{ asset('/assets/img/video/launcher.jpg') }}" class="img-fluid rounded-xl shadow-lg overflow-hidden "alt="">
@@ -56,7 +56,7 @@
             <div class="row">
                 <div class="col-md-8 mt-5">
                     <h3 class="font-weight-bold">
-                        {!! __('pages.launcher.preview') !!}
+                        {!! __('launcher.preview') !!}
                     </h3>
                 </div>
             </div>
@@ -81,7 +81,7 @@
                         <div class="row">
                             <div class="col text-left">
                                 <h3 class="font-weight-bold">
-                                    {!! __('pages.launcher.redesigned') !!}
+                                    {!! __('launcher.redesigned') !!}
                                 </h3>
                             </div>
                         </div>
@@ -100,10 +100,10 @@
 
                 <div class="col-md-6 mt-5 pt-5">
                     <h3 class="font-weight-bold mt-md-5">
-                        {{ __('pages.launcher.hub') }}
+                        {{ __('launcher.hub') }}
                     </h3>
                     <p class="lead">
-                        {{ __('pages.launcher.hub_info') }}
+                        {{ __('launcher.hub_info') }}
                     </p>
 
                     <p class="lead font-weight-500">
@@ -130,10 +130,10 @@
             <div class="row mb-5">
                 <div class="col-md-4 mt-4 my-auto">
                     <h3 class="font-weight-bold mt-md-5">
-                        {{ __('pages.launcher.settings') }}
+                        {{ __('launcher.settings') }}
                     </h3>
                     <p class="lead">
-                        {{ __('pages.launcher.settings_info') }}
+                        {{ __('launcher.settings_info') }}
                     </p>
                 </div>
                 <div class="col-md-8 mt-4">
@@ -150,13 +150,13 @@
             <div class="row mb-5">
                 <div class="col-md-4 mt-4 order-1 order-md-2 my-auto">
                     <h3 class="font-weight-bold mt-md-5">
-                        {{ __('pages.launcher.server') }}
+                        {{ __('launcher.server') }}
                     </h3>
                     <p class="lead">
-                        {{ __('pages.launcher.server_info') }}
+                        {{ __('launcher.server_info') }}
                     </p>
                     <p class="font-weight-500">
-                        <a href="{{ route('features.server') }}">{{ __('pages.launcher.server_more') }}
+                        <a href="{{ route('features.server') }}">{{ __('launcher.server_more') }}
                             <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                     chevron_right
                                 </span>

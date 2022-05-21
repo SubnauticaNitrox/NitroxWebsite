@@ -1,8 +1,8 @@
-@section('title', __('pages.community.meta.title'))
-@section('description', __('pages.community.meta.description'))
+@section('title', __('community.meta.title'))
+@section('description', __('community.meta.description'))
 
-@section('og:title', __('pages.community.meta.title'))
-@section('og:description',  __('pages.community.meta.description'))
+@section('og:title', __('community.meta.title'))
+@section('og:description',  __('community.meta.description'))
 @section('og:image', asset('/assets/img/favicon.png'))
 
 <x-layouts.default>
@@ -11,8 +11,8 @@
     <div class="container pb-5">
         <div class="row">
             <div class="col-md-6 offset-md-3 text-center mt-5 mb-5">
-                <h1 class="font-weight-bold">{{ __('pages.community.title') }}</h1>
-                <p class="font-weight-500">{{ __('pages.community.subtitle') }}</p>
+                <h1 class="font-weight-bold">{{ __('community.title') }}</h1>
+                <p class="font-weight-500">{{ __('community.subtitle') }}</p>
             </div>
        </div>
     </div>
@@ -32,9 +32,9 @@
                             </div>
 
                             <h2 class="font-weight-bold mt-4">Discord</h2>
-                            <p>{{ __('pages.community.discord') }}</p>
+                            <p>{{ __('community.discord') }}</p>
                             <p class="font-weight-500">
-                                <a href="https://discord.gg/E8B4X9s" target="_blank">{{ __('pages.community.discord_join') }}
+                                <a href="https://discord.gg/E8B4X9s" target="_blank">{{ __('community.discord_join') }}
                                     <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                         chevron_right
                                     </span>
@@ -55,9 +55,9 @@
                             </div>
 
                             <h2 class="font-weight-bold mt-4">Twitter</h2>
-                            <p>{{ __('pages.community.twitter') }}</p>
+                            <p>{{ __('community.twitter') }}</p>
                             <p class="font-weight-500">
-                                <a href="https://twitter.com/modnitrox" target="_blank">{{ __('pages.community.twitter_follow') }}
+                                <a href="https://twitter.com/modnitrox" target="_blank">{{ __('community.twitter_follow') }}
                                     <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                         chevron_right
                                     </span>
@@ -78,9 +78,9 @@
                             </div>
 
                             <h2 class="font-weight-bold mt-4">Reddit</h2>
-                            <p>{{ __('pages.community.reddit') }}</p>
+                            <p>{{ __('community.reddit') }}</p>
                             <p class="font-weight-500">
-                                <a href="https://www.reddit.com/r/SubnauticaNitrox/" target="_blank">{{ __('pages.community.reddit_join') }}
+                                <a href="https://www.reddit.com/r/SubnauticaNitrox/" target="_blank">{{ __('community.reddit_join') }}
                                     <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                         chevron_right
                                     </span>
@@ -101,9 +101,9 @@
                             </div>
 
                             <h2 class="font-weight-bold mt-4">GitHub</h2>
-                            <p>{{ __('pages.community.github') }}</p>
+                            <p>{{ __('community.github') }}</p>
                             <p class="font-weight-500">
-                                <a href="https://github.com/SubnauticaNitrox/Nitrox" target="_blank">{{ __('pages.community.github_link') }}
+                                <a href="https://github.com/SubnauticaNitrox/Nitrox" target="_blank">{{ __('community.github_link') }}
                                     <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                         chevron_right
                                     </span>
