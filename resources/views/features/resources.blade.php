@@ -1,8 +1,8 @@
-@section('title', __('pages.resources.meta.title'))
-@section('description', __('pages.resources.meta.description'))
+@section('title', __('resources.meta.title'))
+@section('description', __('resources.meta.description'))
 
-@section('og:title', __('pages.resources.meta.title'))
-@section('og:description', __('pages.resources.meta.description'))
+@section('og:title', __('resources.meta.title'))
+@section('og:description', __('resources.meta.description'))
 @section('og:image', asset('/assets/img/favicon.png'))
 
 <x-layouts.default>
@@ -12,7 +12,7 @@
         <div class="container">
             <div class="row d-flex justify-content-center">
                 <div class="col-12 mt-md-5">
-                    <h1 class="mt-5 display-4 font-weight-bold">{!! __('pages.resources.title') !!}</h1>
+                    <h1 class="mt-5 display-4 font-weight-bold">{!! __('resources.title') !!}</h1>
                 </div>
             </div>
         </div>
@@ -64,7 +64,7 @@
         <div class="container pt-5 pb-5">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="font-weight-bold">{{ __('pages.resources.fonts') }}</h1>
+                    <h1 class="font-weight-bold">{{ __('resources.fonts') }}</h1>
                 </div>
             </div>
             <div class="row">
@@ -90,8 +90,8 @@
         <div class="container pt-5 pb-5">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="font-weight-bold">{{ __('pages.resources.images') }}</h1>
-                    <p class="lead">{!! __('pages.resources.images_info') !!}</p>
+                    <h1 class="font-weight-bold">{{ __('resources.images') }}</h1>
+                    <p class="lead">{!! __('resources.images_info') !!}</p>
                 </div>
             </div>
             <div class="row">

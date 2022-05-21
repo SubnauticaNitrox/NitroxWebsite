@@ -3,7 +3,7 @@
     <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
         <div class="modal-content rounded-xl">
             <div class="modal-header">
-                <h5 class="modal-title mx-auto" id="translationSelectModalLabel">{{ __('lang-select.modal.title') }}</h5>
+                <h5 class="modal-title mx-auto" id="translationSelectModalLabel">{{ __('lang-select.title') }}</h5>
                 <button type="button" class="close p-2 mt-n1" data-dismiss="modal" aria-label="Close" style="position: absolute;right: 32px;">
                     <span class="material-icons">
                         close
@@ -11,7 +11,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <p class="px-3">{{ __('lang-select.modal.description') }}</p>
+                <p class="px-3">{{ __('lang-select.description') }}</p>
                 <div class="row g-3 row-cols-1 row-cols-lg-2 g-3 px-4">
                     @foreach($available_locales as $locale_name => $available_locale)
                         @if($available_locale === $current_locale)

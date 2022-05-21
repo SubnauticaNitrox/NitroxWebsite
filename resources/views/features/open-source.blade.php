@@ -1,8 +1,8 @@
-@section('title', __('pages.os.meta.title'))
-@section('description', __('pages.os.meta.description'))
+@section('title', __('os.meta.title'))
+@section('description', __('os.meta.description'))
 
-@section('og:title', __('pages.os.meta.title'))
-@section('og:description', __('pages.os.meta.description'))
+@section('og:title', __('os.meta.title'))
+@section('og:description', __('os.meta.description'))
 @section('og:image', asset('/assets/img/favicon.png'))
 
 <x-layouts.default>
@@ -16,7 +16,7 @@
                         <div class="mt-md-5 pt-md-5"></div>
                     </div>
 
-                    <h1 class="font-weight-bold display-3">{!! __('pages.os.title') !!}</h1>
+                    <h1 class="font-weight-bold display-3">{!! __('os.title') !!}</h1>
                     <div class="mt-5 pt-5"></div>
                 </div>
             </div>
@@ -31,7 +31,7 @@
                     <div class="mt-5 pt-5"></div>
 
                     <h3 class="font-weight-bold">
-                        {!! __('pages.os.hero') !!}
+                        {!! __('os.hero') !!}
                     </h3>
 
                     <div class="mt-5"></div>
@@ -42,9 +42,9 @@
                             <span class="material-icons text-primary" style="font-size: 2rem;">source</span>
                         </div>
                         <div class="ml-4">
-                            <h4 class="font-weight-bold">{{ __('pages.os.license') }}</h4>
-                            <p class="mb-1">{{ __('pages.os.license_info') }}</p>
-                            <a href="https://github.com/SubnauticaNitrox/Nitrox/blob/master/LICENSE.txt" target="_blank">{{ __('pages.os.license_link') }}
+                            <h4 class="font-weight-bold">{{ __('os.license') }}</h4>
+                            <p class="mb-1">{{ __('os.license_info') }}</p>
+                            <a href="https://github.com/SubnauticaNitrox/Nitrox/blob/master/LICENSE.txt" target="_blank">{{ __('os.license_link') }}
                                 <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                     chevron_right
                                 </span>
@@ -57,14 +57,14 @@
                             <span class="material-icons text-success" style="font-size: 2rem;">code</span>
                         </div>
                         <div class="ml-4">
-                            <h4 class="font-weight-bold">{{ __('pages.os.dev_resources') }}</h4>
-                            <p class="mb-1">{{ __('pages.os.dev_resources_info') }}</p>
-                            <a href="https://github.com/SubnauticaNitrox/Nitrox/wiki" target="_blank" class="mr-4 pr-2">{{ __('pages.os.dev_resources_code') }}
+                            <h4 class="font-weight-bold">{{ __('os.dev_resources') }}</h4>
+                            <p class="mb-1">{{ __('os.dev_resources_info') }}</p>
+                            <a href="https://github.com/SubnauticaNitrox/Nitrox/wiki" target="_blank" class="mr-4 pr-2">{{ __('os.dev_resources_code') }}
                                 <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                     chevron_right
                                 </span>
                             </a>
-                            <a href="https://github.com/SubnauticaNitrox/Nitrox/blob/master/CONTRIBUTING.md" target="_blank">{{ __('pages.os.dev_resources_contribute') }}
+                            <a href="https://github.com/SubnauticaNitrox/Nitrox/blob/master/CONTRIBUTING.md" target="_blank">{{ __('os.dev_resources_contribute') }}
                                 <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                     chevron_right
                                 </span>
@@ -86,8 +86,8 @@
                     <div class="mt-5 pt-5"></div>
 
                     <h1 class="font-weight-bold">
-                        {{ __('pages.os.join') }}<br>
-                        <span class="opacity-5">{{ __('pages.os.join_info') }}</span>
+                        {{ __('os.join') }}<br>
+                        <span class="opacity-5">{{ __('os.join_info') }}</span>
                     </h1>
                     <div class="mt-5"></div>
 

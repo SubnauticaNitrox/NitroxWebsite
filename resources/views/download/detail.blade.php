@@ -1,8 +1,8 @@
-@section('title', __('pages.download.meta.title'))
-@section('description', __('pages.download.meta.description'))
+@section('title', __('download.meta.title'))
+@section('description', __('download.meta.description'))
 
-@section('og:title', __('pages.download.meta.title'))
-@section('og:description', __('pages.download.meta.description'))
+@section('og:title', __('download.meta.title'))
+@section('og:description', __('download.meta.description'))
 @section('og:image', asset('/assets/img/favicon.png'))
 
 <x-layouts.default>
@@ -11,9 +11,9 @@
             <div class="row">
 
             <div class="col-md-8 text-left pb-3 pt-3">
-                <span class="badge badge-primary">{{ __('pages.download.header.alpha') }}</span>
-                <h1 class="mt-3 font-weight-bold display-3">{{ __('pages.download.header.title') }}</h1>
-                <p class="lead opacity-75 mt-4">{{ __('pages.download.header.subtitle') }}</p>
+                <span class="badge badge-primary">{{ __('download.header.alpha') }}</span>
+                <h1 class="mt-3 font-weight-bold display-3">{{ __('download.header.title') }}</h1>
+                <p class="lead opacity-75 mt-4">{{ __('download.header.subtitle') }}</p>
 
                 <div class="row">
                     <div class="col d-flex align-items-center my-4">
@@ -22,13 +22,13 @@
                                 <div class="d-flex align-items-center">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" width="24" height="24" class="mr-2"><path d="M0 0h24v24H0z" fill="none"/><path d="M19 12v7H5v-7H3v7c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-7h-2zm-6 .67l2.59-2.58L17 11.5l-5 5-5-5 1.41-1.41L11 12.67V3h2z"/></svg>
                                 </div>
-                                <div class="d-flex">{{ __('pages.download.header.download') }}</div>
+                                <div class="d-flex">{{ __('download.header.download') }}</div>
                             </div>
                         </a>
-                        <p class="opacity-75 mb-0 d-md-block d-none">{{ __('pages.download.header.version') }}&nbsp;{{ $version['version'] }}&nbsp;·&nbsp;{{ $version['filesize'] }} MB</p>
+                        <p class="opacity-75 mb-0 d-md-block d-none">{{ __('download.header.version') }}&nbsp;{{ $version['version'] }}&nbsp;·&nbsp;{{ $version['filesize'] }} MB</p>
                     </div>
                 </div>
-                <p class="opacity-75 mb-0 d-md-none d-block">{{ __('pages.download.header.version') }}&nbsp;{{ $version['version'] }}&nbsp;·&nbsp;{{ $version['filesize'] }} MB</p>
+                <p class="opacity-75 mb-0 d-md-none d-block">{{ __('download.header.version') }}&nbsp;{{ $version['version'] }}&nbsp;·&nbsp;{{ $version['filesize'] }} MB</p>
             </div>
 
             </div>
@@ -39,7 +39,7 @@
         <div class="container">
             <div class="row d-flex justify-content-center">
                 <div class="col-md-12 text-center mb-2 mt-2">
-                    <h6 class="text-white opacity-75">{{ __('pages.download.header.stores') }}</h6>
+                    <h6 class="text-white opacity-75">{{ __('download.header.stores') }}</h6>
                 </div>
             </div>
             <div class="row d-flex justify-content-center platform-logos">
@@ -62,7 +62,7 @@
             <div class="row">
                 <div class="col-md-8 mb-5">
                     <div class="white-secondary p-5">
-                        <h1 class="font-weight-bold display-4">{{ __('pages.download.changelog') }}</h1>
+                        <h1 class="font-weight-bold display-4">{{ __('download.changelog') }}</h1>
                         <div class="changelog-entry mt-4 mb-5">
                             <h6>{{ Carbon\Carbon::parse($changelog['released'])->format('d.m.Y · H:i') }}</h6>
                             <h3>Nitrox&nbsp;{{ $version['version'] }}</h3>
@@ -72,7 +72,7 @@
                                 @endforeach
                             </ul>
                         </div>
-                        <a href="{{ route('pages.changelog') }}" class="btn ripple btn-link">{{ __('pages.download.changelog_older') }}</a>
+                        <a href="{{ route('pages.changelog') }}" class="btn ripple btn-link">{{ __('download.changelog_older') }}</a>
                     </div>
                 </div>
 
@@ -80,7 +80,7 @@
                     <div class="row">
                         <div class="col-md-12 text-left">
                             <h3 class="font-weight-bold">
-                                {!! __('pages.download.sidebar') !!}
+                                {!! __('download.sidebar') !!}
                             </h3>
                         </div>
                     </div>
