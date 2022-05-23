@@ -1,1 +1,55 @@
-{}
+{
+    "home": {
+        "feature": {
+            "multiplayer": {
+                "headline": "Die Mod",
+                "title": "Nitrox Mehrspieler",
+                "description": "Spiele endlich Subnautica zusammen mit deinen Freunden. Schließe dich einem Server an oder erstelle deinen eigenen."
+            },
+            "stores": {
+                "headline": "Unterstützte Store-Versionen",
+                "title": "Plattformübergreifend",
+                "description": "Kompatibel mit deinen Lieblings-Stores. Die Cross-Play-Unterstützung ist in der Mod integriert und ermöglicht einen unkomplizierten Mehrspielermodus.",
+                "tooltip": "Derzeit nicht verfügbar"
+            },
+            "gameplay": {
+                "headline": "Gameplay",
+                "title": "Dein Gameplay",
+                "description": "Spiele Subnautica, vom Survival-Modus mit deinen Freunden bis zur kreativen Bau-Session."
+            },
+            "code": {
+                "headline": "Code Basis",
+                "description": "Regelmäßige Unterstützung und Updates von den zahlreichen Kontributoren. Trage dazu bei, dass die Mod besser wird.",
+                "title": "Offener Quellcode"
+            },
+            "community": {
+                "title": "Spieler Basis",
+                "downloads": "Downloads",
+                "discord": "Discord-Mitglieder"
+            },
+            "launcher": {
+                "headline": "Erfahrung",
+                "view": "Konzepte ansehen",
+                "title": "Nitrox Launcher",
+                "description": "Verwende den Nitrox Launcher, der derzeit für Windows verfügbar ist. Mit einer gut gestalteten Benutzeroberfläche, um das Spielen im Multiplayer-Modus noch einfacher zu machen."
+            },
+            "chat": {
+                "headline": "Kommunikation",
+                "title": "In-Game Messaging",
+                "description": "Bleibe in Kontakt mit dem plattformübergreifenden Nitrox-kompatiblen In-Game Messaging-system."
+            },
+            "upnp": {
+                "title": "Automatische Portweiterleitung",
+                "headline": "UPNP-Unterstützung"
+            }
+        },
+        "hero_slogan": "<span>Deine</span> <span>Mehrspieler</span> <span>Mod</span> <span>für</span> <span>Subnautica.</span>",
+        "explore": "Erlebt Subnautica <span class=\"opacity-5\">wie ein völlig neues Spiel. Bildet euer Team. Erforscht neue Tiefen. Baut epische Basen.</span>",
+        "meta": {
+            "title": "Nitrox für Subnautica · Subnautica Mehrspieler Mod",
+            "description": "Nitrox ist eine kostenlose Mehrspieler Mod für das Spiel Subnautica, welche von der Community entwickelt wurde."
+        },
+        "hero_cta": "Kostenlos Herunterladen",
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>"
+    }
+}
