@@ -51,7 +51,7 @@
                 "description": "Stay in touch with the Nitrox cross-platform compatibile built in game messaging system."
             },
             "upnp": {
-                "headline": "UPNP Support",
+                "headline": "UPnP Support",
                 "title": "Automatic port forwarding",
                 "description": "Nitrox automatically opens the required ports making it possible to connect to your friends straight away without any need for third party VPN software."
             },
@@ -100,7 +100,7 @@
         "header": {
             "alpha": "EARLY ALPHA",
             "title": "Download Nitrox",
-            "subtitle": "Your adventure awaits. Download the Nitrox Mod for free and start playing subnautica multiplayer!",
+            "subtitle": "Your adventure awaits. Download the Nitrox Mod for free and start playing Subnautica multiplayer!",
             "download": "Start Download",
             "version": "Alpha",
             "stores": "Supported Store Versions"
