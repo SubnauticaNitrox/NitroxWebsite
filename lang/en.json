@@ -58,7 +58,7 @@
             "lang": {
                 "headline": "Community added languages",
                 "title": "Nitrox also speaks your language.",
-                "languages": "English, German, French, Spanish, Romanian, Finnish, Russian, Italian, Hungarian, Slovakian...",
+                "languages": "English, Dutch, French, German, Greek, Korean, Polish, Romanian, Spanish, Swedish, Turkish, Ukrainian, …",
                 "link": "Contribute & add your language"
             },
             "host": {
@@ -69,7 +69,7 @@
             },
             "play": {
                 "headline": "Play",
-                "description": "Randomized starter Escape Pod, Randomized & Saved Seeds for Resources and Fauna, New Save system, Plants & Farming... and so much more."
+                "description": "Randomized starter Escape Pod, Randomized & Saved Seeds for Resources and Fauna, New Save system, Plants & Farming… and so much more."
             },
             "server": {
                 "headline": "Public Server",
@@ -111,7 +111,7 @@
     },
     "download_start": {
         "meta": {
-            "title": "Download started... · Subnautica Multiplayer Mod",
+            "title": "Download started… · Subnautica Multiplayer Mod",
             "description": "Download Nitrox: a free multiplayer mod for the game Subnautica developed by the community."
         },
         "header": {
@@ -323,7 +323,7 @@
         "title": "Welcome to Nitrox Support",
         "subtitle": "Browse the helpful guides and read the first steps how to get started using Nitrox.",
         "quick_links": "Quick links",
-        "search_placeholder": "Search for something...",
+        "search_placeholder": "Search for something…",
         "search_install": "Install Nitrox Mod Steam and Epic Games",
         "search_run": "Run and host a Nitrox Server",
         "search_join": "Join a Nitrox Server",
@@ -380,4 +380,3 @@
         }
     }
 }
-
