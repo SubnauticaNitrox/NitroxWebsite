@@ -100,7 +100,7 @@ return [
         'Dutch' => 'nl',
         'Danish' => 'da',
         'Finnish' => 'fi',
-        'Norwegian' => 'no',
+        'Norwegian' => 'nb-NO',
         'Swedish' => 'sv',
         'Greek' => 'el',
         'Korean' => 'ko',
@@ -117,6 +117,7 @@ return [
         'Slovak' => 'sk',
         'Croatian' => 'hr',
         'Slovak' => 'sk',
+        'Chinese (Simplified)' => 'zh-Hans'
     ],
 
     /*
