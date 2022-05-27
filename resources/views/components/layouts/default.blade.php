@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,6 +31,7 @@
 </head>
 <body data-spy="scroll" data-target="#toc">
 
+    <x-layouts.partials.language-select></x-layouts.partials.language-select>
     <x-layouts.partials.message></x-layouts.partials.message>
     <x-layouts.partials.navigation></x-layouts.partials.navigation>
 

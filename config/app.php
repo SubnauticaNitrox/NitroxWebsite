@@ -86,6 +86,41 @@ return [
 
     /*
     |--------------------------------------------------------------------------
+    | Available locales
+    |--------------------------------------------------------------------------
+    |
+    | List all locales that your application works with
+    |
+    */
+
+    'available_locales' => [
+        'English' => 'en',
+        'German' => 'de',
+        'French' => 'fr',
+        'Dutch' => 'nl',
+        'Danish' => 'da',
+        'Finnish' => 'fi',
+        'Norwegian' => 'no',
+        'Swedish' => 'sv',
+        'Greek' => 'el',
+        'Korean' => 'ko',
+        'Polish' => 'pl',
+        'Romanian' => 'ro',
+        'Spanish' => 'es',
+        'Turkish' => 'tr',
+        'Ukrainian' => 'uk',
+        'Portuguese' => 'pt',
+        'Russian' => 'ru',
+        'Italian' => 'it',
+        'Czech' => 'cs',
+        'Hungarian' => 'hu',
+        'Slovak' => 'sk',
+        'Croatian' => 'hr',
+        'Slovak' => 'sk',
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
     | Application Fallback Locale
     |--------------------------------------------------------------------------
     |

@@ -1,8 +1,8 @@
-@section('title', 'Team Nitrox · Subnautica Multiplayer Mod')
-@section('description', 'Say hello to the generous contributors to the open source Nitrox project')
+@section('title', __('team.meta.title'))
+@section('description', __('team.meta.description'))
 
-@section('og:title', 'Team Nitrox · Subnautica Multiplayer Mod')
-@section('og:description', 'Say hello to the generous contributors to the open source Nitrox project')
+@section('og:title', __('team.meta.title'))
+@section('og:description', __('team.meta.description'))
 @section('og:image', asset('/assets/img/favicon.png'))
 
 <x-layouts.default>
@@ -11,7 +11,7 @@
         <div class="container">
             <div class="row d-flex justify-content-center">
                 <div class="col-md-8 text-center">
-                    <h1 class="animated fadeIn mt-5">Nitrox is built by a passionate team of open source contributors.</h1>
+                    <h1 class="animated fadeIn mt-5">{{ __('team.title') }}</h1>
                 </div>
             </div>
         </div>
@@ -116,9 +116,9 @@
                 <div class="col-md-8">
                     <div class="card">
                         <div class="card-body">
-                            <h4 class="card-title">Wanna join the team?</h4>
+                            <h4 class="card-title">{{ __('team.join') }}</h4>
                             <p class="card-text">
-                                You too can be a contributor for this mod. You can develop for Nitrox or join the support team! Simply apply in the discord server or subreddit page
+                                {{ __('team.join_description') }}
                             </p>
                             <a href="https://discord.gg/E8B4X9s" class="card-link">Discord</a>
                             <a href="https://www.reddit.com/r/SubnauticaNitrox/" class="card-link">Reddit</a>

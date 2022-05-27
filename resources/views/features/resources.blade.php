@@ -1,8 +1,8 @@
-@section('title', 'Official Nitrox Resources · Logo, typography, images')
-@section('description', 'Download the official Nitrox Mod resources including the logo, fonts, images and more.')
+@section('title', __('resources.meta.title'))
+@section('description', __('resources.meta.description'))
 
-@section('og:title', 'Official Nitrox Resources · Logo, typography, images')
-@section('og:description', 'Download the official Nitrox Mod resources including the logo, fonts, images and more.')
+@section('og:title', __('resources.meta.title'))
+@section('og:description', __('resources.meta.description'))
 @section('og:image', asset('/assets/img/favicon.png'))
 
 <x-layouts.default>
@@ -12,7 +12,7 @@
         <div class="container">
             <div class="row d-flex justify-content-center">
                 <div class="col-12 mt-md-5">
-                    <h1 class="mt-5 display-4 font-weight-bold">Nitrox <span class="opacity-5">Resources</span></h1>
+                    <h1 class="mt-5 display-4 font-weight-bold">{!! __('resources.title') !!}</h1>
                 </div>
             </div>
         </div>
@@ -64,7 +64,7 @@
         <div class="container pt-5 pb-5">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="font-weight-bold">Fonts</h1>
+                    <h1 class="font-weight-bold">{{ __('resources.fonts') }}</h1>
                 </div>
             </div>
             <div class="row">
@@ -90,8 +90,8 @@
         <div class="container pt-5 pb-5">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="font-weight-bold">Images</h1>
-                    <p class="lead">Nitrox Multiplayer screenshots. <span class="opacity-5">Use these to share the multiplayer experience of Subnautica.<br> Want to add your own? Share them on the Discord server or tweet us.</span></p>
+                    <h1 class="font-weight-bold">{{ __('resources.images') }}</h1>
+                    <p class="lead">{!! __('resources.images_info') !!}</p>
                 </div>
             </div>
             <div class="row">

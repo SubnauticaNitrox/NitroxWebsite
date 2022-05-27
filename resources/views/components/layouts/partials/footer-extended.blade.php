@@ -2,30 +2,30 @@
     <div class="container py-2">
         <div class="row">
             <div class="col-md-12 pb-4">
-                <h6 class="pt-5 pb-5">Community</h6>
-                <h2 class="font-weight-bold">Connect & chat with other Nitrox players</h2>
+                <h6 class="pt-5 pb-5">{{ __('footer-extended.community_title') }}</h6>
+                <h2 class="font-weight-bold">{{ __('footer-extended.community_description') }}</h2>
             </div>
         </div>
 
         <div class="row mb-4 mt-2 d-none d-md-flex">
             <div class="col-md-3 col-6 mb-3">
-                <h1>500,000+</h1>
-                <h6>Unique Users</h6>
+                <h1>{{ __('footer-extended.user_count') }}</h1>
+                <h6>{{ __('footer-extended.users') }}</h6>
             </div>
 
             <div class="col-md-3 col-6 mb-3">
-                <h1>1,000,000+</h1>
-                <h6>Downloads</h6>
+                <h1>{{ __('footer-extended.download_count') }}</h1>
+                <h6>{{ __('footer-extended.downloads') }}</h6>
             </div>
 
             <div class="col-md-3 col-6 mb-3">
-                <h1>1,267,200+</h1>
-                <h6>Nexus Views</h6>
+                <h1>{{ __('footer-extended.nexus_views') }}</h1>
+                <h6>{{ __('footer-extended.nexus') }}</h6>
             </div>
 
             <div class="col-md-3 col-6 mb-3">
-                <h1>27,000+</h1>
-                <h6>Discord Members</h6>
+                <h1>{{ __('footer-extended.discord_members') }}</h1>
+                <h6>{{ __('footer-extended.discord') }}</h6>
             </div>
         </div>
     </div>
@@ -42,9 +42,9 @@
                                 <img src="{{ asset('/assets/img/Discord.svg') }}" width="56px" alt="Discord" style="padding: .75rem; background-color: #5865F2;">
                             </span>
                         </div>
-                        <h5 class="card-title mt-3 font-weight-bold">Nitrox Discord Server</h5>
-                        <p class="card-text">Chat with more than 27k members about Subnautica Multiplayer, find other players to game together and get support.</p>
-                        <a href="https://discord.gg/E8B4X9s" target="_blank" class="card-link font-weight-500 stretched-link">Click to join on Discord<span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">chevron_right</span></a></a>
+                        <h5 class="card-title mt-3 font-weight-bold">{{ __('footer-extended.community.discord') }}</h5>
+                        <p class="card-text">{{ __('footer-extended.community.discord_description') }}</p>
+                        <a href="https://discord.gg/E8B4X9s" target="_blank" class="card-link font-weight-500 stretched-link">{{ __('footer-extended.community.discord_join') }}<span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">chevron_right</span></a></a>
                     </div>
                 </div>
             </div>
@@ -57,9 +57,9 @@
                                 <img src="{{ asset('/assets/img/Twitter.svg') }}" width="56px" alt="Twitter" style="padding: .75rem; background-color: #1da1f1;">
                             </span>
                         </div>
-                        <h5 class="card-title mt-3 font-weight-bold">Follow on Twitter</h5>
-                        <p class="card-text">Follow on twitter to always been in the loop with up to date infos, insights and much more on the official Nitrox Twitter.</p>
-                        <a href="https://twitter.com/modnitrox" target="_blank" class="card-link font-weight-500 stretched-link">Click to visit @modnitrox <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">chevron_right</span></a>
+                        <h5 class="card-title mt-3 font-weight-bold">{{ __('footer-extended.community.twitter') }}</h5>
+                        <p class="card-text">{{ __('footer-extended.community.twitter_description') }}</p>
+                        <a href="https://twitter.com/modnitrox" target="_blank" class="card-link font-weight-500 stretched-link">{{ __('footer-extended.community.twitter_join') }} <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">chevron_right</span></a>
                     </div>
                 </div>
             </div>
@@ -71,7 +71,7 @@
     <div class="container pb-5">
         <div class="row d-flex mb-4 pt-4">
             <div class="col-md-12">
-                <h3 class="mb-4 mt-5 font-weight-bold">Featured on</h3>
+                <h3 class="mb-4 mt-5 font-weight-bold">{{ __('footer-extended.featured') }}</h3>
             </div>
             <div class="col-md-2 col-6 text-center mb-3 my-auto">
                 <a href="https://www.pcgameshardware.de/Subnautica-Spiel-55121/News/Nitrox-Mod-Multiplayer-Coop-1272188/" target="_blank">
@@ -195,9 +195,9 @@
             <div class="col-12 mb-4 ">
                 <div class="border-bottom mb-4 mt-4" style="opacity: .25;"></div>
                 <ol class="small opacity-5 pl-3">
-                    <li id="footnote-1">Windows store requires additional setup. Steps and support to setup can be found in Nitrox Discord.</li>
-                    <li id="footnote-2">Max. 100 server players, recommened player count 5.</li>
-                    <li id="footnote-3">Public servers are not hosted by Nitrox and 100% uptime not ensured. Third party servers are not moderated by the Nitrox team.</li>
+                    <li id="footnote-1">{{ __('footer-extended.footnote_1') }}</li>
+                    <li id="footnote-2">{{ __('footer-extended.footnote_2') }}</li>
+                    <li id="footnote-3">{{ __('footer-extended.footnote_3') }}</li>
                 </ol>
             </div>
         </div>
