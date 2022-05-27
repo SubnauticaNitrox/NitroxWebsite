@@ -4,25 +4,25 @@
 
 return [
     [
-        "url" => "https://on.rux.gg/6eRNs",
+        "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.6.0.0/Nitrox_1.6.0.0.zip",
         "version" => "1.6.0.0",
         "filesize" => "7.42",
         "md5" => "8d3daed4f08c735af760e45ffae54f22",
     ],
     [
-        "url" => "https://on.rux.gg/z7kaG",
+        "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.5.0.1/Nitrox.1.5.0.1.zip",
         "version" => "1.5.0.1",
         "filesize" => "12.39",
         "md5" => "652ec07a1c648c15469f888238d2dfde",
     ],
     [
-        "url" => "https://on.rux.gg/gwT86",
+        "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.5.0.0/Nitrox.1.5.0.0.zip",
         "version" => "1.5.0.0",
         "filesize" => "12.38",
         "md5" => "5adcaeaf5e483041d29c555791fa23e5",
     ],
     [
-        "url" => "https://on.rux.gg/DP2Zz",
+        "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.4.0.0/Nitrox.1.4.0.0.zip",
         "version" => "1.4.0.0",
         "filesize" => "12.6",
         "md5" => "05bdba3bd1d32d632adcaa545011482e",
