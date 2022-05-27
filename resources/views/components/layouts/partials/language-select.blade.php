@@ -29,7 +29,10 @@
                         @endif
                     @endforeach
                     <a class="col text-decoration-none mb-3 px-2" target="_blank" href="https://hosted.weblate.org/engage/subnauticanitrox/">
-                        <img src="https://hosted.weblate.org/widgets/subnauticanitrox/-/website/svg-badge.svg" alt="Translation status" />
+                        <div class="position-relative">
+                            <img src="https://hosted.weblate.org/widgets/subnauticanitrox/-/website/287x66-white.png" alt="Translation status" class="img-fluid rounded-8" />
+                            <div class="position-absolute w-100 h-100 rounded-8" style="top: 0; box-shadow: inset 0px 0px 0px 1px #dee2e6;"></div>
+                        </div>
                     </a>
                 </div>
             </div>
