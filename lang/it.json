@@ -185,8 +185,16 @@
             "play_subtitle": "Server",
             "host_info": "Ospita facilmente un grande evento con supporto fino a 100 giocatori.",
             "host_footnote": "Max. 100 giocatori nel server, numero di giocatori consigliato 5.",
-            "connect_subtitle": "Tecnologia"
+            "connect_subtitle": "Tecnologia",
+            "play_footnote": "I server pubblici non sono ospitati da Nitrox e non sono garantiti al 100%. I server di terze parti non sono moderati dal team Nitrox."
         },
-        "features": "I server Nitrox <span class=\"opacity-5\">sono potenti, ma facili da ospitare. Con codice ottimizzato scritto per Subnautica. Funziona in modo estremamente leggero e non richiede quasi nessuna risorsa, per ottenere le migliori prestazioni di gioco;</span>"
+        "features": "I server Nitrox <span class=\"opacity-5\">sono potenti, ma facili da ospitare. Con codice ottimizzato scritto per Subnautica. Funziona in modo estremamente leggero e non richiede quasi nessuna risorsa, per ottenere le migliori prestazioni di gioco;</span>",
+        "feature_list": "<p class=\"lead\">Il server Nitrox include tutto il necessario per avviare, ospitare e giocare a Subnautica in modalità multiplayer.</p>\n<ul class=\"lead\">\n<li>Console server</li>\n<li>Sistema di chat integrato</li>\n<li>Porta del server configurabile</li>\n<li>Massimo di 100 giocatori connessi</li>\n<li>Funzione di salvataggio automatico</li>\n<li>Impostazione della modalità di gioco e configurabile</li>\n<li>Modalità server pubblico</li>\n<li>Server privato protetto da password</li>\n</ul>",
+        "features_included": "Cosa è incluso?"
+    },
+    "launcher": {
+        "meta": {
+            "description": "Il Nitrox Launcher è il vostro ingresso all'esperienza multiplayer subnautica."
+        }
     }
 }
