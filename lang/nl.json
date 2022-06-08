@@ -1,0 +1,269 @@
+{
+    "resources": {
+        "images_info": "Nitrox Multiplayer screenshots. <span class=\"opacity-5\">Gebruik ze om de multiplayer ervaring van Subnautica te delen.<br> Wil je iets toevoegen? Deel ze op de Discord server of tweet ons.</span>",
+        "meta": {
+            "title": "Officiële Nitrox Bronnen · Logo, typografie, afbeeldingen",
+            "description": "Download de officiële Nitrox Mod bronnen inclusief het logo, lettertypes, afbeeldingen en meer."
+        },
+        "title": "Nitrox <span class=\"opacity-5\">Bronnen</span>",
+        "fonts": "Lettertypes",
+        "images": "Afbeeldingen"
+    },
+    "server": {
+        "features": "Nitrox servers <span class=\"opacity-5\">zijn krachtig, maar makkelijk te hosten. Met geoptimaliseerde code geschreven voor Subnautica. Het draait extreem licht en heeft nauwelijks resources nodig, voor de beste spelprestaties.</span>",
+        "cards": {
+            "connect_info": "Automatische poortkeuze door gebruik van UPnP voor snelle installatie.",
+            "play_info": "Host of vind permanente servers om op te spelen, in de Nitrox gemeenschap.",
+            "host": "Host",
+            "host_info": "Eenvoudig hosten van een groot spelersevenement met ondersteuning tot 100 spelers.",
+            "host_slots": "Max. Slots",
+            "host_footnote": "Max. 100 server spelers, maximaal aanbevolen is 5.",
+            "connect": "Verbind",
+            "connect_subtitle": "Technologie",
+            "play": "Speel",
+            "play_subtitle": "Servers",
+            "play_footnote": "Publieke servers worden niet door Nitrox gehost en 100% uptime is niet gegarandeerd. Servers van derden worden niet gemodereerd door het Nitrox team."
+        },
+        "features_included": "Wat is inbegrepen?",
+        "feature_list": "<p class=\"lead\">Nitrox server bevat alles wat je nodig hebt om Subnautica op te starten, te hosten en te spelen in multiplayer modus.</p>\n<ul class=\"lead\">\n<li>Server console</li>\n<li>Ingebouwde chat systeem</li>\n<li>Configureerbare server poort</li>\n<li>Max. 100 spelers</li>\n<li>Automatische opslaan functie</li>\n<li>Configureerbare game modus</li>\n<li>Publieke server modus</li>\n<li>Privé server met wachtwoord beveiliging</li>\n</ul>",
+        "meta": {
+            "title": "Nitrox Server · Functies",
+            "description": "Nitrox beschikt over een krachtige multiplayer server, terwijl het toch extreem licht en efficiënt is."
+        },
+        "title": "Nitrox Server <br>Lichtgewicht &amp; krachtig."
+    },
+    "about": {
+        "discord_members": "27,000+",
+        "meta": {
+            "title": "Over Nitrox · Subnautica Multiplayer Mod",
+            "description": "Kom meer te weten over het team en het open source Nitrox project"
+        },
+        "quote": "Citaat van",
+        "why": "Waarom Nitrox?",
+        "discord_join": "Word lid op Discord",
+        "title": "Modders hebben multiplayer naar Subnautica gebracht.",
+        "user_count": "500,250+",
+        "download_count": "1,000,000+",
+        "multiplayer": "Multiplayer. <span class=\"opacity-5\">Speel Subnautica zoals het bedoeld is, in Multiplayer.</span>",
+        "opensource": "Open source. <span class=\"opacity-5\">Regelmatige ondersteuning en updates van de gulle contribuanten.</span>",
+        "servers": "Gemeenschap. <span class=\"opacity-5\">Vind nieuwe servers, krijg hulp en praat met andere Nitrox spelers.</span>",
+        "downloads": "Downloads",
+        "discord": "Discord leden",
+        "metrics": "Onze statistieken",
+        "users": "Gebruikers",
+        "featured": "Uitgelicht op",
+        "download_title": "EARLY ALPHA",
+        "download": "Download",
+        "download_header": "Klaar? Download de mod!",
+        "download_description": "Je avontuur wacht op je. Download de Nitrox Mod gratis en begin subnautica samen te spelen!",
+        "version": "Laatste versie:"
+    },
+    "home": {
+        "feature": {
+            "multiplayer": {
+                "headline": "De mod",
+                "description": "Speel Subnautica eindelijk samen met je vrienden. Speel of creëer je eigen server.",
+                "title": "Nitrox multiplayer"
+            },
+            "code": {
+                "description": "Regelmatige ondersteuning en updates van de gulle contribuanten. Draag bij en maak de mod beter.",
+                "headline": "Broncode",
+                "title": "Open source"
+            },
+            "community": {
+                "headline": "Gemeenschap",
+                "title": "Spelers",
+                "description": "Maak deel uit van de grote, groeiende Nitrox gemeenschap. Vind nieuwe servers, krijg hulp en praat met andere Nitrox spelers.",
+                "downloads": "Downloads",
+                "discord": "Discord leden"
+            },
+            "launcher": {
+                "headline": "Ervaring",
+                "title": "Nitrox opstartprogramma",
+                "description": "Gebruik het Nitrox opstartprogramma, momenteel beschikbaar voor Windows. Met een goed ontworpen gebruikersinterface om het spelen van multiplayer nog makkelijker te maken.",
+                "view": "Bekijk nieuwe concepten"
+            },
+            "chat": {
+                "description": "Blijf in contact met het Nitrox platformoverschrijdende ingebouwd chat systeem.",
+                "headline": "Communicatie",
+                "title": "In-game chatten"
+            },
+            "upnp": {
+                "headline": "UPnP Ondersteuning",
+                "title": "Automatisch doorsturen van poorten",
+                "description": "Nitrox opent automatisch de vereiste poorten, zodat u meteen verbinding kunt maken met uw vrienden, zonder dat u VPN-software van derden nodig hebt."
+            },
+            "lang": {
+                "headline": "Vertaald door de gemeenschap",
+                "title": "Nitrox spreekt jouw taal.",
+                "languages": "Engels, Nederlands, Frans, Duits, Grieks, Koreaans, Pools, Roemeens, Spaans, Zweeds, Turks, Oekraïens, …",
+                "link": "Draag bij en voeg uw taal toe"
+            },
+            "host": {
+                "headline": "Host",
+                "description": "Eenvoudig hosten van een groot spelersevenement met ondersteuning tot 100 spelers.",
+                "subtitle": "Max. Slots"
+            },
+            "play": {
+                "headline": "Speel",
+                "description": "Willekeurige Escape Pod startplaats, Willekeurige &amp; Opgeslagen Seeds voor Bronnen en Fauna, Nieuw Opslag logica, Planten &amp; Landbouw... en zo veel meer."
+            },
+            "server": {
+                "headline": "Openbare Server",
+                "description": "Zoek permanente servers om op te spelen, in de Nitrox Discord.",
+                "number": "24/7",
+                "subtitle": "Servers"
+            },
+            "stores": {
+                "tooltip": "Momenteel niet beschikbaar",
+                "headline": "Ondersteunde winkels",
+                "title": "Platform overschrijdend",
+                "description": "Compatibel met je favoriete winkels. Native cross-play ondersteuning ingebouwd in de mod waardoor naadloze multiplayer mogelijk is."
+            },
+            "gameplay": {
+                "headline": "Gameplay",
+                "title": "Jouw gameplay",
+                "description": "Speel Subnautica, van een survival-spel met je vrienden tot een creatieve bouwsessie."
+            }
+        },
+        "meta": {
+            "title": "Nitrox voor Subnautica · Subnautica Multiplayer Mod",
+            "description": "Nitrox is een gratis multiplayer mod voor het spel Subnautica ontwikkeld door de gemeenschap."
+        },
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_slogan": "<span>Jouw</span> <span>multiplayer</span> <span>Mod</span> <span>voor</span> <span>Subnautica.</span>",
+        "hero_cta": "Download gratis",
+        "explore": "Beleef Subnautica <span class=\"opacity-5\">als een compleet nieuw spel. Werk samen. Verken nieuwe dieptes. Bouw epische basissen.</span>",
+        "nextsteps": {
+            "get": {
+                "title": "Download de mod",
+                "description": "Download de Nitrox Mod gratis en begin samen te spelen!",
+                "download": "Download",
+                "latest_version": "Laatste versie:"
+            },
+            "wiki": {
+                "link": "Bekijk hulppagina's",
+                "description": "Lees de installatiegids en FAQ pagina",
+                "title": "Aan de slag"
+            }
+        }
+    },
+    "download": {
+        "header": {
+            "alpha": "EARLY ALPHA",
+            "subtitle": "Je avontuur wacht op je. Download de Nitrox Mod gratis en begin Subnautica samen te spelen!",
+            "download": "Begin met downloaden",
+            "version": "Alpha",
+            "stores": "Ondersteunde Winkels",
+            "title": "Download Nitrox"
+        },
+        "meta": {
+            "title": "Download Nitrox · Subnautica Multiplayer Mod",
+            "description": "Download Nitrox: een gratis multiplayer mod voor het spel Subnautica ontwikkeld door de gemeenschap."
+        },
+        "changelog": "Wijzigingsoverzicht",
+        "changelog_older": "Bekijk oudere wijzigingen",
+        "sidebar": "Nitrox Mod. <span class=\"opacity-5\">Een open-source, multiplayer mod voor het spel Subnautica.</span>"
+    },
+    "download_start": {
+        "meta": {
+            "title": "Download gestart… · Subnautica Multiplayer Mod",
+            "description": "Download Nitrox: een gratis multiplayer mod voor het spel Subnautica ontwikkeld door de gemeenschap."
+        },
+        "header": {
+            "started": "Download gestart",
+            "helper": "Uw download zou automatisch moeten starten in <span id=\"countdowntimer\">2</span> seconden. Als dat niet zo is, ",
+            "helper_link": "start de download opnieuw"
+        },
+        "next_steps": "Vervolgstappen",
+        "install_vid": "Installeer video",
+        "guide": "Handleiding voor installatie en upgraden",
+        "guide_link": "Nitrox installatie handleiding",
+        "download_infos": "Informatie downloaden",
+        "version": "Versie",
+        "md5": "MD5 Hash",
+        "community_join": "Word lid van de gemeenschap",
+        "file_size": "Bestandsgrootte"
+    },
+    "community": {
+        "meta": {
+            "title": "Nitrox Gemeeschap · Subnautica Multiplayer Mod",
+            "description": "Maak deel uit van de grote, groeiende Nitrox gemeenschap. Vind nieuwe servers, krijg hulp en praat met andere Nitrox spelers."
+        },
+        "title": "Nitrox gemeenschap",
+        "subtitle": "Sluit je aan bij de grote Nitrox gemeenschap met spelers van over de hele wereld.",
+        "discord": "Word lid van onze actieve Discord server om servers te vinden om op te spelen, hulp te krijgen van het support team en nog veel meer.",
+        "discord_join": "Word lid van onze Discord server",
+        "twitter": "Volg de Nitrox Twitter om altijd op de hoogte te zijn van de laatste ontwikkelingen, evenementen en Nitrox versies.",
+        "twitter_follow": "Volgen op Twitter",
+        "reddit": "Word lid van de Nitrox Subreddit om op de hoogte te blijven van de nieuwste Nitrox versies en om je ervaringen te delen.",
+        "github": "Wil je deel uitmaken van het team? Draag bij aan de code tot en met vertalingen voor het Nitrox-project op GitHub.",
+        "github_link": "Draag bij via GitHub",
+        "reddit_join": "Versie"
+    },
+    "os": {
+        "meta": {
+            "description": "Open broncode is het hart van de Nitrox mod. Van de gemeenschap die het heeft opgebouwd tot de ondersteuning die het onderhoudt.",
+            "title": "Open Source Nitrox · Functies"
+        },
+        "license_info": "SubnauticaNitrox/Nitrox is gelicenseerd onder de GNU General Public Licentie v3.0",
+        "license_link": "Meer informatie",
+        "dev_resources": "Ontwikkelingshulpmiddelen",
+        "dev_resources_info": "Lees onze richtlijnen om aan de slag te gaan en bij te dragen aan de code op GitHub.",
+        "dev_resources_code": "Code wiki",
+        "dev_resources_contribute": "Bijdragen",
+        "join": "Wil je deel uitmaken van het team?",
+        "join_info": "Dit zijn manieren waarop u kunt bijdragen.",
+        "license": "GNU General Public Licentie v3.0",
+        "title": "Ondersteund door<br>open source.",
+        "hero": "Open bron is de kern van Nitrox. <span class=\"opacity-5\">De mod bevindt zich in een zeer vroeg stadium van ontwikkeling; er is echter een solide basis gelegd waarop de gemeenschap kan voortborduren.</span>"
+    },
+    "launcher": {
+        "meta": {
+            "title": "Nitrox Launcher · Functies",
+            "description": "Het Nitrox opstartprogramma is je toegang tot de multiplayer Subnautica ervaring."
+        },
+        "hero": "Alles in één<br>multiplayer.",
+        "coming_soon": "Binnenkort",
+        "launcher": "Nitrox Opstartprogramma.",
+        "preview": "Bekijk het nieuwe Nitrox Opstartprogramma. <span class=\"opacity-5\">Jouw toegang tot de multiplayer-ervaring. Zorgvuldig ontworpen om makkelijk in gebruik te zijn. Binnenkort beschikbaar.</span>",
+        "hub": "Uw hub voor alles Nitrox.",
+        "settings": "Slimme instellingen",
+        "server": "Server",
+        "server_more": "Lees meer",
+        "redesigned": "Van de grond af opnieuw ontworpen. <span class=\"opacity-5\">Met een focus op het verstrekken van nuttige informatie. Snelle toegang tot multiplayer. Gedetailleerde diagnostiek. Alles wat je nodig hebt om een server te hosten.</span>",
+        "hub_info": "Met de vernieuwde launcher kunt u eenvoudig op de hoogte blijven van alles wat met Nitrox te maken heeft. U krijgt als eerste de nieuwste versies, gedetailleerde informatie om uw serverervaring te verbeteren en een gemeenschap-tabblad met toegang tot 24/7 gemeenschap beheerde servers.",
+        "settings_info": "Heb je meerdere exemplaren van Subnautica gekocht? Geen probleem. Het Nitrox opstartprogramma kan automatisch al je Subnautica spel installaties detecteren, zodat je snel kunt kiezen tussen verschillende winkels. Vereenvoudigt de installatie en verwijdert de noodzaak om handmatig een pad op te geven.",
+        "server_info": "Nitrox Server is geïntegreerd in het opstartprogramma. Dit zorgt voor een snelle opzet van je eigen multiplayer server. Dankzij UPnP zorgt Nitrox automatisch voor het openen van de server poort. De server heeft lage systeemeisen en is eenvoudig te draaien."
+    },
+    "team": {
+        "meta": {
+            "title": "Team Nitrox · Subnautica Multiplayer Mod",
+            "description": "Zeg hallo tegen de gulle contribuanten aan het open source Nitrox project"
+        },
+        "title": "Nitrox is gebouwd door een gepassioneerd team van open source contribuanten.",
+        "join": "Wil je bij het team horen?",
+        "join_description": "Ook jij kunt een bijdrage leveren aan deze mod. Je kunt ontwikkelen voor Nitrox of lid worden van het support team! Meld je gewoon aan op de discord server of subreddit pagina"
+    },
+    "changelog": {
+        "meta": {
+            "title": "Wijzigingsoverzicht · Subnautica Multiplayer Mod",
+            "description": "Bekijk het laatste wijzigingsoverzicht van de Nitrox Mod versies."
+        },
+        "title": "Wijzigingsoverzicht",
+        "subtitle": "Bekijk het laatste wijzigingsoverzicht van de Nitrox Mod versies.",
+        "latest_version": "Laatste versie:",
+        "download": "Download"
+    },
+    "footer-extended": {
+        "community_title": "Gemeenschap",
+        "community_description": "Maak contact en chat met andere Nitrox spelers",
+        "users": "Unieke gebruikers",
+        "downloads": "Downloads",
+        "nexus": "Nexus Views",
+        "community": {
+            "discord": "Nitrox Discord Server"
+        },
+        "discord": "Discord Leden"
+    }
+}
