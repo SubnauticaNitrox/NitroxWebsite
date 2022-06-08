@@ -139,7 +139,7 @@
         },
         "title": "Работает на<br>открытом исходном коде.",
         "hero": "Открытый исходный код лежит в основе Nitrox. <span class=\"opacity-5\">Мод находится на самой ранней стадии разработки, однако уже заложена прочная основа, которую сообщество может дорабатывать.</span>",
-        "license": "GNU General Public License  v3.0",
+        "license": "GNU General Public License v3.0",
         "license_info": "SubnauticaNitrox/Nitrox распространяется по лицензии GNU General Public License v3.0",
         "license_link": "Узнать больше",
         "dev_resources": "Ресурсы для разработчиков",
@@ -174,7 +174,7 @@
     },
     "launcher": {
         "coming_soon": "Скоро будет",
-        "launcher": "Nitrox  Launcher.",
+        "launcher": "Nitrox Launcher.",
         "preview": "Preview the new Nitrox Launcher. <span class=\"opacity-5\">ваш вход в многопользовательский опыт. Carefully designed to be easy to use. Скоро будет</span>",
         "server": "Сервер",
         "server_info": "Сервер Nitrox Server интегрирован в программу запуска. Это позволяет быстро настроить собственный многопользовательский инстанс. Благодаря UPNP Nitrox автоматически позаботится о пробросе портов. Сервер легкий и простой в управлении, не потребляющий много системных ресурсов.",
