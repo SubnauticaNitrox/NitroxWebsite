@@ -1,1 +1,52 @@
-{}
+{
+    "home": {
+        "feature": {
+            "multiplayer": {
+                "description": "Jouer à Subnautica avec vos amis. Rejoignez ou créé votre serveur.",
+                "headline": "Le mode",
+                "title": "Nitrox multijoueurs"
+            },
+            "chat": {
+                "headline": "Communication",
+                "title": "Messagerie en jeu"
+            },
+            "stores": {
+                "tooltip": "Non disponible pour le moment",
+                "headline": "Versions supporter",
+                "title": "Multiplate-forme",
+                "description": "Compatible avec vos magasins préféré. Cross-platforme natif pour un multijoueur sans problèmes."
+            },
+            "gameplay": {
+                "headline": "Gameplay",
+                "title": "Votre gameplay",
+                "description": "Jouez à Subnautica, que ce soit pour une partie de survie avec vos amis ou pour une session de construction créative."
+            },
+            "community": {
+                "headline": "Communauté",
+                "title": "Base de joueurs",
+                "description": "Faite partie de la communauté grandissante de Nitrox. Trouvez de nouveaux serveurs, aidez et discuter avec les autre joueurs.",
+                "downloads": "Téléchargements",
+                "discord": "Membres Discord"
+            },
+            "launcher": {
+                "description": "Utilisez le lanceur Nitrox, disponible pour Windows. Une interface intuitive pour un multijoueurs plus facile.",
+                "headline": "Expérience",
+                "title": "Lanceur Nitrox",
+                "view": "Voire les concepts en cours de développement"
+            },
+            "code": {
+                "headline": "Code de base",
+                "title": "Sources libre",
+                "description": "Support et mise-à-jour régulière de nos contributeurs. Contribuez à rendre le mode meilleur."
+            }
+        },
+        "meta": {
+            "title": "Nitrox pour Subnautica - Mod multujoueurs pour Subnautica",
+            "description": "Nitrox est mode multijoueur gratuit, développé par la communauté pour Subnautica"
+        },
+        "hero_slogan": "<span>Votre</span> <span>mode</span> <span>Multijoueur</span> <span>pour</span> <span>Subnautica.</span>",
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_cta": "Télécharger gratuitement",
+        "explore": "Essayer Subnautica <span class=\"opacity-5\">comme un tout nouveau jeu. Faite équipe. Explorer de nouvelles profondeurs. Construisais des bases gigantesque.</span>"
+    }
+}
