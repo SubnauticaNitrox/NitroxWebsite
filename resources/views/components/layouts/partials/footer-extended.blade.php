@@ -195,7 +195,7 @@
             <div class="col-12 mb-4 ">
                 <div class="border-bottom mb-4 mt-4" style="opacity: .25;"></div>
                 <ol class="small opacity-5 pl-3">
-                    <li id="footnote-1">{{ __('footer-extended.footnote_1') }}</li>
+                    <li id="footnote-1" class="d-none">{{ __('footer-extended.footnote_1') }}</li>
                     <li id="footnote-2">{{ __('footer-extended.footnote_2') }}</li>
                     <li id="footnote-3">{{ __('footer-extended.footnote_3') }}</li>
                 </ol>
