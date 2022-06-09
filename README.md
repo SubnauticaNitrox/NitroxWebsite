@@ -3,11 +3,9 @@
 # Nitrox Website
 The official website for the open-source, multiplayer <a href="https://unknownworlds.com/subnautica/">Subnautica</a> modification.
 
-<p>
-    <a href="https://discord.gg/E8B4X9s"><img src="https://img.shields.io/discord/525437013403631617" alt="License"></a>
-    <a href="https://hosted.weblate.org/engage/subnauticanitrox/"><img src="https://hosted.weblate.org/widgets/subnauticanitrox/-/svg-badge.svg" alt="Translation status"></a>
-    <a href="https://github.com/SubnauticaNitrox/NitroxWebsite/blob/master/LICENSE"><img src="https://img.shields.io/github/license/subnauticanitrox/nitroxwebsite" alt="License"></a>
-</p>
+[![Discord](https://img.shields.io/discord/525437013403631617?logo=discord&logoColor=white)](https://discord.gg/E8B4X9s)
+[![Translation status](https://hosted.weblate.org/widgets/subnauticanitrox/-/website/svg-badge.svg)](https://hosted.weblate.org/engage/subnauticanitrox/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## About
 

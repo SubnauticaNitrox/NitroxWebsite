@@ -1,1 +1,91 @@
-{}
+{
+    "home": {
+        "hero_over": "&lt;跨度&gt;深海迷航&lt;/跨度&gt; &lt;跨度&gt;Nitrox&lt;/跨度&gt;",
+        "hero_slogan": "<span>你的</span> <span>多人游戏</span> <span>Mod</span> <span>for</span> <span>Subnautica.</span>",
+        "hero_cta": "免费下载",
+        "feature": {
+            "multiplayer": {
+                "headline": "模组",
+                "title": "Nitrox多人游戏",
+                "description": "最后开始和你的朋友一起玩 深海迷航。 加入或创建您自己的服务器。"
+            },
+            "stores": {
+                "headline": "支持的商店版本",
+                "title": "跨平台",
+                "tooltip": "当前不可用",
+                "description": "与您最喜欢的商店兼容。 内置于 mod 中的原生交叉播放支持允许无缝多人游戏。"
+            },
+            "gameplay": {
+                "headline": "游戏玩法",
+                "title": "你的游戏玩法",
+                "description": "玩 深海迷航,从与朋友的生存游戏到创意拼搭。"
+            },
+            "code": {
+                "headline": "代码库",
+                "title": "开源",
+                "description": "来自慷慨的贡献者的定期支持和更新。 贡献并让模组变得更好。"
+            },
+            "community": {
+                "headline": "社区",
+                "title": "玩家基础",
+                "downloads": "下载",
+                "discord": "Discord成员",
+                "description": "成为庞大且不断发展的 Nitrox 社区的一员。 寻找新服务器、获得帮助并与其他 Nitrox 玩家交谈。"
+            },
+            "launcher": {
+                "headline": "经验",
+                "title": "Nitrox启动器",
+                "description": "使用目前可用于 Windows 的 Nitrox 启动器。 具有精心设计的用户界面，使玩多人游戏更加容易。",
+                "view": "查看进行中的工作概念"
+            },
+            "chat": {
+                "headline": "沟通",
+                "title": "游戏内消息",
+                "description": "与内置在游戏消息系统中的 Nitrox 跨平台兼容保持联系。"
+            },
+            "upnp": {
+                "headline": "UPnP 支持",
+                "title": "自动端口转发",
+                "description": "Nitrox 会自动打开所需的端口，从而可以立即连接到您的朋友，而无需任何第三方 VPN 软件。"
+            },
+            "lang": {
+                "headline": "社区添加的语言",
+                "title": "Nitrox 也会说您的语言。",
+                "link": "贡献并添加您的语言",
+                "languages": "英语、荷兰语、法语、德语、希腊语、韩语、波兰语、罗马尼亚语、西班牙语、瑞典语、土耳其语、乌克兰语……"
+            },
+            "host": {
+                "headline": "主持人",
+                "description": "轻松举办大型玩家活动，最多可支持 100 名玩家。",
+                "subtitle": "最大限度。 插槽"
+            },
+            "play": {
+                "headline": "玩",
+                "description": "随机启动逃生舱、资源和动物的随机和保存种子、新保存系统、植物和农业……等等。"
+            },
+            "server": {
+                "headline": "公共服务器",
+                "description": "在 Nitrox Discord 中找到可玩的永久服务器。",
+                "number": "24/7",
+                "subtitle": "服务器"
+            }
+        },
+        "nextsteps": {
+            "get": {
+                "title": "获取模组",
+                "description": "免费下载 Nitrox Mod 并开始玩多人游戏！",
+                "download": "下载",
+                "latest_version": "最新版本："
+            },
+            "wiki": {
+                "title": "入门",
+                "description": "阅读安装指南和常见问题页面"
+            }
+        },
+        "meta": {
+            "title": "Nitrox是深海迷航 · 深海迷航多人遊戲模組",
+            "description": "Nitrox是社区开发的一款免费多人游戏深海迷航模组。"
+        },
+        "explore": "像全新游戏一样体验 Subnautica <span class=\"opacity-5\">。 组队。 探索新的深度。 建立史诗般的基地。</span>"
+    }
+}

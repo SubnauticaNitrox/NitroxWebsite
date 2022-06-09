@@ -1,0 +1,26 @@
+{
+    "home": {
+        "meta": {
+            "title": "Nitrox Pentru Subnautica ·Mod Multiplayer Subnautica",
+            "description": "Nitrox este un mod Gratis Multiplayer Pentru jocul Subnautica dezvoltat de Comunitate."
+        },
+        "hero_cta": "Descarcă gratis",
+        "feature": {
+            "multiplayer": {
+                "headline": "Modul",
+                "title": "Nitrox multiplayer",
+                "description": "În sfârșit, începeți să jucați Subnautica împreună cu prietenii tăi. Alăturați-vă sau creați-vă propriul server."
+            },
+            "stores": {
+                "headline": "Versiuni de magazin acceptate",
+                "title": "Cross Platform",
+                "tooltip": "Momentan Nu este Disponibil",
+                "description": "Compatibil cu magazinele tale preferate. Suport nativ pentru joc încrucișat încorporat în mod, permițând multiplayer fără întreruperi."
+            },
+            "gameplay": {
+                "headline": "Gameplay-ul",
+                "title": "Gameplay-ul Tau"
+            }
+        }
+    }
+}
