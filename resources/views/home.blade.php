@@ -76,7 +76,7 @@
                                     </div>
                                     <div class="col">
                                         <img src="{{ asset('/assets/img/logos/windows.png') }}" class="img-fluid" style="filter: invert(1); opacity: .25" data-toggle="tooltip" data-placement="bottom" title="{{ __('home.feature.stores.tooltip') }}">
-                                        <sup class="fnote" style="position: absolute; top: 3em; margin-left: -8px"><a class="text-white opacity-5 p-1" href="#footnote-1">1</a></sup>
+                                        <sup class="fnote" style="position: absolute; top: 3em; margin-left: -8px"><a class="text-white opacity-5 p-1 d-none" href="#footnote-1">1</a></sup>
                                     </div>
                                 </div>
                             </div>
@@ -210,7 +210,7 @@
                             <div class="col-md-12 text-white platform-logos">
                                 <h6 class="pb-5">{{ __('home.feature.host.headline') }}</h6>
                                 <p class="lead">{{ __('home.feature.host.description') }}</p>
-                                <h1 class="display-1 font-weight-bold pt-3 text-center">{{ __('home.feature.host.number') }}<sup class="fnote"><a class="text-white opacity-5" href="#footnote-2">2</a></sup></h1>
+                                <h1 class="display-1 font-weight-bold pt-3 text-center">{{ __('home.feature.host.number') }}<sup class="fnote"><a class="text-white opacity-5" href="#footnote-2">1</a></sup></h1>
                                 <h6 class="text-center">{{ __('home.feature.host.subtitle') }}</h6>
                             </div>
                         </div>
@@ -234,7 +234,7 @@
                             <div class="col-md-12 text-white platform-logos">
                                 <h6 class="pb-5">{{ __('home.feature.server.headline') }}</h6>
                                 <p class="lead"{{ __('home.feature.server.number') }}></p>
-                                <h1 class="display-1 font-weight-bold pt-3 text-center">{{ __('home.feature.server.number') }}<sup class="fnote"><a class="text-white opacity-5" href="#footnote-3">3</a></sup></h1>
+                                <h1 class="display-1 font-weight-bold pt-3 text-center">{{ __('home.feature.server.number') }}<sup class="fnote"><a class="text-white opacity-5" href="#footnote-3">2</a></sup></h1>
                                 <h6 class="text-center">{{ __('home.feature.server.subtitle') }}</h6>
                             </div>
                         </div>
