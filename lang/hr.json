@@ -1,0 +1,375 @@
+{
+    "home": {
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_cta": "Preuzmi besplatno",
+        "feature": {
+            "multiplayer": {
+                "headline": "Mod",
+                "title": "Nitrox za više igrača",
+                "description": "Konačno počni igrati Subnautica zajedno sa svojim prijateljima. Pridruži se ili svori svoj vlastiti poslužitelj."
+            },
+            "stores": {
+                "headline": "Verzije podržanih trgovina",
+                "title": "Višeplatformski",
+                "tooltip": "Trenutačno nije dostupno",
+                "description": "Kompatibilan s tvojim omiljenim trgovinama. Izvorna podrška za igranje na različitim uređajima ugrađena u mod omogućuje nesmetanu igru s više igrača."
+            },
+            "gameplay": {
+                "headline": "Igranje",
+                "title": "Tvoja igra",
+                "description": "Igraj Subnautica, od igranja preživljavanja s prijateljima do kreativne sesije izgradnje."
+            },
+            "code": {
+                "title": "Otvoreni kod",
+                "headline": "Baza koda",
+                "description": "Redovita podrška i aktualiziranja doprinositelja. Doprinesi i učini mod boljim."
+            },
+            "community": {
+                "headline": "Zajednica",
+                "downloads": "Preuzimanja",
+                "discord": "Discord članovi",
+                "title": "Baza igrača",
+                "description": "Postani dio velike, rastuće Nitrox zajednice. Pronađi nove poslužitelje, dobij pomoć i razgovaraj s drugim igračima Nitroxa."
+            },
+            "launcher": {
+                "title": "Nitrox pokretač",
+                "description": "Koristi Nitrox pokretač, trenutačno dostupan za Windows. Sadrži dobro dizajnirano korisničko sučelje kako bi igranje s više igrača bilo još jednostavnije.",
+                "headline": "Doživljaj",
+                "view": "Pogledaj koncepte rada u tijeku"
+            },
+            "chat": {
+                "headline": "Komunikacija",
+                "description": "Ostani u kontaktu s Nitroxovim višeplatformskim kompatibilnim sustavom za razmjenu poruka u igri.",
+                "title": "Razmjena poruka u igri"
+            },
+            "upnp": {
+                "headline": "UPnP podrška",
+                "title": "Automatsko prosljeđivanje priključaka",
+                "description": "Nitrox automatski otvara potrebne priključke čime omogućuje izravno povezivanje s tvojim prijateljima bez potrebe za stranim VPN softverom."
+            },
+            "lang": {
+                "headline": "Od zajednice dodani jezici",
+                "link": "Doprinesi i dodaj svoj jezik",
+                "title": "Nitrox također govori tvojim jezikom.",
+                "languages": "Engleski, hrvatski, nizozemski, francuski, njemački, grčki, korejski, poljski, rumunjski, ruski, španjolski, švedski, turski, ukrajinski, …"
+            },
+            "play": {
+                "headline": "Igraj",
+                "description": "Slučajno pokretanje Escape poda, slučajno i spremljeno sjeme za resurse i faunu, novi sustav spremanja, biljke i poljoprivreda … i još mnogo toga."
+            },
+            "server": {
+                "headline": "Javni poslužitelj",
+                "number": "24/7",
+                "subtitle": "Poslužitelji",
+                "description": "Pronađi stalne poslužitelje za igranje u Nitrox Discordu."
+            },
+            "host": {
+                "description": "Jednostavno organiziraj događaj na host računalu za do 100 igrača.",
+                "headline": "Host računalo",
+                "subtitle": "Maks. broj mjesta"
+            }
+        },
+        "hero_slogan": "<span>Tvoj</span> <span>Mod</span> <span>za više igrača</span> <span>za</span> <span>Subnautica.</span>",
+        "nextsteps": {
+            "get": {
+                "title": "Preuzmi mod",
+                "download": "Preuzmi",
+                "latest_version": "Najnovija verzija:",
+                "description": "Preuzmi Nitrox Mod besplatno i počni igrati s više igrača!"
+            },
+            "wiki": {
+                "title": "Prvi koraci",
+                "description": "Pročitaj upute za instaliranje i ČPP stranicu",
+                "link": "Posjeti upute"
+            }
+        },
+        "meta": {
+            "title": "Nitrox za Subnautica · Subnautica Mod za više igrača",
+            "description": "Nitrox je besplatni mod za više igrača za igru Subnautica koju razvija zajednica."
+        },
+        "explore": "Doživi Subnautica <span class=\"opacity-5\">kao potpuno novu igru. Udruži se. Istraži nove dubine. Izgradi epske baze.</span>"
+    },
+    "download": {
+        "header": {
+            "alpha": "RANA ALFA VERZIJA",
+            "title": "Preuzmi Nitrox",
+            "download": "Pokreni preuzimanje",
+            "version": "Alfa",
+            "stores": "Verzije podržanih trgovina",
+            "subtitle": "Tvoja te avantura očekuje. Preuzmi Nitrox Mod besplatno i počni igrati Subnautica za više igrača!"
+        },
+        "changelog_older": "Pogledaj starije promjene",
+        "changelog": "Zapis promjena",
+        "sidebar": "Nitrox Mod. <span class=\"opacity-5\">Modifikacija otvorenog koda za igru Subnautica s više igrača.</span>",
+        "meta": {
+            "title": "Preuzmi Nitrox · Subnautica Mod za više igrača",
+            "description": "Preuzmi Nitrox: besplatni mod za više igrača za igru Subnautica koju razvija zajednica."
+        }
+    },
+    "download_start": {
+        "header": {
+            "started": "Preuzimanje započelo",
+            "helper_link": "ponovo pokreni preuzimanje",
+            "helper": "Tvoje preuzimanje bi trebalo automatski početi za <span id=\"countdowntimer\">2</span> sekunde. Ako ne počne, "
+        },
+        "next_steps": "Sljedeći koraci",
+        "download_infos": "Informacije preuzimanja",
+        "file_size": "Veličina datoteke",
+        "version": "Verzija",
+        "md5": "MD5 Hash",
+        "meta": {
+            "title": "Preuzimanje započelo … · Subnautica Mod za više igrača",
+            "description": "Preuzmi Nitrox: besplatni mod za više igrača za igru Subnautica koju razvija zajednica."
+        },
+        "guide": "Upute za instaliranje i nadogradnju",
+        "install_vid": "Instaliraj video",
+        "community_join": "Pridruži se zajednici",
+        "guide_link": "Čarobnjak za instaliranje Nitroxa"
+    },
+    "community": {
+        "meta": {
+            "title": "Nitrox zajednica · Subnautica Multiplayer Mod",
+            "description": "Postani dio velike, rastuće Nitrox zajednice. Pronađi nove poslužitelje, dobij pomoć i razgovaraj s drugim igračima Nitroxa."
+        },
+        "title": "Nitrox zajednica",
+        "discord_join": "Pridruži se na Discordu",
+        "twitter_follow": "Prati nas na Twitteru",
+        "reddit_join": "Verzija",
+        "github": "Želiš biti dio tima? Doprinesi kodu ili prijevodu Nitrox projektu na GitHubu.",
+        "github_link": "Doprinesi na GitHub-u",
+        "subtitle": "Pridruži se velikoj Nitrox zajednici s igračima iz cijelog svijeta.",
+        "discord": "Pridruži se našem aktivnom Discord poslužitelju za pronalaženje poslužitelja za igranje, dobij pomoć od tima za podršku i još mnogo toga.",
+        "twitter": "Prati Nitroxov Twitter račun i budi u tijeku s najnovijim razvojima, događajima i izdanjima.",
+        "reddit": "Pridruži se Nitrox Subredditu za dobivanje informacija o najnovijim izdanjima i za objavljivanje sadržaja zajednice."
+    },
+    "about": {
+        "why": "Zašto Nitrox?",
+        "discord_join": "Pridruži se na Discordu",
+        "opensource": "Otvoreni kod. <span class=\"opacity-5\">Redovita podrška i aktualiziranja naših doprinositelja.</span>",
+        "metrics": "Naši metrični podaci",
+        "download_count": "1.000.000+",
+        "downloads": "Preuzimanja",
+        "user_count": "500.250+",
+        "users": "Korisnici",
+        "discord_members": "27.000+",
+        "discord": "Discord članovi",
+        "download_title": "RANA ALFA VERZIJA",
+        "download_header": "Spreman/Spremna? Preuzmi mod!",
+        "download_description": "Tvoja te avantura očekuje. Preuzmi Nitrox Mod besplatno i počni igrati subnautica multiplayer!",
+        "download": "Preuzimanje",
+        "version": "Najnovija verzija:",
+        "featured": "Predstavljeno na",
+        "meta": {
+            "title": "Nitrox informacije · Subnautica Mod za više igrača",
+            "description": "Saznaj više o timu i projektu otvorenog koda Nitrox"
+        },
+        "multiplayer": "Igranje s više igrača. <span class=\"opacity-5\">Igraj igru Subnautica kako je zamišljena, s više igrača.</span>",
+        "servers": "Zajednica. <span class=\"opacity-5\">Pronađi nove poslužitelje, dobij pomoć i razgovaraj s drugim igračima Nitroxa.</span>",
+        "title": "Modderi su omogućili igranje Subnautice s više igrača.",
+        "quote": "Citat od"
+    },
+    "os": {
+        "meta": {
+            "title": "Otvoreni kod Nitrox · Značajke",
+            "description": "Otvoreni izvorni kod je srž Nitrox moda. Od zajednice koja ga je izgradila do podrške koja ga održava."
+        },
+        "hero": "Otvoreni izvor je srž Nitroxa. <span class=\"opacity-5\">Mod je u vrlo ranoj fazi razvoja; međutim, postavljen je čvrst temelj za zajednički razvoj.</span>",
+        "license": "GNU opća javna licenca v3.0",
+        "license_info": "SubnauticaNitrox/Nitrox je licenciran pod GNU Općom javnom licencom v3.0",
+        "license_link": "Saznaj više",
+        "dev_resources": "Resursi za razvoj",
+        "join": "Želiš li biti član tima?",
+        "title": "Omogućuje<br>otvoreni kod.",
+        "dev_resources_info": "Pročitaj naše smjernice za započinjanje i za doprinošenje kodu na GitHub-u.",
+        "dev_resources_code": "Wiki koda",
+        "dev_resources_contribute": "Doprinošenje",
+        "join_info": "Ovo su mogućnosti kako ti možeš doprinijeti."
+    },
+    "resources": {
+        "meta": {
+            "title": "Javni Nitrox resursi · Logotip, tipografija, slike",
+            "description": "Preuzmi javne resurse Nitrox Moda kao što su logotip, fontovi, slike i dr."
+        },
+        "fonts": "Fontovi",
+        "images": "Slike",
+        "title": "Nitrox <span class=\"opacity-5\">resursi</span>",
+        "images_info": "Snimke ekrana Nitroxa za više igrača. <span class=\"opacity-5\">Koristi ih za dijeljenje Subnautica doživljaja za više igrača.<br> Želiš li dodati svoje? Dijeli ih na Discord poslužitelju ili nam pošalji tweet.</span>"
+    },
+    "server": {
+        "meta": {
+            "title": "Nitrox poslužitelj · Značajke",
+            "description": "Nitrox pruža moćan poslužitelj za više igrača. Zahtijeva izuzetno malo memorije i učinkovito koristi resurse."
+        },
+        "title": "Nitrox poslužitelj <br>Jednostavan i moćan.",
+        "cards": {
+            "connect": "Spoji",
+            "host": "Host računalo",
+            "connect_subtitle": "Tehnologija",
+            "play": "Igraj",
+            "play_subtitle": "Poslužitelji",
+            "connect_info": "Automatsko prosljeđivanje priključaka korištenjem UPNP-a za brzo postavljanje.",
+            "play_info": "Pronađi stalne poslužitelje za igranje u Nitrox zajednici.",
+            "play_footnote": "Nitrox ne hostira javne poslužitelje i nije osigurano 100 % vrijeme rada. Nitroxov tim ne moderira strane poslužitelje.",
+            "host_footnote": "Maksimalno 100 igrača na poslužitelju, preporučen broj igrača je 5.",
+            "host_info": "Jednostavno organiziraj događaj na host računalu za do 100 igrača.",
+            "host_slots": "Maks. broj mjesta"
+        },
+        "features_included": "Što je uključeno?",
+        "feature_list": "<p class=\"lead\">Nitrox poslužitelj uključuje sve što je potrebno za pokretanje, hosting i igranje Subnautice u modusu za više igrača.</p>\n<ul class=\"lead\">\n<li>Konzola poslužitelja</li>\n<li>Ugrađeni sustav za chat</li>\n<li>Priključak poslužitelja koji se može konfigurirati</li>\n<li>Maks. 100 povezanih igrača</li>\n<li>Funkcija automatskog spremanja</li>\n<li>Podesiva postavka modusa igre</li>\n<li>Modus javnog poslužitelja</li>\n<li>Privatni poslužitelj zaštićen lozinkom</li>\n</ul>",
+        "features": "Nitrox poslužitelji <span class=\"opacity-5\">su moćni. Istovremeno se jednostavno postavljaju. S optimiranim kodom napisanim za Subnautica. Zahtijeva izuzetno malo memorije te koristi vrlo mali broj resursa za najbolju preformansu igre.</span>"
+    },
+    "launcher": {
+        "meta": {
+            "title": "Nitrox Launcher · Značajke",
+            "description": "Nitrox pokretač je tvoj pristup doživljaju Subnautice za više igrača."
+        },
+        "coming_soon": "Nadolazeće",
+        "settings": "Pametne postavke",
+        "server": "Poslužitelj",
+        "server_more": "Saznaj više",
+        "hero": "Sve u jednom<br>za više igrača.",
+        "launcher": "Nitrox pokretač.",
+        "preview": "Pregledaj novi Nitrox pokretač. <span class=\"opacity-5\">Tvoj pristup doživljaju igranja s više igrača. Pažljivo dizajniran za jednostavno korištenje. Dolazi uskoro.</span>",
+        "redesigned": "Redizajniran iz temelja. <span class=\"opacity-5\">S naglaskom na pružanje korisnih informacija. Brz pristup igranju s više igrača. Detaljna dijagnostika. Sve što trebaš za hostiranje poslužitelja.</span>",
+        "hub": "Tvoj hub za sve što se tiče Nitroxa.",
+        "hub_info": "S redizajniranim pokretačem lako možeš biti u tijeku sa svime što se tiče Nitroxa. Budi prvi koji će dobiti najnovije verzije, detaljne informacije za poboljšanje doživljaja tvog poslužitelja i karticu zajednice s pristupom poslužiteljima koje hostira zajednica 24 sata dnevno.",
+        "settings_info": "Kupio/la si više primjeraka Subnautice? Nema problema. Nitrox popkretač može automatski otkriti sve tvoje instalacije igre Subnautica, omogućujući brzo biranje između različitih verzija trgovine. Pojednostavljuje postavljanja i uklanjanja potrebu za ručnim određivanjem staze.",
+        "server_info": "Nitrox poslužitelj je integriran u pokretač. To omogućuje brzo postavljanje vlastite instance za više igrača. Zahvaljujući UPNP-u, Nitrox se automatski brine za prosljeđivanje priključaka. Poslužitelj zahtijeva malo memorije i jednostavno se pokreće bez korištenja puno resursa sustava."
+    },
+    "team": {
+        "meta": {
+            "title": "Tim Nitrox · Subnautica Multiplayer Mod",
+            "description": "Pozdravi suradnike u projektu otvorenog koda Nitrox"
+        },
+        "title": "Nitrox izgrađuje tim doprinositelja otvorenog koda.",
+        "join": "Želiš se pridružiti timu?",
+        "join_description": "I ti možeš doprinijeti ovom modu. Možeš razvijati za Nitrox ili se pridružiti timu za podršku! Jednostavno se prijavi na Discord poslužitelju ili subreddit stranici"
+    },
+    "changelog": {
+        "meta": {
+            "description": "Pogledaj najnoviji popis promjena i povijest verzija Nitrox Mod izdanja.",
+            "title": "Popis promjena · Subnautica Mod za više igrača"
+        },
+        "title": "Promjene",
+        "subtitle": "Pogledaj najnoviji popis promjena i povijest verzija Nitrox Mod izdanja.",
+        "latest_version": "Najnovija verzija:",
+        "download": "Preuzimanje"
+    },
+    "footer-extended": {
+        "community_title": "Zajednica",
+        "users": "Korisnici",
+        "downloads": "Preuzimanja",
+        "discord": "Discord članovi",
+        "footnote_2": "Maksimalno 100 igrača na poslužitelju, preporučen broj igrača je 5.",
+        "footnote_1": "Windows trgovina zahtijeva dodatno postavljanje. Koraci i podrška za postavljanje mogu se pronaći u Nitrox Discordu.",
+        "footnote_3": "Nitrox ne hostira javne poslužitelje i nije osigurano 100 % vrijeme rada. Nitroxov tim ne moderira strane poslužitelje.",
+        "community_description": "Poveži se i razgovaraj s drugim igračima Nitroxa",
+        "nexus": "Nexus posjetitelji",
+        "community": {
+            "discord": "Nitrox Discord poslužitelj",
+            "discord_description": "Razgovaraj s više od 27.000 članova o igri Subnautica za više igrača, pronađi druge igrače za zajedničko igranje i dobij podršku.",
+            "discord_join": "Pritisni za pridruživanje na Discordu",
+            "twitter": "Prati nas na Twitteru",
+            "twitter_description": "Prati nas na Twitteru i budi u tijeku s aktualnim informacijama, uvidima i još mnogo toga na službenom Nitrox Twitteru.",
+            "twitter_join": "Pritisni i posjeti @modnitrox"
+        },
+        "featured": "Predstavljeno na"
+    },
+    "footer": {
+        "mod": "Mod",
+        "connect": "Spoji",
+        "learnmore": "Saznaj više",
+        "getstarted": "Započni",
+        "nav": {
+            "server_setup": "Postavke poslužitelja",
+            "download": "Preuzmi Nitrox",
+            "changelog": "Promjene",
+            "guides": "Nitrox upute",
+            "install": "Instaliraj upute",
+            "contribute": "Doprinesi",
+            "community": "Zajednica",
+            "devblog": "Blog programera",
+            "about": "Informacije",
+            "team": "Tim",
+            "resources": "Resursi",
+            "server_join": "Pridruži se jednom poslužitelju"
+        }
+    },
+    "navigation": {
+        "home": "Početna stranica",
+        "guides": "Upute",
+        "about": "O projektu",
+        "community": "Zajednica",
+        "blog": "Blog",
+        "read_more": "Saznaj više",
+        "motd": "Iz Nitrox bloga: Zašto smo napustili NexusMods."
+    },
+    "lang-select": {
+        "title": "Jezik",
+        "description": "Odaberi jezik."
+    },
+    "wiki": {
+        "quick_links": "Brze poveznice",
+        "search_placeholder": "Traži nešto …",
+        "search_home": "Nitrox nadogradnja i instalacijski čarobnjak",
+        "meta": {
+            "title": "Upute i Wiki · Subnautica Mod za više igrača",
+            "description": "Nitrox je besplatni mod za više igrača za igru Subnautica koju razvija zajednica."
+        },
+        "readmore": "Saznaj više",
+        "cards": {
+            "server": "Pokretanje poslužitelja",
+            "join_more": "Želiš se pridružiti drugom poslužitelju? Nauči kako dodati i pridružiti se drugim Nitrox poslužiteljima i igrati igru Subnautica s više igrača.",
+            "install": "Instaliranje Nitroxa",
+            "install_more": "Najprije instaliraj Nitrox Mod. Pažljivo slijedi korake i sve će biti spremno u trenu!",
+            "server_more": "Nakon instaliranja moda možeš početi igrati zajedno pokretanjem i hostiranjem Nitrox poslužitelja.",
+            "join": "Pridruživanje poslužitelju"
+        },
+        "wizard_link": "Pokreni Nitrox čarobnjaka",
+        "faq": {
+            "title": "Često postavljena pitanja",
+            "install_nitrox": {
+                "question": "Kako instalirati Nitrox?",
+                "answer": "<p>Koristi čarobnjaka za instaliranje Nitroxa ili pročitaj upute i saznaj kako instalirati Mod.</p>"
+            },
+            "status": {
+                "question": "Kakvo je trenutačno stanje?",
+                "answer": "<p>Mod se nalazi u vrlo ranoj fazi razvoja; međutim, postavljen je čvrst temelj za zajednicu za daljnji razvoj. Sljedeće etape su dovršene:</p><ul class=\"disc\"><li>Komunikacija između klijenta/poslužitelja</li><li>Kretanje igrača</li><li>Sinkronizacija podizanja/ispuštanja objekata</li><li>Sinkronizacija svijeta dugog dometa</li><li>Izgradnja baze</li><li>Izgradnja namještaja</li><li>Većina interakcija namještaja (kontejneri/proizvođači medicinskih pribora/punjači/itd.)</li><li>Upravljanje energijom</li><li>Seamoth i Exosuit sinkronizacija</li><li>Osnovna sinkronizacija kiklopa</li><li>Rudimentarni sustav razgovora</li><li>Novi HUD za udaljene igrače</li><li>Osnovne animacije igrača</li><li>Integracija s&nbsp;<a href=\"https://github.com/pardeike/Harmony\" target=\"_blank\">Harmony</a></li></ul>"
+            },
+            "play": {
+                "answer": "Preuzmi instalacijski program iz odjeljka „Preuzimanje”. Napomena: još uvijek se nalazi u fazi razvoja i može sadržati greške.",
+                "question": "Kako mogu igrati ovaj mod?"
+            },
+            "bz": {
+                "question": "Je li Nitrox kompatibilan sa Subnautica: Below Zero?",
+                "answer": "Trenutačno Nitrox mod radi samo s osnovnom igrom Subnautica. Dodavanje podrške za Below Zero je planirano, ali neće biti objavljena prije nego što trenutačna verzija Nitroxa postane stabilna."
+            },
+            "help": {
+                "answer": "Najprije pročitaj korake na našoj wiki stranici. Ako to ne uspije, zatraži pomoć na našem Discord kanalu.",
+                "question": "Kako mogu pomoći?"
+            },
+            "contribute": {
+                "answer": "Jednostavno pošalji zahtjev za povlačenje na <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">GitHub stranici</a>. Slobodno nam se pridruži i na našem <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">discord kanalu</a> za raspravljanje i razmjenu povratnih informacija ili ideja s drugim doprinositeljima, programerima i igračima.",
+                "question": "Kako mogu doprinijeti?"
+            },
+            "donate": {
+                "question": "Kako mogu donirati?",
+                "answer": "Ne prihvaćamo donacije modu. Oni koji žele dati novac mogu to učiniti ovdje: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+            },
+            "why": {
+                "question": "Zašto ime „Nitrox”?",
+                "answer": "Nitrox je alternativna mješavina zraka koju ronioci koriste za postizanje duljeg vremena u dubinama. Kao mod, pružit će novu dimenziju igranja za produženje tvog užitka."
+            }
+        },
+        "wizard_more": "Naš novi interaktivni Nitrox čarobnjak vodi te korak po korak kroz proces instalacije i nadogradnje. Jednostavno odgovori na svaki korak i odmah ćeš dobiti odgovor. Isprobaj ga danas!",
+        "support": "Dobij pomoć",
+        "support_more": "Naš tim za podršku ti može pomoći.<br>Pridruži se Discordu i pronaći ćemo rješenje.",
+        "support_discord": "Pridruži se Nitrox Discordu",
+        "title": "Dobrodošlica Nitrox podrške",
+        "subtitle": "Pregledaj korisne upute i pročitaj prve korake kako početi koristiti Nitrox.",
+        "search_install": "Instaliraj Nitrox Mod Steam i Epic Games",
+        "search_run": "Pokreni i hostiraj Nitrox poslužitelj",
+        "search_join": "Pridruži se jednom Nitrox poslužitelju",
+        "wizard": "Čarobnjak za instaliranje i nadogradnju"
+    }
+}
