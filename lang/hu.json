@@ -1,0 +1,33 @@
+{
+    "home": {
+        "feature": {
+            "multiplayer": {
+                "headline": "A mod"
+            },
+            "community": {
+                "headline": "Közösség",
+                "downloads": "Letöltések"
+            },
+            "upnp": {
+                "title": "Automatikus porttovábbítás",
+                "headline": "UPnP támogatás"
+            },
+            "chat": {
+                "title": "Játékbeli üzenetküldés"
+            },
+            "server": {
+                "number": "0-24",
+                "subtitle": "Szerverek"
+            },
+            "code": {
+                "title": "Nyílt forráskód"
+            },
+            "stores": {
+                "headline": "Támogatott boltok"
+            },
+            "host": {
+                "subtitle": "Maximális férőhely"
+            }
+        }
+    }
+}
