@@ -3,18 +3,19 @@
         "feature": {
             "multiplayer": {
                 "description": "Jouer à Subnautica avec vos amis. Rejoignez ou créé votre serveur.",
-                "headline": "Le mode",
+                "headline": "Le mod",
                 "title": "Nitrox multijoueurs"
             },
             "chat": {
                 "headline": "Communication",
-                "title": "Messagerie en jeu"
+                "title": "Messagerie en jeu",
+                "description": "Restez en contact avec le système de messagerie en jeu cross-platform par Nitrox."
             },
             "stores": {
                 "tooltip": "Non disponible pour le moment",
                 "headline": "Versions supporter",
                 "title": "Multiplate-forme",
-                "description": "Compatible avec vos magasins préféré. Cross-platforme natif pour un multijoueur sans problèmes."
+                "description": "Compatible avec vos magasins préféré. Un support cross-platform natif pour un multijoueur parfait."
             },
             "gameplay": {
                 "headline": "Gameplay",
@@ -38,6 +39,9 @@
                 "headline": "Code de base",
                 "title": "Sources libre",
                 "description": "Support et mise-à-jour régulière de nos contributeurs. Contribuez à rendre le mode meilleur."
+            },
+            "upnp": {
+                "headline": "Support UPnP"
             }
         },
         "meta": {
@@ -48,5 +52,12 @@
         "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
         "hero_cta": "Télécharger gratuitement",
         "explore": "Essayer Subnautica <span class=\"opacity-5\">comme un tout nouveau jeu. Faite équipe. Explorer de nouvelles profondeurs. Construisais des bases gigantesque.</span>"
+    },
+    "wiki": {
+        "faq": {
+            "why": {
+                "answer": "Le Nitrox est une mixture d'air utilisée par les plongeurs pour rester plus longtemps dans les profondeurs. Le mod ajoutera une nouvelle dimension de gameplay pour rallonger votre plaisir de jeu."
+            }
+        }
     }
 }
