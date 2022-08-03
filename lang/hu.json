@@ -23,11 +23,15 @@
                 "title": "Nyílt forráskód"
             },
             "stores": {
-                "headline": "Támogatott boltok"
+                "headline": "Támogatott boltok",
+                "tooltip": "Jelenleg nem elérhető"
             },
             "host": {
                 "subtitle": "Maximális férőhely"
             }
+        },
+        "meta": {
+            "description": "A Nitrox az egy ingyenes többjátékos mod a Subnautica játékhoz a közösség által fejlesztve."
         }
     }
 }
