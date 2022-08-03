@@ -79,7 +79,8 @@
             },
             "wiki": {
                 "title": "入门",
-                "description": "阅读安装指南和常见问题页面"
+                "description": "阅读安装指南和常见问题页面",
+                "link": "访问指南"
             }
         },
         "meta": {
@@ -87,5 +88,31 @@
             "description": "Nitrox是社区开发的一款免费多人游戏深海迷航模组。"
         },
         "explore": "像全新游戏一样体验 Subnautica <span class=\"opacity-5\">。 组队。 探索新的深度。 建立史诗般的基地。</span>"
+    },
+    "download": {
+        "meta": {
+            "description": "下载Nitrox: 由社区开发的免费深海迷航多人游戏模组。",
+            "title": "下载 Nitrox · 深海迷航多人游戏模组"
+        },
+        "header": {
+            "alpha": "早期测试",
+            "title": "下载 Nitrox",
+            "download": "开始下载",
+            "version": "Alpha",
+            "stores": "支持的商店版本",
+            "subtitle": "你的冒险在等待. 免费下载Nitrox，开始深海迷航多人游戏!"
+        },
+        "changelog": "更新日志",
+        "changelog_older": "查看历史变更日志",
+        "sidebar": "Nitrox模组. <span class=\"opacity-5\">开源深海迷航多人游戏模组.</span>"
+    },
+    "about": {
+        "quote": "引用自",
+        "title": "模组制作者为深海迷航带来了多人游戏模式"
+    },
+    "download_start": {
+        "meta": {
+            "title": "下载已开始… · 深海迷航多人游戏模组"
+        }
     }
 }
