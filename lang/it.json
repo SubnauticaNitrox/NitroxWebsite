@@ -31,7 +31,7 @@
                 "discord": "Membri Discord",
                 "downloads": "Download",
                 "description": "Entra a far parte della grande e crescente comunità di Nitrox. Trova nuovi server, ottieni aiuto e parla con altri giocatori di Nitrox.",
-                "headline": "",
+                "headline": "Community",
                 "title": "Basata sui giocatori"
             },
             "launcher": {
@@ -140,7 +140,7 @@
         "discord": "Unisciti al nostro server Discord attivo per trovare server su cui giocare, ottenere aiuto dal team di supporto e molto altro.",
         "reddit_join": "Versione",
         "github_link": "Contribuisci su GitHub",
-        "title": ""
+        "title": "Nitrox community"
     },
     "about": {
         "meta": {
@@ -162,7 +162,10 @@
         "users": "Utenti",
         "discord": "Membri Discord",
         "version": "Ultima versione:",
-        "download": "Download"
+        "download": "Download",
+        "user_count": "500,250+",
+        "download_count": "1,000,000+",
+        "discord_members": "27,000+"
     },
     "os": {
         "hero": "L'open source è il cuore di Nitrox. <span class=\"opacity-5\">La mod è nelle primissime fasi di sviluppo; tuttavia, sono state gettate solide fondamenta su cui la comunità può iterare.</span>",
@@ -176,7 +179,9 @@
         },
         "license_link": "Per saperne di più",
         "join": "Vuoi far parte del team?",
-        "license_info": "SubnauticaNitrox/Nitrox è concesso sotto licenza \"GNU General Public License v3.0\""
+        "license_info": "SubnauticaNitrox/Nitrox è concesso sotto licenza \"GNU General Public License v3.0\"",
+        "license": "GNU General Public License v3.0",
+        "title": "Basato su<br>open source."
     },
     "resources": {
         "fonts": "Caratteri",
@@ -203,7 +208,8 @@
             "host_info": "Ospita facilmente un grande evento con supporto fino a 100 giocatori.",
             "host_footnote": "Max. 100 giocatori nel server, numero di giocatori consigliato 5.",
             "connect_subtitle": "Tecnologia",
-            "play_footnote": "I server pubblici non sono ospitati da Nitrox e non sono garantiti al 100%. I server di terze parti non sono moderati dal team Nitrox."
+            "play_footnote": "I server pubblici non sono ospitati da Nitrox e non sono garantiti al 100%. I server di terze parti non sono moderati dal team Nitrox.",
+            "host": "Host"
         },
         "features": "I server Nitrox <span class=\"opacity-5\">sono potenti, ma facili da ospitare. Con codice ottimizzato scritto per Subnautica. Funziona in modo estremamente leggero e non richiede quasi nessuna risorsa, per ottenere le migliori prestazioni di gioco;</span>",
         "feature_list": "<p class=\"lead\">Il server Nitrox include tutto il necessario per avviare, ospitare e giocare a Subnautica in modalità multiplayer.</p>\n<ul class=\"lead\">\n<li>Console server</li>\n<li>Sistema di chat integrato</li>\n<li>Porta del server configurabile</li>\n<li>Massimo di 100 giocatori connessi</li>\n<li>Funzione di salvataggio automatico</li>\n<li>Impostazione della modalità di gioco e configurabile</li>\n<li>Modalità server pubblico</li>\n<li>Server privato protetto da password</li>\n</ul>",
@@ -218,7 +224,8 @@
         "hub_info": "Con il programma di avvio riprogettato puoi facilmente rimanere aggiornato su tutto ciò che riguarda Nitrox. Sii il primo a ricevere le ultime versioni, informazioni dettagliate per migliorare la tua esperienza sul server e una scheda community con accesso a server ospitati dalla community 24 ore su 24, 7 giorni su 7.",
         "settings_info": "Hai acquistato più copie di Subnautica? Nessun problema. Nitrox Launcher è in grado di rilevare automaticamente tutte le installazioni di giochi Subnautica, consentendoti di scegliere rapidamente tra diverse versioni del negozio. Semplificazione della configurazione ed eliminazione della necessità di specificare manualmente un percorso.",
         "server_info": "Nitrox Server è integrato nel programma di avvio. Ciò consente una rapida configurazione della tua istanza multiplayer. Grazie a UPNP Nitrox si occupa automaticamente del port forwarding. Il server è leggero e facile da eseguire senza utilizzare molte risorse di sistema.",
-        "hub": "Il tuo hub per tutto ciò che riguarda Nitrox."
+        "hub": "Il tuo hub per tutto ciò che riguarda Nitrox.",
+        "server": "Server"
     },
     "changelog": {
         "download": "Scarica",
