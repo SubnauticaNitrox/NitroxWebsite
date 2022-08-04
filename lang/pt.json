@@ -29,7 +29,7 @@
                 "description": "Utiliza o Iniciador Nitrox, actualmente disponível para Windows. Com uma interface de utilizador bem concebida para tornar ainda mais fácil jogar em multijogador."
             },
             "lang": {
-                "languages": "Inglês, Holandês, Francês, Alemão, Grego, Coreano, Polaco, Romeno, Espanhol, Sueco, Turco, Ucraniano, …",
+                "languages": "Inglês, Croata, Holandês, Francês, Alemão, Grego, Coreano, Polaco, Romeno, Espanhol, Sueco, Turco, Ucraniano, …",
                 "headline": "A comunidade adicionou idiomas",
                 "title": "O Nitrox também fala o teu idioma.",
                 "link": "Contribui &amp; adiciona o teu idioma"
@@ -52,7 +52,7 @@
                 "description": "Joga Subnautica, desde um jogo de sobrevivência com teus amigos até uma sessão de construção criativa."
             },
             "chat": {
-                "description": "Mantêm-te em contacto com o sistema de mensagens de jogo compatível Nitrox, construído em plataforma cruzada.",
+                "description": "Mantenha contato com o sistema de mensagens de jogo compatível, o Nitrox, construído em plataforma cruzada.",
                 "headline": "Comunicação",
                 "title": "Mensagens dentro do jogo"
             },
@@ -302,7 +302,7 @@
             "install": "Instalação do Nitrox",
             "server": "Correndo o servidor",
             "server_more": "Depois de instalares o mod, podem começar a jogar juntos, executando e alojando o servidor Nitrox.",
-            "join_more": "Queres juntar-te a outro servidor? Aprende como adicionar e juntares-te a outros servidores Nitrox e jogar Subnautica multiplayer.",
+            "join_more": "Quer se juntar a outro servidor? Aprenda como adicionar e juntar-se a outros servidores Nitros e jogar Subnautica Multiplayer.",
             "join": "Ingressar num servidor",
             "install_more": "Começa por instalar o Nitrox Mod. Segue os passos cuidadosamente e estarás pronto para jogar em pouco tempo!"
         },
@@ -320,7 +320,7 @@
             },
             "bz": {
                 "question": "O Nitrox é compatível com Subnautica: Below Zero?",
-                "answer": "Actualmente o Nitrox mod só funciona com o jogo base da Subnautica. A adição de suporte para Below Zero está planeada, mas não será lançada antes da versão actual de Nitrox ser estável."
+                "answer": "Atualmente o Nitrox só funciona com Subnautica. A adição de suporte para Below Zero está planeada, mas não será lançada antes da versão actual de Nitrox ser estável."
             },
             "install_nitrox": {
                 "question": "Como é que instalo o Nitrox?",
@@ -351,7 +351,7 @@
         "wizard": "Assistente de Instalação e Atualização",
         "wizard_more": "O nosso novo Assistente Interactivo Nitrox guia-te passo a passo através do processo de instalação e actualização. Basta responder a cada passo e obter uma resposta instantânea. Experimenta-o hoje mesmo!",
         "wizard_link": "Inicia o Assistente Nitrox",
-        "support_discord": "Junta-te ao Discord do Nitrox"
+        "support_discord": "Junte-se ao Discord do Nitrox"
     },
     "changelog": {
         "title": "Registo de alterações",

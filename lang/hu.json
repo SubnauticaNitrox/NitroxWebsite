@@ -1,0 +1,37 @@
+{
+    "home": {
+        "feature": {
+            "multiplayer": {
+                "headline": "A mod"
+            },
+            "community": {
+                "headline": "Közösség",
+                "downloads": "Letöltések"
+            },
+            "upnp": {
+                "title": "Automatikus porttovábbítás",
+                "headline": "UPnP támogatás"
+            },
+            "chat": {
+                "title": "Játékbeli üzenetküldés"
+            },
+            "server": {
+                "number": "0-24",
+                "subtitle": "Szerverek"
+            },
+            "code": {
+                "title": "Nyílt forráskód"
+            },
+            "stores": {
+                "headline": "Támogatott boltok",
+                "tooltip": "Jelenleg nem elérhető"
+            },
+            "host": {
+                "subtitle": "Maximális férőhely"
+            }
+        },
+        "meta": {
+            "description": "A Nitrox az egy ingyenes többjátékos mod a Subnautica játékhoz a közösség által fejlesztve."
+        }
+    }
+}
