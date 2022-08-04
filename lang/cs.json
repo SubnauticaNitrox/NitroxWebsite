@@ -1,0 +1,15 @@
+{
+    "home": {
+        "meta": {
+            "title": "Nitrox pro Subnauticu - Subnautica Multiplayer Mod",
+            "description": "Nitrox je bezplatný multiplayerový mód pro hru Subnautica vytvořen komunitou."
+        },
+        "hero_cta": "Stáhnout bezplatně",
+        "explore": "Zažij Subnauticu <span class=\"opacity-5\">jako úplně novou hru. Seskup se. Prozkoumej nové hlubiny. Postav velkolepé stavby.</span>",
+        "feature": {
+            "multiplayer": {
+                "headline": "Mód"
+            }
+        }
+    }
+}
