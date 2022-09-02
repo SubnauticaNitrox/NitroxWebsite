@@ -52,7 +52,7 @@
                 "headline": "社区添加的语言",
                 "title": "Nitrox 也会说您的语言。",
                 "link": "贡献并添加您的语言",
-                "languages": "英语、荷兰语、法语、德语、希腊语、韩语、波兰语、罗马尼亚语、西班牙语、瑞典语、土耳其语、乌克兰语……"
+                "languages": "英语、克罗地亚语、荷兰语、法语、德语、希腊语、韩语、波兰语、罗马尼亚语、俄语、西班牙语、瑞典语、土耳其语、乌克兰语……"
             },
             "host": {
                 "headline": "主持人",
@@ -112,12 +112,32 @@
     },
     "download_start": {
         "meta": {
-            "title": "下载已开始… · 深海迷航多人游戏模组"
+            "title": "下载已开始… · 深海迷航多人游戏模组",
+            "description": "下载 Nitrox：一款由社区开发的深海迷航免费多人游戏模组。"
         },
         "header": {
             "started": "已开始下载",
             "helper": "你的下载应该在<span id=\"countdowntimer\">2</span>秒内自动开始。如果它没有, ",
             "helper_link": "重新开始下载"
-        }
+        },
+        "next_steps": "接下来的步骤",
+        "install_vid": "安装视频",
+        "community_join": "加入社区",
+        "guide": "安装与升级教程",
+        "guide_link": "Nitrox 安装教程",
+        "download_infos": "下载信息",
+        "file_size": "文件大小",
+        "version": "版本",
+        "md5": "MD5 校验值"
+    },
+    "community": {
+        "meta": {
+            "description": "成为逐渐壮大的 Nitrox 社区的一份子。寻找新服务器，请求帮助或是与其他 Nitrox 玩家交流。",
+            "title": "Nitrox 社区 · 深海迷航多人游戏模组"
+        },
+        "title": "Nitrox 社区",
+        "subtitle": "与世界各地的玩家一起加入 Nitrox 社区。",
+        "discord": "加入我们活跃的 Discord 服务器，寻找供游玩的服务器，或是向支持团队寻求帮助。在这里能做的还远不止这些。",
+        "discord_join": "在 Discord 上加入我们"
     }
 }
