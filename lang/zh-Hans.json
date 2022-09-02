@@ -113,6 +113,11 @@
     "download_start": {
         "meta": {
             "title": "下载已开始… · 深海迷航多人游戏模组"
+        },
+        "header": {
+            "started": "已开始下载",
+            "helper": "你的下载应该在<span id=\"countdowntimer\">2</span>秒内自动开始。如果它没有, ",
+            "helper_link": "重新开始下载"
         }
     }
 }
