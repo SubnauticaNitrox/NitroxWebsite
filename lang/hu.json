@@ -2,7 +2,9 @@
     "home": {
         "feature": {
             "multiplayer": {
-                "headline": "A mod"
+                "headline": "A mod",
+                "title": "Nitrox többjátékos",
+                "description": "Végre elkezdheted játszani a Subnauticát a barátaiddal. Csatlakozz egy szerverhez, vagy készítsd el a sajátodat."
             },
             "community": {
                 "headline": "Közösség",
@@ -24,14 +26,21 @@
             },
             "stores": {
                 "headline": "Támogatott boltok",
-                "tooltip": "Jelenleg nem elérhető"
+                "tooltip": "Jelenleg nem elérhető",
+                "title": "Cross platform",
+                "description": "Kompatibilis a kedvenc áruházaiddal. A nemzetközi ,,cross-play \" támogatás lehetővé teszi a gördülékeny többjátékos játékélményt."
             },
             "host": {
                 "subtitle": "Maximális férőhely"
             }
         },
         "meta": {
-            "description": "A Nitrox az egy ingyenes többjátékos mod a Subnautica játékhoz a közösség által fejlesztve."
-        }
+            "description": "A Nitrox az egy ingyenes többjátékos mod a Subnautica játékhoz a közösség által fejlesztve.",
+            "title": "Nitrox a Subnautica-ért - Subnautica Többjátékos Mod"
+        },
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_slogan": "<span>Tied</span> <span>többjátékos</span> <span>Mod</span> <span>for</span> <span>Subnautica.</span>",
+        "hero_cta": "Ingyenesen letölthető",
+        "explore": "Fedezd fel a Subnauticát <span class=\"opacity-5\">mint egy vadonatúj játékot. Szövetkezz. Fedezd fel a mélységet. Építs lenyűgöző bázisokat.</span>"
     }
 }
