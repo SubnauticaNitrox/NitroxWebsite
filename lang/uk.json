@@ -1,1 +1,49 @@
-{}
+{
+    "home": {
+        "meta": {
+            "title": "Nitrox для Subnautica · Мод для мультиплеєру Subnautica",
+            "description": "Nitrox це безкоштовний мод на мультиплеєр для гри Subnautica зроблений її спільнотою."
+        },
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_slogan": "<span>Твій</span> <span>мод</span> <span>на</span> <span>мультиплеєр</span> <span>для</span> <span>Subnautica.</span>",
+        "hero_cta": "Завантажуй безкоштовно",
+        "feature": {
+            "multiplayer": {
+                "title": "Nitrox multiplayer",
+                "description": "Нарешті починайте грати у Subnautica разом з друзями. Приєднайтеся або створіть свій власний сервер.",
+                "headline": "Мод"
+            },
+            "stores": {
+                "headline": "Підтримуються версії магазинів",
+                "title": "Кросс платформова",
+                "tooltip": "Наразі не доступно"
+            },
+            "gameplay": {
+                "headline": "Ігровий процес",
+                "title": "Твій ігровий процес"
+            },
+            "code": {
+                "headline": "База коду",
+                "title": "Відкритий доступ"
+            },
+            "community": {
+                "downloads": "Завантаження",
+                "discord": "Учасники Discord",
+                "headline": "Спільнота"
+            },
+            "launcher": {
+                "title": "Nitrox Launcher"
+            },
+            "chat": {
+                "headline": "Комунікація"
+            },
+            "upnp": {
+                "headline": "Підтримка UPnP"
+            },
+            "lang": {
+                "headline": "Мови додані спільнотою"
+            }
+        },
+        "explore": "Спробуйте Subnautica <span class=\"opacity-5\">як абсолютно нову гру. Збирайтеся в команди. Досліджуйте нові глибини. Будуйте приголомшливі бази.</span>"
+    }
+}

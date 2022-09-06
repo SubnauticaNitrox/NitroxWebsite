@@ -3,9 +3,18 @@
 
 return [
     [
+        "version" => "1.6.1.0",
+        "released" => "2022-09-06T17:25:00Z",
+        "permalink" => "https://nitrox.rux.gg/pages/changelog#nitrox%C2%A01-6-1-0",
+        "patchnotes" => [
+            "Fixed a bug where fragments wouldn't spawn at all",
+            "Added fallback when external IP returned by router is a private network"
+        ],
+    ],
+    [
         "version" => "1.6.0.0",
         "released" => "2022-02-21T18:33:00Z",
-        "permalink" => "https://nitrox.rux.gg/pages/changelog#nitrox%C2%A01-5-0-1",
+        "permalink" => "https://nitrox.rux.gg/pages/changelog#nitrox%C2%A01-6-0-0",
         "patchnotes" => [
             "Added a brand new launcher UI",
             "Reworked Discord integration with modernized UI",

@@ -312,7 +312,7 @@
             "title": "Perguntas mais frequentes",
             "status": {
                 "question": "Qual é o estado atual?",
-                "answer": "<p>O mod está nas fases muito iniciais de desenvolvimento; no entanto, foi lançada uma base sólida para que a comunidade possa iterar. Os seguintes marcos foram completados:</p><ul class=\"disc\"><li>Client / Server Communication</li><li>Player movement</li><li>li&gt;Picking up / Dropping item syncing</li><li>Sincronização mundial a longo alcance</li><li>li&gt;Construção de base</li><li>Construção de mobiliário</li><li>li&gt;A maioria das interacções de mobiliário (contentores / fabricantes de medkit / carregadores / etc)</li><li>li&gt;Gestão de energia</li><li>Seamoth &amp; Exosuit Syncing</li><li>Basic cyclops syncing</li><li>Rudimentary chat system</li><li>li&gt;Novo HUD para jogadores remotos</li><li>Animações básicas de jogadores</li><li>li&gt;Integração com <a href=\"https://github.com/pardeike/Harmony\" target=\"_blank\">Harmony</a></li></ul>"
+                "answer": "<p>O mod está nas fases muito iniciais de desenvolvimento; no entanto, foi lançada uma base sólida para que a comunidade possa iterar. Os seguintes objetivos foram completados:</p><ul class=\"disc\"><li>Comunicação Cliente / Servidor</li><li>Movimento do jogador</li><li>Sincronização de pegar / largar item</li><li>Sincronização mundial a longo alcance</li><li>Construção de base</li><li>Construção de mobília</li><li>A maioria das interacções de mobiliário (armazenamento / fabricantes de kit médico / carregadores / etc.)</li><li>Gestão de energia</li><li>Sincronização do Seamoth &amp; Exosuit</li><li>Sincronização básica do Cyclops</li><li>Sistema de chat rudimentar</li><li>Novo HUD para jogadores remotos</li><li>Animações básicas de jogadores</li><li>Integração com <a href=\"https://github.com/pardeike/Harmony\" target=\"_blank\">Harmony</a></li></ul>"
             },
             "play": {
                 "question": "Como posso jogar este mod?",
@@ -328,7 +328,7 @@
             },
             "help": {
                 "question": "Como posso obter ajuda?",
-                "answer": "Por favor, lê primeiro os passos na nossa wiki. Se isso não funcionar, por favor, pede a nossa ajuda para conversar no canal discord."
+                "answer": "Por favor, leia primeiro os passos na nossa wiki. Se isso não funcionar, por favor, peça em nosso chat de ajuda no canal do Discord."
             },
             "contribute": {
                 "question": "Como posso contribuir?",
@@ -336,7 +336,7 @@
             },
             "donate": {
                 "question": "Como posso doar?",
-                "answer": "Não aceitamos doações para o mod.  Aqueles que desejem dar dinheiro podem fazê-lo aqui: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+                "answer": "Não aceitamos doações para o mod.  Aqueles que desejem doar dinheiro podem fazê-lo aqui: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
             },
             "why": {
                 "question": "Porquê o nome \" Nitrox\"?",
