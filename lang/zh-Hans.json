@@ -202,5 +202,12 @@
             "title": "Nitrox服务器 · 特点"
         },
         "features": "Nitrox服务器 <span class=\"opacity-5\">是强大的，并易于托管。拥有为深海迷航编写的优化代码。运行非常轻量化，几乎不需要任何繁重资源，即可获得最佳的游戏性能。</span>"
+    },
+    "wiki": {
+        "faq": {
+            "install_nitrox": {
+                "question": "如何安装Nitrox？"
+            }
+        }
     }
 }
