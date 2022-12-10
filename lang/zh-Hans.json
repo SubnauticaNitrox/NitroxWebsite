@@ -84,7 +84,7 @@
             }
         },
         "meta": {
-            "title": "Nitrox是深海迷航 · 深海迷航多人遊戲模組",
+            "title": "Nitrox是深海迷航的多人游戏模组",
             "description": "Nitrox是社区开发的一款免费多人游戏深海迷航模组。"
         },
         "explore": "像全新游戏一样体验 Subnautica <span class=\"opacity-5\">。 组队。 探索新的深度。 建立史诗般的基地。</span>"
@@ -108,7 +108,29 @@
     },
     "about": {
         "quote": "引用自",
-        "title": "模组制作者为深海迷航带来了多人游戏模式"
+        "title": "模组制作者们为深海迷航带来了多人游戏模式。",
+        "multiplayer": "多人游戏。<span class=\"opacity-5\">在多人游戏模式中体验深海迷航的乐趣。</span>",
+        "discord_join": "在Discord上加入我们",
+        "meta": {
+            "description": "了解更多关于团队和开源Nitrox项目的信息",
+            "title": "关于Nitrox深海迷航多人游戏模组"
+        },
+        "why": "什么是Nitrox？",
+        "version": "最新版本号：",
+        "download_header": "准备好了？获取模组！",
+        "download_description": "正在等你的冒险。免费下载Nitrox多人联机模组，开始玩深海迷航多人游戏吧！",
+        "download_title": "EARLY ALPHA",
+        "download": "下载",
+        "opensource": "开源。<span class=\"opacity-5\">慷慨的贡献者们定期提供支持和更新。</span>",
+        "servers": "社区。 <span class=\"opacity-5\">寻找新的服务器，获得帮助并与其他Nitrox玩家交谈。</span>",
+        "metrics": "我们的衡量标准",
+        "download_count": "1,000,000+",
+        "downloads": "下载",
+        "user_count": "500,250+",
+        "users": "使用者",
+        "discord_members": "27,000+",
+        "discord": "Discord成员",
+        "featured": "特色于"
     },
     "download_start": {
         "meta": {
@@ -138,6 +160,47 @@
         "title": "Nitrox 社区",
         "subtitle": "与世界各地的玩家一起加入 Nitrox 社区。",
         "discord": "加入我们活跃的 Discord 服务器，寻找供游玩的服务器，或是向支持团队寻求帮助。在这里能做的还远不止这些。",
-        "discord_join": "在 Discord 上加入我们"
+        "discord_join": "在 Discord 上加入我们",
+        "reddit_join": "版本号",
+        "twitter_follow": "在Twitter上关注",
+        "github": "想成为团队的一员吗？为GitHub上的Nitrox项目做出从代码到翻译的贡献吧。",
+        "github_link": "在GitHub上投稿",
+        "reddit": "加入Nitrox Subreddit以了解最新发布的信息并发布社区内容。",
+        "twitter": "关注Nitrox推特账户，以了解最新的更新、活动以及发布。"
+    },
+    "resources": {
+        "title": "Nitrox <span class=\"opacity-5\">资源</span>",
+        "images": "图像",
+        "meta": {
+            "title": "Nitrox官方资源 - 标志、排版、图像",
+            "description": "下载官方的Nitrox Mod资源，包括标志、字体、图像和更多。"
+        },
+        "fonts": "字体",
+        "images_info": "Nitrox多人游戏截图。 <span class=\"opacity-5\">使用这些来分享深海迷航的多人游戏体验。<br> 想加入自己的作品吗？请在Discord服务器上分享，或发推特给我们。</span>"
+    },
+    "os": {
+        "meta": {
+            "title": "开源的Nitrox · 特点",
+            "description": "开源代码是Nitrox模组的核心。从建立它的社区到维护它的支持。"
+        },
+        "dev_resources_contribute": "贡献",
+        "license": "GNU通用公共许可证v3.0",
+        "title": "由<br>开放源代码提供。",
+        "hero": "开源是Nitrox的核心。 <span class=\"opacity-5\">模组尚处于开发的早期阶段；然而，已经为社区的迭代奠定了一个坚实的基础。</span>",
+        "license_link": "了解更多",
+        "dev_resources_code": "代码维基",
+        "license_info": "SubnauticaNitrox/Nitrox采用GNU General Public License v3.0授权",
+        "dev_resources": "开发资源",
+        "join_info": "以下是你可以做出贡献的方式。",
+        "dev_resources_info": "请阅读我们在GitHub上的入门和代码贡献指南。",
+        "join": "你想成为团队的一员吗？"
+    },
+    "server": {
+        "title": "Nitrox服务器 <br>轻量化&amp;功能强大。",
+        "meta": {
+            "description": "Nitrox能提供强大的多人联机服务，同时又非常轻巧和节省资源。",
+            "title": "Nitrox服务器 · 特点"
+        },
+        "features": "Nitrox服务器 <span class=\"opacity-5\">是强大的，并易于托管。拥有为深海迷航编写的优化代码。运行非常轻量化，几乎不需要任何繁重资源，即可获得最佳的游戏性能。</span>"
     }
 }
