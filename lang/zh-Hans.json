@@ -52,7 +52,7 @@
                 "headline": "社区添加的语言",
                 "title": "Nitrox 也会说您的语言。",
                 "link": "贡献并添加您的语言",
-                "languages": "英语、克罗地亚语、荷兰语、法语、德语、希腊语、韩语、波兰语、罗马尼亚语、俄语、西班牙语、瑞典语、土耳其语、乌克兰语……"
+                "languages": "中文， 克罗地亚语， 荷兰语， 英语， 法语， 德语， 希腊语， 意大利语， 日语， 韩语， 波兰语， 葡萄牙语， 罗马尼亚语， 俄语， 西班牙语， 瑞典语， 土耳其语， 乌克兰语， …"
             },
             "host": {
                 "headline": "主持人",
@@ -201,13 +201,175 @@
             "description": "Nitrox能提供强大的多人联机服务，同时又非常轻巧和节省资源。",
             "title": "Nitrox服务器 · 特点"
         },
-        "features": "Nitrox服务器 <span class=\"opacity-5\">是强大的，并易于托管。拥有为深海迷航编写的优化代码。运行非常轻量化，几乎不需要任何繁重资源，即可获得最佳的游戏性能。</span>"
+        "features": "Nitrox服务器 <span class=\"opacity-5\">是强大的，并易于托管。拥有为深海迷航编写的优化代码。运行非常轻量化，几乎不需要任何繁重资源，即可获得最佳的游戏性能。</span>",
+        "feature_list": "<p class=\"lead\">从开始、到开服、到开玩深海迷航多人游戏，Nitrox 服务器包含所有你需要的东西。</p>\n<ul class=\"lead\">\n<li>提供服务端控制台</li>\n<li>内置聊天系统</li>\n<li>服务器端口可更改</li>\n<li>支持最大100名在线玩家</li>\n<li>支持自动保存</li>\n<li>可调整游戏模式</li>\n<li>支持公共服务器模式</li>\n<li>支持私人服务器和密码保护</li>\n</ul>",
+        "cards": {
+            "host_info": "轻松举办大型玩家活动，支持多达 100 名玩家。",
+            "host_slots": "最大玩家数",
+            "host_footnote": "上限100联机玩家，建议玩家数5名。",
+            "connect": "连接",
+            "connect_info": "自动通过“通用即插即用(UPnP)”快速设置端口转发。",
+            "connect_subtitle": "技术",
+            "play": "开玩",
+            "play_info": "在 Nitrox 社区中托管或查找专职服务器进行游戏。",
+            "play_subtitle": "服务器",
+            "play_footnote": "公开的服务器并不由 Nitrox 创办，无法保证100%的时间都正常运行。第三方服务器不由 Nitrox 团队管理。",
+            "host": "主机"
+        },
+        "features_included": "包含哪些内容？"
     },
     "wiki": {
         "faq": {
             "install_nitrox": {
-                "question": "如何安装Nitrox？"
+                "question": "如何安装Nitrox？",
+                "answer": "<p>请使用Nitrox安装向导，或通过阅读指南来学习如何安装Mod.</p>"
+            },
+            "status": {
+                "answer": "<p>该Mod正处于开发的早期阶段；然而，一个坚实的基础已经为社区的迭代奠定了基础。以下的里程碑已经完成。</p><ul class=\"disc\"><li>客户端/服务器通信</li><li>玩家移动</li><li>拾取/丢弃物品同步</li><li>。远距离世界同步</li><li>基地建设</li><li>家具建设</li><li>大多数家具互动（容器/医疗包制造者/充电器等）</li><li>电源管理</li><li>海虾号&amp;工具臂同步</li><li>基本的独眼巨人号同步</li><li>基本的聊天系统</li><li>远程玩家的新HUD</li><li>基本的玩家动画</li><li>与&nbsp;<a href=\"https://github.com/pardeike/Harmony\" target=\"_blank\">Harmony</a></li></ul>",
+                "question": "现状如何?"
+            },
+            "bz": {
+                "answer": "目前Nitrox mod只适用于深海迷航。虽计划增加对零度之下的支持，但在当前Nitrox版本稳定可靠之前不会发布。",
+                "question": "Nitrox与《深海迷航:零度之下》兼容吗？"
+            },
+            "contribute": {
+                "answer": "只需在 <a href=\"“https://github.com/SubnauticaNitrox/Nitrox”\" target=\"“_blank”\">GitHub 页面上提交拉取请求</a>。您也可以加入我们的<a href=\"“https://discord.gg/E8B4X9s”\" target=\"“_blank”\">discord频道</a>，与其他贡献者，开发人员和玩家讨论和交流反馈或想法。",
+                "question": "我怎样才能做出贡献？"
+            },
+            "title": "常见问题",
+            "play": {
+                "answer": "从 \"下载 \"页下载安装程序。 注意，开发仍在进行，可能会有bug。",
+                "question": "我怎样才能玩这个mod？"
+            },
+            "help": {
+                "question": "如何获得帮助？",
+                "answer": "请先阅读我们百科上的步骤。如果这不起作用，请在 discord 频道中聊天以请求我们的帮助。"
+            },
+            "donate": {
+                "question": "我如何捐款？",
+                "answer": "我们不接受对Mod的捐赠。 那些希望捐款的人可以在这里这样做：<a href=\"“https://www.doctorswithoutborders.org/”\" target=\"“_blank”\">https://www.doctorswithoutborders.org/</a>"
+            },
+            "why": {
+                "question": "为什么叫“Nitrox”？",
+                "answer": "Nitrox 是一种替代空气混合物，由水肺潜水员使用，以实现更长的潜水时间。作为一个Mod，它将提供一个新的境界来增加您的乐趣。"
             }
+        },
+        "subtitle": "浏览有用的指南并阅读如何迈出使用Nitrox的第一步。",
+        "cards": {
+            "install_more": "从安装Nitrox Mod开始。仔细按照步骤操作，您将即刻开玩，无需等待！",
+            "install": "正在安装Nitrox",
+            "server": "启动服务器",
+            "server_more": "安装mod 后，通过运行和托管 Nitrox 服务器，您可以开始联机玩。",
+            "join": "加入一个服务器",
+            "join_more": "想进别的服务器吗？了解如何添加和加入其他Nitrox服务器，玩深海迷航多人游戏。"
+        },
+        "wizard_more": "我们新的互动式 Nitrox 向导将一步一步地引导你完成安装和升级过程。只需回答每个步骤，就能得到即时的答案。现在就试试吧！",
+        "meta": {
+            "title": "说明书&amp;百科 · 深海迷航多人游戏Mod",
+            "description": "Nitrox 是由社区开发的深海迷航游戏的免费多人游戏Mod。"
+        },
+        "title": "欢迎访问 Nitrox 支持",
+        "quick_links": "快捷链接",
+        "search_placeholder": "搜索些什么…",
+        "search_install": "安装Nitrox Mod Steam 和 Epic Games",
+        "search_run": "运行并托管一个Nitrox 服务器",
+        "search_join": "加入一个Nitrox 服务器",
+        "search_home": "Nitrox 升级和安装向导",
+        "readmore": "阅读更多",
+        "wizard": "安装和升级向导",
+        "wizard_link": "启动Nitrox 向导",
+        "support": "获取支持",
+        "support_more": "我们的支持团队随时为您提供帮助。<br>加入 Discord，我们会找到解决方案。",
+        "support_discord": "加入Nitrox Discord"
+    },
+    "launcher": {
+        "settings_info": "买了多个《深海迷航》？没关系。Nitrox 启动器可以自动检测您安装的所有Subnautica游戏，使您可以在不同的商店版本之间快速选择。简化设置并消除手动指定路径的需要。",
+        "server": "服务器",
+        "server_info": "Nitrox 服务器已集成到启动器中。这允许快速设置您自己的多人游戏实例。得益于 UPnP，Nitrox 会自动实现端口转发。该服务器是轻量级的，易于运行，无需使用大量系统资源。",
+        "meta": {
+            "title": "Nitrox 启动器 · 功能",
+            "description": "Nitrox 启动器是您进入多人深海体验的入口。"
+        },
+        "coming_soon": "即将推出",
+        "launcher": "Nitrox 启动器.",
+        "hero": "全内置设计<br>多人游戏.",
+        "preview": "预览新的Nitrox启动器。<span class=\"opacity-5\">您体验多人游戏的不二之选。为便捷好用而精心设计。即将推出。</span>",
+        "redesigned": "从头开始重新设计。<span class=\"opacity-5\">专注于提供有用的信息。快速实现多人联机。详细的诊断日志。开服所需的一切。</span>",
+        "hub": "Nitrox，你梦寐以求的一切。",
+        "hub_info": "使用重新设计的启动器，您可以轻松地了解与Nitrox相关的所有内容。抢先获取最新版本、增强服务器体验的详细信息以及可以访问 7x24 社区托管服务器的社区选项卡。",
+        "settings": "智能设置",
+        "server_more": "了解更多"
+    },
+    "changelog": {
+        "meta": {
+            "description": "查看 Nitrox Mod 的最新版本更新日志和版本历史记录。",
+            "title": "更新日志· 深海迷航多人游戏Mod"
+        },
+        "title": "更新日志",
+        "subtitle": "查看 Nitrox Mod 版本的最新更新日志和版本历史记录。",
+        "latest_version": "最新版本:",
+        "download": "下载"
+    },
+    "footer-extended": {
+        "community": {
+            "discord_description": "与超过2万7千名会员聊天，了解深海迷航多人游戏，寻找其他玩家一起玩游戏并获得支持。",
+            "discord": "Nitrox Discord 服务器",
+            "discord_join": "点击在Discord加入",
+            "twitter": "在Twitter上关注",
+            "twitter_description": "在twitter上关注，始终在官方Nitrox Twitter上了解最新信息、见解等。",
+            "twitter_join": "点击访问 @modnitrox"
+        },
+        "footnote_1": "Windows 应用商店需要额外的设置。设置的步骤和支持可以在Nitrox Discord找到。",
+        "community_title": "社区",
+        "community_description": "与其他Nitrox 玩家联系和聊天",
+        "users": "唯一身份用户",
+        "downloads": "下载",
+        "nexus": "关系视图",
+        "discord": "Discord 成员",
+        "featured": "精选自",
+        "footnote_2": "上限100联机玩家，建议玩家数5名。",
+        "footnote_3": "公开的服务器并不由 Nitrox 创办，无法保证100%的时间都正常运行。第三方服务器不由 Nitrox 团队管理。"
+    },
+    "navigation": {
+        "community": "社区",
+        "home": "主页",
+        "guides": "导航",
+        "about": "关于",
+        "blog": "博客",
+        "motd": "来自Nitrox博客：为什么我们离开NexusMods。",
+        "read_more": "阅读更多"
+    },
+    "lang-select": {
+        "description": "选择你的语言.",
+        "title": "语言"
+    },
+    "team": {
+        "meta": {
+            "title": "Nitrox 开发小组· 深海迷航多人游戏Mod",
+            "description": "向开源 Nitrox 项目的慷慨贡献者问好"
+        },
+        "title": "Nitrox 由一个充满激情的开源贡献者团队构建。",
+        "join": "想加入我们吗？",
+        "join_description": "你也可以成为这个模组的贡献者。您可以开发 Nitrox 或加入客服团队！只需在discord服务器或子版块页面中申请"
+    },
+    "footer": {
+        "getstarted": "从这里开始",
+        "mod": "Mod",
+        "connect": "连接",
+        "learnmore": "了解更多",
+        "nav": {
+            "guides": "Nitrox 说明书",
+            "install": "安装说明",
+            "server_setup": "服务器设置",
+            "server_join": "加入一个服务器",
+            "download": "下载Nitrox",
+            "changelog": "更新日志",
+            "contribute": "开发",
+            "community": "社区",
+            "devblog": "开发人员博客",
+            "about": "关于",
+            "team": "团队",
+            "resources": "资源"
         }
     }
 }
