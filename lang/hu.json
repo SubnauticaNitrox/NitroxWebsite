@@ -25,7 +25,8 @@
             "server": {
                 "number": "0-24",
                 "subtitle": "Szerverek",
-                "headline": "Nyilvános Szerver"
+                "headline": "Nyilvános Szerver",
+                "description": "Keress állandó szervereket, amelyeken játszhatsz, a Nitrox Discord szerverén."
             },
             "code": {
                 "title": "Nyílt forráskód",
@@ -33,7 +34,7 @@
                 "description": "Rendszeres támogatás és frissítések a nagylelkű támogatóktól. Hozzájárulj és tedd jobbá a modot."
             },
             "stores": {
-                "headline": "Támogatott boltok",
+                "headline": "Támogatott bolti verziók",
                 "tooltip": "Jelenleg nem elérhető",
                 "title": "Cross platform",
                 "description": "Kompatibilis a kedvenc áruházaiddal. A nemzetközi ,,cross-play \" támogatás lehetővé teszi a gördülékeny többjátékos játékélményt."
@@ -55,6 +56,10 @@
             },
             "play": {
                 "headline": "Játssz"
+            },
+            "gameplay": {
+                "headline": "Játékmenet",
+                "title": "A játékod"
             }
         },
         "meta": {

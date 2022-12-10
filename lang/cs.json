@@ -8,8 +8,48 @@
         "explore": "Zažij Subnauticu <span class=\"opacity-5\">jako úplně novou hru. Seskup se. Prozkoumej nové hlubiny. Postav velkolepé stavby.</span>",
         "feature": {
             "multiplayer": {
-                "headline": "Mód"
+                "headline": "Mód",
+                "title": "Nitrox pro více hráču",
+                "description": "Konečně si můžete zahrát Subnaticu s přáteli. Připojite se nebo si vytvořte svůj vlastní server."
+            },
+            "stores": {
+                "headline": "Podporované verze",
+                "description": "Kompatibilní s vašimi oblíbenými obchody. Nativní podpora zabudovaná do módu umožňuje bezproblémové hraní s více hráči.",
+                "tooltip": "Aktuálně nedosptupný",
+                "title": "Multiplatformní"
+            },
+            "code": {
+                "description": "Běžná podpora a aktualizace od štědrých přispěvatelů. Přispějte a udělejte mod lepším.",
+                "headline": "Základ kódu",
+                "title": "Otevřený zdrojový kód"
+            },
+            "community": {
+                "headline": "Komunita",
+                "title": "Hráčova základna",
+                "downloads": "Stažené",
+                "description": "Buďte částí velké, rostoucí Nitrox komunity. Najdi nové servery, sežeň pomoc a povídej si s dalšími Nitrox hráči.",
+                "discord": "Členové Discordu"
+            },
+            "launcher": {
+                "headline": "Zkušenost",
+                "title": "Nitrox Launcher",
+                "description": "Používejte Nitrox Launcher, nyní dostupný pro Windows. Obsahuje dobře designované rozhraní umožňující jednodušší multiplayerové hraní.",
+                "view": "Zobrazit rozpracované koncepty"
+            },
+            "gameplay": {
+                "headline": "Hratelnost",
+                "title": "Váš herní zážitek",
+                "description": "Zahrejte si Subnaticu od hry o přežití až po kreativní svět."
+            },
+            "chat": {
+                "title": "Herní komunikace",
+                "headline": "Komunikace"
+            },
+            "upnp": {
+                "headline": "Podpora UPnP"
             }
-        }
+        },
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_slogan": "Váš více hráčový mód do Subnatiky"
     }
 }

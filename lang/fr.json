@@ -13,8 +13,8 @@
             },
             "stores": {
                 "tooltip": "Non disponible pour le moment",
-                "headline": "Versions supporter",
-                "title": "Multiplate-forme",
+                "headline": "Versions supportées",
+                "title": "Cross platform",
                 "description": "Compatible avec vos magasins préféré. Un support cross-platform natif pour un multijoueur parfait."
             },
             "gameplay": {
@@ -42,12 +42,12 @@
             },
             "upnp": {
                 "headline": "Support UPnP",
-                "description": "Nitrox ouvre automatique les ports requis pour permettre a tes amis de se connecter directement sans besoin d'utiliser un tierce VPN.",
-                "title": "Transfert de port automatique"
+                "description": "Nitrox ouvre automatiquement les ports requis pour permettre à tes amis de se connecter directement sans besoin d'utiliser un VPN tiers.",
+                "title": "Redirection de port automatique"
             },
             "play": {
                 "headline": "Jouer",
-                "description": "Capsule de sauvetage aléatoire, Ressource et Faune aléatoire et graine sauvegardé, Nouveau système de sauvetage, Plantes et Récoltes... et bien plus."
+                "description": "Capsule de sauvetage aléatoire, Ressources et Faune aléatoires et graine sauvegardée, Nouveau système de sauvetage, Plantes et Récoltes... et bien plus encore."
             },
             "server": {
                 "number": "24/7",
@@ -56,10 +56,10 @@
                 "description": "Trouve des serveurs permanents sur lesquels jouer, sur le Discord Nitrox."
             },
             "lang": {
-                "headline": "Langages ajoutés par la communauté",
+                "headline": "Langues ajoutées par la communauté",
                 "title": "Nitrox parle aussi ta langue.",
                 "link": "Contribue &amp; ajoute ton langage",
-                "languages": "Anglais, Croate, Néerlandais, Français, Allemand, Grec, Coréen, Polonais, Roumain, Russe, Espagnol, Suédois, Turc, Ukrainien,…"
+                "languages": "Allemand, Anglais, Chinois, Coréen, Croate, Espagnol, Français, Grec, Néerlandais, Polonais, Roumain, Russe, Suédois, Turc, Ukrainien,…"
             },
             "host": {
                 "headline": "Hôte",
@@ -83,7 +83,7 @@
                 "description": "Télécharge le Mod Nitrox gratuitement et commence à jouer en multijoueur !"
             },
             "wiki": {
-                "link": "Accédez aux guides",
+                "link": "Accéder aux guides",
                 "title": "Pour Commencer",
                 "description": "Lis le guide d'installation et la page FAQ"
             }
@@ -92,9 +92,66 @@
     "wiki": {
         "faq": {
             "why": {
-                "answer": "Le Nitrox est une mixture d'air utilisée par les plongeurs pour rester plus longtemps dans les profondeurs. Le mod ajoutera une nouvelle dimension de gameplay pour rallonger votre plaisir de jeu."
+                "answer": "Le Nitrox est une mixture d'air utilisée par les plongeurs pour rester plus longtemps dans les profondeurs. Le mod ajoutera une nouvelle dimension de gameplay pour rallonger votre plaisir de jeu.",
+                "question": "Pourquoi le nom « Nitrox » ?"
+            },
+            "title": "Questions fréquemment posées",
+            "install_nitrox": {
+                "question": "Comment installer Nitrox ?",
+                "answer": "<p>Veuillez utiliser l'assistant d'installation Nitrox ou lire les guides pour savoir comment installer le mod.</p>"
+            },
+            "status": {
+                "question": "Quel est l'état actuel ?",
+                "answer": "<p>Le mod en est aux tout premiers stades de développement ; cependant, une base solide a été posée pour que la communauté puisse itérer. Les étapes suivantes ont été franchies :</p><ul class=\"disc\"><li>Communication client/serveur</li><li>Déplacement du joueur</li><li>Synchronisation de l'élément ramasser/déposer </li><li>Synchronisation mondiale à longue portée</li> <li>Bâtiment de base</li> <li>Construction de meubles</li> <li>La plupart des interactions de meubles (conteneurs / fabricants de kits médicaux / chargeurs / etc) </li><li>Gestion de l'alimentation</li> <li>Synchronisation Seamoth &amp; Exosuit</li> <li>Synchronisation basique des cyclopes</li> <li>Système de chat rudimentaire</li> <li>Nouveau HUD pour les joueurs distants </li><li>Animations de base du lecteur</li><li>Intégration avec <a href=\"https://github.com/pardeike/Harmony\" target=\"_blank\">Harmony</a></li></ul>"
+            },
+            "play": {
+                "question": "Comment puis-je jouer à ce mod ?",
+                "answer": "Téléchargez le programme d'installation à partir de la section \"Télécharger\". Gardez à l'esprit que cela est encore en développement et peut avoir des bugs."
+            },
+            "bz": {
+                "question": "Le mod Nitrox est-il compatible avec Subnautica : Below Zero ?",
+                "answer": "Actuellement, le mod Nitrox ne fonctionne qu'avec le jeu de base de Subnautica. L'ajout de la prise en charge de Below Zero est prévu, mais ne sera pas publié avant que la version actuelle de Nitrox ne soit stable."
+            },
+            "help": {
+                "question": "Comment puis-je obtenir de l'aide ?",
+                "answer": "Veuillez d'abord lire les étapes sur notre wiki. Si cela ne fonctionne pas, veuillez demander à notre chat d'aide dans le canal Discord."
+            },
+            "contribute": {
+                "question": "Comment puis-je contribuer ?",
+                "answer": "Soumettez simplement une demande sur la <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">page GitHub</a>. N'hésitez pas à nous rejoindre également sur notre <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">canal Discord</a> pour discuter et échanger des commentaires ou des idées avec d'autres contributeurs, développeurs et joueurs."
+            },
+            "donate": {
+                "question": "Comment puis-je faire un don ?",
+                "answer": "Nous n'acceptons pas les dons au mod. Ceux qui souhaitent donner de l'argent peuvent le faire ici : <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
             }
-        }
+        },
+        "subtitle": "Parcourez les guides utiles et lisez les premières étapes pour commencer avec Nitrox.",
+        "meta": {
+            "description": "Nitrox est un mod multijoueur gratuit développé par la communauté pour le jeu Subnautica.",
+            "title": "Guides &amp; Wiki  · Subnautica Multijoueur Mod"
+        },
+        "title": "Bienvenue sur le Support Nitrox",
+        "search_join": "Rejoindre un serveur Nitrox",
+        "search_home": "Assistant de mise à niveau et d'installation de Nitrox",
+        "cards": {
+            "server_more": "Après avoir installé le mod, vous pouvez commencer à jouer ensemble en exécutant et en hébergeant le serveur Nitrox.",
+            "join": "Rejoindre un serveur",
+            "join_more": "Vous souhaitez rejoindre un autre serveur ? Découvrez comment ajouter et rejoindre d'autres serveurs Nitrox et jouer au multijoueur Subnautica.",
+            "install": "Installation de Nitrox",
+            "install_more": "Commencez par installer le Nitrox Mod. Suivez attentivement les étapes et vous serez prêt à jouer en un rien de temps !",
+            "server": "Exécution du serveur"
+        },
+        "wizard": "Assistant d'installation et de mise à niveau",
+        "support_more": "Notre équipe d'assistance est là pour vous aider.<br>Rejoignez notre serveur Discord et nous trouverons une solution.",
+        "support_discord": "Rejoindre le serveur Discord Nitrox",
+        "search_run": "Exécuter et héberger un serveur Nitrox",
+        "search_install": "Installer Nitrox Mod Steam et Epic Games",
+        "quick_links": "Liens rapides",
+        "search_placeholder": "Recherche",
+        "readmore": "Lire la suite",
+        "wizard_more": "Notre nouvel assistant interactif Nitrox vous guide pas à pas tout au long du processus d'installation et de mise à niveau. Répondez simplement à chaque étape et obtenez une réponse instantanée. Essayez-le dès aujourd'hui !",
+        "wizard_link": "Démarrer l'assistant Nitrox",
+        "support": "Obtenir de l'aide"
     },
     "about": {
         "multiplayer": "Multijoueur. <span class=\"opacity-5\">Joue à Subnautica comme il se devrait, en multijoueur.</span>",
@@ -118,7 +175,7 @@
         "download": "Télécharger",
         "version": "Dernière version :",
         "opensource": "Open source. <span class=\"opacity-5\">Mise à jour et support réguliers par les généreux contributeurs.</span>",
-        "metrics": "Nos Mesures",
+        "metrics": "Nos Statistiques",
         "featured": "Figurant sur",
         "download_title": "EARLY ALPHA"
     },
@@ -146,7 +203,10 @@
         },
         "footnote_3": "Les serveurs publiques ne sont pas hébergé par Nitrox et la disponibilité à 100% du serveur n'est pas garantie. Les tierces serveurs ne sont pas modéré par l'équipe Nitrox.",
         "footnote_2": "Max. 100 joueurs sur le serveur, nombre de joueurs recommandé 5.",
-        "community_description": "Connecte-toi et discute avec d'autres joueurs Nitrox"
+        "community_description": "Connecte-toi et discute avec d'autres joueurs Nitrox",
+        "footnote_1": "Windows Store nécessite une configuration supplémentaire. Les étapes et le support pour la configuration peuvent être trouvés sur le Discord de Nitrox.",
+        "nexus": "Nexus",
+        "featured": "Mis en avant sur"
     },
     "launcher": {
         "settings_info": "Vous possédez plusieurs copies de Subnautica ? Pas de problème. Le launcher Nitrox peux automatiquement détecter toute vos installations de Subnautica, vous permettant de choisir rapidement depuis les différentes versions de magasins différent. Simplifiant la configuration et supprimant la nécessité de spécifier manuellement le chemin vers le jeux.",
@@ -190,9 +250,9 @@
             "helper_link": "recommencer le téléchargement"
         },
         "download_infos": "Information de téléchargement",
-        "next_steps": "Prochaine étapes",
+        "next_steps": "Prochaines étapes",
         "community_join": "Rejoins la communauté",
-        "guide": "Guide d'installation et de mises à jour",
+        "guide": "Guide d'installation et de mise à jour",
         "md5": "Hash MD5",
         "version": "Version",
         "meta": {
@@ -274,9 +334,42 @@
         "download": "Téléchargement",
         "meta": {
             "description": "Consulte le dernier journal des modifications et l'historique des versions du Mod Nitrox.",
-            "title": "Historique des modifications - Mod Multijoueur Subnautica"
+            "title": "Historique des modifications - du Mod Nitrox"
         },
         "title": "Historique des modifications",
         "subtitle": "Consulte le dernier journal des modifications et l'historique des versions du Mod Nitrox."
+    },
+    "footer": {
+        "nav": {
+            "contribute": "Contribuer",
+            "changelog": "Changelog",
+            "guides": "Guides Nitrox",
+            "community": "Communauté",
+            "install": "Guide d'installation",
+            "server_setup": "Configuration Serveur",
+            "server_join": "Rejoindre un Serveur",
+            "download": "Installer Nitrox",
+            "devblog": "Dev Blog",
+            "about": "A propos",
+            "team": "L'équipe",
+            "resources": "Ressources"
+        },
+        "mod": "Mod",
+        "connect": "Nos réseaux",
+        "learnmore": "En savoir plus",
+        "getstarted": "Commencer"
+    },
+    "navigation": {
+        "read_more": "En lire plus",
+        "home": "Home",
+        "guides": "Guides",
+        "about": "A propos",
+        "community": "Communauté",
+        "blog": "Blog",
+        "motd": "Via le Nitrox Blog: Pourquoi avons nous quitté NexusMods."
+    },
+    "lang-select": {
+        "title": "Langues",
+        "description": "Choisissiez votre langages"
     }
 }
