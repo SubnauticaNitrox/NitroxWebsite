@@ -221,7 +221,7 @@
     "launcher": {
         "meta": {
             "description": "Il Nitrox Launcher è il vostro ingresso all'esperienza multiplayer subnautica.",
-            "title": "Lanciatore Nitrox - Caratteristiche"
+            "title": "Nitrox Launcher - Caratteristiche"
         },
         "redesigned": "Ridisegnato da zero. <span class=\"opacity-5\">Con l'obiettivo di fornire informazioni utili. Accesso rapido al multiplayer. Diagnostica dettagliata. Tutto il necessario per ospitare un server.</span>",
         "preview": "Visualizza in anteprima il nuovo Nitrox Launcher. <span class=\"opacity-5\">Il tuo ingresso nell'esperienza multiplayer. Progettato con cura per essere facile da usare. Prossimamente.</span>",
@@ -231,20 +231,20 @@
         "hub": "Il tuo hub per tutto ciò che riguarda Nitrox.",
         "server": "Server",
         "hero": "Tutto in uno<br>multiplayer.",
-        "coming_soon": "Prossimamente",
-        "launcher": "Lanciatore Nitrox.",
+        "coming_soon": "In arrivo",
+        "launcher": "Launcher Nitrox.",
         "settings": "Impostazioni intelligenti",
-        "server_more": "Ulteriori informazioni"
+        "server_more": "Scopri di più"
     },
     "changelog": {
         "download": "Scarica",
         "meta": {
             "description": "Visualizza il registro delle modifiche e la cronologia delle versioni più recenti per le versioni Nitrox Mod.",
-            "title": "Changelog - Mod multigiocatore di Subnautica"
+            "title": "Registro delle modifiche - Mod multigiocatore di Subnautica"
         },
         "subtitle": "Visualizza il registro delle modifiche e la cronologia delle versioni più recenti per le versioni Nitrox Mod.",
         "latest_version": "Ultima versione:",
-        "title": "Changelog"
+        "title": "Registro delle modifiche"
     },
     "footer-extended": {
         "community_description": "Connettiti e chatta con altri giocatori Nitrox",
@@ -349,8 +349,8 @@
                 "answer": "È sufficiente inviare una richiesta di pull sulla pagina <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">GitHub</a>. Sentitevi liberi di unirvi a noi nel nostro canale <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">discord</a> per discutere e scambiare feedback o idee con altri collaboratori, sviluppatori e giocatori."
             },
             "help": {
-                "question": "Come posso chiedere aiuto?",
-                "answer": "Leggere innanzitutto i passaggi sul nostro wiki. Se non funziona, chiedete alla nostra chat di aiuto nel canale discord."
+                "question": "Dove posso trovare supporto?",
+                "answer": "Prima di tutto leggi gli steps nella nostra wiki. Se non fosse sufficiente, chiedi alla nostra chat di aiuto nel canale discord."
             },
             "donate": {
                 "question": "Come posso donare?",
