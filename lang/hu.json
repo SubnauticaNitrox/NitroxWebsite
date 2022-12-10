@@ -8,21 +8,28 @@
             },
             "community": {
                 "headline": "Közösség",
-                "downloads": "Letöltések"
+                "downloads": "Letöltések",
+                "title": "Játékos bázis",
+                "description": "Legyen része a nagy, növekvő Nitrox közösségnek. Találj új szervereket, kérj segítséget és beszélgess más Nitrox játékosokkal.",
+                "discord": "Discord tagok"
             },
             "upnp": {
                 "title": "Automatikus porttovábbítás",
                 "headline": "UPnP támogatás"
             },
             "chat": {
-                "title": "Játékbeli üzenetküldés"
+                "title": "Játékbeli üzenetküldés",
+                "headline": "Kommunikáció",
+                "description": "Maradj kapcsolatban a Nitrox cross-platform kompatibilis beépített játék üzenetküldő rendszerével."
             },
             "server": {
                 "number": "0-24",
                 "subtitle": "Szerverek"
             },
             "code": {
-                "title": "Nyílt forráskód"
+                "title": "Nyílt forráskód",
+                "headline": "Kódbázis",
+                "description": "Rendszeres támogatás és frissítések a nagylelkű támogatóktól. Hozzájárulj és tedd jobbá a modot."
             },
             "stores": {
                 "headline": "Támogatott boltok",
@@ -31,7 +38,14 @@
                 "description": "Kompatibilis a kedvenc áruházaiddal. A nemzetközi ,,cross-play \" támogatás lehetővé teszi a gördülékeny többjátékos játékélményt."
             },
             "host": {
-                "subtitle": "Maximális férőhely"
+                "subtitle": "Maximális férőhely",
+                "description": "Könnyedén otthont adhat egy nagy játékosoknak szóló eseménynek, akár 100 játékos támogatásával."
+            },
+            "launcher": {
+                "headline": "Tapasztalat",
+                "title": "Nitrox Launcher",
+                "description": "Használja a Nitrox Launcher programot, amely jelenleg Windowsra érhető el. Jól megtervezett felhasználói felülettel rendelkezik, hogy még könnyebbé tegye a többjátékos játékot.",
+                "view": "Folyamatban lévő koncepciók megtekintése"
             }
         },
         "meta": {
