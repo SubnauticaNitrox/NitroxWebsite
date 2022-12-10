@@ -43,7 +43,7 @@
             "upnp": {
                 "headline": "Support UPnP",
                 "description": "Nitrox ouvre automatique les ports requis pour permettre a tes amis de se connecter directement sans besoin d'utiliser un tierce VPN.",
-                "title": "Redirection automatique du port"
+                "title": "Transfert de port automatique"
             },
             "play": {
                 "headline": "Jouer",
@@ -117,7 +117,7 @@
         "download_description": "Ton aventure t'attends. Télécharge le Mod Nitrox gratuitement et commence à jouer à Subnautica en multijoueur !",
         "download": "Télécharger",
         "version": "Dernière version :",
-        "opensource": "Accès Libre. <span class=\"opacity-5\">Support régulier et mise a jour par les généreux contributeurs.</span>",
+        "opensource": "Open source. <span class=\"opacity-5\">Mise à jour et support réguliers par les généreux contributeurs.</span>",
         "metrics": "Nos Mesures",
         "featured": "Figurant sur",
         "download_title": "EARLY ALPHA"
@@ -181,7 +181,7 @@
         },
         "changelog": "Journal des modifications",
         "changelog_older": "Voir les anciens journaux de modifications",
-        "sidebar": "Mod Nitrox. <span class=\"opacity-5\">Une modification multijoueur pour le jeu Subnautica en accès libre</span>"
+        "sidebar": "Nitrox Mod. <span class=\"opacity-5\">Une modification open-source, permettant le multijoueur pour le jeu Subnautica.</span>"
     },
     "download_start": {
         "header": {
