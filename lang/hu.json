@@ -24,7 +24,8 @@
             },
             "server": {
                 "number": "0-24",
-                "subtitle": "Szerverek"
+                "subtitle": "Szerverek",
+                "headline": "Nyilvános Szerver"
             },
             "code": {
                 "title": "Nyílt forráskód",
@@ -39,13 +40,21 @@
             },
             "host": {
                 "subtitle": "Maximális férőhely",
-                "description": "Könnyedén otthont adhat egy nagy játékosoknak szóló eseménynek, akár 100 játékos támogatásával."
+                "description": "Könnyedén otthont adhat egy nagy játékosoknak szóló eseménynek, akár 100 játékos támogatásával.",
+                "headline": "Hosztolj"
             },
             "launcher": {
                 "headline": "Tapasztalat",
                 "title": "Nitrox Launcher",
                 "description": "Használja a Nitrox Launcher programot, amely jelenleg Windowsra érhető el. Jól megtervezett felhasználói felülettel rendelkezik, hogy még könnyebbé tegye a többjátékos játékot.",
                 "view": "Folyamatban lévő koncepciók megtekintése"
+            },
+            "lang": {
+                "languages": "Angol, Horvát, Holland, Francia, Német, Görög, Koreai, Lengyel, Romániai, Orosz, Spanyol, Svéd, Török, Ukrajnai, …",
+                "link": "Járulj hozzá és add hozzá a te nyelvedet"
+            },
+            "play": {
+                "headline": "Játssz"
             }
         },
         "meta": {
@@ -55,6 +64,24 @@
         "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
         "hero_slogan": "<span>Tied</span> <span>többjátékos</span> <span>Mod</span> <span>for</span> <span>Subnautica.</span>",
         "hero_cta": "Ingyenesen letölthető",
-        "explore": "Fedezd fel a Subnauticát <span class=\"opacity-5\">mint egy vadonatúj játékot. Szövetkezz. Fedezd fel a mélységet. Építs lenyűgöző bázisokat.</span>"
+        "explore": "Fedezd fel a Subnauticát <span class=\"opacity-5\">mint egy vadonatúj játékot. Szövetkezz. Fedezd fel a mélységet. Építs lenyűgöző bázisokat.</span>",
+        "nextsteps": {
+            "wiki": {
+                "link": "Útmutatók meglátogatása",
+                "title": "Kezdjünk Bele",
+                "description": "Olvasd el a telepítési útmutatót és a GYIK oldalt"
+            },
+            "get": {
+                "title": "Szerezd be a modot",
+                "description": "Töltsd le ingyenesen a Nitrox Mod-ot és kezdj el játszani a többjátékos móddal!",
+                "download": "Letöltés",
+                "latest_version": "Legfrissebb Verzió:"
+            }
+        }
+    },
+    "download": {
+        "header": {
+            "alpha": "KORAI ALPHA"
+        }
     }
 }
