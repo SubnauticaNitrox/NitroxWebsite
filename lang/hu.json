@@ -15,7 +15,8 @@
             },
             "upnp": {
                 "title": "Automatikus porttovábbítás",
-                "headline": "UPnP támogatás"
+                "headline": "UPnP támogatás",
+                "description": "A Nitrox automatikusan megnyitja a szükséges portokat hogy a kapcsolat sikeres legyen a barátaiddal VPN vagy bármilyen 3. féltől való software nélkül."
             },
             "chat": {
                 "title": "Játékbeli üzenetküldés",
@@ -52,14 +53,18 @@
             },
             "lang": {
                 "languages": "Angol, Horvát, Holland, Francia, Német, Görög, Koreai, Lengyel, Romániai, Orosz, Spanyol, Svéd, Török, Ukrajnai, …",
-                "link": "Járulj hozzá és add hozzá a te nyelvedet"
+                "link": "Járulj hozzá és add hozzá a te nyelvedet",
+                "headline": "Közösség által hozzá adott nyelvek",
+                "title": "A Nitrox a te nyelvedet is beszéli."
             },
             "play": {
-                "headline": "Játssz"
+                "headline": "Játssz",
+                "description": "Randomizált kezdő Menekülő kapszula, Randomizált &amp; Mentett Seedek a Nyersanyagok és a Fauna érdekében. Új mentési rendszer, növények &amp; farmolás... és még sok más."
             },
             "gameplay": {
                 "headline": "Játékmenet",
-                "title": "A játékod"
+                "title": "A játékod",
+                "description": "Játssz Subnauticát, túlélő vagy creatív oldalról a barátaiddal."
             }
         },
         "meta": {
@@ -86,7 +91,18 @@
     },
     "download": {
         "header": {
-            "alpha": "KORAI ALPHA"
-        }
+            "alpha": "KORAI ALPHA",
+            "title": "Töltsd le a Nitroxot",
+            "download": "Kezd el a letöltést",
+            "version": "Alfa",
+            "stores": "Támogatott verziók",
+            "subtitle": "A kalandod rád vár. Töltsd le a Nitrox modot ingyen hogy elkezd a Subnautica többjátékost!"
+        },
+        "meta": {
+            "title": "Nitrox letöltése · Subnautica Többjátékos Mod",
+            "description": "Töltsd le a Nitroxot: az ingyenes többjátékos mod hogy a subnauticát a közösség fejlessze."
+        },
+        "changelog": "Változások",
+        "changelog_older": "Nézz régebbi változtatásokat"
     }
 }
