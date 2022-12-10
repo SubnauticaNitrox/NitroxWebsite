@@ -9,19 +9,19 @@
         "feature": {
             "multiplayer": {
                 "headline": "Mód",
-                "title": "Nitrox pro více hráču",
-                "description": "Konečně si můžete zahrát Subnaticu s přáteli. Připojite se nebo si vytvořte svůj vlastní server."
+                "title": "Nitrox multiplayer",
+                "description": "Konečně začni hrát Subnauticu spolu se svými přáteli. Připoj se nebo vytvoř svůj vlastní server."
             },
             "stores": {
-                "headline": "Podporované verze",
-                "description": "Kompatibilní s vašimi oblíbenými obchody. Nativní podpora zabudovaná do módu umožňuje bezproblémové hraní s více hráči.",
-                "tooltip": "Aktuálně nedosptupný",
-                "title": "Multiplatformní"
+                "headline": "Podporované verse",
+                "description": "Kompatibilní s oblíbenými obchody. Nativní podpora cross-play zabudovaná do modu umožňuje bezbariérový multiplayer.",
+                "tooltip": "Momentálně nedostupné",
+                "title": "Cross platform"
             },
             "code": {
                 "description": "Běžná podpora a aktualizace od štědrých přispěvatelů. Přispějte a udělejte mod lepším.",
-                "headline": "Základ kódu",
-                "title": "Otevřený zdrojový kód"
+                "headline": "Základní kod",
+                "title": "Open source"
             },
             "community": {
                 "headline": "Komunita",
@@ -37,9 +37,9 @@
                 "view": "Zobrazit rozpracované koncepty"
             },
             "gameplay": {
-                "headline": "Hratelnost",
-                "title": "Váš herní zážitek",
-                "description": "Zahrejte si Subnaticu od hry o přežití až po kreativní svět."
+                "headline": "Gameplay",
+                "title": "Tvůj gameplay",
+                "description": "Hraj Subnauticu, od survivalového zážitku s přáteli až ke kreativnímu stavění."
             },
             "chat": {
                 "title": "Herní komunikace",
@@ -74,7 +74,7 @@
             }
         },
         "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
-        "hero_slogan": "Váš více hráčový mód do Subnatiky",
+        "hero_slogan": "<span>Tvůj</span> <span>multiplayer</span> <span>Mod</span> <span>pro</span> <span>Subnauticu.</span>",
         "nextsteps": {
             "get": {
                 "title": "Získat mód",
