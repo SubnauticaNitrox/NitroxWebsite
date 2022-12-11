@@ -8,30 +8,63 @@
             },
             "community": {
                 "headline": "Közösség",
-                "downloads": "Letöltések"
+                "downloads": "Letöltések",
+                "title": "Játékos bázis",
+                "description": "Legyen része a nagy, növekvő Nitrox közösségnek. Találj új szervereket, kérj segítséget és beszélgess más Nitrox játékosokkal.",
+                "discord": "Discord tagok"
             },
             "upnp": {
                 "title": "Automatikus porttovábbítás",
-                "headline": "UPnP támogatás"
+                "headline": "UPnP támogatás",
+                "description": "A Nitrox automatikusan megnyitja a szükséges portokat hogy a kapcsolat sikeres legyen a barátaiddal VPN vagy bármilyen 3. féltől való software nélkül."
             },
             "chat": {
-                "title": "Játékbeli üzenetküldés"
+                "title": "Játékbeli üzenetküldés",
+                "headline": "Kommunikáció",
+                "description": "Maradj kapcsolatban a Nitrox cross-platform kompatibilis beépített játék üzenetküldő rendszerével."
             },
             "server": {
                 "number": "0-24",
-                "subtitle": "Szerverek"
+                "subtitle": "Szerverek",
+                "headline": "Nyilvános Szerver",
+                "description": "Keress állandó szervereket, amelyeken játszhatsz, a Nitrox Discord szerverén."
             },
             "code": {
-                "title": "Nyílt forráskód"
+                "title": "Nyílt forráskód",
+                "headline": "Kódbázis",
+                "description": "Rendszeres támogatás és frissítések a nagylelkű támogatóktól. Hozzájárulj és tedd jobbá a modot."
             },
             "stores": {
-                "headline": "Támogatott boltok",
+                "headline": "Támogatott bolti verziók",
                 "tooltip": "Jelenleg nem elérhető",
                 "title": "Cross platform",
                 "description": "Kompatibilis a kedvenc áruházaiddal. A nemzetközi ,,cross-play \" támogatás lehetővé teszi a gördülékeny többjátékos játékélményt."
             },
             "host": {
-                "subtitle": "Maximális férőhely"
+                "subtitle": "Maximális férőhely",
+                "description": "Könnyedén otthont adhat egy nagy játékosoknak szóló eseménynek, akár 100 játékos támogatásával.",
+                "headline": "Hosztolj"
+            },
+            "launcher": {
+                "headline": "Tapasztalat",
+                "title": "Nitrox Launcher",
+                "description": "Használja a Nitrox Launcher programot, amely jelenleg Windowsra érhető el. Jól megtervezett felhasználói felülettel rendelkezik, hogy még könnyebbé tegye a többjátékos játékot.",
+                "view": "Folyamatban lévő koncepciók megtekintése"
+            },
+            "lang": {
+                "languages": "Angol, Horvát, Holland, Francia, Német, Görög, Koreai, Lengyel, Romániai, Orosz, Spanyol, Svéd, Török, Ukrajnai, …",
+                "link": "Járulj hozzá és add hozzá a te nyelvedet",
+                "headline": "Közösség által hozzá adott nyelvek",
+                "title": "A Nitrox a te nyelvedet is beszéli."
+            },
+            "play": {
+                "headline": "Játssz",
+                "description": "Randomizált kezdő Menekülő kapszula, Randomizált &amp; Mentett Seedek a Nyersanyagok és a Fauna érdekében. Új mentési rendszer, növények &amp; farmolás... és még sok más."
+            },
+            "gameplay": {
+                "headline": "Játékmenet",
+                "title": "A játékod",
+                "description": "Játssz Subnauticát, túlélő vagy creatív oldalról a barátaiddal."
             }
         },
         "meta": {
@@ -41,6 +74,35 @@
         "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
         "hero_slogan": "<span>Tied</span> <span>többjátékos</span> <span>Mod</span> <span>for</span> <span>Subnautica.</span>",
         "hero_cta": "Ingyenesen letölthető",
-        "explore": "Fedezd fel a Subnauticát <span class=\"opacity-5\">mint egy vadonatúj játékot. Szövetkezz. Fedezd fel a mélységet. Építs lenyűgöző bázisokat.</span>"
+        "explore": "Fedezd fel a Subnauticát <span class=\"opacity-5\">mint egy vadonatúj játékot. Szövetkezz. Fedezd fel a mélységet. Építs lenyűgöző bázisokat.</span>",
+        "nextsteps": {
+            "wiki": {
+                "link": "Útmutatók meglátogatása",
+                "title": "Kezdjünk Bele",
+                "description": "Olvasd el a telepítési útmutatót és a GYIK oldalt"
+            },
+            "get": {
+                "title": "Szerezd be a modot",
+                "description": "Töltsd le ingyenesen a Nitrox Mod-ot és kezdj el játszani a többjátékos móddal!",
+                "download": "Letöltés",
+                "latest_version": "Legfrissebb Verzió:"
+            }
+        }
+    },
+    "download": {
+        "header": {
+            "alpha": "KORAI ALPHA",
+            "title": "Töltsd le a Nitroxot",
+            "download": "Kezd el a letöltést",
+            "version": "Alfa",
+            "stores": "Támogatott verziók",
+            "subtitle": "A kalandod rád vár. Töltsd le a Nitrox modot ingyen hogy elkezd a Subnautica többjátékost!"
+        },
+        "meta": {
+            "title": "Nitrox letöltése · Subnautica Többjátékos Mod",
+            "description": "Töltsd le a Nitroxot: az ingyenes többjátékos mod hogy a subnauticát a közösség fejlessze."
+        },
+        "changelog": "Változások",
+        "changelog_older": "Nézz régebbi változtatásokat"
     }
 }
