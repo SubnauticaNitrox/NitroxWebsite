@@ -1,0 +1,19 @@
+{
+    "home": {
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_slogan": "<span>あなたの </span> <span>サブノーティカ</span>のための <span>マルチプレイ</span> Mod",
+        "hero_cta": "無料でダウンロード",
+        "feature": {
+            "multiplayer": {
+                "headline": "MOD",
+                "title": "Nitrox マルチプレイヤー",
+                "description": "ついに来た！友達と一緒にサブノーティカ のプレイを始めよう。参加するのか、自分自身のサーバーを建てるのか。"
+            }
+        },
+        "meta": {
+            "title": "Nitrox for Subnautica・サブノーティカ マルチプレイ用Mod",
+            "description": "Nitroxは「サブノーティカ」ゲームのためにコミュニティーによって開発された 無料のマルチプレイmodです。"
+        },
+        "explore": "サブノーティカ を体験せよ <span class=\"opacity-5\">全く新しいゲームのように。チームを組んで、新しい深みを探索し、豪奢な基地を建造せよ</span>"
+    }
+}
