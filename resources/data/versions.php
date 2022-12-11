@@ -4,6 +4,12 @@
 
 return [
     [
+        "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.7.0.0/Nitrox_1.7.0.0.zip",
+        "version" => "1.7.0.0",
+        "filesize" => "8.2",
+        "md5" => "3aa25d17366f6ad1038feae5209099fc",
+    ],
+    [
         "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.6.1.0/Nitrox_1.6.1.0.zip",
         "version" => "1.6.1.0",
         "filesize" => "7.9",
