@@ -1,7 +1,7 @@
 {
     "home": {
-        "hero_over": "&lt;跨度&gt;深海迷航&lt;/跨度&gt; &lt;跨度&gt;Nitrox&lt;/跨度&gt;",
-        "hero_slogan": "<span>你的</span> <span>多人游戏</span> <span>Mod</span> <span>for</span> <span>Subnautica.</span>",
+        "hero_over": "<span>深海迷航</span> <span>Nitrox</span>",
+        "hero_slogan": "<span>为您准备的深海迷航多人游戏Mod</span>",
         "hero_cta": "免费下载",
         "feature": {
             "multiplayer": {
@@ -10,7 +10,7 @@
                 "description": "最后开始和你的朋友一起玩 深海迷航。 加入或创建您自己的服务器。"
             },
             "stores": {
-                "headline": "支持的商店版本",
+                "headline": "支持商店版",
                 "title": "跨平台",
                 "tooltip": "当前不可用",
                 "description": "与您最喜欢的商店兼容。 内置于 mod 中的原生交叉播放支持允许无缝多人游戏。"
@@ -18,7 +18,7 @@
             "gameplay": {
                 "headline": "游戏玩法",
                 "title": "你的游戏玩法",
-                "description": "玩 深海迷航,从与朋友的生存游戏到创意拼搭。"
+                "description": "从生存到创造，与朋友组队，一起探索深海。"
             },
             "code": {
                 "headline": "代码库",
@@ -57,7 +57,7 @@
             "host": {
                 "headline": "主持人",
                 "description": "轻松举办大型玩家活动，最多可支持 100 名玩家。",
-                "subtitle": "最大限度。 插槽"
+                "subtitle": "最大玩家数"
             },
             "play": {
                 "headline": "玩",
