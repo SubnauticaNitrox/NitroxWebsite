@@ -86,9 +86,9 @@
                     <div class="row">
                         <div class="col">
                             <span>
-                                {{ __('navigation.motd') }}
+                                Nitrox Dev Blog &mdash; Subnautica 2.0.
                             </span>
-                            <a href="https://on.rux.gg/cTkeO" target="_blank" class="stretched-link">{{ __('navigation.read_more') }}
+                            <a href="https://nitroxblog.rux.gg/2022/12/11/subnautica-2-0/" target="_blank" class="stretched-link">{{ __('navigation.read_more') }}
                                 <span class="material-icons" style="position: absolute;font-size: 20px;margin: 1px 0px 0px -2px;">
                              chevron_right
                          </span>
