@@ -3,6 +3,22 @@
 
 return [
     [
+        "version" => "1.7.0.1",
+        "released" => "2023-01-03T23:48:00Z",
+        "permalink" => "https://nitrox.rux.gg/pages/changelog#nitrox%C2%A01-7-1-0",
+        "patchnotes" => [
+            "Minor fix and Adjustement for the Subnautica 2.0 incompatibility",
+            "Fixed a bug where Windows 7 users would not be able to open the launcher.",
+            "Fixed a bug where Subnautica 2.0 users were able to launch the client or start a server.",
+            "Steam Users",
+            "Will now temporarily show the steps needed to downgrade to Legacy version so that the mod works.",
+            "Epic Users",
+            "No it's not working yet...",
+            "MSStore",
+            "Don't look here either...",
+        ],
+    ],
+    [
         "version" => "1.7.0.0",
         "released" => "2022-12-11T19:30:00Z",
         "permalink" => "https://nitrox.rux.gg/pages/changelog#nitrox%C2%A01-7-0-0",
