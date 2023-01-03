@@ -2,7 +2,7 @@
     "home": {
         "feature": {
             "multiplayer": {
-                "description": "Jouer à Subnautica avec vos amis. Rejoignez ou créé votre serveur.",
+                "description": "Commencez enfin à jouer à Subnautica avec vos amis. Rejoignez ou créez votre propre serveur.",
                 "headline": "Le mod",
                 "title": "Nitrox multijoueur"
             },
@@ -13,12 +13,12 @@
             },
             "stores": {
                 "tooltip": "Non disponible pour le moment",
-                "headline": "Versions supportées",
+                "headline": "Versions de magasins prises en charge",
                 "title": "Cross platform",
-                "description": "Compatible avec vos magasins préféré. Un support cross-platform natif pour un multijoueur parfait."
+                "description": "Compatible avec vos magasins préférés. Un support cross-platform natif pour un multijoueur parfait."
             },
             "gameplay": {
-                "headline": "Gameplay",
+                "headline": "Jouabilité",
                 "title": "Votre gameplay",
                 "description": "Jouez à Subnautica, que ce soit pour une partie de survie avec vos amis ou pour une session de construction créative."
             },
