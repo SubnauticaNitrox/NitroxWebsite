@@ -20,7 +20,8 @@
             "launcher": {
                 "description": "Usa el Launcher de Nitrox, actualmente disponible para Windows. Con una interfaz de usuario bien diseñada para hacer jugar al multijugador mucho mas fácil.",
                 "headline": "Experiencia",
-                "title": "Launcher de Nitrox"
+                "title": "Launcher de Nitrox",
+                "view": "Ver conceptos de trabajo en progreso"
             },
             "multiplayer": {
                 "title": "Nitrox multijugador",
@@ -40,13 +41,15 @@
             },
             "code": {
                 "title": "Código abierto",
-                "description": "Soporte y actualizaciones regulares de generosos contribuidores. Contribuye y has mejor el mod."
+                "description": "Soporte y actualizaciones regulares de generosos contribuidores. Contribuye y has mejor el mod.",
+                "headline": "Código Base"
             },
             "community": {
                 "headline": "Comunidad",
                 "description": "Se parte de la larga y creciente comunidad de Nitrox. Encuentra nuevos servidores, obtén ayuda y habla con otros jugadores de Nitrox.",
                 "downloads": "Descargas",
-                "discord": "Miembros de Discord"
+                "discord": "Miembros de Discord",
+                "title": "Jugador Base"
             },
             "host": {
                 "headline": "Aloja",
@@ -54,7 +57,8 @@
                 "subtitle": "Espacios Máximos"
             },
             "play": {
-                "headline": "Juega"
+                "headline": "Juega",
+                "description": "Cápsula de escape de inicio aleatoria, semillas aleatorias y guardadas para recursos y fauna, nuevo sistema de guardado, plantas y agricultura... y mucho más."
             },
             "server": {
                 "headline": "Servidor Público",
@@ -82,7 +86,8 @@
                 "description": "Lee la guía de instalación y la página de preguntas frecuentes",
                 "link": "Visitar Guias"
             }
-        }
+        },
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>"
     },
     "download": {
         "meta": {
@@ -91,7 +96,46 @@
         },
         "header": {
             "alpha": "ALPHA TEMPRANA",
-            "title": "Descarga Nitrox"
-        }
+            "title": "Descarga Nitrox",
+            "download": "Comenzar descarga",
+            "version": "Alpha",
+            "stores": "Versiones de tienda admitidas",
+            "subtitle": "Tu aventura te espera. ¡Descarga Nitrox Mod gratis y comienza a jugar en el modo multijugador de Subnautica!"
+        },
+        "changelog": "Registro de cambios",
+        "changelog_older": "Ver entradas anteriores del registro de cambios",
+        "sidebar": "Nitrox Mod. <span class=\"opacity-5\">Una modificación multijugador de código abierto para el juego Subnautica.</span>"
+    },
+    "download_start": {
+        "meta": {
+            "title": "Descarga iniciada... · Mod Multijugador para Subnautica",
+            "description": "Descarga Nitrox: Un mod multijugador gratuito para el juego Subnautica desarrollado por la comunidad."
+        },
+        "header": {
+            "started": "Descargando",
+            "helper_link": "reiniciar la descarga",
+            "helper": "Su descarga debería comenzar automáticamente en <span id=\"countdowntimer\">2</span> Segundos. "
+        },
+        "next_steps": "Próximos pasos",
+        "install_vid": "Instalar vídeo",
+        "community_join": "Únete a la comunidad",
+        "guide": "Guía de instalación y actualización",
+        "guide_link": "Asistente de instalación de Nitrox",
+        "download_infos": "Información de descarga",
+        "file_size": "Tamaño del archivo",
+        "version": "Versión",
+        "md5": "MD5 Hash"
+    },
+    "community": {
+        "meta": {
+            "title": "Comunidad Nitrox · Modo multijugador Subnautica",
+            "description": "Sea parte de la gran y creciente comunidad de Nitrox. Encuentra nuevos servidores, obtén ayuda y habla con otros jugadores de Nitrox."
+        },
+        "title": "Comunidad Nitrox",
+        "subtitle": "Únete a la gran comunidad de Nitrox con jugadores de todo el mundo.",
+        "discord": "Únase a nuestro servidor Discord  para encontrar servidores para jugar, obtener ayuda del equipo de soporte y mucho más.",
+        "discord_join": "Únete en Discord",
+        "twitter_follow": "Siguenos en Twitter",
+        "twitter": "Siga la cuenta de Twitter de Nitrox para estar siempre actualizado sobre los últimos desarrollos, eventos y lanzamientos."
     }
 }
