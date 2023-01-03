@@ -147,7 +147,7 @@
         "search_run": "Exécuter et héberger un serveur Nitrox",
         "search_install": "Installer Nitrox Mod Steam et Epic Games",
         "quick_links": "Liens rapides",
-        "search_placeholder": "Recherche",
+        "search_placeholder": "Cherchez quelque chose…",
         "readmore": "Lire la suite",
         "wizard_more": "Notre nouvel assistant interactif Nitrox vous guide pas à pas tout au long du processus d'installation et de mise à niveau. Répondez simplement à chaque étape et obtenez une réponse instantanée. Essayez-le dès aujourd'hui !",
         "wizard_link": "Démarrer l'assistant Nitrox",
@@ -342,15 +342,15 @@
     "footer": {
         "nav": {
             "contribute": "Contribuer",
-            "changelog": "Changelog",
+            "changelog": "Liste des modifications",
             "guides": "Guides Nitrox",
             "community": "Communauté",
             "install": "Guide d'installation",
             "server_setup": "Configuration Serveur",
             "server_join": "Rejoindre un Serveur",
             "download": "Installer Nitrox",
-            "devblog": "Dev Blog",
-            "about": "A propos",
+            "devblog": "Blog du développement",
+            "about": "À propos",
             "team": "L'équipe",
             "resources": "Ressources"
         },
@@ -363,13 +363,13 @@
         "read_more": "En lire plus",
         "home": "Home",
         "guides": "Guides",
-        "about": "A propos",
+        "about": "À propos",
         "community": "Communauté",
         "blog": "Blog",
-        "motd": "Via le Nitrox Blog: Pourquoi avons nous quitté NexusMods."
+        "motd": "Dernier article du blog du développeur."
     },
     "lang-select": {
         "title": "Langues",
-        "description": "Choisissiez votre langages"
+        "description": "Choisissez la langue."
     }
 }
