@@ -13,7 +13,7 @@
                 "headline": "支持商店版",
                 "title": "跨平台",
                 "tooltip": "当前不可用",
-                "description": "与您最喜欢的商店兼容。 内置于 mod 中的原生交叉播放支持允许无缝多人游戏。"
+                "description": "不仅兼容您喜好的应用商店。Mod还内置原生跨平台支持，可实现无平台差异的多人游戏。"
             },
             "gameplay": {
                 "headline": "游戏玩法",
@@ -27,7 +27,7 @@
             },
             "community": {
                 "headline": "社区",
-                "title": "玩家基础",
+                "title": "玩家群体",
                 "downloads": "下载",
                 "discord": "Discord成员",
                 "description": "成为庞大且不断发展的 Nitrox 社区的一员。 寻找新服务器、获得帮助并与其他 Nitrox 玩家交谈。"
@@ -39,9 +39,9 @@
                 "view": "查看进行中的工作概念"
             },
             "chat": {
-                "headline": "沟通",
+                "headline": "聊天",
                 "title": "游戏内消息",
-                "description": "与内置在游戏消息系统中的 Nitrox 跨平台兼容保持联系。"
+                "description": "使用Nitrox内置跨平台消息系统，随时扣字。"
             },
             "upnp": {
                 "headline": "UPnP 支持",
@@ -61,11 +61,11 @@
             },
             "play": {
                 "headline": "玩",
-                "description": "随机启动逃生舱、资源和动物的随机和保存种子、新保存系统、植物和农业……等等。"
+                "description": "随机逃生舱着陆点、随机或可选资源和动物的种子，新保存系统、新植物和农业系统等等……"
             },
             "server": {
                 "headline": "公共服务器",
-                "description": "在 Nitrox Discord 中找到可玩的永久服务器。",
+                "description": "可在 Nitrox Discord 中找到长期服务器并进入游玩。",
                 "number": "24/7",
                 "subtitle": "服务器"
             }
@@ -87,7 +87,7 @@
             "title": "Nitrox是深海迷航的多人游戏模组",
             "description": "Nitrox是社区开发的一款免费多人游戏深海迷航模组。"
         },
-        "explore": "像全新游戏一样体验 Subnautica <span class=\"opacity-5\">。 组队。 探索新的深度。 建立史诗般的基地。</span>"
+        "explore": "像全新游戏一样体验深海迷航<span class=\"opacity-5\">。 团队合作，探索新的深度，建立史诗般的基地。</span>"
     },
     "download": {
         "meta": {
@@ -100,10 +100,10 @@
             "download": "开始下载",
             "version": "Alpha",
             "stores": "支持的商店版本",
-            "subtitle": "你的冒险在等待. 免费下载Nitrox，开始深海迷航多人游戏!"
+            "subtitle": "新的冒险在等你。免费下载Nitrox，开始深海迷航多人游戏！"
         },
         "changelog": "更新日志",
-        "changelog_older": "查看历史变更日志",
+        "changelog_older": "查看早期更新日志",
         "sidebar": "Nitrox模组. <span class=\"opacity-5\">开源深海迷航多人游戏模组.</span>"
     },
     "about": {
@@ -118,12 +118,12 @@
         "why": "什么是Nitrox？",
         "version": "最新版本号：",
         "download_header": "准备好了？获取模组！",
-        "download_description": "正在等你的冒险。免费下载Nitrox多人联机模组，开始玩深海迷航多人游戏吧！",
+        "download_description": "新的冒险在等你。免费下载Nitrox多人联机模组，开始玩深海迷航多人游戏吧！",
         "download_title": "EARLY ALPHA",
         "download": "下载",
         "opensource": "开源。<span class=\"opacity-5\">慷慨的贡献者们定期提供支持和更新。</span>",
         "servers": "社区。 <span class=\"opacity-5\">寻找新的服务器，获得帮助并与其他Nitrox玩家交谈。</span>",
-        "metrics": "我们的衡量标准",
+        "metrics": "我们的成就数据",
         "download_count": "1,000,000+",
         "downloads": "下载",
         "user_count": "500,250+",
@@ -336,7 +336,7 @@
         "guides": "导航",
         "about": "关于",
         "blog": "博客",
-        "motd": "来自Nitrox博客：为什么我们离开NexusMods。",
+        "motd": "最新的开发博客文章。",
         "read_more": "阅读更多"
     },
     "lang-select": {

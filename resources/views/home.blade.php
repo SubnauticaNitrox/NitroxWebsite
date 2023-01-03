@@ -72,7 +72,7 @@
                                         <img src="{{ asset('/assets/img/logos/steam.png') }}" class="img-fluid" style="filter: invert(1);">
                                     </div>
                                     <div class="col">
-                                        <img src="{{ asset('/assets/img/logos/epic.png') }}" class="img-fluid" style="filter: invert(1);">
+                                        <img src="{{ asset('/assets/img/logos/epic.png') }}" class="img-fluid" style="filter: invert(1); opacity: .25" data-toggle="tooltip" data-placement="bottom" title="{{ __('home.feature.stores.tooltip') }}">
                                     </div>
                                     <div class="col">
                                         <img src="{{ asset('/assets/img/logos/windows.png') }}" class="img-fluid" style="filter: invert(1); opacity: .25" data-toggle="tooltip" data-placement="bottom" title="{{ __('home.feature.stores.tooltip') }}">

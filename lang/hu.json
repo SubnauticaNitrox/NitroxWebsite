@@ -103,6 +103,16 @@
             "description": "Töltsd le a Nitroxot: az ingyenes többjátékos mod hogy a subnauticát a közösség fejlessze."
         },
         "changelog": "Változások",
-        "changelog_older": "Nézz régebbi változtatásokat"
+        "changelog_older": "Nézz régebbi változtatásokat",
+        "sidebar": "A Nitrox Mod, egy multiplayer modifikáció a subnauticához"
+    },
+    "download_start": {
+        "meta": {
+            "description": "Töltsd le a Nitroxot: egy ingyenes többjátékos módú subnautica verziót.",
+            "title": "A letöltés elkezdődott... ·Subnautica többjátékos mód"
+        },
+        "header": {
+            "started": "A letöltés elkezdődött"
+        }
     }
 }
