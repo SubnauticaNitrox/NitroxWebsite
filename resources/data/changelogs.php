@@ -3,7 +3,7 @@
 
 return [
     [
-        "version" => "1.7.0.1",
+        "version" => "1.7.1.0",
         "released" => "2023-01-03T23:48:00Z",
         "permalink" => "https://nitrox.rux.gg/pages/changelog#nitrox%C2%A01-7-1-0",
         "patchnotes" => [
