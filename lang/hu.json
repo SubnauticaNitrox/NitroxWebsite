@@ -35,7 +35,7 @@
                 "description": "Rendszeres támogatás és frissítések a nagylelkű támogatóktól. Hozzájárulj és tedd jobbá a modot."
             },
             "stores": {
-                "headline": "Támogatott bolti verziók",
+                "headline": "Jelenleg támogatott boltok",
                 "tooltip": "Jelenleg nem elérhető",
                 "title": "Cross platform",
                 "description": "Kompatibilis a kedvenc áruházaiddal. A nemzetközi ,,cross-play \" támogatás lehetővé teszi a gördülékeny többjátékos játékélményt."
@@ -112,7 +112,23 @@
             "title": "A letöltés elkezdődott... ·Subnautica többjátékos mód"
         },
         "header": {
-            "started": "A letöltés elkezdődött"
-        }
+            "started": "A letöltés elkezdődött",
+            "helper": "A letöltésnek <span id=\"countdowntimer\">2</span> másodpercen belül automatikusan el kellene kezdődnie. Ha ez nem történik meg, "
+        },
+        "community_join": "Csatlakozz a közösséghez",
+        "guide": "Telepítési és frissítési útmutató",
+        "guide_link": "Nitrox telepítő varázsló",
+        "version": "Verzió",
+        "file_size": "Fájl méret"
+    },
+    "community": {
+        "discord_join": "Csatlakozz Discordon",
+        "twitter_follow": "Kövess Twitteren",
+        "reddit_join": "Verzió"
+    },
+    "about": {
+        "discord_join": "Csatlakozz Discordon",
+        "downloads": "Letöltések",
+        "users": "Felhasználók"
     }
 }
