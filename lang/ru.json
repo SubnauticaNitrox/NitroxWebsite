@@ -86,8 +86,8 @@
                 "latest_version": "Последняя версия:"
             }
         },
-        "hero_slogan": "<span>Ваш</span> <span>мультиплеер</span><span>мод</span> <span>для</span> <span>Subnautica.</span>",
-        "explore": "Испытайте Subnautica <span class=\"opacity-5\"> и её совершенно новые просторы. Объединяйтесь в команды. Исследуйте новые глубины. Стройте эпические базы.</span>"
+        "hero_slogan": "<span>Ваш</span> <span>мультиплеерный</span> <span>мод</span> <span>для</span> <span>Subnautica.</span>",
+        "explore": "Испытайте Subnautica <span class=\"opacity-5\">как совершенно новую игру. Объединяйтесь в команды. Исследуйте новые глубины. Стройте эпичные базы.</span>"
     },
     "download": {
         "meta": {
