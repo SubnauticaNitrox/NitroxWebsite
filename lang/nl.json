@@ -96,7 +96,7 @@
             "lang": {
                 "headline": "Vertaald door de gemeenschap",
                 "title": "Nitrox spreekt jouw taal.",
-                "languages": "Engels, Nederlands, Frans, Duits, Grieks, Koreaans, Pools, Roemeens, Spaans, Zweeds, Turks, Oekraïens, …",
+                "languages": "Chinees, Kroatisch, Nederlands, Engels, Frans, Duits, Grieks, Italiaans, Japans, Koreaans, Pools, Portugees, Roemeens, Russisch, Spaans, Zweeds, Turks, Oekraïens…",
                 "link": "Draag bij en voeg uw taal toe"
             },
             "host": {
@@ -262,8 +262,15 @@
         "downloads": "Downloads",
         "nexus": "Nexus Views",
         "community": {
-            "discord": "Nitrox Discord Server"
+            "discord": "Nitrox Discord Server",
+            "discord_description": "Chat met meer dan 27 duizend leden over Subnautica Multiplayer, vind andere spelers om samen te spelen en ontvang ondersteuning.",
+            "discord_join": "Klik om je op Discord aan te sluiten",
+            "twitter": "Volg op Twitter",
+            "twitter_description": "Volg ons op Twitter om altijd op de hoogte te zijn van de meest recente informatie, inlichtingen en veel meer op de officiële Nitrox Twitter.",
+            "twitter_join": "Klik om @modnitrox te bezoeken"
         },
-        "discord": "Discord Leden"
+        "discord": "Discord Leden",
+        "featured": "Zoals verschenen in",
+        "footnote_2": "Max. 100 server spelers, aanbevolen speleraantal 5."
     }
 }

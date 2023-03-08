@@ -3,8 +3,30 @@
         "feature": {
             "host": {
                 "headline": "Vert"
+            },
+            "multiplayer": {
+                "headline": "Modifikasjonen",
+                "title": "Nitrox flerspiller",
+                "description": "Endelig kan du spille Subnautica med dine venner. Bli med, eller lag din egen server."
+            },
+            "stores": {
+                "title": "Spill på tvers av enheter",
+                "tooltip": "For tiden ikke tilgjengelig",
+                "description": "Kompatible med dine favorittbutikker. Støtte for spilling på tvers av enheter innebygd i modifikasjonen, gir en sømløs flerspilleropplevelse.",
+                "headline": "Butikker som følges nå"
+            },
+            "gameplay": {
+                "headline": "Spilling",
+                "title": "Dine spillinger"
             }
         },
-        "hero_cta": "Last ned gratis"
+        "hero_cta": "Last ned gratis",
+        "meta": {
+            "description": "Nitrox er en gratis flerspiller modifikasjon for spillet Subnautica utviklet av spillsamfunnet.",
+            "title": "Nitrox for Subnautica · Subnautica Flerspiller Modifikasjon"
+        },
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "explore": "Opplev Subnautica <span class=\"opacity-5\">som et helt nytt spill. Samarbeid. Utforsk nye dybder. Bygg ville baser.</span>",
+        "hero_slogan": "<span>Din</span> <span>flerspiller</span> <span>Modifikasjon</span> <span>for</span> <span>Subnautica.</span>"
     }
 }

@@ -36,7 +36,7 @@
                 "description": "Be part of the large, growing Nitrox community. Find new servers, get help and talk to other Nitrox players.",
                 "download_count": "1 M",
                 "downloads": "Downloads",
-                "discord_count": "27 K",
+                "discord_count": "44 K",
                 "discord": "Discord members"
             },
             "launcher": {
@@ -58,7 +58,7 @@
             "lang": {
                 "headline": "Community added languages",
                 "title": "Nitrox also speaks your language.",
-                "languages": "Chinese, Croatian, Dutch, English, French, German, Greek, Italian, Japanese, Korean, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian, …",
+                "languages": "Bulgarian, Chinese, Croatian, Czech, Dutch, English, French, German, Greek, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukrainian, …",
                 "link": "Contribute & add your language"
             },
             "host": {
@@ -267,7 +267,7 @@
         "downloads": "Downloads",
         "nexus_views": "1,267,200+",
         "nexus": "Nexus Views",
-        "discord_members": "27,000+",
+        "discord_members": "44,000+",
         "discord": "Discord Members",
         "community": {
             "discord": "Nitrox Discord Server",

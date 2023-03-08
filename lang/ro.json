@@ -12,7 +12,7 @@
                 "description": "În sfârșit, începeți să jucați Subnautica împreună cu prietenii tăi. Alăturați-vă sau creați-vă propriul server."
             },
             "stores": {
-                "headline": "Versiuni de magazin acceptate",
+                "headline": "Magazinele acceptate în prezent",
                 "title": "Cross Platform",
                 "tooltip": "Momentan Nu este Disponibil",
                 "description": "Compatibil cu magazinele tale preferate. Suport nativ pentru joc încrucișat încorporat în mod, permițând multiplayer fără întreruperi."
@@ -30,7 +30,7 @@
                 "title": "Nitrox vorbește și limba ta.",
                 "headline": "Limbi Adăugate de comunitate",
                 "link": "Contribuie și Adăugați Propria ta Limbă",
-                "languages": "Chineză, Croată, Olandeză, Engleză,Franceză,Germană,Greacă,Italiană,Japoneză,Coreeană,Poloneză,Portugheză,Română,Rusă,Spaniolă,Suedeză,Turcă,Ucraniană"
+                "languages": "Bulgară, Chineză, Croată, Cehă, Olandeză, Engleză, Franceză, Germană, Greacă, Italiană, Japoneză, Coreeană, Olandeză, Poloneză, Portugheză, Română, Rusă, Slovacă, Slovenă, Spaniolă, Suedeză, Tailandeză, Turcă, Ucraineană, …"
             },
             "code": {
                 "description": "Asistență regulată și actualizări de la contribuatorii generoși. Contribuiți și îmbunătățiți modulul.",
@@ -97,7 +97,7 @@
             },
             "contribute": {
                 "question": "Cum pot contribui?",
-                "answer": "Pur și simplu trimiteți un pull Request <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">pagina GitHub</a>. Simțiți-vă liber să ni se alăture și pe <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">canalul Discord</a> pentru a discuta și a face schimb de feedback sau idei cu alți contribuitori, dezvoltatori și jucători."
+                "answer": "Pur și simplu trimiteți un pull request <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">pagina GitHub</a>. Simțiți-vă liber să ni se alăture și pe <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">canalul Discord</a> pentru a discuta și a face schimb de feedback sau idei cu alți contribuitori, dezvoltatori și jucători."
             },
             "status": {
                 "answer": "<p>Modul este în stadii foarte incipiente de dezvoltare; cu toate acestea, a fost pusă o bază solidă pe care comunitatea să poată itera. Următoarele etape au fost finalizate:</p><ul class=\"disc\"><li>Comunicare client/server</li><li>Mișcarea jucătorului</li><li>Sincronizarea elementelor de ridicare/renunțare</li><li>Sincronizare mondială pe distanță lungă</li><li>Clădire de bază</li><li>Clădire de mobilier</li><li>Majoritatea interacțiunilor cu mobilierul (containere/fabricatori de kituri medicale/încărcătoare/etc)</li><li>Gestionarea energiei</li><li>Seamoth &amp; Sincronizare Exosuit</li><li>Sincronizare de bază cyclops</li><li>Sistem de chat rudimentar</li><li>Nou HUD pentru jucătorii de la distanță</li><li>Animări de bază ale jucătorilor</li><li>Integrare cu&nbsp;<a href=\"https://github.com/pardeike/Harmony\" target=\"_blank\">Harmony</a></li></ul>",
@@ -106,7 +106,7 @@
             "title": "Întrebări frecvente",
             "install_nitrox": {
                 "question": "Cum instalez Nitrox?",
-                "answer": "<p>Utilizați Nitrox Install Wizard sau citiți ghidurile pentru a afla cum să instalați modulul.</p>"
+                "answer": "<p>Utilizați Nitrox Install Wizard sau citiți ghidurile pentru a afla cum să instalați modul.</p>"
             },
             "bz": {
                 "answer": "În prezent, modulul Nitrox funcționează doar cu jocul de bază al Subnautica. Adăugarea suportului pentru Below Zero este planificată, dar nu va fi lansată înainte ca versiunea actuală Nitrox să fie stabilă.",
@@ -292,7 +292,7 @@
         "home": "Acasă",
         "guides": "Ghiduri",
         "community": "Comunitate",
-        "motd": "De pe blogul Nitrox: De ce am părăsit NexusMods.",
+        "motd": "Cea mai recentă postare de pe blogul de dezvoltare.",
         "read_more": "Citeste mai mult"
     },
     "footer-extended": {

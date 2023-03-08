@@ -35,7 +35,7 @@
                 "description": "Rendszeres támogatás és frissítések a nagylelkű támogatóktól. Hozzájárulj és tedd jobbá a modot."
             },
             "stores": {
-                "headline": "Támogatott bolti verziók",
+                "headline": "Jelenleg támogatott boltok",
                 "tooltip": "Jelenleg nem elérhető",
                 "title": "Cross platform",
                 "description": "Kompatibilis a kedvenc áruházaiddal. A nemzetközi ,,cross-play \" támogatás lehetővé teszi a gördülékeny többjátékos játékélményt."
@@ -100,7 +100,7 @@
         },
         "meta": {
             "title": "Nitrox letöltése · Subnautica Többjátékos Mod",
-            "description": "Töltsd le a Nitroxot: az ingyenes többjátékos mod hogy a subnauticát a közösség fejlessze."
+            "description": "Töltsd le a Nitroxot: a Nitrox egy ingyenes, közösségi fejlesztésű multiplayer mod a Subnautica-hoz."
         },
         "changelog": "Változások",
         "changelog_older": "Nézz régebbi változtatásokat",
@@ -112,7 +112,35 @@
             "title": "A letöltés elkezdődott... ·Subnautica többjátékos mód"
         },
         "header": {
-            "started": "A letöltés elkezdődött"
-        }
+            "started": "A letöltés elkezdődött",
+            "helper": "A letöltésnek <span id=\"countdowntimer\">2</span> másodpercen belül automatikusan el kellene kezdődnie. Ha ez nem történik meg, ",
+            "helper_link": "Letöltés újraindítása"
+        },
+        "community_join": "Csatlakozz a közösséghez",
+        "guide": "Telepítési és frissítési útmutató",
+        "guide_link": "Nitrox telepítő varázsló",
+        "version": "Verzió",
+        "file_size": "Fájl méret",
+        "next_steps": "Következő lépések",
+        "install_vid": "Videó telepítése",
+        "download_infos": "Letöltés információ",
+        "md5": "MD5 Hash"
+    },
+    "community": {
+        "discord_join": "Csatlakozz Discordon",
+        "twitter_follow": "Kövess Twitteren",
+        "reddit_join": "Verzió",
+        "meta": {
+            "title": "Nitrox Közösség - Subnautica Multiplayer Mod",
+            "description": "Legyél részese a nagy és egyre növekvő Nitrox közösségnek. Keress új szervereket, beszélgess vagy kérj segítséget más Nitrox játékosoktól."
+        },
+        "title": "Nitrox közösség",
+        "subtitle": "Csatlakozz a Nitrox közösséghez és találkozz játékosokkal a világ minden tájáról.",
+        "discord": "Csatlakozz pörgős Discord szerverünkhöz ahol játékostársakat találhatsz,   segítséget kérhetsz támogató csapatunktól és sok mást is találhatsz."
+    },
+    "about": {
+        "discord_join": "Csatlakozz Discordon",
+        "downloads": "Letöltések",
+        "users": "Felhasználók"
     }
 }

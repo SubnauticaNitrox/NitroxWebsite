@@ -12,7 +12,7 @@
                 "headline": "Comunicación"
             },
             "stores": {
-                "headline": "Versiones de Tiendas Soportadas",
+                "headline": "Tiendas soportadas",
                 "title": "Multiplataforma",
                 "description": "Compatible con tus tiendas favoritas. El soporte nativo multiplataforma integrado en el mod permite un multijugador sin problemas.",
                 "tooltip": "Actualmente no disponible"
@@ -32,7 +32,7 @@
                 "headline": "Idiomas agregados por la Comunidad",
                 "title": "Nitrox también habla tu idioma.",
                 "link": "Contribuye y añade tu idioma",
-                "languages": "Inglés, Croata, Holandés, Francés, Alemán, Griego, Coreano, Polaco, Rumano, Russo, Español, Sueco, Turco, Ucraniano…"
+                "languages": "Búlgaro, Chino, Croata, Checo, Holandés, Inglés, Francés, Alemán, Griego, Húngaro, Italiano, Japonés, Coreano, Polaco, Portugués, Rumano, Ruso, Eslovaco, Esloveno, Español, Sueco, Tailandés, Turco, Ucraniano…"
             },
             "gameplay": {
                 "headline": "Gameplay",
@@ -136,6 +136,19 @@
         "discord": "Únase a nuestro servidor Discord  para encontrar servidores para jugar, obtener ayuda del equipo de soporte y mucho más.",
         "discord_join": "Únete en Discord",
         "twitter_follow": "Siguenos en Twitter",
-        "twitter": "Siga la cuenta de Twitter de Nitrox para estar siempre actualizado sobre los últimos desarrollos, eventos y lanzamientos."
+        "twitter": "Siga la cuenta de Twitter de Nitrox para estar siempre actualizado sobre los últimos desarrollos, eventos y lanzamientos.",
+        "reddit": "Únete al Subreddit de Nitrox para informarte sobre las últimas actualizaciones y publicar contenido en la comunidad.",
+        "reddit_join": "Versión",
+        "github": "¿Quieres ser parte del equipo? Contribuye traduciendo o programando en el proyecto de Nitrox en Github",
+        "github_link": "Contribuye en GitHub"
+    },
+    "about": {
+        "title": "Los modders han traído el multijugador a Subnautica.",
+        "meta": {
+            "title": "Sobre Nitrox · Mod Multijugador para Subnautica",
+            "description": "Descubre más acerca del equipo y proyecto de código abierto de Nitrox"
+        },
+        "quote": "Cita de",
+        "why": "Por qué Nitrox?"
     }
 }

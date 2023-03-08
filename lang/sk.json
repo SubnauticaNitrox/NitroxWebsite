@@ -1,0 +1,193 @@
+{
+    "download": {
+        "header": {
+            "alpha": "PREDČASNÁ ALPHA",
+            "title": "Stiahni Nitrox",
+            "version": "Alpha",
+            "download": "Začni sťahovať",
+            "stores": "Podporované verzie obchodu",
+            "subtitle": "Vaše dobrodružstvo čaká. Stiahnite si Nitrox Mod zadarmo a začnite hrať Subnautica multiplayer!"
+        },
+        "meta": {
+            "title": "Stiahnite si Nitrox · Subnautica Multiplayer Mod",
+            "description": "Stiahnite si Nitrox: bezplatný multiplayerový mod pre hru Subnautica vyvinutý komunitou."
+        },
+        "changelog": "Zmeny",
+        "changelog_older": "Pozrite si staršie záznamy (changelog)",
+        "sidebar": "Nitrox Mod. <span class=\"opacity-5\">Otvorený zdroj, modifikácia pre viacerých hráčov pre hru Subnautica</span>"
+    },
+    "home": {
+        "feature": {
+            "community": {
+                "discord": "Discord členovia",
+                "headline": "Komunita",
+                "title": "Hráčska základňa",
+                "description": "Staňte sa súčasťou veľkej, rastúcej komunity Nitrox. Nájdite nové servery, získajte pomoc a porozprávajte sa s ostatnými hráčmi Nitrox.",
+                "downloads": "Stiahnutia"
+            },
+            "launcher": {
+                "headline": "Skúsenosti",
+                "title": "Nitrox Launcher",
+                "description": "Použite Nitrox Launcher, ktorý je momentálne dostupný pre Windows. Vďaka dobre navrhnutému používateľskému rozhraniu je hranie pre viacerých hráčov ešte jednoduchšie.",
+                "view": "Pozrite si koncepty rozpracovanosti"
+            },
+            "upnp": {
+                "headline": "UPnP Support",
+                "title": "Automatické presmerovanie portov",
+                "description": "Nitrox automaticky otvorí požadované porty, vďaka čomu sa môžete okamžite pripojiť k vašim priateľom bez potreby softvéru tretej strany VPN."
+            },
+            "server": {
+                "number": "24/7",
+                "subtitle": "Servery",
+                "headline": "Verejný server",
+                "description": "Nájdite trvalé servery, na ktorých môžete hrať, v Nitrox Discord."
+            },
+            "multiplayer": {
+                "headline": "Tento mod",
+                "title": "Nitrox multiplayer",
+                "description": "Začnite konečne hrať Subnauticu spolu so svojimi priateľmi. Pripojte sa alebo si vytvorte svoj vlastný server."
+            },
+            "stores": {
+                "headline": "Aktuálne podporované obchody",
+                "title": "Viac platforiem",
+                "tooltip": "Momentálne nedostupné",
+                "description": "Kompatibilné s vašimi obľúbenými obchodmi. Natívna podpora cross-play zabudovaná do modu umožňuje bezproblémový multiplayer."
+            },
+            "gameplay": {
+                "headline": "Hrateľnosť",
+                "title": "Tvoja Hrateľnosť",
+                "description": "Zahrajte si Subnauticu, od hry na prežitie s priateľmi až po kreatívne budovanie."
+            },
+            "code": {
+                "headline": "Zdrojový kód",
+                "title": "Otvorení Zdroj",
+                "description": "Pravidelná podpora a aktualizácie od štedrých prispievateľov. Prispejte a vylepšite mod."
+            },
+            "chat": {
+                "headline": "Komunikácia",
+                "title": "Správy v hre",
+                "description": "Zostaňte v kontakte so vstavaným systémom zasielania správ v hre Nitrox kompatibilným s viacerými platformami."
+            },
+            "lang": {
+                "headline": "Jazyky pridané komunitou",
+                "title": "Nitrox hovorí aj vaším jazykom.",
+                "link": "Prispejte a pridajte svoj jazyk",
+                "languages": "Bulharčína,Čínština, Chorvátčina,Čeština, Holandčina, Angličtina, Francúzština, Nemčina, Gréčtina,Madarčina,Taliančina, Japončina, Kórejčina, Poľština, Portugalčina, Rumunčina, Ruština,Slovenčína,Slovinčina,Španielčina, Švédčina, Thajčina ,Turečtina, Ukrajinčina, …"
+            },
+            "host": {
+                "headline": "Host",
+                "description": "Ľahko usporiadajte veľkú hráčsku udalosť s podporou až 100 hráčov.",
+                "subtitle": "Max. Sloty"
+            },
+            "play": {
+                "headline": "Hrať",
+                "description": "Randomizovaný štartovací modul Escape Pod, Randomizované a uložené semená pre zdroje a faunu, Nový systém Save, Rastliny a poľnohospodárstvo... a ešte oveľa viac."
+            }
+        },
+        "hero_cta": "Stiahnutie zadarmo",
+        "nextsteps": {
+            "get": {
+                "download": "Stiahnuť",
+                "description": "Stiahnite si Nitrox Mod zadarmo a začnite hrať multiplayer!",
+                "title": "Získajte mod",
+                "latest_version": "Najnovšia verzia:"
+            },
+            "wiki": {
+                "link": "Navštívte sprievodcov",
+                "title": "Začíname",
+                "description": "Prečítajte si sprievodcu inštaláciou a stránku s často kladenými otázkami"
+            }
+        },
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_slogan": "<span>Tvôj</span> <span>multiplayer</span> <span>Mod</span> <span>pre</span> <span>Subnauticu.</span>",
+        "meta": {
+            "title": "Nitrox pre Subnautica · Subnautica Mutliplayer Mod",
+            "description": "Nitrox je zadarmo multiplayer mod pre hru Subnautica vyvinuté komunitou."
+        },
+        "explore": "Zaži Subnautica <span class=\"opacity-5\">ako úplne nová hra. Pridaj sa. Preskúmajte nové hĺbky. Vybudujte epické základne.</span>"
+    },
+    "download_start": {
+        "guide_link": "Nitrox inštaluje Wizard",
+        "meta": {
+            "description": "Stiahni Nitrox: zadarmo mutliplayer mod pre hru Subnautica Vyvinuté Communitou.",
+            "title": "Stahovanie začalo… · Subnautica Multiplayer Mod"
+        },
+        "header": {
+            "helper": "Vaše Stahovanie by malo začať automaticky za <span id=\"countdowntimer\">2</span> sekund(y). Ak a nie, ",
+            "helper_link": "reštartujte stahovanie",
+            "started": "Stahovanie Začalo"
+        },
+        "next_steps": "Ďalšie kroky",
+        "md5": "MD5 Hash",
+        "install_vid": "Stiahnite Video",
+        "community_join": "Pripojte sa k komunite.",
+        "download_infos": "Informacie o stiahnutí",
+        "version": "Verzia",
+        "guide": "Inštalujte a aktualizujte príručky",
+        "file_size": "Veľkosť súboru"
+    },
+    "about": {
+        "meta": {
+            "description": "Zistite viac za tímom a projekt otvoreného zdroja Nitrox",
+            "title": "O Nitrox · Subnautica Multiplayer Mod"
+        },
+        "download": "Stiahnúť",
+        "user_count": "500,250+",
+        "download_header": "Pripravený? Dostaň ten mod!",
+        "discord": "Discord členovia",
+        "featured": "Zobrazené zapnuté",
+        "download_description": "Vaše dobrodružstvá čakajú. Stiahnite si zadarmo Nitrox Mod a začnite hrať subnautica multiplayer!",
+        "version": "Posledná Verzia:",
+        "quote": "Citát z",
+        "why": "Prečo Nitrox?",
+        "downloads": "Stiahnutí",
+        "multiplayer": "Multiplayer. <span class=\"opacity-5\">Zahraj Subnauticu tak,ako to bolo zamýšľané, v Mutliplayeri.</span>",
+        "title": "Modders priniesli multiplayer na Subnauticu.",
+        "discord_join": "Pripoj sa na Discord",
+        "opensource": "Otvorený zdroj. <span class=\"opacity-5\">Pravidelná podpora a aktualizácie od veľkorysých prispievateľov.</span>",
+        "servers": "Komunita. <span class=\"opacity-5\">Nájdi nový server, získaj pomoc a rozprávaj sa z ďalšími Nitrox hráčmi.</span>",
+        "metrics": "Naše metriky",
+        "download_count": "1,000,000+",
+        "discord_members": "27,000+",
+        "download_title": "Skorá ALPHA",
+        "users": "Použivatelia"
+    },
+    "os": {
+        "meta": {
+            "title": "Otvorený Zdroj Nitrox · Funkcie",
+            "description": "Otvorený zdrojový kód je v srdci Nitroxu. Od komunity, ktoraá ho vybudovala až po podporu jeho údržby."
+        },
+        "title": "Powered by<br>otvorený zdroj.",
+        "hero": "Otvorený zdroj je jadrom Nitroxu. <span class=\"opacity-5\">Tento mód sa nachádza v počiatočných štádiách vývoja, ale pre komunitu bol položený pevný základ, na ktorom sa má opakovať.</span>",
+        "license": "GNU General Public License v3.0",
+        "license_info": "SubnauticaNitrox/Nitrox je licencovaný pod GNU General Public License v3.0",
+        "license_link": "Viac sa dozveť",
+        "dev_resources": "Dev zdroje",
+        "dev_resources_contribute": "Prispievanie",
+        "dev_resources_code": "Kód wiki",
+        "dev_resources_info": "Prečítajte si náš začiatok a kódovanie na Githube.",
+        "join": "Chceš byť súčasťou tímu?",
+        "join_info": "Tu sú spôsoby, ako môžete prispieť."
+    },
+    "community": {
+        "meta": {
+            "title": "Nitrox Community · Subnautica pre viachračov Mod",
+            "description": "Buď súčasťou veľkej, rastúcej komunity Nitrox. Najdi nové servery, najdi pomoc a porozprávaj sa s inými Nitrox hráčmi."
+        },
+        "title": "Nitrox Komunita",
+        "subtitle": "Pripoj sa k veľkej komunite Nitrox s hráčmi z celého sveta.",
+        "discord": "Pripoj sa k nášmu aktívnemu discord serveru, aby ste našli servery, naktorých budete hrať, získajte pomoc od podporného tímu a oveľa viac.",
+        "github": "Chceš byť súčasťou tímu? Prispievať od kódov k prekladom projetku Nitrox na Github.",
+        "discord_join": "Pripojte sa na Discord",
+        "twitter_follow": "Sledujte náš Twitter",
+        "twitter": "Sledujte účet Nitrox na Twitteri, aby ste boli vždy v aktuálnom stave o najnovšom vývoji, udalostiach a poblikáciach.",
+        "reddit": "Pripojte sa k Nitrox subredditu, aby ste boli informovaní o najnovších publikáciach a o obsahu spoločenstva.",
+        "reddit_join": "Verzia",
+        "github_link": "Príspevok na Githube"
+    },
+    "resources": {
+        "meta": {
+            "title": "Officialne Nitrox Zdroje · Logo, Typografia, obrázky"
+        }
+    }
+}

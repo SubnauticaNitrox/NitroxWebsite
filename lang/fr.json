@@ -9,11 +9,11 @@
             "chat": {
                 "headline": "Communication",
                 "title": "Messagerie en jeu",
-                "description": "Restez en contact avec le système de messagerie en jeu cross-platform par Nitrox."
+                "description": "Restez en contact avec le système de messagerie en jeu cross-platform de Nitrox."
             },
             "stores": {
                 "tooltip": "Non disponible pour le moment",
-                "headline": "Versions de magasins prises en charge",
+                "headline": "Magasins pris en charge",
                 "title": "Cross platform",
                 "description": "Compatible avec vos magasins préférés. Un support cross-platform natif pour un multijoueur parfait."
             },
@@ -59,7 +59,7 @@
                 "headline": "Langues ajoutées par la communauté",
                 "title": "Nitrox parle aussi ta langue.",
                 "link": "Contribue &amp; ajoute ton langage",
-                "languages": "Allemand, Anglais, Chinois, Coréen, Croate, Espagnol, Français, Grec, Néerlandais, Polonais, Roumain, Russe, Suédois, Turc, Ukrainien,…"
+                "languages": "Bulgare, Chinois, Croate, Tchèque, Néerlandais, Anglais, Français, Allemand, Grec, Hongrois, Italien, Japonais, Coréen, Polonais, Portugais, Roumain, Russe, Slovaque, Slovène, Espagnol, Suédois, Thaï, Turc, Ukrainien, …"
             },
             "host": {
                 "headline": "Hôte",
@@ -170,7 +170,7 @@
         "servers": "Communauté. <span class=\"opacity-5\">Trouve de nouveaux serveurs, obtiens de l'aide et parle à d'autres joueurs Nitrox.</span>",
         "discord_members": "27.000+",
         "discord": "Membres Discord",
-        "download_header": "Prêt? Télécharge le mod !",
+        "download_header": "Prêt ? Télécharge le mod !",
         "download_description": "Ton aventure t'attends. Télécharge le Mod Nitrox gratuitement et commence à jouer à Subnautica en multijoueur !",
         "download": "Télécharger",
         "version": "Dernière version :",
@@ -180,7 +180,7 @@
         "download_title": "EARLY ALPHA"
     },
     "team": {
-        "join_description": "Toi aussi tu peux devenir un contributeur de ce mod. Tu peux développé pour Nitrox ou rejoindre l'équipe d'aide! Postule simplement sur le serveur discord ou sur notre page Subreddit",
+        "join_description": "Toi aussi tu peux devenir un contributeur de ce mod. Tu peux développé pour Nitrox ou rejoindre l'équipe d'aide ! Postule simplement sur le serveur discord ou sur notre  subreddit",
         "meta": {
             "description": "Dites bonjour aux généreux contributeur du projet open source Nitrox",
             "title": "Team Nitrox - Mod multijoueur Subnautica"
@@ -268,7 +268,7 @@
             "title": "Nitrox Communauté · Subnautica Mod Multijoueur",
             "description": "Prends part dans la large et grandissante communauté Nitrox. Trouve des nouveaux serveurs, obtiens de l'aide et parle à d'autres joueurs Nitrox."
         },
-        "github": "Envie de rejoindre l'équipe? Contribue du code à la traduction dans le projet Nitrox sur Github.",
+        "github": "Envie de rejoindre l'équipe ? Contribue du code à la traduction dans le projet Nitrox sur Github.",
         "twitter": "Suis le compte Twitter de Nitrox pour être toujours au courant des derniers ajouts, évènements, sorties.",
         "twitter_follow": "Suis nous sur Twitter",
         "title": "Nitrox communauté",
@@ -292,7 +292,7 @@
             "play_info": "Héberge ou trouve des serveurs permanent sur lesquels jouer, via la communauté Nitrox.",
             "play_subtitle": "Serveurs",
             "play_footnote": "Les serveurs publiques ne sont pas hébergé par Nitrox et la disponibilité à 100% du serveur n'est pas garantie. Les tierces serveurs ne sont pas modéré par l'équipe Nitrox.",
-            "host_slots": "Places max.",
+            "host_slots": "Places maximum",
             "host_footnote": "100 joueurs maximum par serveur, le nombre recommandé est 5.",
             "connect": "Se connecter",
             "connect_info": "Redirection de port automatique au travers d'UPNP pour une mise en place rapide."
