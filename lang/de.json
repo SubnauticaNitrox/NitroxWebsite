@@ -7,7 +7,7 @@
                 "description": "Spiele endlich Subnautica zusammen mit deinen Freunden. Schließe dich einem Server an oder erstelle deinen eigenen."
             },
             "stores": {
-                "headline": "Unterstützte Store-Versionen",
+                "headline": "Aktuell unterstütze Stores",
                 "title": "Plattformübergreifend",
                 "description": "Kompatibel mit deinen Lieblings-Stores. Die Cross-Play-Unterstützung ist in der Mod integriert und ermöglicht einen unkomplizierten Mehrspielermodus.",
                 "tooltip": "Derzeit nicht verfügbar"
@@ -345,7 +345,7 @@
         "home": "Startseite",
         "community": "Gemeinschaft",
         "guides": "Anleitungen",
-        "motd": "Aus dem Nitrox Blog: Warum wir NexusMods verlassen haben.",
+        "motd": "Neuster Entwickler Blogpost",
         "read_more": "Mehr lesen"
     },
     "footer": {
