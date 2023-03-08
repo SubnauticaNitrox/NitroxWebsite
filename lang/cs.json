@@ -13,7 +13,7 @@
                 "description": "Konečně začni hrát Subnauticu spolu se svými přáteli. Připoj se nebo vytvoř svůj vlastní server."
             },
             "stores": {
-                "headline": "Podporované verse",
+                "headline": "Aktuálně podporované verze",
                 "description": "Kompatibilní s oblíbenými obchody. Nativní podpora cross-play zabudovaná do modu umožňuje bezbariérový multiplayer.",
                 "tooltip": "Momentálně nedostupné",
                 "title": "Cross platform"
@@ -302,7 +302,7 @@
         "read_more": "Přečtěte si více",
         "home": "Domov",
         "community": "Komunita",
-        "motd": "Z blogu Nitrox: Proč jsme opustili NexusMods."
+        "motd": "Nejnovější příspěvek na blogu pro vývojáře."
     },
     "wiki": {
         "meta": {
