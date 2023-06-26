@@ -49,7 +49,7 @@
             "lang": {
                 "headline": "Tłumaczenia od społeczności",
                 "title": "Nitrox mówi też po twojemu.",
-                "languages": "Chiński, Chorwacki, Holenderski, Angielski, Francuski, Niemiecki, Grecki, Włoski, Japoński, Koreański, Polski, Portugalski, Rumuński, Rosyjski, Hiszpański, Szwedzki, Turecki, Ukraiński, …",
+                "languages": "bułgarski, chiński, chorwacki, czeski, holenderski, angielski, francuski, niemiecki, grecki, węgierski, włoski, japoński, koreański, polski, portugalski, rumuński, rosyjski, słowacki, słoweński, hiszpański, szwedzki, tajski, turecki, ukraiński,…",
                 "link": "Przetłumacz na własny język"
             },
             "play": {
@@ -65,7 +65,7 @@
             "gameplay": {
                 "headline": "Rozgrywka",
                 "title": "Twoja rozgrywka",
-                "description": "Subnautica, teraz w postaci przygody ze znajomymi lub kreatywnej sesji budowlanej."
+                "description": "Zagraj w Subnautica, od survivalowej rozgrywki ze znajomymi, aż po kreatywne sesje budowania."
             },
             "host": {
                 "description": "Bez problemów hostuj spore wydarzenia z serwerami nawet do 100 graczy.",
@@ -301,7 +301,7 @@
         "about": "O nas",
         "community": "Społeczność",
         "blog": "Blog",
-        "motd": "Z Blogu Nitrox: Powód opuszczenia NexusMods.",
+        "motd": "Najnowszy post na blogu.",
         "read_more": "Czytaj dalej"
     },
     "wiki": {

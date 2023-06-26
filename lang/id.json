@@ -1,0 +1,46 @@
+{
+    "home": {
+        "hero_cta": "Download gratis",
+        "meta": {
+            "title": "Nitrox for Subnautica · Mod Multiplayer Subnautica",
+            "description": "Nitrox adalah mod multiplayer gratis untuk game Subnautica yang dikembangkan oleh komunitas."
+        },
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_slogan": "<span>Mod</span> <span>multiplayer</span> <span>Subnautica</span> <span>untuk</span> <span>Kamu.</span>"
+    },
+    "wiki": {
+        "faq": {
+            "why": {
+                "answer": "Nitrox adalah campuran udara alternatif, yang digunakan oleh penyelam scuba, untuk mencapai waktu dasar yang lebih lama. Sebagai mod, ini akan memberikan dimensi baru dalam permainan untuk memperluas kesenangan Anda.",
+                "question": "Mengapa bernama \"Nitrox\"?"
+            },
+            "contribute": {
+                "question": "Bagaimana saya bisa berkontribusi?",
+                "answer": "Cukup kirimkan pull request di <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">halaman GitHub</a>. Jangan ragu untuk bergabung dengan kami di <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">kanal discord</a> untuk berdiskusi dan bertukar umpan balik atau ide dengan kontributor, pengembang, dan pemain lain."
+            },
+            "donate": {
+                "question": "Bagaimana saya bisa berdonasi?",
+                "answer": "Kami tidak menerima donasi untuk mod ini.  Mereka yang ingin menyumbang dapat melakukannya di sini: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+            },
+            "help": {
+                "answer": "Silakan baca terlebih dahulu langkah-langkah di wiki kami. Jika tidak berhasil, silakan tanyakan pada obrolan bantuan kami di kanal discord."
+            }
+        }
+    },
+    "os": {
+        "title": "Didukung oleh<br>open source.",
+        "meta": {
+            "title": "Open Source Nitrox · Fitur",
+            "description": "Kode sumber terbuka merupakan inti dari mod Nitrox. Dari komunitas yang membangunnya hingga dukungan yang memeliharanya."
+        }
+    },
+    "about": {
+        "users": "Pengguna",
+        "discord_members": "27,000+",
+        "featured": "Ditampilkan di",
+        "download_title": "ALPHA AWAL",
+        "download_header": "Siap? Dapatkan modnya!",
+        "download_description": "Petualangan Anda menanti. Unduh Nitrox Mod secara gratis dan mulailah bermain multipemain subnautica!",
+        "version": "Versi terbaru:"
+    }
+}

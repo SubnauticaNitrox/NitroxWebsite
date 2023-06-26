@@ -44,7 +44,8 @@
             "launcher": {
                 "title": "Nitrox Launcher",
                 "description": "Använd Nitrox Startprogrammet, för närvarande tillgänglig för Windows. Med ett väldesignat användargränssnitt för att göra det ännu enklare att spela flerspelarläget.",
-                "headline": "Upplevelse"
+                "headline": "Upplevelse",
+                "view": "Se koncept för pågående arbete"
             },
             "chat": {
                 "description": "Håll kontakten med Nitrox plattformsoberoende kompatibla inbyggda spelmeddelandesystem.",
@@ -92,15 +93,74 @@
         "header": {
             "title": "Ladda ned Nitrox",
             "download": "Starta Nedladdning",
-            "stores": "Butik-versioner som stöds"
+            "stores": "Butik-versioner som stöds",
+            "alpha": "TIDIGT ALFA",
+            "version": "Alfa",
+            "subtitle": "Ditt äventyr väntar. Ladda ned Nitrox modden helt gratis och börja spela Subnautica flerspelarläge!"
         },
         "changelog": "Ändringslogg",
         "changelog_older": "Visa äldre ändringsloggposter",
-        "sidebar": "Nitrox Mod. <span class=\"opacity-5\">En öppen källkod, multiplayer-modifikation för spelet Subnautica.</span>"
+        "sidebar": "Nitrox Mod. <span class=\"opacity-5\">En öppen källkod, multiplayer-modifikation för spelet Subnautica.</span>",
+        "meta": {
+            "description": "Ladda ner Nitrox: en gratis multiplayer-mod för spelet Subnautica som utvecklats av communityn.",
+            "title": "Ladda ner Nitrox · Subnautica Multiplayer (flerspelar) Mod"
+        }
     },
     "download_start": {
         "meta": {
-            "title": "Nedladdning startad... · Subnautica Flerspelar-mod"
-        }
+            "title": "Nedladdning startad... · Subnautica Flerspelar-mod",
+            "description": "Ladda ner Nitrox: en gratis multiplayer-mod till Subnautica som utvecklats av communityn."
+        },
+        "download_infos": "Nedladdnings information",
+        "guide": "Installations- och uppgraderingsguide",
+        "next_steps": "Nästa steg",
+        "header": {
+            "helper_link": "starta om nedladdningen",
+            "started": "Nedladdningen startad",
+            "helper": "Din nedladdning bör starta automatiskt om <span id=\"countdowntimer\">2</span> sekunder. Om det inte gör det, "
+        },
+        "md5": "MD5 Hash",
+        "file_size": "Filstorlek",
+        "version": "Version",
+        "install_vid": "Installera video",
+        "guide_link": "Nitrox installationsguide"
+    },
+    "community": {
+        "discord": "Gå med i vår aktiva Discord-server för att hitta servrar att spela på, få hjälp av supportteamet och mycket mer.",
+        "twitter": "Följ Nitrox Twitter-konto för att alltid vara uppdaterad om senaste utvecklingen, händelser och releaser.",
+        "subtitle": "Gå med i det stora Nitrox-communityt med spelare från hela världen.",
+        "reddit_join": "Version",
+        "github_link": "Bidra på GitHub",
+        "meta": {
+            "description": "Bli en del av den stora, växande Nitrox-gemenskapen. Hitta nya servrar, få hjälp och prata med andra Nitrox-spelare."
+        },
+        "title": "Nitrox-gemenskapen",
+        "twitter_follow": "Följ på Twitter",
+        "discord_join": "Gå med Discord",
+        "github": "Vill du vara en del av teamet? Bidra från kod till översättningar till Nitrox-projektet på GitHub.",
+        "reddit": "Gå med i Nitrox Subreddit för att hålla dig informerad om de senaste utgåvorna och posta community-innehåll."
+    },
+    "about": {
+        "opensource": "Öppen källkod. <span class=\"opacity-5\">Regelbunden support och uppdateringar från de generösa bidragsgivarna.</span>",
+        "users": "Användare",
+        "download_header": "Redo? Skaffa modden!",
+        "metrics": "Vår metrik",
+        "discord": "Discord-medlemmar",
+        "servers": "Community. <span class=\"opacity-5\">Hitta nya servrar, få hjälp och prata med andra Nitrox-spelare.</span>",
+        "meta": {
+            "description": "Ta reda på mer bakom teamet och Nitrox-projektet med öppen källkod",
+            "title": "Om Nitrox · Subnautica Multiplayer Mod"
+        },
+        "download_count": "1,000,000+",
+        "user_count": "500,250+",
+        "download_description": "Ditt äventyr väntar. Ladda ner Nitrox Mod gratis och börja spela subnautica multiplayer!",
+        "discord_join": "Gå med Discord",
+        "title": "Modders har tagit multiplayer till Subnautica.",
+        "downloads": "Nedladdningar",
+        "download_title": "TIDIG ALFA",
+        "why": "Varför Nitrox?",
+        "quote": "Citat från",
+        "multiplayer": "Multiplayer. <span class=\"opacity-5\">Spela Subnautica som det var tänkt att vara, i Multiplayer.</span>",
+        "discord_members": "27,000+"
     }
 }
