@@ -12,7 +12,7 @@
                 "title": "Nitrox multijogador"
             },
             "stores": {
-                "headline": "Versões de Loja Suportadas",
+                "headline": "Lojas atualmente suportadas",
                 "tooltip": "Atualmente não disponível",
                 "description": "Compatível com tuas lojas favoritas. Suporta cross-play nativo incorporado no mod permitindo multijogador perfeito.",
                 "title": "Cross platform"
@@ -29,7 +29,7 @@
                 "description": "Utiliza o Iniciador Nitrox, actualmente disponível para Windows. Com uma interface de utilizador bem concebida para tornar ainda mais fácil jogar em multijogador."
             },
             "lang": {
-                "languages": "Chinês, Croata, Holandês, Inglês, Francês, Alemão, Grego, Italiano, Japonês, Coreano, Polonês, Português, Romeno, Russo, Espanhol, Sueco, Turco, Ucraniano, …",
+                "languages": "Búlgaro, Chinês, Croata, Checo, Holandês, Inglês, Francês, Alemão, Grego, Húngaro, Italiano, Japonês, Coreano, Polaco, Português, Romeno, Russo, Eslovaco, Esloveno, Espanhol, Sueco, Tailandês, Turco, Ucraniano, …",
                 "headline": "A comunidade adicionou idiomas",
                 "title": "O Nitrox também fala o teu idioma.",
                 "link": "Contribui &amp; adiciona o teu idioma"

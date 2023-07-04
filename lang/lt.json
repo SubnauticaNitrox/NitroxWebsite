@@ -1,0 +1,91 @@
+{
+    "home": {
+        "meta": {
+            "title": "Nitrox Subnauticai · Subnauticos Žaidimo kartu modifikacija",
+            "description": "Nitrox yra nemokama žaidimo kartu modifikacija žaidimui Subnautica sukurta visuomenės."
+        },
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_slogan": "<span>Tavo</span> <span>žaidimo kartu</span> <span>modifikacija</span> <span>žaidimui</span> <span>Subnautica.</span>",
+        "feature": {
+            "multiplayer": {
+                "headline": "Modifikacija",
+                "title": "Nitrox žaidimas kartu",
+                "description": "Pagaliau pradėkite žaisti Subnautica kartu su savo draugais. Prisijunkite ar sukurkite savo paties serverį."
+            },
+            "stores": {
+                "title": "Veikia per visas platformas",
+                "headline": "Šiuo metu palaikomos prekybvietės",
+                "description": "Suderinama su tavo mėgstamiausiomis parduotuvėmis. Integruotas veikimas per visas platformas, leidžiantis žaisti kartu be problemų.",
+                "tooltip": "Šiuo metu nepasiekiama"
+            },
+            "gameplay": {
+                "headline": "Žaidimas",
+                "title": "Tavo žaidimo stilius",
+                "description": "Žaiskite Subnautica, nuo išgyvenimo su savo draugais, iki statymo su neribotais resursais."
+            },
+            "code": {
+                "headline": "Kodo pagrindas",
+                "title": "Modifikacijos kodas prieinamas visiems",
+                "description": "Pastovi pagalba bei atnaujinimai nuo dosniujų prisidėjusių. Prisidėk ir tu kad padaryti šią modifikaciją geresnę."
+            },
+            "community": {
+                "title": "Žaidėju bazė",
+                "downloads": "Atsisiuntimai",
+                "discord": "\"Discord\" nariai",
+                "headline": "Visuomenė",
+                "description": "Būk dalis didelės, augančios Nitrox visuomenės. Rask Naujus serverius, gauk pagalbos bei kalbėk su kitais Nitrox žaidėjais."
+            },
+            "launcher": {
+                "headline": "Patirtis",
+                "title": "Nitrox Paleidėjas",
+                "view": "Pasižiūrėti darbo progreso konceptus",
+                "description": "Naudokite Nitrox paleidėją, jis šiuo metu prieinamas Windows. Jame rasite puikiai suplanuotą naudotojo prieigą, padarančią žaidimą kartu dar lengvesnę."
+            },
+            "chat": {
+                "headline": "Komunikacija",
+                "title": "Rašinėjimasis žaidime",
+                "description": "Likite susisieke su Nitrox Visų platformų suderinama žaidimo susirašinėjimo sistema."
+            },
+            "upnp": {
+                "headline": "UPnP palaikymas",
+                "title": "Automatinis porto paskleidimas",
+                "description": "Nitrox automatiškai atidaro reikalingus portus, padarant susijungimą su draugais dar lengvesnį, bei nereikalaujantį jokio VPN."
+            },
+            "lang": {
+                "headline": "Visuomenės pridėtos kalbos",
+                "title": "Nitrox kalba ir jūsų kalba.",
+                "languages": "Bulgarian, Chinese, Croatian, Czech, Dutch, English, French, German, Greek, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukrainian, …",
+                "link": "Prisidėkite ir pridėkite savo kalbą"
+            },
+            "host": {
+                "headline": "Paleisti",
+                "subtitle": "Max. Vietos",
+                "description": "Lengvai paleiskite didelį žaidėjų eventą su 100 žmonių."
+            },
+            "server": {
+                "headline": "Viešasis Serveris",
+                "description": "Rasti amžinus serverius gali Nitrox Discorde.",
+                "number": "24/7",
+                "subtitle": "Serveriai"
+            },
+            "play": {
+                "description": "Randomizuota pradžios išsigelbėjimo kapsulės vieta, Randomizuotos ir išsaugomos sėklos del resursų ir faunos, Nauja išsaugojimo sistema, Augalai bei agrikultūra… bei daug daugiau.",
+                "headline": "Žaisti"
+            }
+        },
+        "hero_cta": "Atsisiusti nemokamai",
+        "explore": "Patirkite Subnautica <span class=\"opacity-5\">Kaip visiškai naują žaidimą. Susiburkite kartu. Tyrinėkite naujas gilumas. Statykite Kietas bazes.</span>",
+        "nextsteps": {
+            "get": {
+                "title": "Gaukite modą",
+                "latest_version": "Naujausia versija:",
+                "download": "parsisiųsti",
+                "description": "Atsisiųskite „Nitrox Mod“ nemokamai ir pradėkite žaisti kelių žaidėjų režimą!"
+            },
+            "wiki": {
+                "title": "pradedama",
+                "description": "Perskaitykite diegimo vadovą ir DUK puslapį"
+            }
+        }
+    }
+}

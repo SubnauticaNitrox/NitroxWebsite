@@ -83,9 +83,9 @@
                     <a class="d-inline-block text-decoration-none mb-3 mr-2" target="_blank" href="https://hosted.weblate.org/engage/subnauticanitrox/">
                         <img src="https://hosted.weblate.org/widgets/subnauticanitrox/-/website/svg-badge.svg" alt="Translation status" />
                     </a>
-                    <small class="d-inline-block mt-3 mb-3 text-white">© 2022 Nitrox &#183</small>
+                    <small class="d-inline-block mt-3 mb-3 text-white">© {{ Carbon\Carbon::now()->format('Y') }} Nitrox &#183</small>
                     <small class="d-inline-block mt-3 mb-3">
-                        <a class="text-white opacity-5" href="https://github.com/keyboardfox" target="_blank">Design + Code by Rux</a>
+                        <a class="text-white opacity-5" href="https://github.com/pawfox" target="_blank">Design + Code by Rux</a>
                     </small>
                 </div>
                 <div class="col-md-6 col-12">

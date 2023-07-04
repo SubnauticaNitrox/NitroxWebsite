@@ -7,7 +7,7 @@
                 "description": "Spiele endlich Subnautica zusammen mit deinen Freunden. Schließe dich einem Server an oder erstelle deinen eigenen."
             },
             "stores": {
-                "headline": "Unterstützte Store-Versionen",
+                "headline": "Aktuell unterstütze Stores",
                 "title": "Plattformübergreifend",
                 "description": "Kompatibel mit deinen Lieblings-Stores. Die Cross-Play-Unterstützung ist in der Mod integriert und ermöglicht einen unkomplizierten Mehrspielermodus.",
                 "tooltip": "Derzeit nicht verfügbar"
@@ -46,7 +46,7 @@
                 "description": "Nitrox öffnet automatisch die erforderlichen Ports, sodass eine Verbindung mit deinen Freunden ohne VPN-Software von Drittanbietern ermöglicht wird."
             },
             "lang": {
-                "languages": "Chinesisch, Deutsch, Englisch, Französisch, Griechisch, Italienisch, Japanisch, Koreanisch, Kroatisch, Niederländisch, Polnisch, Portugiesisch, Rumänisch, Russisch, Schwedisch, Spanisch, Türkisch, Ukrainisch, …",
+                "languages": "Bulgarisch, Chinesisch, Deutsch, Englisch, Französisch, Griechisch, Italienisch, Japanisch, Koreanisch, Kroatisch, Niederländisch, Polnisch, Portugiesisch, Rumänisch, Russisch, Schwedisch, Slowakisch, Slowenisch, Spanisch, Thailändisch, Tschechisch, Türkisch, Ukrainisch, Ungarisch, …",
                 "headline": "Von der Community hinzugefügte Sprachen",
                 "title": "Nitrox spricht auch deine Sprache.",
                 "link": "Trage bei und füge deine Sprache hinzu"
@@ -345,7 +345,7 @@
         "home": "Startseite",
         "community": "Gemeinschaft",
         "guides": "Anleitungen",
-        "motd": "Aus dem Nitrox Blog: Warum wir NexusMods verlassen haben.",
+        "motd": "Neuster Entwickler Blogpost.",
         "read_more": "Mehr lesen"
     },
     "footer": {

@@ -9,7 +9,7 @@
                 "description": "Konačno počni igrati Subnautica zajedno sa svojim prijateljima. Pridruži se ili svori svoj vlastiti poslužitelj."
             },
             "stores": {
-                "headline": "Verzije podržanih trgovina",
+                "headline": "Trenutačno podržane trgovine",
                 "title": "Višeplatformski",
                 "tooltip": "Trenutačno nije dostupno",
                 "description": "Kompatibilan s tvojim omiljenim trgovinama. Izvorna podrška za igranje na različitim uređajima ugrađena u mod omogućuje nesmetanu igru s više igrača."
@@ -51,7 +51,7 @@
                 "headline": "Od zajednice dodani jezici",
                 "link": "Doprinesi i dodaj svoj jezik",
                 "title": "Nitrox također govori tvojim jezikom.",
-                "languages": "kineski, hrvatski, nizozemski, engleski, francuski, njemački, grčki, talijanski, japanski, korejski, poljski, portugalski, rumunjski, ruski, španjolski, švedski, turski, ukrajinski, …"
+                "languages": "Bugarski, kineski, hrvatski, češki, nizozemski, engleski, francuski, njemački, grčki, mađarski, talijanski, japanski, korejski, poljski, portugalski, rumunjski, ruski, slovački, slovenski, španjolski, švedski, tajski, turski, ukrajinski, …"
             },
             "play": {
                 "headline": "Igraj",
@@ -209,7 +209,7 @@
             "play_subtitle": "Poslužitelji",
             "connect_info": "Automatsko prosljeđivanje priključaka korištenjem UPNP-a za brzo postavljanje.",
             "play_info": "Pronađi stalne poslužitelje za igranje u Nitrox zajednici.",
-            "play_footnote": "Nitrox ne hostira javne poslužitelje i nije osigurano 100 % vrijeme rada. Nitroxov tim ne moderira strane poslužitelje.",
+            "play_footnote": "Nitrox ne hostira javne poslužitelje i vrijeme neprekidnog rada od 100&nbsp;% nije osigurano. Nitroxov tim ne moderira strane poslužitelje.",
             "host_footnote": "Maksimalno 100 igrača na poslužitelju, preporučen broj igrača je 5.",
             "host_info": "Jednostavno organiziraj događaj na host računalu za do 100 igrača.",
             "host_slots": "Maks. broj mjesta"
@@ -262,7 +262,7 @@
         "discord": "Discord članovi",
         "footnote_2": "Maksimalno 100 igrača na poslužitelju, preporučen broj igrača je 5.",
         "footnote_1": "Windows trgovina zahtijeva dodatno postavljanje. Koraci i podrška za postavljanje mogu se pronaći u Nitrox Discordu.",
-        "footnote_3": "Nitrox ne hostira javne poslužitelje i nije osigurano 100 % vrijeme rada. Nitroxov tim ne moderira strane poslužitelje.",
+        "footnote_3": "Nitrox ne hostira javne poslužitelje i vrijeme neprekidnog rada od 100 % nije osigurano. Nitroxov tim ne moderira strane poslužitelje.",
         "community_description": "Poveži se i razgovaraj s drugim igračima Nitroxa",
         "nexus": "Nexus posjetitelji",
         "community": {
