@@ -74,6 +74,18 @@
             }
         },
         "hero_cta": "Atsisiusti nemokamai",
-        "explore": "Patirkite Subnautica <span class=\"opacity-5\">Kaip visiškai naują žaidimą. Susiburkite kartu. Tyrinėkite naujas gilumas. Statykite Kietas bazes.</span>"
+        "explore": "Patirkite Subnautica <span class=\"opacity-5\">Kaip visiškai naują žaidimą. Susiburkite kartu. Tyrinėkite naujas gilumas. Statykite Kietas bazes.</span>",
+        "nextsteps": {
+            "get": {
+                "title": "Gaukite modą",
+                "latest_version": "Naujausia versija:",
+                "download": "parsisiųsti",
+                "description": "Atsisiųskite „Nitrox Mod“ nemokamai ir pradėkite žaisti kelių žaidėjų režimą!"
+            },
+            "wiki": {
+                "title": "pradedama",
+                "description": "Perskaitykite diegimo vadovą ir DUK puslapį"
+            }
+        }
     }
 }
