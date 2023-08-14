@@ -104,7 +104,7 @@
             "title": "Nitrox pre Subnautica · Subnautica Mutliplayer Mod",
             "description": "Nitrox je zadarmo multiplayer mod pre hru Subnautica vyvinuté komunitou."
         },
-        "explore": "Zaži Subnautica <span class=\"opacity-5\">ako úplne nová hra. Pridaj sa. Preskúmajte nové hĺbky. Vybudujte epické základne.</span>"
+        "explore": "Zaži Subnautica <span class=\"opacity-5\">ako úplne novú hru. Pridaj sa. Preskúmajte nové hĺbky. Vybudujte epické základne.</span>"
     },
     "download_start": {
         "guide_link": "Nitrox inštaluje Wizard",
@@ -162,7 +162,7 @@
         "license": "GNU General Public License v3.0",
         "license_info": "SubnauticaNitrox/Nitrox je licencovaný pod GNU General Public License v3.0",
         "license_link": "Viac sa dozveť",
-        "dev_resources": "Dev zdroje",
+        "dev_resources": "Vývojárske prostriedky",
         "dev_resources_contribute": "Prispievanie",
         "dev_resources_code": "Kód wiki",
         "dev_resources_info": "Prečítajte si náš začiatok a kódovanie na Githube.",
@@ -188,6 +188,35 @@
     "resources": {
         "meta": {
             "title": "Officialne Nitrox Zdroje · Logo, Typografia, obrázky"
-        }
+        },
+        "images": "Obrázky"
+    },
+    "server": {
+        "cards": {
+            "play_subtitle": "Servery",
+            "host_slots": "Max. Sloty",
+            "host_footnote": "Max. 100 hráčov na servery, doporučený počet hráčov 5.",
+            "connect": "Pripojiť",
+            "play_footnote": "Verejné servery nie sú hosťované spoločnosťou Nitrox a nie je zabezpečená 100 % prevádzková doba. Servery tretích strán nie sú moderované tímom Nitrox.",
+            "host": "Hostiteľ",
+            "connect_subtitle": "Technológie",
+            "connect_info": "Automatické prepájanie portov pomocou UPNP na rýchle nastavenie.",
+            "host_info": "Ľahko zorganizujete podujatie pre veľký počet hráčov s podporou až 100 hráčov.",
+            "play": "Hrať"
+        },
+        "title": "Nitrox Server <br> Ľahký a výkonný.",
+        "meta": {
+            "title": "Nitrox Server · Funkcie"
+        },
+        "features_included": "Čo je zahrnuté?"
+    },
+    "launcher": {
+        "meta": {
+            "title": "Nitrox Launcher · Možnosti",
+            "description": "Nitrox Launcher je váš vstup do hry pre viacerých hráčov Subnautica."
+        },
+        "settings": "Inteligentné nastavenie",
+        "launcher": "Nitrox Launcher.",
+        "coming_soon": "Už čoskoro"
     }
 }

@@ -1,0 +1,375 @@
+{
+    "home": {
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_slogan": "<span>Sinun</span> <span>moninpelimodisi</span><span>Subnauticaan.</span>",
+        "hero_cta": "Lataa ilmaiseksi",
+        "explore": "Koe Subnautica <span class=\"opacity-5\">kuin täysin uusi peli. Tee tiimityötä. Tutki uusia syvyyksiä. Rakenna mahtavia tukikohtia.</span>",
+        "feature": {
+            "multiplayer": {
+                "headline": "Modi",
+                "title": "Nitrox-moninpeli",
+                "description": "Pelaa Subnauticaa viimeinkin yhdessä kavereittesi kanssa. Liity peliin tai luo ikioma palvelimesi."
+            },
+            "stores": {
+                "headline": "Tällä hetkellä tuetut pelikaupat",
+                "title": "Kauppojenvälinen",
+                "tooltip": "Ei saatavilla juuri nyt",
+                "description": "Yhteensopiva suosikkikauppojesi kanssa. Kauppojen välinen yhteensopivuus mahdollistaa saumattoman moninpelikokemuksen."
+            },
+            "code": {
+                "title": "Avointa koodia",
+                "description": "Säännöllinen tuki ja päivitykset anteliailta osallistujilta. Osallistu ja tee modista parempi.",
+                "headline": "Koodi"
+            },
+            "community": {
+                "discord": "Discord-jäsentä",
+                "headline": "Yhteisö",
+                "title": "Pelaajakanta",
+                "description": "Ole osa suurta, kasvavaa Nitrox-yhteisöä. Löydä uusia palvelimia, saa apua ja keskustele muiden Nitrox-pleaajien kanssa.",
+                "downloads": "Latausta"
+            },
+            "launcher": {
+                "headline": "Kokemus",
+                "title": "Nitrox-käynnistin",
+                "description": "Käytä Nitrox-käynnistintä, tällä hetkellä saatavilla Windows:ille. Sisältää hyvin suunnitellun käyttöliittymän, joka tekee moninpelin pelaamisesta entistä helpompaa.",
+                "view": "Katso työn alla olevia konsepteja"
+            },
+            "gameplay": {
+                "headline": "Pelaaminen",
+                "title": "Pelisi",
+                "description": "Pelaa Subnauticaa, selvitymis-läpipelaamisesta kavereittesi kanssa luovaan rakennusistuntoon."
+            },
+            "chat": {
+                "headline": "Viestintä",
+                "title": "Pelinsisäinen viestintä",
+                "description": "Pysy yhteydessä alustojen välisen pelinsisäisen viestintäjärjestelmän avulla."
+            },
+            "upnp": {
+                "headline": "UPnP-tuki",
+                "title": "Automaattinen porttiohjaus",
+                "description": "Nitrox automaattisesti avaa tarvittavat portit, joka mahdollistaa yhdistämisen ystäviisi ilman VPN-ohjelmistoja."
+            },
+            "lang": {
+                "headline": "Yhteisön lisäämät kielet",
+                "title": "Nitrox puhuu myös kieltäsi.",
+                "link": "Osallistu ja lisää kielesi",
+                "languages": "bulgariaksi, englanniksi, espanjaksi, hollanniksi, italiaksi, japaniksi, kiinaksi, koreaksi, kreikaksi, kroatiaksi, portugaliksi, puolaksi, ranskaksi, romaniaksi, ruotsiksi, saksaksi, slovakiaksi, sloveniaksi, thaiksi, tšekiksi, turkiksi, ukrainaksi, unkariksi, venäjäksi, …"
+            },
+            "host": {
+                "headline": "Isännöi",
+                "description": "Isännöi jopa 100 pelaajan kokoisia tapahtumia helposti.",
+                "subtitle": "Maksimipaikat"
+            },
+            "play": {
+                "headline": "Pelaa",
+                "description": "Satunnaistettu pelastuskapseli, satunnainen tai tallennettu maailman siemen luonnonvaroihin ja eläimistöön, Uusi Tallennus -järjestelmä, Kasvit ja Viljely… ja paljon muuta."
+            },
+            "server": {
+                "headline": "Julkinen Palvelin",
+                "description": "Löydä pysyviä palvelimia millä pelata Nitroxin Discord-palvelimella.",
+                "number": "24/7",
+                "subtitle": "Palvelimia"
+            }
+        },
+        "meta": {
+            "description": "Nitrox on yhteisön kehittämä, ilmainen moninpelimodi Subnautica-peliin.",
+            "title": "Nitrox Subnauticalle · Subnautica Moninpelimodi"
+        },
+        "nextsteps": {
+            "get": {
+                "title": "Hanki modi",
+                "description": "Lataa Nitrox modi ilmaiseksi ja aloita moninpelin pelaaminen!",
+                "download": "Lataa",
+                "latest_version": "Uusin versio:"
+            },
+            "wiki": {
+                "title": "Aloitetaan",
+                "description": "Lue asennusohjeet ja katso UKK-sivu",
+                "link": "Katso ohjeet"
+            }
+        }
+    },
+    "download": {
+        "meta": {
+            "title": "Lataa Nitrox · Subnautica Moninpelimodi",
+            "description": "Lataa Nitrox: ilmainen yhteisön tekemä moninpelimodi Subnauticalle."
+        },
+        "header": {
+            "alpha": "AIKAINEN ALPHA",
+            "title": "Lataa Nitrox",
+            "download": "Aloita lataus",
+            "subtitle": "Seikkailusi odottaa. Lataa Nitrox-moninpelimodi ilmaiseksi ja aloita Subnautican pelaaminen moninpelinä!",
+            "version": "Alpha",
+            "stores": "Tuetut kaupat"
+        },
+        "changelog": "Muutosloki",
+        "sidebar": "Nitrox modi. <span class=\"opacity-5\">Avoimen lähdekoodin moninpelimodi Subnauticalle.</span>",
+        "changelog_older": "Katso aikasempia muutoslokeja"
+    },
+    "download_start": {
+        "meta": {
+            "title": "Lataus aloitettu... · Subnautica Moninpelimodi",
+            "description": "Lataa Nitrox: ilmainen yhteisön tekemä moninpelimodi Subnauticalle."
+        },
+        "header": {
+            "started": "Lataus aloitettu",
+            "helper": "Latauksesi pitäisi alkaa <span id=\"countdowntimer\">2</span> sekunnin päästä. Jos se ei, ",
+            "helper_link": "yritä latausta uudelleen"
+        },
+        "next_steps": "Seuraavat askelet",
+        "install_vid": "Asennusvideo",
+        "community_join": "Liity yhteisöön",
+        "md5": "MD5-hajautus",
+        "guide": "Asennus- ja päivitysohje",
+        "guide_link": "Nitrox-asennusneuvoja",
+        "file_size": "Tiedostokoko",
+        "download_infos": "Latauksen tiedot",
+        "version": "Versio"
+    },
+    "community": {
+        "meta": {
+            "title": "Nitroxin yhteisö · Subnautica Moninpelimodi",
+            "description": "Ole osa suurta, kasvavaa Nitrox-yhteisöä. Löydä uusia palvelimia, saa apua ja keskustele muiden Nitrox-pelaajien kanssa."
+        },
+        "title": "Nitrox-yhteisö",
+        "subtitle": "Liity isoon Nitrox-yhteisöön jossa on pelaajia kaikkialla ympäri maailmaa.",
+        "discord": "Liity meidän aktiiviselle Discord-palvelimelle löytääksesi palvelimia jossa pelata, saadaksesi tukea tukitiimiltä ja paljon muuta.",
+        "discord_join": "Liity Discordiimme",
+        "twitter": "Seuraa Nitroxin Twitter-tiliä ollaksesi aina perillä uusista päivityksistä ja tapahtumista.",
+        "twitter_follow": "Seuraa Twitterissä",
+        "reddit": "Liity Nitroxin subredditille pysyäksesi perillä uusista julkaisuista ja julkaise itse yhteisösisältöä.",
+        "reddit_join": "Liity Subredditille Redditissä",
+        "github_link": "Osallistu GitHub:issa",
+        "github": "Haluatko olla osana tiimiä? Osallistu, koodista käännöksiin Nitrox-projektiin GitHub:issa."
+    },
+    "about": {
+        "meta": {
+            "title": "Tietoja Nitroxista · Subnautica Moninpelimodi",
+            "description": "Lue lisää tiimistä ja avoimen lähdekoodin Nitrox-projektista"
+        },
+        "title": "Modaajat ovat tuoneet moninpelin Subnauticaan.",
+        "quote": "Lainaus",
+        "why": "Miksi Nitrox?",
+        "discord_join": "Liity Discordiimme",
+        "multiplayer": "Moninpeli. <span class=\"opacity-5\">Pelaa Subnauticaa, miten sen oli tarkoitus olla: moninpelissä</span>",
+        "opensource": "Avoin lähdekoodi. <span class=\"opacity-5\">Säännöllistä tukea ja päivityksiä anteliailta osallistujilta.</span>",
+        "servers": "Yhteisö. <span class=\"opacity-5\">Löydä uusia palvelimia, saa apua ja keskustele toisten Nitrox-pelaajien kanssa.</span>",
+        "metrics": "Meidän tilastot",
+        "download_count": "1,000,000+",
+        "downloads": "Latauksia",
+        "user_count": "500,250+",
+        "users": "Käyttäjää",
+        "discord_members": "27,000+",
+        "discord": "Discord-jäsentä",
+        "featured": "Näytetty myös",
+        "download_title": "AIKAINEN ALPHA",
+        "download_header": "Valmiina? Hanki modi!",
+        "download_description": "Seikkailusi odottaa. Lataa Nitrox-moninpelimodi ilmaiseksi ja aloita Subnautican pelaaminen moninpelinä!",
+        "download": "Lataa",
+        "version": "Uusin versio:"
+    },
+    "os": {
+        "meta": {
+            "title": "Avoimen lähdekoodin Nitrox · Ominaisuudet",
+            "description": "Avoin lähdekoodi on Nitrox-modin ytimessä. Yhteisöstä, joka rakensi sen, yhteisöön joka tukee sitä."
+        },
+        "title": "Voimalähteenä<br>avoin lähdekoodi.",
+        "hero": "Avoin lähdekoodi on Nitroxin ytimessä. <span class=\"opacity-5\">Modi on hyvin varhaisessa kehitysvaiheessa, mutta yhteisölle on annettu vankka perusta jonka päälle rakentaa.</span>",
+        "license": "GNU General Public License v3.0",
+        "license_info": "SubnauticaNitrox/Nitrox on lisensöity GNU General Public License v3.0 -lisenssillä",
+        "license_link": "Lue lisää",
+        "dev_resources": "Ohjeita &amp; Resursseja kehittäjille",
+        "dev_resources_info": "Lue aloitusohjeet ja koodiin osallistumisen suuntaviivat GitHubista.",
+        "dev_resources_contribute": "Koodiin osallistumisen suuntaviivat",
+        "join": "Haluatko olla osa tiimiä?",
+        "join_info": "Tässä on tapoja, joilla voit osallistua.",
+        "dev_resources_code": "Koodin wiki"
+    },
+    "resources": {
+        "meta": {
+            "title": "Viralliset Nitrox Resurssit · Logo, fontit, kuvat",
+            "description": "Lataa viralliset Nitrox-modin resurssit, mukaan lukien logo, fontit, kuvat ja enemmän."
+        },
+        "title": "Nitrox <span class=\"opacity-5\">Resurssit</span>",
+        "images": "Kuvat",
+        "fonts": "Fontit",
+        "images_info": "Nitrox kuvankaappaukset <span class=\"opacity-5\">Käytä näitä jakamaan Subnautican moninpelikokemuksen.<br> Haluatko lisätä omasi? Jaa ne Discord-palvelimella tai twiittaa meille.</span>"
+    },
+    "server": {
+        "meta": {
+            "title": "Nitrox Palvelin · Ominaisuudet",
+            "description": "Nitroxissa on tehokas moninpelipalvelin, joka on samanaikaisesti erittäin kevyt ja resurssitehokas."
+        },
+        "title": "Nitrox Palvelin <br>Erittäin kevyt &amp; tehokas.",
+        "cards": {
+            "host": "Isännöi",
+            "host_info": "Helposti isännöi suuria pelaajatapahtumia, joissa voi olla jopa 100 pelaajaa.",
+            "host_slots": "Maksimipaikat",
+            "host_footnote": "Maksimissaan 100 pelaajaa palvelimella, suositeltu pelaajamäärä 5.",
+            "connect": "Yhdistä",
+            "connect_info": "Automaattinen portinohjaus UPNP:n avulla nopeaa asennusta varten.",
+            "connect_subtitle": "Teknologia",
+            "play": "Pelaa",
+            "play_info": "Isännöi tai löydä pysyviä palvelimia Nitrox-yhteisössä.",
+            "play_subtitle": "Palvelimet",
+            "play_footnote": "Julkiset palvelimet eivät ole Nitroxin isännöimiä, eikä 100-prosenttista käyttöaikaa ole varmistettu. Kolmannen osapuolen palvelimia ei moderoi Nitrox-tiimi."
+        },
+        "features_included": "Mitä sisältyy?",
+        "feature_list": "<p class=\"lead\">Nitrox-palvelin sisältää kaiken mitä tarvitset käynnistää, isännöidä ja pelata Subnauticaa moninpeli-tilassa.</p>\n<ul class=\"lead\">\n<li>Palvelinkonsoli</li>\n<li>Sisäänrakennettu viestintäjärjestelmä</li>\n<li>Muokattava palvelimen portti</li>\n<li>Maksimina 100 yhdistettyä pelaajaa samanaikaisesti</li>\n<li>Automaattinen tallennus</li>\n<li>Muokattavat pelimuodon asetukset</li>\n<li>Julkinen palvelimen tila</li>\n<li>Yksityinen salasanasuojattu palvelin</li>\n</ul>",
+        "features": "Nitrox-palvelimet <span class=\"opacity-5\">ovat tehokkaita, mutta helppoja isännöidä. Optimoitu koodi on kirjoitettu Subnauticaa varten. Se toimii kevyesti ja vaatii juuri lainkaan resursseja parasta pelikokemusta varten.</span>"
+    },
+    "launcher": {
+        "meta": {
+            "title": "Nitrox-käynnistin · Ominaisuudet",
+            "description": "Nitrox-käynnistin on sisäänpääsy Subnautica moninpelikokemukseen."
+        },
+        "hero": "Kaiken sisältävä<br>moninpeli.",
+        "coming_soon": "Tulossa pian",
+        "launcher": "Nitrox-käynnistin.",
+        "preview": "Esikatsele uutta Nitrox-käynnistintä. <span class=\"opacity-5\">Pääsysi moninpelikokemukseen. Huolellisesti suunniteltu helppokäyttöiseksi. Tulossa pian.</span>",
+        "settings": "Älykkäät asetukset",
+        "settings_info": "Omistatko useita kopioita Subnauticasta? Ei ongelma. Nitrox-käynnistin havaitsee automaattisesti kaikki Subnautica asennuksesi, jolloin voit nopeasti vaihtaa eri kauppojen välillä. Yksinkertaistaa asennusta ja poistaa tarpeen manuaalisesti määrittää polku.",
+        "server": "Palvelin",
+        "server_info": "Nitrox-palvelin on sisäänrakennettu käynnistimeen. Tämä mahdollistaa nopean moninpeli-istunnon isännöinnin. UPNP:n avulla Nitrox huolehtii automaattisesti porttien ohjaamisesta. Palvelin on kevyt ja helppo suorittaa käyttämättä paljon järjestelmäresursseja.",
+        "server_more": "Lue lisää",
+        "redesigned": "Suunniteltu kokonaan uudelleen. <span class=\"opacity-5\">Keskitetty tarjoamaan hyödyllistä tietoa. Nopea pääsy moninpeliin. Yksityiskohtainen diagnostiikka. Kaikki mitä tarvitset palvelimen isännöintiin.</span>",
+        "hub": "Keskuksesi kaikkeen Nitroxiin.",
+        "hub_info": "Uudistetun käynnistimen avulla voit helposti pysyä ajan tasalla kaikesta Nitroxiin liittyvästä. Ole ensimmäinen joka saa uusimmat versiot, yksityiskohtaiset tiedot parantaaksesi palvelimesi kokemusta ja yhteisövälilehti, jolla on pääsy 24/7-verkkopalvelimiin."
+    },
+    "team": {
+        "meta": {
+            "title": "Nitrox-tiimi · Subnautica Moninpelimodi",
+            "description": "Sano tervehdys avoimen lähdekoodin Nitrox-projektin osallistujille"
+        },
+        "title": "Nitroxia rakentaa intohimoinen avoimen lähdekoodin osallistuja tiimi.",
+        "join": "Haluatko liittyä tiimiin?",
+        "join_description": "Sinäkin voit olla osallistuja. Voit osallistua Nitroxiin tai liittyä tukitiimiin! Pistä vain viestiä discord-palvelimeen tai subreddit-sivulle"
+    },
+    "changelog": {
+        "meta": {
+            "title": "Muutosloki · Subnautica moninpelimodi",
+            "description": "Katso Nitrox -julkaisujen uusin muutosloki ja versiohistoria."
+        },
+        "title": "Muutosloki",
+        "subtitle": "Katso Nitrox -julkaisujen uusin muutosloki ja versiohistoria.",
+        "latest_version": "Uusin versio:",
+        "download": "Lataa"
+    },
+    "footer-extended": {
+        "community_title": "Yhteisö",
+        "community_description": "Keskustele muiden Nitrox-pelaajien kanssa",
+        "users": "Ainutkertaiset käyttäjät",
+        "downloads": "Lataukset",
+        "nexus": "Nexus-katselukerrat",
+        "discord": "Discord-jäsenet",
+        "community": {
+            "discord": "Nitroxin Discord-palvelin",
+            "discord_description": "Keskustele yli 27,000 jäsenen kanssa Subnautica moninpelistä, löydä muita pelaajia pelaamaan yhdessä ja saa apua.",
+            "discord_join": "Klikkaa liittyäksesi Discordiin",
+            "twitter": "Seuraa Twitterissä",
+            "twitter_description": "Seuraa Twitterissä, että olet aina ajan tasalla tietojen, oivallusten ja paljon muun kanssa.",
+            "twitter_join": "Klikkaa käydäksesi @modnitrox"
+        },
+        "featured": "Näytetty myös",
+        "footnote_1": "Microsoft Store vaatii lisäaskelia. Vaiheet ja tuki löytyvät Nitroxin Discordista.",
+        "footnote_2": "Maksimissaan 100 pelaajaa palvelimella, suositeltu pelaajamäärä 5.",
+        "footnote_3": "Julkiset palvelimet eivät ole Nitroxin isännöimiä, eikä 100-prosenttista käyttöaikaa ole varmistettu. Kolmannen osapuolen palvelimia ei moderoi Nitrox-tiimi."
+    },
+    "footer": {
+        "getstarted": "Aloitetaan",
+        "mod": "Modi",
+        "connect": "Yhteisö",
+        "learnmore": "Lue lisää",
+        "nav": {
+            "guides": "Nitrox-oppaat",
+            "install": "Asennusopas",
+            "server_setup": "Palvelimen asennus",
+            "server_join": "Liity palvelimelle",
+            "download": "Lataa Nitrox",
+            "changelog": "Muutosloki",
+            "contribute": "Osallistu",
+            "community": "Yhteisö",
+            "devblog": "Kehittäjän blogi",
+            "about": "Tietoja",
+            "team": "Tiimi",
+            "resources": "Resurssit"
+        }
+    },
+    "navigation": {
+        "home": "Koti",
+        "guides": "Ohjeet",
+        "about": "Tietoja",
+        "community": "Yhteisö",
+        "blog": "Blogi",
+        "motd": "Viimeisin kehittäjän blogipostaus.",
+        "read_more": "Lue lisää"
+    },
+    "lang-select": {
+        "title": "Kieli",
+        "description": "Valitse kielesi."
+    },
+    "wiki": {
+        "meta": {
+            "title": "Ohjeet &amp; Wiki  · Subnautica moninpelimodi",
+            "description": "Nitrox on yhteisön kehittämä, ilmainen moninpelimodi Subnautica-peliin."
+        },
+        "title": "Tervetuloa Nitroxin tukeen",
+        "subtitle": "Selaa hyödyllisiä oppaita ja lue ensimmäiset vaiheet kuinka aloittaa Nitroxin käyttö.",
+        "quick_links": "Pikalinkit",
+        "search_placeholder": "Etsi jotain…",
+        "search_run": "Käynnistä ja isännöi Nitrox-palvelinta",
+        "search_join": "Liity Nitrox-palvelimelle",
+        "search_home": "Nitrox päivitys- ja asennusneuvoja",
+        "readmore": "Lue lisää",
+        "cards": {
+            "install": "Nitroxin asentaminen",
+            "server": "Palvelimen käynnistäminen",
+            "server_more": "Kun olet asentanut modin, voit aloittaa pelaamisen käynnistämällä ja isännöimällä Nitrox-palvelinta.",
+            "join": "Liity palvelimelle",
+            "install_more": "Aloita asentamalla Nitrox-modi. Seuraa vaiheita huolellisesti ja olet valmis pelaamaan hetkessä!",
+            "join_more": "Haluatko liittyä toiselle palvelimeen? Opi lisäämään ja liittymään muihin Nitrox-palvelimiin ja pelaamaan Subnauticaa moninpelinä."
+        },
+        "wizard": "Päivitys- ja asennusneuvoja",
+        "wizard_more": "Uusi interaktiivinen Nitrox päivitys- ja asennusneuvoja neuvoo askel kerrallaan asennus ja päivitysprosessin. Vastaa jokaiseen kysymykseen ja saa heti vastaus. Kokeile sitä tänään!",
+        "wizard_link": "Käynnistä Nitrox päivitys- ja asennusneuvoja",
+        "support": "Hanki tukea",
+        "support_more": "Tukitiimimme on täällä auttamassa.<br>Liity Discordiimme ja löydämme ratkaisun.",
+        "faq": {
+            "install_nitrox": {
+                "answer": "<p>Käytä Nitrox päivitys- ja asennusneuvojaa tai lue oppaiden kautta modin asennusohjeet.</p>",
+                "question": "Miten asennan Nitroxin?"
+            },
+            "status": {
+                "question": "Mikä on tämänhetkinen tilanne?",
+                "answer": "<p>Modi on hyvin varhaisessa kehitysvaiheessa, mutta yhteisölle on annettu vankka perusta jonka päälle rakentaa. Seuraavat välitavoitteet on saavutettu:</p><ul class=\"disc\"><li>Asiakas / Palvelin kommunikaatio</li><li>Pelaajan liike</li><li>Tavaroiden tiputuksen ja nostamisen synkrointi</li><li>Maailman synkronointi pitkillä etäisyyksillä</li><li>Tukikohdan rakentaminen</li><li>Huonekalujen rakentaminen</li><li>Huonekalujen toimivuus (säiliö / lääkepakettien fabrikaattori / laturit / yms)</li><li>Virranhallinta</li><li>Merikoin &amp; Prawn-puvun synkronointi</li><li>Alkeellinen kykloopin synkronointi</li><li>Alkeellinen viestintäjärjestelmä</li><li>Pään-päälle menevä HUD etäpelaajille</li><li>Alkeelliset pelaaja-animaatiot</li><li>Integraatio &nbsp;<a href=\"https://github.com/pardeike/Harmony\" target=\"_blank\">Harmony</a>:n kanssa</li></ul>"
+            },
+            "play": {
+                "question": "Miten voin pelata tätä modia?",
+                "answer": "Lataa asennussovellus \"Lataa\" -osiosta. Huomioithan, että tämä on vielä kehityksessä ja voi sisältää bugeja."
+            },
+            "bz": {
+                "question": "Onko Nitrox yhteensopiva Subnautica: Below Zeron kanssa?",
+                "answer": "Tällä hetkellä Nitrox-modi toimii vain perus Subnauticassa. Below Zero -tuki on suunniteltu, mutta sitä ei julkaista ennen kuin nykyinen Nitrox-versio on vakaa."
+            },
+            "help": {
+                "question": "Miten voin saada apua?",
+                "answer": "Lue ensimmäiset askeleet wikistämme. Jos tämä ei toimi, kysy apuamme Discord-kanavalta."
+            },
+            "donate": {
+                "question": "Miten voin lahjoittaa?",
+                "answer": "Emme hyväksy lahjoituksia modille.  Ne jotka haluavat antaa rahaa, voivat tehä niin täällä: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+            },
+            "contribute": {
+                "answer": "Lähetä pull request <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">GitHubissa</a>. Liity myös meidän <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">Discord-palvelimelle</a> jotta voit keskustella, antaa palautetta tai ideoita muiden pelaajien, kehittäjien ja osallistujien kanssa.",
+                "question": "Miten voin osallistua?"
+            },
+            "why": {
+                "question": "Miksi nimi \"Nitrox\"?",
+                "answer": "Nitrox on vaihtoehtoinen ilmaseos mitä scuba-sukeltajat käyttävät jotta he voivat saavuttaa pidempiä aikoja veden alla. Modina se tarjoaa uuden ulottuvuuden pelattavuutta laajentaakseen nautintoasi."
+            },
+            "title": "Usein kysytyt kysymykset"
+        },
+        "search_install": "Asenna Nitrox-modi: Steam ja Epic Games",
+        "support_discord": "Liity Nitrox-discordiin"
+    }
+}
