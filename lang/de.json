@@ -103,7 +103,7 @@
         "discord": "Trete unserem aktiven Discord-Server bei, um Server zum Spielen zu finden, Hilfe vom Support-Team zu erhalten und vieles mehr.",
         "discord_join": "Trete auf Discord bei",
         "twitter": "Folge dem Nitrox-Twitter-Account, um immer über die neuesten Entwicklungen, Veranstaltungen und Veröffentlichungen auf dem Laufenden zu sein.",
-        "reddit_join": "Version"
+        "reddit_join": "Trete dem Subreddit bei"
     },
     "about": {
         "why": "Warum Nitrox?",
@@ -230,7 +230,7 @@
     },
     "resources": {
         "meta": {
-            "title": "Offizielle Nitrox-Ressourcen - Logo, Typografie, Bilder",
+            "title": "Offizielle Nitrox-Ressourcen · Logo, Typografie, Bilder",
             "description": "Lade die offiziellen Nitrox-Mod-Ressourcen herunter, darunter das Logo, Schriftarten, Bilder und mehr."
         },
         "images_info": "Nitrox Mehrspieler-Screenshots.<span class=\"opacity-5\">Verwende diese, um das Mehrspieler-Erlebnis von Subnautica zu teilen.<br> Möchtest du deine eigenen hinzufügen? Teile sie auf dem Discord-Server oder tweete uns.</span>",

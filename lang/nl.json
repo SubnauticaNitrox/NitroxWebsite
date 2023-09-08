@@ -16,7 +16,7 @@
             "play_info": "Host of vind permanente servers om op te spelen, in de Nitrox gemeenschap.",
             "host": "Host",
             "host_info": "Eenvoudig hosten van een groot spelersevenement met ondersteuning tot 100 spelers.",
-            "host_slots": "Max. Slots",
+            "host_slots": "Max. Plekken",
             "host_footnote": "Max. 100 server spelers, maximaal aanbevolen is 5.",
             "connect": "Verbind",
             "connect_subtitle": "Technologie",
@@ -96,7 +96,7 @@
             "lang": {
                 "headline": "Vertaald door de gemeenschap",
                 "title": "Nitrox spreekt jouw taal.",
-                "languages": "Chinees, Kroatisch, Nederlands, Engels, Frans, Duits, Grieks, Italiaans, Japans, Koreaans, Pools, Portugees, Roemeens, Russisch, Spaans, Zweeds, Turks, Oekraïens…",
+                "languages": "Bulgaars, Chinees, Kroatisch, Tsjechisch, Nederlands, Engels, Frans, Duits, Grieks, Hongaars, Italiaans, Japans, Koreaans, Pools, Portugees, Roemeens, Russisch, Slowaaks, Sloveens, Spaans, Zweeds, Thai, Turks, Oekraïens…",
                 "link": "Draag bij en voeg uw taal toe"
             },
             "host": {
@@ -271,6 +271,100 @@
         },
         "discord": "Discord Leden",
         "featured": "Zoals verschenen in",
-        "footnote_2": "Max. 100 server spelers, aanbevolen speleraantal 5."
+        "footnote_2": "Max. 100 server spelers, aanbevolen speleraantal 5.",
+        "footnote_1": "Windows store vereist extra werk om werkend te krijgen. Stappen en ondersteuning kan in de Nitrox Discord gevonden worden.",
+        "footnote_3": "Openbare servers worden niet gehost door Nitrox en het is niet gegarandeerd dat de server altijd open is. Derde partij servers worden niet gecontroleerd door het Nitrox team."
+    },
+    "footer": {
+        "nav": {
+            "team": "Team",
+            "about": "Over",
+            "guides": "Nitrox Gidsen",
+            "devblog": "Ontwikkelaarsblog",
+            "server_setup": "Server Setup",
+            "install": "Installatiegids",
+            "server_join": "Verbind met een Server",
+            "changelog": "Changelog",
+            "contribute": "Draag bij",
+            "download": "Download Nitrox"
+        },
+        "learnmore": "Meer informatie",
+        "connect": "Verbind",
+        "mod": "Mod",
+        "getstarted": "Aan de Slag"
+    },
+    "navigation": {
+        "about": "Over",
+        "blog": "Blog",
+        "guides": "Gidsen",
+        "motd": "Laatste ontwikkelaarsblogpost.",
+        "read_more": "Lees meer"
+    },
+    "wiki": {
+        "search_install": "Installeer de Nitrox Mod Steam en Epic Games",
+        "faq": {
+            "play": {
+                "question": "Hoe kan ik deze mod spelen?",
+                "answer": "Download de Installer van de \"Download\" secitie. Onhoud dat dit nog steeds in ontwikkeling is, en dus dat er bugs in kunnen zitten."
+            },
+            "contribute": {
+                "question": "Hoe kan ik bijdragen?",
+                "answer": "Dien simpelweg een pull request op de <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">GitHub-pagina</a>. Je kan je ook aansluiten bij onze<a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">Discord server</a> om feedback of ideeën te bespreken en uit te wisselen met andere bijdragers, ontikkelaars en spelers."
+            },
+            "title": "Veelgestelde vragen",
+            "help": {
+                "question": "Hoe kan ik hulp krijgen?",
+                "answer": "Lees eerst de stappen op onze wiki. Mocht dat niet werken, stel een vraag in de hulpchat van onze Discord."
+            },
+            "install_nitrox": {
+                "question": "Hoe installeer je Nitrox?",
+                "answer": "<p>Gebruik de Nitrox Installatiewizard, of lees de gidsen om te zien hoe je de Mod installeert.</p>"
+            },
+            "status": {
+                "question": "Hoe staat het ervoor?",
+                "answer": "<p>De mod is nog zeer vroeg in de ontwikkeling, maar er bestaat al een sterke fundatie waarop de community kan bouwen. De volgende mijlpalen zijn al bereikt:</p><ul class=\"disc\"><li>Client / Server Communicatie</li><li>Spelerbeweging</li><li>Het oprapen en oprapen van voorwerpen synchroniseren</li><li>Wereldsynchronisatie op grote afstanden</li><li>Het bouwen van basissen</li><li>Het bouwen van meubilair</li><li>De meeste interacties met meubilair (opslag / medikitmakers / opladers / etc)</li><li>Elektriciteitsbeheer</li><li>Seamoth &amp; Exosuit Synchronisatie</li><li>Simpele synchronisatie van de Cyclops</li><li>Een simpel chatsysteem</li><li>Een nieuwe HUD voor spelers op afstand</li><li>Simpele speleranimaties</li><li>Integratie met&nbsp;<a href=\"https://github.com/pardeike/Harmony\" target=\"_blank\">Harmony</a></li></ul>"
+            },
+            "bz": {
+                "question": "Werkt Nitrox met Subnautica: Below Zero?",
+                "answer": "Op dit moment werkt de Nitrox mod alleen met het basisspel van Subnautica. De toevoeging van ondersteuning voor Below Zero staat ingepland, maar dit zal niet uitgegeven worden totdat de huidige versie van Nitrox stabiel is."
+            },
+            "donate": {
+                "question": "Hoe kan ik doneren?",
+                "answer": "Wij accepteren geen donaties voor deze mod. Degenen die iets willen geven kunnen dat hier doen: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+            },
+            "why": {
+                "question": "Waarom de naam \"Nitrox\"?",
+                "answer": "Nitrox is een alternatieve luchtsamenstelling die gebruikt wordt door duikers, zodat zij langer op de bodem door kunnen brengen. Als een mod zal Nitrox je een nieuwe dimensie van gameplay bieden, om je plezier te versterken."
+            }
+        },
+        "cards": {
+            "install_more": "Begin door de Nitrox Mod te installeren. Volg de stappen zorgvuldig en je bent al snel klaar om te spelen!",
+            "join": "Aan het verbinden met een server",
+            "install": "Nitrox installeren",
+            "server_more": "Nadat je de mod hebt geïnstalleerd kun je samen beginnen te spelen door de Nitrox server de starten en te hosten.",
+            "join_more": "Wil je een met een andere server verbinden? Lees hoe je andere Nitrox servers toe kan voegen en ermee kan verbinden om Subnautica multiplayer te spelen."
+        },
+        "wizard": "Installatie- &amp; Upgrade-wizard",
+        "wizard_more": "Onze nieuwe interactieve Nitrox Wizard laat je stap voor stap zien hoe het installatie- en upgradeproces werkt. Beantwoord simpelweg elke stap en ontvang onmiddelijk een antwoord. Probeer het vandaag nog uit!",
+        "search_run": "Start en host een Nitrox Server",
+        "quick_links": "Snelkoppelingen",
+        "search_home": "Nitrox Upgrade- en Installatiewizard",
+        "support": "Ontvang Ondersteuning",
+        "support_discord": "Aansluiten bij de Nitrox Discord",
+        "meta": {
+            "title": "Gidsen &amp; Wiki   ·   Subnautica Multiplayer Mod",
+            "description": "Nitrox is een gratis multiplayermod voor het spel Subnautica, ontwikkeld door de community."
+        },
+        "search_join": "Verbind met een Nitrox Server",
+        "search_placeholder": "Zoek iets op…",
+        "title": "Welkom bij Nitrox Support",
+        "subtitle": "Bekijk de meest behulpzame gidsen en lees de eerste stappen om Nitrox te gaan gebruiken.",
+        "readmore": "Lees meer",
+        "wizard_link": "Start de Nitrox Wizard",
+        "support_more": "Ons ondersteuningsteam is er om je te helpen.<br>Sluit je aan op Discord en we vinden een oplossing voor je."
+    },
+    "lang-select": {
+        "title": "Taal",
+        "description": "Kies je taal."
     }
 }
