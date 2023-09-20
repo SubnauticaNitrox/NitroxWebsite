@@ -138,6 +138,8 @@
         "subtitle": "Join the large Nitrox community with players from around the world.",
         "discord": "Join our active Discord server to find servers to play on, get help from the support team and much more.",
         "discord_join": "Join on Discord",
+        "bluesky": "Follow the Nitrox Bluesky account to always be up to date on latest developments, events, and releases.",
+        "bluesky_follow": "Follow on Bluesky",
         "twitter": "Follow the Nitrox Twitter account to always be up to date on latest developments, events, and releases.",
         "twitter_follow": "Follow on Twitter",
         "reddit": "Join the Nitrox Subreddit to stay informed about latest releases and post community content.",
@@ -275,7 +277,10 @@
             "discord_join": "Click to join on Discord",
             "twitter": "Follow on Twitter",
             "twitter_description": "Follow on twitter to always been in the loop with up to date infos, insights and much more on the official Nitrox Twitter.",
-            "twitter_join": "Click to visit @modnitrox"
+            "twitter_join": "Click to visit @modnitrox",
+            "bluesky": "Follow on Bluesky",
+            "bluesky_description": "Follow on Bluesky to always been in the loop with up to date infos, insights and much more on the official Nitrox Bluesky.",
+            "bluesky_join": "Click to visit @nitroxmod"
         },
         "featured": "Featured on",
         "footnote_1": "Windows store requires additional setup. Steps and support to setup can be found in Nitrox Discord.",

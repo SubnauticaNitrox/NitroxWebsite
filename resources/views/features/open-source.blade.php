@@ -59,7 +59,7 @@
                         <div class="ml-4">
                             <h4 class="font-weight-bold">{{ __('os.dev_resources') }}</h4>
                             <p class="mb-1">{{ __('os.dev_resources_info') }}</p>
-                            <a href="https://github.com/SubnauticaNitrox/Nitrox/wiki" target="_blank" class="mr-4 pr-2">{{ __('os.dev_resources_code') }}
+                            <a href="https://subnauticanitrox.github.io/Documentation/" target="_blank" class="mr-4 pr-2">{{ __('os.dev_resources_code') }}
                                 <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                     chevron_right
                                 </span>

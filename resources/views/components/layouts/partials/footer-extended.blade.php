@@ -54,12 +54,12 @@
                     <div class="card-body text-left p-5">
                         <div class="d-inline-block">
                             <span class="icon-wrapper">
-                                <img src="{{ asset('/assets/img/Twitter.svg') }}" width="56px" alt="Twitter" style="padding: .75rem; background-color: #1da1f1;">
+                                <img src="{{ asset('/assets/img/logos/social/bluesky.png') }}" width="56px" alt="Bluesky" style=" background-color: #1da1f1;">
                             </span>
                         </div>
-                        <h5 class="card-title mt-3 font-weight-bold">{{ __('footer-extended.community.twitter') }}</h5>
-                        <p class="card-text">{{ __('footer-extended.community.twitter_description') }}</p>
-                        <a href="https://twitter.com/modnitrox" target="_blank" class="card-link font-weight-500 stretched-link">{{ __('footer-extended.community.twitter_join') }} <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">chevron_right</span></a>
+                        <h5 class="card-title mt-3 font-weight-bold">{{ __('footer-extended.community.bluesky') }}</h5>
+                        <p class="card-text">{{ __('footer-extended.community.bluesky_description') }}</p>
+                        <a href="https://bsky.app/profile/nitroxmod.bsky.social" target="_blank" class="card-link font-weight-500 stretched-link">{{ __('footer-extended.community.bluesky_join') }} <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">chevron_right</span></a>
                     </div>
                 </div>
             </div>
