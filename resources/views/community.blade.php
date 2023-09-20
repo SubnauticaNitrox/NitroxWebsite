@@ -20,7 +20,7 @@
 
 <div class="section mb-5 mt-4">
     <div class="container">
-        <div class="row">
+        <div class="row justify-content-center">
             <div class="col-md-6 mt-4">
                 <div class="grey p-5 h-100">
                     <div class="row">
@@ -50,14 +50,14 @@
                         <div class="col text-center">
                             <div class="d-inline-block">
                                 <span class="icon-wrapper">
-                                    <img src="{{ asset('/assets/img/Twitter.svg') }}" width="56px" alt="Twitter" style="padding: .75rem; background-color: #1da1f1;">
+                                    <img src="{{ asset('/assets/img/logos/social/bluesky-2.png') }}" width="56px" alt="Bluesky" style="background-color: #1da1f1;">
                                 </span>
                             </div>
 
-                            <h2 class="font-weight-bold mt-4">Twitter</h2>
-                            <p>{{ __('community.twitter') }}</p>
+                            <h2 class="font-weight-bold mt-4">Bluesky</h2>
+                            <p>{{ __('community.bluesky') }}</p>
                             <p class="font-weight-500">
-                                <a href="https://twitter.com/modnitrox" target="_blank">{{ __('community.twitter_follow') }}
+                                <a href="https://twitter.com/modnitrox" target="_blank">{{ __('community.bluesky_follow') }}
                                     <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                         chevron_right
                                     </span>
@@ -104,6 +104,29 @@
                             <p>{{ __('community.github') }}</p>
                             <p class="font-weight-500">
                                 <a href="https://github.com/SubnauticaNitrox/Nitrox" target="_blank">{{ __('community.github_link') }}
+                                    <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
+                                        chevron_right
+                                    </span>
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 mt-4">
+                <div class="grey p-5 h-100">
+                    <div class="row">
+                        <div class="col text-center">
+                            <div class="d-inline-block">
+                                <span class="icon-wrapper">
+                                    <img src="{{ asset('/assets/img/Twitter.svg') }}" width="56px" alt="Twitter" style="padding: .75rem; background-color: #1da1f1;">
+                                </span>
+                            </div>
+
+                            <h2 class="font-weight-bold mt-4">Twitter</h2>
+                            <p>{{ __('community.twitter') }}</p>
+                            <p class="font-weight-500">
+                                <a href="https://twitter.com/modnitrox" target="_blank">{{ __('community.twitter_follow') }}
                                     <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                         chevron_right
                                     </span>
