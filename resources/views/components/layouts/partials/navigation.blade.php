@@ -86,9 +86,9 @@
                     <div class="row">
                         <div class="col">
                             <span>
-                                Nitrox Dev Blog &mdash; Subnautica 2.0.
+                                Nitrox Dev Blog &mdash; Code, time and patience.
                             </span>
-                            <a href="https://nitroxblog.rux.gg/2022/12/11/subnautica-2-0/" target="_blank" class="stretched-link">{{ __('navigation.read_more') }}
+                            <a href="https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/" target="_blank" class="stretched-link">{{ __('navigation.read_more') }}
                                 <span class="material-icons" style="position: absolute;font-size: 20px;margin: 1px 0px 0px -2px;">
                              chevron_right
                          </span>
