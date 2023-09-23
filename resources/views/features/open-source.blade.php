@@ -64,7 +64,7 @@
                                     chevron_right
                                 </span>
                             </a>
-                            <a href="https://github.com/SubnauticaNitrox/Nitrox/blob/master/CONTRIBUTING.md" target="_blank">{{ __('os.dev_resources_contribute') }}
+                            <a href="https://subnauticanitrox.github.io/Documentation/" target="_blank">{{ __('os.dev_resources_contribute') }}
                                 <span class="material-icons" style="position: absolute;font-size: 20px;margin: 2px 0px 0px -2px;">
                                     chevron_right
                                 </span>
