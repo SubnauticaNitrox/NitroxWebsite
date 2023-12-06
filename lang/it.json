@@ -301,7 +301,7 @@
     },
     "wiki": {
         "meta": {
-            "title": "Guide &amp; Wiki  · Subnautica Multiplayer Mod",
+            "title": "Guide e Wiki · Subnautica Mod Multigiocatore",
             "description": "Nitrox è una mod multipleyer gratuita per il gioco di Subnautica sviluppata dalla community."
         },
         "title": "Benvenuto sul Supporto Nitrox",
@@ -334,7 +334,7 @@
             },
             "play": {
                 "question": "Come posso giocare a questa mod?",
-                "answer": "Scarica il programma di installazione dalla sezione \"Download\".  Tieni presente che questo è ancora in fase di sviluppo e può avere dei bug."
+                "answer": "Scarica il programma di installazione dalla sezione \"Download\". Tieni presente che questo è ancora in fase di sviluppo e può contenere bug."
             },
             "bz": {
                 "answer": "Attualmente la mod Nitrox funziona solo con il gioco base di Subnautica. L'aggiunta del supporto per Below Zero è prevista, ma non verrà rilasciata prima che l'attuale versione di Nitrox sia stabile.",
@@ -354,13 +354,13 @@
             },
             "donate": {
                 "question": "Come posso donare?",
-                "answer": "Non accettiamo donazioni per il mod.  Chi desidera donare denaro può farlo qui: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+                "answer": "Non accettiamo donazioni al mod. Chi desidera donare denaro può farlo qui: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
             }
         },
         "search_placeholder": "Ricerca in corso…",
         "wizard_more": "Il nostro nuovo sistema di installazione e aggiornamento guidato ti aiuta passo dopo passo. Semplicemente rispondi a ogni passaggio e ottieni una risposta immediata. Provalo oggi!",
         "subtitle": "Sfoglia le guide utili e leggi i primi passaggi su come iniziare a utilizzare Nitrox.",
-        "search_install": "Installa Nitrox Mod Steam ed Epic Games",
+        "search_install": "Installa Nitrox Mod per Steam ed Epic Games",
         "quick_links": "Link Utili"
     },
     "team": {

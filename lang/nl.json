@@ -286,7 +286,9 @@
             "server_join": "Verbind met een Server",
             "changelog": "Changelog",
             "contribute": "Draag bij",
-            "download": "Download Nitrox"
+            "download": "Download Nitrox",
+            "resources": "Hulpmiddelen",
+            "community": "Community"
         },
         "learnmore": "Meer informatie",
         "connect": "Verbind",
@@ -298,7 +300,9 @@
         "blog": "Blog",
         "guides": "Gidsen",
         "motd": "Laatste ontwikkelaarsblogpost.",
-        "read_more": "Lees meer"
+        "read_more": "Lees meer",
+        "community": "Gemeenschap",
+        "home": "Thuis"
     },
     "wiki": {
         "search_install": "Installeer de Nitrox Mod Steam en Epic Games",
@@ -352,7 +356,7 @@
         "support": "Ontvang Ondersteuning",
         "support_discord": "Aansluiten bij de Nitrox Discord",
         "meta": {
-            "title": "Gidsen &amp; Wiki   ·   Subnautica Multiplayer Mod",
+            "title": "Gidsen &amp; Wiki · Subnautica Multiplayer Mod",
             "description": "Nitrox is een gratis multiplayermod voor het spel Subnautica, ontwikkeld door de community."
         },
         "search_join": "Verbind met een Nitrox Server",
