@@ -248,7 +248,7 @@
         },
         "title": "Nitrox is built by a passionate team of open source contributors.",
         "join": "Wanna join the team?",
-        "join_description": "You too can be a contributor for this mod. You can develop for Nitrox or join the support team! Simply apply in the discord server or subreddit page"
+        "join_description": "You too can be a contributor for this mod. You can develop for Nitrox or join the support team! Simply apply in the Discord server or Subreddit page."
     },
     "changelog": {
         "meta": {
@@ -322,14 +322,14 @@
     },
     "wiki": {
         "meta": {
-            "title": "Guides & Wiki  · Subnautica Multiplayer Mod",
+            "title": "Guides & Wiki · Subnautica Multiplayer Mod",
             "description": "Nitrox is a free multiplayer mod for the game Subnautica developed by the community."
         },
         "title": "Welcome to Nitrox Support",
         "subtitle": "Browse the helpful guides and read the first steps how to get started using Nitrox.",
         "quick_links": "Quick links",
         "search_placeholder": "Search for something…",
-        "search_install": "Install Nitrox Mod Steam and Epic Games",
+        "search_install": "Install Nitrox Mod for Steam and Epic Games",
         "search_run": "Run and host a Nitrox Server",
         "search_join": "Join a Nitrox Server",
         "search_home": "Nitrox Upgrade and Install Wizard",
@@ -360,7 +360,7 @@
             },
             "play": {
                 "question": "How can I play this mod?",
-                "answer": "Download the installer from the \"Download\" section.  Keep in mind that this is still in development and can have bugs."
+                "answer": "Download the installer from the \"Download\" section. Keep in mind that this is still in development and can have bugs."
             },
             "bz": {
                 "question": "Is Nitrox compatible with Subnautica: Below Zero?",
@@ -376,7 +376,7 @@
             },
             "donate": {
                 "question": "How can I donate?",
-                "answer": "We do not accept donations to the mod.  Those wishing to give money can do so here: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+                "answer": "We do not accept donations to the mod. Those wishing to give money can do so here: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
             },
             "why": {
                 "question": "Why the name \"Nitrox\"?",
