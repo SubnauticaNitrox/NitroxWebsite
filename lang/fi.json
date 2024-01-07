@@ -243,7 +243,7 @@
         },
         "title": "Nitroxia rakentaa intohimoinen avoimen lähdekoodin osallistuja tiimi.",
         "join": "Haluatko liittyä tiimiin?",
-        "join_description": "Sinäkin voit olla osallistuja. Voit osallistua Nitroxiin tai liittyä tukitiimiin! Pistä vain viestiä discord-palvelimeen tai subreddit-sivulle"
+        "join_description": "Sinäkin voit osallistua modin kehittämiseen. Voit osallistua Nitroxiin kehitykseen tai liittyä tukitiimiin! Pistä vain viestiä discord-palvelimeen tai subreddit-sivulle"
     },
     "changelog": {
         "meta": {
@@ -345,7 +345,7 @@
             },
             "play": {
                 "question": "Miten voin pelata tätä modia?",
-                "answer": "Lataa asennussovellus \"Lataa\" -osiosta. Huomioithan, että tämä on vielä kehityksessä ja voi sisältää bugeja."
+                "answer": "Lataa asennusohjelma \"Lataa\" -osiosta. Huomioithan, että tämä on vielä kehityksessä ja voi sisältää bugeja."
             },
             "bz": {
                 "question": "Onko Nitrox yhteensopiva Subnautica: Below Zeron kanssa?",
@@ -357,7 +357,7 @@
             },
             "donate": {
                 "question": "Miten voin lahjoittaa?",
-                "answer": "Emme hyväksy lahjoituksia modille.  Ne jotka haluavat antaa rahaa, voivat tehä niin täällä: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+                "answer": "Emme hyväksy lahjoituksia modille.  Ne, jotka haluavat antaa rahaa, voivat tehä niin täällä: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
             },
             "contribute": {
                 "answer": "Lähetä pull request <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">GitHubissa</a>. Liity myös meidän <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">Discord-palvelimelle</a> jotta voit keskustella, antaa palautetta tai ideoita muiden pelaajien, kehittäjien ja osallistujien kanssa.",
@@ -369,7 +369,7 @@
             },
             "title": "Usein kysytyt kysymykset"
         },
-        "search_install": "Asenna Nitrox-modi: Steam ja Epic Games",
+        "search_install": "Asenna Nitrox-modi Steamistä ja Epic Gamesista",
         "support_discord": "Liity Nitrox-discordiin"
     }
 }
