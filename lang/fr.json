@@ -68,13 +68,13 @@
             }
         },
         "meta": {
-            "title": "Nitrox Subnautica - Mod multijoueur pour Subnautica",
+            "title": "Nitrox pour Subnautica · Mod Multijoueur pour Subnautica",
             "description": "Nitrox est un mod multijoueur gratuit pour Subnautica, développé par la communauté."
         },
         "hero_slogan": "<span>Votre</span> <span>mod</span> <span>Multijoueur</span> <span>pour</span> <span>Subnautica.</span>",
         "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
         "hero_cta": "Télécharger gratuitement",
-        "explore": "Essayer Subnautica <span class=\"opacity-5\">comme un tout nouveau jeu. Faites équipe pour explorer de nouvelles profondeurs, et construire des bases gigantesques.</span>",
+        "explore": "Expérimenter Subnautica <span class=\"opacity-5\">comme un tout nouveau jeu. Faites équipe pour explorer de nouvelles profondeurs, et construire des bases gigantesques.</span>",
         "nextsteps": {
             "get": {
                 "download": "Télécharger",
@@ -147,7 +147,7 @@
         "search_run": "Exécuter et héberger un serveur Nitrox",
         "search_install": "Installez Nitrox Mod pour Steam et Epic Games",
         "quick_links": "Liens rapides",
-        "search_placeholder": "Cherchez quelque chose…",
+        "search_placeholder": "Rechercher…",
         "readmore": "Lire la suite",
         "wizard_more": "Notre nouvel assistant interactif Nitrox vous guide pas à pas tout au long du processus d'installation et de mise à niveau. Répondez simplement à chaque étape et obtenez une réponse instantanée. Essayez-le dès aujourd'hui !",
         "wizard_link": "Démarrer l'assistant Nitrox",
@@ -180,7 +180,7 @@
         "download_title": "EARLY ALPHA"
     },
     "team": {
-        "join_description": "Toi aussi tu peux devenir un contributeur de ce mod ! Tu peux développer pour Nitrox ou rejoindre l'équipe d'aide ! Postule simplement sur le serveur Discord ou sur notre page Subreddit.",
+        "join_description": "Toi aussi tu peux devenir un contributeur de ce mod ! Tu peux développer pour Nitrox ou rejoindre l'équipe d'aide ! Postule simplement sur le serveur Discord ou sur notre page Subreddit.",
         "meta": {
             "description": "Dites bonjour aux généreux contributeur du projet open source Nitrox",
             "title": "Team Nitrox - Mod multijoueur Subnautica"

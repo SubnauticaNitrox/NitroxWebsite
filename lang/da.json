@@ -3,6 +3,82 @@
         "meta": {
             "title": "Nitrox til Subnautica • Subnautica Samarbejds modifikation",
             "description": "Nitrox er et gratis flerspillers applikation til spillet Subnautica udviklet af fællesskabet."
-        }
+        },
+        "feature": {
+            "gameplay": {
+                "description": "Spil Subnautica, alt fra en overlevelses gennemgang med dine venner til en kreativ bygge session."
+            },
+            "multiplayer": {
+                "headline": "Modificationen"
+            },
+            "server": {
+                "description": "Find permanente servere at spille på i Nitrox Discorden.",
+                "headline": "Offentlig Server",
+                "subtitle": "Servere"
+            },
+            "community": {
+                "discord": "Discord medlemmer"
+            },
+            "code": {
+                "headline": "Kode base"
+            },
+            "play": {
+                "headline": "Spil"
+            },
+            "lang": {
+                "link": "Bidrag og tilføj dit sprog"
+            },
+            "stores": {
+                "tooltip": "Ikke tilgængelig"
+            }
+        },
+        "nextsteps": {
+            "get": {
+                "download": "Hent",
+                "description": "Hent Nitrox modifikationen gratis og start med at spille med andre!",
+                "latest_version": "Seneste version:"
+            },
+            "wiki": {
+                "title": "Kom i gang",
+                "description": "Læs installations guiden og FAQ siden",
+                "link": "Besøg Guider"
+            }
+        },
+        "hero_cta": "Hent gratis"
+    },
+    "wiki": {
+        "faq": {
+            "contribute": {
+                "question": "Hvordan kan jeg bidrage?"
+            },
+            "title": "Ofte stillede spørgsmål",
+            "donate": {
+                "question": "Hvordan kan jeg donere?"
+            }
+        },
+        "readmore": "Læs mere"
+    },
+    "about": {
+        "why": "Hvorfor Nitrox?",
+        "discord": "Discord medlemmer",
+        "users": "Brugere",
+        "discord_join": "Bliv medlem på Discord"
+    },
+    "download_start": {
+        "file_size": "Fil størrelse",
+        "version": "Version",
+        "install_vid": "Installerings video"
+    },
+    "download": {
+        "header": {
+            "version": "Alpha",
+            "title": "Hent Nitrox",
+            "alpha": "TIDLIG ALPHA"
+        },
+        "changelog": "Ændringslog"
+    },
+    "community": {
+        "twitter_follow": "Følg på Twitter",
+        "github_link": "Bidrag på GitHub"
     }
 }
