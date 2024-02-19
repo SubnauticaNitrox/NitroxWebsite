@@ -140,7 +140,8 @@
         "reddit": "Liity Nitroxin subredditille pysyäksesi perillä uusista julkaisuista ja julkaise itse yhteisösisältöä.",
         "reddit_join": "Liity Subredditille Redditissä",
         "github_link": "Osallistu GitHub:issa",
-        "github": "Haluatko olla osana tiimiä? Osallistu, koodista käännöksiin Nitrox-projektiin GitHub:issa."
+        "github": "Haluatko olla osana tiimiä? Osallistu, koodista käännöksiin Nitrox-projektiin GitHub:issa.",
+        "bluesky_follow": "Seuraa Blueskyssa"
     },
     "about": {
         "meta": {
@@ -268,7 +269,8 @@
             "discord_join": "Klikkaa liittyäksesi Discordiin",
             "twitter": "Seuraa Twitterissä",
             "twitter_description": "Seuraa Twitterissä, että olet aina ajan tasalla tietojen, oivallusten ja paljon muun kanssa.",
-            "twitter_join": "Klikkaa käydäksesi @modnitrox"
+            "twitter_join": "Klikkaa käydäksesi @modnitrox",
+            "bluesky": "Seuraa Blueskyssa"
         },
         "featured": "Näytetty myös",
         "footnote_1": "Microsoft Store vaatii lisäaskelia. Vaiheet ja tuki löytyvät Nitroxin Discordista.",
