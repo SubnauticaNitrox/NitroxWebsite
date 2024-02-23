@@ -68,7 +68,7 @@
             }
         },
         "meta": {
-            "title": "Nitrox para Subnautica · Modo multijugador de Subnautica",
+            "title": "Nitrox para Subnautica · Mod Multijugador para Subnautica",
             "description": "Nitrox es un mod multijugador gratuito para el juego Subnautica desarrollado por la comunidad."
         },
         "hero_slogan": "<span>Tu</span> <span>Mod</span> <span>Multijugador</span> <span>para</span> <span>Subnautica.</span>",
@@ -113,7 +113,7 @@
         },
         "header": {
             "started": "Descargando",
-            "helper_link": "reiniciar la descarga",
+            "helper_link": "Reiniciar la descarga",
             "helper": "Su descarga debería comenzar automáticamente en <span id=\"countdowntimer\">2</span> Segundos. "
         },
         "next_steps": "Próximos pasos",
@@ -137,7 +137,7 @@
         "discord_join": "Únete en Discord",
         "twitter_follow": "Siguenos en Twitter",
         "twitter": "Siga la cuenta de Twitter de Nitrox para estar siempre actualizado sobre los últimos desarrollos, eventos y lanzamientos.",
-        "reddit": "Únete al Subreddit de Nitrox para informarte sobre las últimas actualizaciones y publicar contenido en la comunidad.",
+        "reddit": "Unete al Subreddit de Nitrox para estar informado sobre las últimas versiones y contenido de la comunidad.",
         "reddit_join": "Versión",
         "github": "¿Quieres ser parte del equipo? Contribuye traduciendo o programando en el proyecto de Nitrox en Github",
         "github_link": "Contribuye en GitHub"
@@ -149,6 +149,13 @@
             "description": "Descubre más acerca del equipo y proyecto de código abierto de Nitrox"
         },
         "quote": "Cita de",
-        "why": "Por qué Nitrox?"
+        "why": "Por qué Nitrox?",
+        "multiplayer": "Multijugador. <span class=\"opacity-5\">Juega Subnautica como debería ser, en Multijugador.</span>",
+        "download_description": "Tu aventura te espera. ¡Descarga Nitrox Mod gratis y comienza a jugar subnautica multijugador!",
+        "discord_join": "Acceso a Discord",
+        "featured": "Presentado en",
+        "download_title": "EARLY ALPHA",
+        "download_header": "Preparado? Consigue el mod!",
+        "discord": "Miembros de discord"
     }
 }

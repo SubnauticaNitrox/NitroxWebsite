@@ -5,8 +5,8 @@
             "description": "Nitrox - це безкоштовний мульти-плеєр мод для гри Subnautica, розроблений спільнотою."
         },
         "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
-        "hero_slogan": "<span>Твій</span> <span>мод</span> <span>на</span> <span>мультиплеєр</span> <span>для</span> <span>Subnautica.</span>",
-        "hero_cta": "Завантажуй безкоштовно",
+        "hero_slogan": "<span>Твій</span> <span>мод</span> <span>на</span> <span>мульти-плеєр</span> <span>для</span> <span>Subnautica.</span>",
+        "hero_cta": "Завантажити безкоштовно",
         "feature": {
             "multiplayer": {
                 "title": "Nitrox multiplayer",
@@ -268,5 +268,8 @@
                 "answer": "Nitrox - це альтернативна повітряна суміш, яка використовується аквалангістами для збільшення часу перебування на дні. Як мод, він надасть новий вимір ігрового процесу, щоб продовжити задоволення від гри."
             }
         }
+    },
+    "lang-select": {
+        "description": "Виберіть свою мову."
     }
 }

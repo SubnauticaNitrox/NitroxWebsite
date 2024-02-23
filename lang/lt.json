@@ -2,7 +2,7 @@
     "home": {
         "meta": {
             "title": "Nitrox Subnauticai · Subnauticos Žaidimo kartu modifikacija",
-            "description": "Nitrox yra nemokama žaidimo kartu modifikacija žaidimui Subnautica sukurta visuomenės."
+            "description": "Nitrox yra nemokama žaidimo kartu modifikacija žaidimui Subnautica sukurta jos bendruomenės."
         },
         "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
         "hero_slogan": "<span>Tavo</span> <span>žaidimo kartu</span> <span>modifikacija</span> <span>žaidimui</span> <span>Subnautica.</span>",
@@ -14,12 +14,12 @@
             },
             "stores": {
                 "title": "Veikia per visas platformas",
-                "headline": "Šiuo metu palaikomos prekybvietės",
+                "headline": "Šiuo metu palaikomos parduotuvės",
                 "description": "Suderinama su tavo mėgstamiausiomis parduotuvėmis. Integruotas veikimas per visas platformas, leidžiantis žaisti kartu be problemų.",
                 "tooltip": "Šiuo metu nepasiekiama"
             },
             "gameplay": {
-                "headline": "Žaidimas",
+                "headline": "Žaidimo eiga",
                 "title": "Tavo žaidimo stilius",
                 "description": "Žaiskite Subnautica, nuo išgyvenimo su savo draugais, iki statymo su neribotais resursais."
             },
@@ -73,13 +73,13 @@
                 "headline": "Žaisti"
             }
         },
-        "hero_cta": "Atsisiusti nemokamai",
-        "explore": "Patirkite Subnautica <span class=\"opacity-5\">Kaip visiškai naują žaidimą. Susiburkite kartu. Tyrinėkite naujas gilumas. Statykite Kietas bazes.</span>",
+        "hero_cta": "Atsisiųsti nemokamai",
+        "explore": "Patirkite Subnautica <span class=\"opacity-5\">Kaip visiškai naują žaidimą. Susiburkite kartu. Tyrinėkite naujas gilumas. Statykite įspūdingas bazes.</span>",
         "nextsteps": {
             "get": {
                 "title": "Gaukite modą",
                 "latest_version": "Naujausia versija:",
-                "download": "parsisiųsti",
+                "download": "Parsisiųsti",
                 "description": "Atsisiųskite „Nitrox Mod“ nemokamai ir pradėkite žaisti kelių žaidėjų režimą!"
             },
             "wiki": {
@@ -87,5 +87,49 @@
                 "description": "Perskaitykite diegimo vadovą ir DUK puslapį"
             }
         }
+    },
+    "download": {
+        "header": {
+            "subtitle": "Tavo kelionė laukia. Parsisiųsk 'Nitrox' modifikacija nemokamai ir pradėk žaisti 'Subnautica' su draugais!",
+            "version": "Anksti versija",
+            "alpha": "ANKSTI VERSIJA",
+            "download": "Pradėti atsisiuntimą",
+            "title": "Parsisiųsti 'Nitrox'",
+            "stores": "Palaikomos parduotuvės versijos"
+        },
+        "changelog": "Pakeitimai",
+        "changelog_older": "Žiūrėti senesnius pakeitimus",
+        "sidebar": "'Nitrox' modifikacija. <span class=\"opacity-5\">Atviro kodo, su draugais modifikacija žaidimui 'Subnautica'.</span>",
+        "meta": {
+            "description": "Atsisiųsti Nitrox: nemokamą kelių žaidėjų modifikaciją skirtą Subnautica, sukurtą bendruomenės.",
+            "title": "Atsisiųsti Nitrox - Subnautica kelių žaidėjų modifikaciją"
+        }
+    },
+    "download_start": {
+        "meta": {
+            "title": "Parsisiuntimas pradėtas... · 'Subnautica' žaisti su kitais modifikacija",
+            "description": "Parsisiųsk 'Nitrox': Nemokamas su draugais modifikacija žaidimui 'Subnautica' su pagalba iš bendruomenės."
+        },
+        "guide_link": "'Nitrox' instaliavimo burtininkas",
+        "header": {
+            "started": "Parsisiuntimas pradėtas",
+            "helper": "Jūsų parsisiuntimas turėtu pradėti per <span id=\"countdowntimer\">2</span> sekundės. Jei ne, ",
+            "helper_link": "iš naujo pradėti siųstis"
+        },
+        "install_vid": "Instaliavimo video",
+        "community_join": "Prisijunk prie bendromėnes",
+        "file_size": "Failo dydis",
+        "version": "Versija",
+        "md5": "MD5 Maiša",
+        "download_infos": "Parsisiųsti informaciją",
+        "next_steps": "Kiti žingsniai",
+        "guide": "Instaliavimo ir patobulinimo gidas"
+    },
+    "community": {
+        "meta": {
+            "description": "Būk dalis didelės, augančios 'Nitrox' Bendruomenės. Surask naujų serverių, gauk pagalbos ir pakalbės su kitais 'Nitrox' žaidėjais.",
+            "title": "'Nitrox' Bendruomenė · 'Subnautica' su kitais žmonėmis modifikacija"
+        },
+        "title": "'Nitrox' bendruomenė"
     }
 }
