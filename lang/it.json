@@ -140,7 +140,9 @@
         "discord": "Unisciti al nostro server Discord per trovare server su cui giocare, ottenere aiuto dal team di supporto e molto altro.",
         "reddit_join": "Unisciti a Subreddit su Reddit",
         "github_link": "Contribuisci su GitHub",
-        "title": "Nitrox Community"
+        "title": "Nitrox Community",
+        "bluesky": "Segui l'account Nitrox Bluesky per essere sempre aggiornato sugli ultimi sviluppi, eventi e versioni.",
+        "bluesky_follow": "Segui su Bluesky"
     },
     "about": {
         "meta": {
@@ -254,7 +256,10 @@
             "twitter": "Seguici su Twitter",
             "twitter_join": "Clicca per andare su @modnitrox",
             "twitter_description": "Seguici sulla pagina Twitter ufficiale di Nitrox per restare sempre aggiornato su informazioni, approfondimenti e molto altro.",
-            "discord_description": "Chatta di Subnautica Multiplayer con più di 27k membri, trova altre persone per giocare assieme e ottenere supporto."
+            "discord_description": "Chatta di Subnautica Multiplayer con più di 27k membri, trova altre persone per giocare assieme e ottenere supporto.",
+            "bluesky_join": "Fai clic per visitare @nitroxmod",
+            "bluesky": "Segui su Bluesky",
+            "bluesky_description": "Segui Bluesky per essere sempre aggiornato su informazioni aggiornate, approfondimenti e molto altro sul Nitrox Bluesky ufficiale."
         },
         "community_title": "Community",
         "discord": "Membri Discord",

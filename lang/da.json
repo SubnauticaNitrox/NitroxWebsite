@@ -9,7 +9,8 @@
                 "description": "Spil Subnautica, alt fra en overlevelses gennemgang med dine venner til en kreativ bygge session."
             },
             "multiplayer": {
-                "headline": "Modificationen"
+                "headline": "Modifikation",
+                "description": "Begynd endelig at spille Subnautica med dine venner. Join eller lav din helt egen server"
             },
             "server": {
                 "description": "Find permanente servere at spille på i Nitrox Discorden.",
@@ -17,7 +18,9 @@
                 "subtitle": "Servere"
             },
             "community": {
-                "discord": "Discord medlemmer"
+                "discord": "Discord medlemmer",
+                "headline": "Fælleskab",
+                "title": "Spiller base"
             },
             "code": {
                 "headline": "Kode base"
@@ -29,7 +32,12 @@
                 "link": "Bidrag og tilføj dit sprog"
             },
             "stores": {
-                "tooltip": "Ikke tilgængelig"
+                "tooltip": "Ikke tilgængelig",
+                "headline": "Currently Supported Stores",
+                "title": "På tværs af platforme"
+            },
+            "launcher": {
+                "headline": "Oplevelse"
             }
         },
         "nextsteps": {
@@ -44,7 +52,9 @@
                 "link": "Besøg Guider"
             }
         },
-        "hero_cta": "Hent gratis"
+        "hero_cta": "Hent gratis",
+        "hero_slogan": "<span>Dit</span> <span>multiplayer</span> <span>mod</span> <span>for</span> <span>Subnautica.</span>",
+        "explore": "Oplev Subnautica <span class=\"opacity-5\">som et helt nyt spil. Team up. Udforsk nye dybder. Byg seje baser.</span>"
     },
     "wiki": {
         "faq": {

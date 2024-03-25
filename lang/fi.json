@@ -68,7 +68,7 @@
                 "headline": "Julkinen Palvelin",
                 "description": "Löydä pysyviä palvelimia millä pelata Nitroxin Discord-palvelimella.",
                 "number": "24/7",
-                "subtitle": "Palvelimia"
+                "subtitle": "Palvelimet"
             }
         },
         "meta": {
@@ -95,7 +95,7 @@
             "description": "Lataa Nitrox: ilmainen yhteisön tekemä moninpelimodi Subnauticalle."
         },
         "header": {
-            "alpha": "AIKAINEN ALPHA",
+            "alpha": "AIKAINEN ALFA",
             "title": "Lataa Nitrox",
             "download": "Aloita lataus",
             "subtitle": "Seikkailusi odottaa. Lataa Nitrox-moninpelimodi ilmaiseksi ja aloita Subnautican pelaaminen moninpelinä!",
@@ -140,7 +140,9 @@
         "reddit": "Liity Nitroxin subredditille pysyäksesi perillä uusista julkaisuista ja julkaise itse yhteisösisältöä.",
         "reddit_join": "Liity Subredditille Redditissä",
         "github_link": "Osallistu GitHub:issa",
-        "github": "Haluatko olla osana tiimiä? Osallistu, koodista käännöksiin Nitrox-projektiin GitHub:issa."
+        "github": "Haluatko olla osana tiimiä? Osallistu, koodista käännöksiin Nitrox-projektiin GitHub:issa.",
+        "bluesky_follow": "Seuraa Blueskyssa",
+        "bluesky": "Seuraa Nitrox Bluesky-käyttäjää, niin voit olla aina ajan tasalla viimeisistä kehityksistä, tilaisuuksista ja julkaisuista."
     },
     "about": {
         "meta": {
@@ -159,10 +161,10 @@
         "downloads": "Latauksia",
         "user_count": "500,250+",
         "users": "Käyttäjää",
-        "discord_members": "27,000+",
-        "discord": "Discord-jäsentä",
+        "discord_members": "+27 tuhatta",
+        "discord": "Discord-Jäseniä",
         "featured": "Näytetty myös",
-        "download_title": "AIKAINEN ALPHA",
+        "download_title": "AIKAINEN alfa",
         "download_header": "Valmiina? Hanki modi!",
         "download_description": "Seikkailusi odottaa. Lataa Nitrox-moninpelimodi ilmaiseksi ja aloita Subnautican pelaaminen moninpelinä!",
         "download": "Lataa",
@@ -268,7 +270,10 @@
             "discord_join": "Klikkaa liittyäksesi Discordiin",
             "twitter": "Seuraa Twitterissä",
             "twitter_description": "Seuraa Twitterissä, että olet aina ajan tasalla tietojen, oivallusten ja paljon muun kanssa.",
-            "twitter_join": "Klikkaa käydäksesi @modnitrox"
+            "twitter_join": "Klikkaa käydäksesi @modnitrox",
+            "bluesky": "Seuraa Blueskyssa",
+            "bluesky_description": "Seuraa meitä Blueskyssä, niin voit olla aina ajan tasalla uusimpien tietojen ja infon avulla.",
+            "bluesky_join": "Klikkaa vierailleksasi @nitroxmod"
         },
         "featured": "Näytetty myös",
         "footnote_1": "Microsoft Store vaatii lisäaskelia. Vaiheet ja tuki löytyvät Nitroxin Discordista.",

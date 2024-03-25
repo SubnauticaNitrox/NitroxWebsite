@@ -10,13 +10,13 @@
         "images": "Afbeeldingen"
     },
     "server": {
-        "features": "Nitrox servers <span class=\"opacity-5\">zijn krachtig, maar makkelijk te hosten. Met geoptimaliseerde code geschreven voor Subnautica. Het draait extreem licht en heeft nauwelijks resources nodig, voor de beste spelprestaties.</span>",
+        "features": "Nitrox servers <span class=\"opacity-5\">zijn krachtig en makkelijk te hosten. Met geoptimaliseerde code geschreven voor Subnautica. Het draait extreem licht en heeft nauwelijks resources nodig, voor de beste spelprestaties.</span>",
         "cards": {
-            "connect_info": "Automatische poortkeuze door gebruik van UPnP voor snelle installatie.",
+            "connect_info": "Opent automatisch je gekozen netwerk poort via UPnP, voor een snelle installatie.",
             "play_info": "Host of vind permanente servers om op te spelen, in de Nitrox gemeenschap.",
             "host": "Host",
-            "host_info": "Eenvoudig hosten van een groot spelersevenement met ondersteuning tot 100 spelers.",
-            "host_slots": "Max. Plekken",
+            "host_info": "Host eenvoudig een groot spelersevenement met ondersteuning tot 100 spelers.",
+            "host_slots": "Max. Plaatsen",
             "host_footnote": "Max. 100 server spelers, maximaal aanbevolen is 5.",
             "connect": "Verbind",
             "connect_subtitle": "Technologie",
@@ -55,7 +55,7 @@
         "download_title": "EARLY ALPHA",
         "download": "Download",
         "download_header": "Klaar? Download de mod!",
-        "download_description": "Je avontuur wacht op je. Download de Nitrox Mod gratis en begin subnautica samen te spelen!",
+        "download_description": "Je avontuur wacht op je. Download de Nitrox Mod gratis en begin Subnautica samen te spelen!",
         "version": "Laatste versie:"
     },
     "home": {
@@ -84,14 +84,14 @@
                 "view": "Bekijk nieuwe concepten"
             },
             "chat": {
-                "description": "Blijf in contact met het Nitrox platformoverschrijdende ingebouwd chat systeem.",
+                "description": "Blijf in contact met het Nitrox cross-platform ingebouwd chat systeem.",
                 "headline": "Communicatie",
                 "title": "In-game chatten"
             },
             "upnp": {
                 "headline": "UPnP Ondersteuning",
                 "title": "Automatisch doorsturen van poorten",
-                "description": "Nitrox opent automatisch de vereiste poorten, zodat u meteen verbinding kunt maken met uw vrienden, zonder dat u VPN-software van derden nodig hebt."
+                "description": "Nitrox opent automatisch de vereiste poorten zodat u meteen verbinding kunt maken met uw vrienden, zonder dat u VPN-software van derden nodig hebt."
             },
             "lang": {
                 "headline": "Vertaald door de gemeenschap",
@@ -117,7 +117,7 @@
             "stores": {
                 "tooltip": "Momenteel niet beschikbaar",
                 "headline": "Ondersteunde winkels",
-                "title": "Platform overschrijdend",
+                "title": "Cross-platform",
                 "description": "Compatibel met je favoriete winkels. Native cross-play ondersteuning ingebouwd in de mod waardoor naadloze multiplayer mogelijk is."
             },
             "gameplay": {
@@ -199,7 +199,9 @@
         "reddit": "Word lid van de Nitrox Subreddit om op de hoogte te blijven van de nieuwste Nitrox versies en om je ervaringen te delen.",
         "github": "Wil je deel uitmaken van het team? Draag bij aan de code tot en met vertalingen voor het Nitrox-project op GitHub.",
         "github_link": "Draag bij via GitHub",
-        "reddit_join": "Versie"
+        "reddit_join": "Wordt lid van de SubReddit",
+        "bluesky": "Volg de Nitrox Bluesky account om altijd op de hoogte te zijn van de nieuwste ontwikkelingen, evenementen en releases.",
+        "bluesky_follow": "Volg op Bluesky"
     },
     "os": {
         "meta": {
@@ -243,7 +245,7 @@
         },
         "title": "Nitrox is gebouwd door een gepassioneerd team van open source contribuanten.",
         "join": "Wil je bij het team horen?",
-        "join_description": "Ook jij kunt een bijdrage leveren aan deze mod. Je kunt ontwikkelen voor Nitrox of lid worden van het support team! Meld je gewoon aan op de discord server of subreddit pagina"
+        "join_description": "Ook jij kunt een bijdrage leveren aan deze mod. Je kunt software schrijven voor Nitrox of lid worden van het ondersteuningsteam! Meld je aan op de Discord server of subreddit."
     },
     "changelog": {
         "meta": {
@@ -267,7 +269,10 @@
             "discord_join": "Klik om je op Discord aan te sluiten",
             "twitter": "Volg op Twitter",
             "twitter_description": "Volg ons op Twitter om altijd op de hoogte te zijn van de meest recente informatie, inlichtingen en veel meer op de officiële Nitrox Twitter.",
-            "twitter_join": "Klik om @modnitrox te bezoeken"
+            "twitter_join": "Klik om @modnitrox te bezoeken",
+            "bluesky_description": "Volg op Bluesky om altijd op de hoogte te zijn van de nieuwste informatie, inzichten en nog veel meer op de officiële Nitrox Bluesky.",
+            "bluesky_join": "Klik om @nitroxmod te bekijken",
+            "bluesky": "Volg op Bluesky"
         },
         "discord": "Discord Leden",
         "featured": "Zoals verschenen in",
@@ -287,8 +292,8 @@
             "changelog": "Changelog",
             "contribute": "Draag bij",
             "download": "Download Nitrox",
-            "resources": "Hulpmiddelen",
-            "community": "Community"
+            "resources": "Materiaal",
+            "community": "Gemeenschap"
         },
         "learnmore": "Meer informatie",
         "connect": "Verbind",
@@ -302,14 +307,14 @@
         "motd": "Laatste ontwikkelaarsblogpost.",
         "read_more": "Lees meer",
         "community": "Gemeenschap",
-        "home": "Thuis"
+        "home": "Home"
     },
     "wiki": {
-        "search_install": "Installeer de Nitrox Mod Steam en Epic Games",
+        "search_install": "Installeer de Nitrox Mod voor Steam en Epic Games",
         "faq": {
             "play": {
                 "question": "Hoe kan ik deze mod spelen?",
-                "answer": "Download de Installer van de \"Download\" secitie. Onhoud dat dit nog steeds in ontwikkeling is, en dus dat er bugs in kunnen zitten."
+                "answer": "Download het installatieprogramma via de \"Download\" sectie. Onhoud dat dit nog steeds in ontwikkeling is, en dat er bugs kunnen zijn."
             },
             "contribute": {
                 "question": "Hoe kan ik bijdragen?",
@@ -326,7 +331,7 @@
             },
             "status": {
                 "question": "Hoe staat het ervoor?",
-                "answer": "<p>De mod is nog zeer vroeg in de ontwikkeling, maar er bestaat al een sterke fundatie waarop de community kan bouwen. De volgende mijlpalen zijn al bereikt:</p><ul class=\"disc\"><li>Client / Server Communicatie</li><li>Spelerbeweging</li><li>Het oprapen en oprapen van voorwerpen synchroniseren</li><li>Wereldsynchronisatie op grote afstanden</li><li>Het bouwen van basissen</li><li>Het bouwen van meubilair</li><li>De meeste interacties met meubilair (opslag / medikitmakers / opladers / etc)</li><li>Elektriciteitsbeheer</li><li>Seamoth &amp; Exosuit Synchronisatie</li><li>Simpele synchronisatie van de Cyclops</li><li>Een simpel chatsysteem</li><li>Een nieuwe HUD voor spelers op afstand</li><li>Simpele speleranimaties</li><li>Integratie met&nbsp;<a href=\"https://github.com/pardeike/Harmony\" target=\"_blank\">Harmony</a></li></ul>"
+                "answer": "<p>De mod is nog zeer vroeg in de ontwikkeling, maar er bestaat al een sterke fundatie waarop de community kan bouwen. De volgende mijlpalen zijn al bereikt:</p><ul class=\"disc\"><li>Client / Server Communicatie</li><li>Spelerbeweging</li><li>Het oprapen en weggooien van voorwerpen</li><li>Wereldsynchronisatie op grote afstanden</li><li>Het bouwen van basissen</li><li>Het bouwen van meubilair</li><li>De meeste interacties met meubilair (opslag / medikitmakers / opladers / etc)</li><li>Elektriciteitsbeheer</li><li>Seamoth &amp; Exosuit Synchronisatie</li><li>Simpele synchronisatie van de Cyclops</li><li>Een simpel chatsysteem</li><li>Een nieuwe HUD voor spelers op afstand</li><li>Simpele speleranimaties</li><li>Integratie met&nbsp;<a href=\"https://github.com/pardeike/Harmony\" target=\"_blank\">Harmony</a></li></ul>"
             },
             "bz": {
                 "question": "Werkt Nitrox met Subnautica: Below Zero?",
@@ -346,7 +351,8 @@
             "join": "Aan het verbinden met een server",
             "install": "Nitrox installeren",
             "server_more": "Nadat je de mod hebt geïnstalleerd kun je samen beginnen te spelen door de Nitrox server de starten en te hosten.",
-            "join_more": "Wil je een met een andere server verbinden? Lees hoe je andere Nitrox servers toe kan voegen en ermee kan verbinden om Subnautica multiplayer te spelen."
+            "join_more": "Wil je een met een andere server verbinden? Lees hoe je andere Nitrox servers toe kan voegen en ermee kan verbinden om Subnautica multiplayer te spelen.",
+            "server": "De server opstarten"
         },
         "wizard": "Installatie- &amp; Upgrade-wizard",
         "wizard_more": "Onze nieuwe interactieve Nitrox Wizard laat je stap voor stap zien hoe het installatie- en upgradeproces werkt. Beantwoord simpelweg elke stap en ontvang onmiddelijk een antwoord. Probeer het vandaag nog uit!",
@@ -357,14 +363,14 @@
         "support_discord": "Aansluiten bij de Nitrox Discord",
         "meta": {
             "title": "Gidsen &amp; Wiki · Subnautica Multiplayer Mod",
-            "description": "Nitrox is een gratis multiplayermod voor het spel Subnautica, ontwikkeld door de community."
+            "description": "Nitrox is een gratis multiplayer mod voor het spel Subnautica, ontwikkeld door de community."
         },
         "search_join": "Verbind met een Nitrox Server",
         "search_placeholder": "Zoek iets op…",
         "title": "Welkom bij Nitrox Support",
         "subtitle": "Bekijk de meest behulpzame gidsen en lees de eerste stappen om Nitrox te gaan gebruiken.",
         "readmore": "Lees meer",
-        "wizard_link": "Start de Nitrox Wizard",
+        "wizard_link": "Start de Nitrox Installatiewizard",
         "support_more": "Ons ondersteuningsteam is er om je te helpen.<br>Sluit je aan op Discord en we vinden een oplossing voor je."
     },
     "lang-select": {

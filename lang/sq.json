@@ -1,0 +1,28 @@
+{
+    "home": {
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_slogan": "<span>Mod-i</span> <span>zt</span> <span>për</span> <span>Multiplayer</span> <span>Subnautica.</span>",
+        "feature": {
+            "multiplayer": {
+                "headline": "Mod-i",
+                "description": "Më në fund fillo të luajsh Subnautica bashkë me shokët. Hzr ose krijo serverin tënd.",
+                "title": "Nitrox multiplayer"
+            },
+            "stores": {
+                "headline": "Shitoret e suportuara momentalisht",
+                "description": "Kompatibile me shitoret e juaja të preferuara. Mundëson luajtjen pa pengesa multiplayer.",
+                "tooltip": "Jo e supportuar për momentin"
+            },
+            "gameplay": {
+                "headline": "Lojëra",
+                "title": "Lojëra jote"
+            }
+        },
+        "explore": "Eksperienco Subnautica <span class=\"opacity-5\">sikur një lojë të re. Bashkohuni. Eksploroni thellësi të reja. </span>",
+        "meta": {
+            "title": "Nitrox-i për Subnautixa · Mod multiplayer për Subnautica",
+            "description": "Nitrox-i ëeshtë një mod multiplayer falas për lojën Subnautica e krijuar nga komuniteti."
+        },
+        "hero_cta": "Downlodo falas"
+    }
+}
