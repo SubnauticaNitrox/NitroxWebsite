@@ -15,7 +15,7 @@
                 "headline": "Lojas atualmente suportadas",
                 "tooltip": "Atualmente não disponível",
                 "description": "Compatível com tuas lojas favoritas. Suporta cross-play nativo incorporado no mod permitindo multijogador perfeito.",
-                "title": "Cross platform"
+                "title": "Multiplataforma"
             },
             "code": {
                 "headline": "Código fonte",
@@ -29,7 +29,7 @@
                 "description": "Utiliza o Iniciador Nitrox, actualmente disponível para Windows. Com uma interface de utilizador bem concebida para tornar ainda mais fácil jogar em multijogador."
             },
             "lang": {
-                "languages": "Búlgaro, Chinês, Croata, Checo, Holandês, Inglês, Francês, Alemão, Grego, Húngaro, Italiano, Japonês, Coreano, Polaco, Português, Romeno, Russo, Eslovaco, Esloveno, Espanhol, Sueco, Tailandês, Turco, Ucraniano, …",
+                "languages": "Búlgaro, Chinês, Croata, Tcheco, Holandês, Inglês, Finlandês, Francês, Alemão, Grego, Húngaro, Italiano, Japonês, Coreano, Norueguês, Polonês, Português, Português (Brasil), Romeno, Russo, Eslovaco, Esloveno, Espanhol, Sueco , Tailandês, Turco, Ucraniano, Vietnamita,…",
                 "headline": "A comunidade adicionou idiomas",
                 "title": "O Nitrox também fala o teu idioma.",
                 "link": "Contribui &amp; adiciona o teu idioma"
@@ -49,7 +49,7 @@
             "gameplay": {
                 "headline": "Jogabilidade",
                 "title": "O teu modo de jogo",
-                "description": "Joga Subnautica, desde um jogo de sobrevivência com teus amigos até uma sessão de construção criativa."
+                "description": "Joga Subnautica, desde um jogo de sobrevivência com seus amigos até uma sessão de construção criativa."
             },
             "chat": {
                 "description": "Mantenha contato com o sistema de mensagens de jogo compatível, o Nitrox, construído em plataforma cruzada.",
@@ -59,7 +59,7 @@
             "upnp": {
                 "headline": "Suporta UPnP",
                 "title": "Port forwarding automático",
-                "description": "O Nitrox abre automaticamente as portas necessárias, tornando possível ligares-te imediatamente aos teus amigos, sem necessidade de software de VPN de terceiros."
+                "description": "O Nitrox abre automaticamente as portas necessárias, tornando possível se conectar imediatamente com os seus amigos, sem necessidade de software de VPN de terceiros."
             },
             "play": {
                 "headline": "Joga",
@@ -136,11 +136,13 @@
         "discord": "Junta-te ao nosso ativo servidor de Discord para encontrares servidores para jogar, obter ajuda da equipa de apoio e muito mais.",
         "twitter_follow": "Segue no Twitter",
         "reddit": "Junta-te ao Subreddit do Nitrox para te manteres informado sobre os últimos lançamentos e publicar o conteúdo da comunidade.",
-        "reddit_join": "Versão",
+        "reddit_join": "Entre no Subreddit do Reddit",
         "github_link": "Contribui no GitHub",
         "discord_join": "Junta-te no Discord",
         "twitter": "Segue a conta do Nitrox no Twitter para estares sempre actualizado sobre os últimos desenvolvimentos, eventos, e lançamentos.",
-        "github": "Queres fazer parte da equipa? Contribui desde código a traduções para o projeto Nitrox no GitHub."
+        "github": "Queres fazer parte da equipa? Contribui desde código a traduções para o projeto Nitrox no GitHub.",
+        "bluesky": "Siga a conta Nitrox no Bluesky para estar sempre atualizado sobre os últimos desenvolvimentos, eventos e lançamentos.",
+        "bluesky_follow": "Siga na Bluesky"
     },
     "about": {
         "meta": {
@@ -157,7 +159,7 @@
         "users": "Utilizadores",
         "discord_members": "27,000+",
         "discord": "Membros do Discord",
-        "multiplayer": "Multijogador. <span class=\"opacity-5\">Joga Subnautica como se destinava a ser, em Multijogador.</span>",
+        "multiplayer": "Multijogador. <span class=\"opacity-5\">Jogue Subnautica como deveria ser jogado, em Multijogador.</span>",
         "download_description": "A tua aventura espera. Descarrega o Nitrox Mod gratuitamente e começa a jogar multijogador Subnautica!",
         "download": "Descarregar",
         "version": "Última versão:",
@@ -270,7 +272,10 @@
             "discord_join": "Clica para aderir no Discord",
             "twitter": "Segue no Twitter",
             "twitter_description": "Segue no Twitter para estares sempre no circuito com informações actualizadas, insights e muito mais no Twitter oficial do Nitrox .",
-            "twitter_join": "Clica para visitar @modnitrox"
+            "twitter_join": "Clica para visitar @modnitrox",
+            "bluesky": "Siga na BlueSky",
+            "bluesky_description": "Siga na Bluesky para estar sempre atualizado com novas informações, insights e muito mais da conta oficial do Nitrox Bluesky.",
+            "bluesky_join": "Clique para visitar @nitroxmod"
         },
         "featured": "Destacado em",
         "footnote_1": "A loja Windows requer configuração adicional. Passos e suporte à configuração podem ser encontrados no Nitrox Discord.",

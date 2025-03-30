@@ -8,7 +8,7 @@
         "feature": {
             "multiplayer": {
                 "description": "Finalmente inizia a giocare a Subnautica insieme ai tuoi amici. Unisciti o crea il tuo server personale.",
-                "title": "Nitrox multiplayer",
+                "title": "Nitrox multigiocatore",
                 "headline": "La mod"
             },
             "stores": {
@@ -19,7 +19,7 @@
             },
             "gameplay": {
                 "title": "Il tuo gameplay",
-                "description": "Gioca a Subnautica, da una partita di sopravvivenza con i tuoi amici a una sessione di costruzioni creative.",
+                "description": "Gioca a Subnautica, da una partita di sopravvivenza con i tuoi amici a una sessione di costruzione creativa.",
                 "headline": "Gameplay"
             },
             "code": {
@@ -32,12 +32,12 @@
                 "downloads": "di downloads",
                 "description": "Entra a far parte della grande e crescente comunità di Nitrox. Trova nuovi server, ottieni aiuto e parla con altri giocatori di Nitrox.",
                 "headline": "Community",
-                "title": "Basata sui giocatori"
+                "title": "Numero di giocatori"
             },
             "launcher": {
-                "view": "Visualizza i concepts in corso di lavorazione",
+                "view": "Visualizza i concept in corso di lavorazione",
                 "headline": "Prova",
-                "description": "Usa Nitrox Launcher attualmente disponibile per Windows. Dotato di un'interfaccia utente ben progettata per rendere ancora più facile giocare in multiplayer.",
+                "description": "Usa Nitrox Launcher, attualmente disponibile per Windows. Dotato di un'interfaccia utente ben progettata per rendere ancora più facile giocare in multiplayer.",
                 "title": "Nitrox Launcher"
             },
             "chat": {
@@ -54,7 +54,7 @@
                 "headline": "Lingue aggiunte dalla comunità",
                 "link": "Contribuisci e aggiungi la tua lingua",
                 "title": "Nitrox parla anche la tua lingua.",
-                "languages": "Bulgaro, Cinese, Croato, Ceco, Olandese, Fnglese, Francese, Tedesco, Greco, Ungherese, Italiano, Giapponese, Coreano, Polacco, Portoghese, Rumeno, Russo, Slovacco, Sloveno, Spagnolo, Svedese, Tailandese, Turco, Ucraino, …"
+                "languages": "Bulgaro, Cinese, Croato, Ceco, Olandese, Inglese, Finlandese, Francese, Tedesco, Greco, Ungherese, Italiano, Giapponese, Coreano, Norvegese, Polacco, Portoghese, Portoghese (Brasile), Rumeno, Russo, Slovacco, Sloveno, Spagnolo, Svedese, Thailandese, Turco, Ucraino, Vietnamita, …"
             },
             "host": {
                 "subtitle": "Slot Massimi",
@@ -140,7 +140,9 @@
         "discord": "Unisciti al nostro server Discord per trovare server su cui giocare, ottenere aiuto dal team di supporto e molto altro.",
         "reddit_join": "Unisciti a Subreddit su Reddit",
         "github_link": "Contribuisci su GitHub",
-        "title": "Nitrox Community"
+        "title": "Nitrox Community",
+        "bluesky": "Segui l'account Nitrox Bluesky per essere sempre aggiornato sugli ultimi sviluppi, eventi e versioni.",
+        "bluesky_follow": "Segui su Bluesky"
     },
     "about": {
         "meta": {
@@ -149,7 +151,7 @@
         },
         "why": "Perché Nitrox?",
         "discord_join": "Unisciti su Discord",
-        "multiplayer": "Multigiocatore. <span class=\"opacity-5\">Gioca a Subnautica come doveva essere, in multiplayer.</span>",
+        "multiplayer": "Multiplayer. <span class=\"opacity-5\">Gioca a Subnautica come è stato concepito, in modalità multigiocatore.</span>",
         "opensource": "Open source. <span class=\"opacity-5\">Supporto regolare e aggiornamenti da parte dei generosi contributori.</span>",
         "metrics": "le nostre statistiche",
         "downloads": "Download",
@@ -207,10 +209,10 @@
             "connect_info": "Portforwading automatico grazie all'uso di UPNP per una rapida configurazione.",
             "play_info": "Ospita o trova server permanenti su cui giocare, nella comunità Nitrox.",
             "play_subtitle": "Server",
-            "host_info": "Ospita facilmente un grande evento con supporto fino a 100 giocatori.",
+            "host_info": "Ospita facilmente un grande evento con supporto per più di 100 giocatori.",
             "host_footnote": "Max. 100 giocatori nel server, numero di giocatori consigliato 5.",
             "connect_subtitle": "Tecnologia",
-            "play_footnote": "I server pubblici non sono ospitati da Nitrox e non sono garantiti al 100%. I server di terze parti non sono moderati dal team Nitrox.",
+            "play_footnote": "I server pubblici non sono ospitati da Nitrox ed il loro funzionamento non è garantito al 100%. I server di terze parti non sono moderati dal team Nitrox.",
             "host": "Host",
             "play": "Gioco"
         },
@@ -220,7 +222,7 @@
     },
     "launcher": {
         "meta": {
-            "description": "Il Nitrox Launcher è il vostro ingresso all'esperienza multiplayer subnautica.",
+            "description": "Il Nitrox Launcher è il vostro ingresso all'esperienza multiplayer Subnautica.",
             "title": "Nitrox Launcher - Caratteristiche"
         },
         "redesigned": "Ridisegnato da zero. <span class=\"opacity-5\">Con l'obiettivo di fornire informazioni utili. Accesso rapido al multiplayer. Diagnostica dettagliata. Tutto il necessario per ospitare un server.</span>",
@@ -253,8 +255,11 @@
             "discord_join": "Clicca per unirti su Discord",
             "twitter": "Seguici su Twitter",
             "twitter_join": "Clicca per andare su @modnitrox",
-            "twitter_description": "Seguici sulla pagina Twitter ufficiale di Nitrox per restare sempre aggiornato su informazioni, approfondimenti e molto altro.",
-            "discord_description": "Chatta di Subnautica Multiplayer con più di 27k membri, trova altre persone per giocare assieme e ottenere supporto."
+            "twitter_description": "Seguiteci su Twitter per essere sempre aggiornati con informazioni aggiornate, approfondimenti e molto altro ancora dall'account Twitter ufficiale di Nitrox.",
+            "discord_description": "Chatta di Subnautica Multiplayer con più di 27k membri, trova altre persone per giocare assieme e ottenere supporto.",
+            "bluesky_join": "Fai clic per visitare @nitroxmod",
+            "bluesky": "Segui su Bluesky",
+            "bluesky_description": "Segui su Bluesky per essere sempre aggiornato su informazioni aggiornate, approfondimenti e molto altro dall'account ufficiale Nitrox Bluesky."
         },
         "community_title": "Community",
         "discord": "Membri Discord",

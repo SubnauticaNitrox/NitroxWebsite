@@ -1,0 +1,161 @@
+{
+    "home": {
+        "hero_over": "<span>서브노티카</span><span>Nitrox</span>",
+        "meta": {
+            "title": "서브노티카 Nitrox - 서브노티카 멀티플레이어 모드",
+            "description": "Nitrox는 커뮤니티에서 개발한 서브노티카 무료 멀티플레이 모드입니다."
+        },
+        "hero_cta": "무료로 다운로드",
+        "explore": "서브노티카를 완전히 새롭게 경험하세요. <span class=\"opacity-5\"> 팀을 구성하고. 새로운 수심을 탐사하고. 멋진 기지를 구축하세요.</span>",
+        "feature": {
+            "multiplayer": {
+                "headline": "모드",
+                "title": "Nitrox 멀티플레이어",
+                "description": "친구들과 서브노티카를 시작하세요. 나만의 서버를 생성하거나 가입하세요."
+            },
+            "stores": {
+                "headline": "현재 지원하는 스토어",
+                "title": "크로스플랫폼",
+                "description": "사용중인 플랫폼과 호환됩니다. 모드에 내장된 기본 크로스 플레이 지원으로 원활한 멀티플레이가 가능합니다.",
+                "tooltip": "현재 지원하지 않음"
+            },
+            "gameplay": {
+                "title": "당신만의 게임플레이",
+                "headline": "게임플레이",
+                "description": "친구들과 함께 생존부터 창의적인 건축까지 서브노티카를 플레이하세요."
+            },
+            "code": {
+                "headline": "코드 베이스",
+                "title": "오픈소스",
+                "description": "멋진 지원자들의 지원과 업데이트가 있습니다. 당신도 기여하고 모드를 개선해주세요."
+            },
+            "community": {
+                "downloads": "다운로드 수",
+                "discord": "디스코드 회원들",
+                "title": "플레이어들",
+                "headline": "커뮤니티",
+                "description": "성장하는 Nitrox 커뮤니티의 일원이 되어주세요. 새로운 서버를 찾고, 도움을 받거나 다른 Nitrox 플레이어들과 소통하세요."
+            },
+            "launcher": {
+                "view": "진행 중인 작업 보기",
+                "headline": "경험",
+                "title": "NItrox 런쳐",
+                "description": "Windows에서 사용할 수 있는 Nitrox 런쳐를 이용하세요. 잘 설계된 사용자 인터페이스를 통해 멀티플레이를 더 쉽게 할 수 있습니다."
+            },
+            "chat": {
+                "headline": "소통",
+                "title": "인게임 채팅",
+                "description": "크로스플랫폼이 가능한 인게임 채팅 시스템으로 서로 소통하세요."
+            },
+            "upnp": {
+                "headline": "UPnP 지원",
+                "title": "자동 포트포워딩",
+                "description": "Nitrox는 필요한 포트를 자동으로 열어서 VPN 소프트웨어 없이도 친구와 바로 연결할 수 있습니다."
+            },
+            "lang": {
+                "headline": "커뮤니티 추가 언어",
+                "title": "Nitrox는 당신의 언어를 지원합니다.",
+                "languages": "불가리아어, 중국어, 크로아티아어, 체코어, 독일어, 영어, 핀란드어, 프랑스어, 그리스어, 헝가리어, 이탈리아어, 일본어, 한국어, 노르웨이어, 폴란드어, 포르투갈어, 브라질어, 러시아어, 슬로바키아어, 스페인어, 스웨덴어, 태국어, 터키어, 우크라이나어, 베트남어 등등…",
+                "link": "당신의 언어 번역에 기여해주세요"
+            },
+            "play": {
+                "headline": "플레이",
+                "description": "무작위 시작 탈출 포드, 자원과 동식물을 위한 무작위 또는 저장된 씨앗, 새로운 저장 시스템, 식물들과 농장... 그리고 훨씬 더 많은것들."
+            },
+            "server": {
+                "headline": "공개 서버",
+                "description": "Nitrox 디스코드 서버에서 영구적으로 플레이할 서버를 찾아보세요.",
+                "number": "24시간",
+                "subtitle": "운영중인 서버들"
+            },
+            "host": {
+                "headline": "호스트",
+                "description": "최대 100명의 플레이어를 지원하는 대규모 이벤트를 열 수 있습니다.",
+                "subtitle": "최대.플레이어"
+            }
+        },
+        "nextsteps": {
+            "get": {
+                "title": "모드 받기",
+                "description": "Nitrox 모드를 무료로 다운로드하고 멀티플레이를 시작하세요!",
+                "download": "다운로드",
+                "latest_version": "최신 버전:"
+            },
+            "wiki": {
+                "description": "설치 가이드와 FAQ 페이지를 확인하세요",
+                "link": "가이드 보기",
+                "title": "시작하기"
+            }
+        },
+        "hero_slogan": "<span>당신의</span> <span>서브노티카</span>멀티플레이 <span></span>모드 <span></span> <span>입니다.</span>"
+    },
+    "download": {
+        "meta": {
+            "title": "Nitrox와 Subnautica 멀티플레이 모드 다운로드",
+            "description": "Nitrox 다운로드: 커뮤니티에서 개발한 서브노티카 무료 멀티플레이어 모드."
+        },
+        "header": {
+            "alpha": "알파 단계",
+            "title": "Nitrox 다운로드",
+            "subtitle": "당신의 여정이 기다리고 있습니다. Nitrox 모드를 무료로 설치하고 서브노티카 멀티플레이를 시작하세요!",
+            "download": "다운로드 시작",
+            "stores": "각 플랫폼 버전들 지원",
+            "version": "알파"
+        },
+        "changelog": "변경 사항",
+        "changelog_older": "이전 변경 사항 보기",
+        "sidebar": "Nitrox 모드. <span class=\"opacity-5\"> 서브노티카의 오픈 소스 멀티플레이어 모드.</span>"
+    },
+    "download_start": {
+        "header": {
+            "helper": "<span id=\"countdowntimer\">2</span> 초 후 자동으로 다운로드합니다. 만약 다운로드가 되지 않는다면 ",
+            "helper_link": "다시 다운로드",
+            "started": "다운로드 시작됨"
+        },
+        "next_steps": "다음 차례",
+        "meta": {
+            "title": "다운로드가 시작되었습니다… · Subnautica Multiplayer Mod",
+            "description": "Nitrox 다운로드: 커뮤니티가 개발한 무료 서브노티카 무료 멀티플레이모드."
+        },
+        "community_join": "커뮤니티 가입하기",
+        "guide": "업그레이드 설명서 설치하기",
+        "guide_link": "Nitrox 인스톨 관리자",
+        "download_infos": "정보 다운로드",
+        "file_size": "파일 사이즈",
+        "version": "버전",
+        "install_vid": "비디오 설치",
+        "md5": "MD5 Hash"
+    },
+    "community": {
+        "meta": {
+            "title": "Nitrox 커뮤니티 · 서브노티카 멀티플레이어 모드",
+            "description": "성장하는 거대한 Nitrox 커뮤니티에 합류하세요. 새로운 서버를 찾고, 다른 Nitrox 플레이어들에게 도움을 구하고 대화하세요."
+        },
+        "title": "Nitrox 커뮤니티",
+        "subtitle": "전세계의 플레이어들과 Nitrox 커뮤니티에 참여하세요.",
+        "discord": "우리의 활성화 된 디스코드 서버에 참여하세요. 플레이 할 서버를 찾거나 지원팀에게 도움을 요청하는 등 많은 것을 할 수 있습니다.",
+        "discord_join": "디스코드에 참여하세요",
+        "bluesky": "Nitrox Bluesky 계정을 팔로우하고 최신 개발 상황, 이벤트 및 배포 소식을 받아보세요.",
+        "bluesky_follow": "Bluesky에서 팔로우하세요",
+        "twitter": "Nitrox 트위터 계정을 팔로우하고 최신 개발 상황, 이벤트 및 배포 소식을 받아보세요.",
+        "twitter_follow": "트위터에서 팔로우하세요",
+        "reddit": "Nitrox Subreddit에 참여하고 최신 배포와 커뮤니티 게시물을 안내받으세요.",
+        "github": "저희의 팀에 합류하고 싶으신가요? GitHub의 Nitrox 프로젝트의 코드 번역에 기여하세요.",
+        "github_link": "GitHub에서 기여하다",
+        "reddit_join": "서브레딧에 참여하기"
+    },
+    "about": {
+        "title": "모더들은 서브노티카에 멀티플레이 기능을 만들었습니다.",
+        "why": "왜 Nitrox인가요?",
+        "discord_join": "디스코드에서 참여하세요",
+        "meta": {
+            "title": "Nitrox: Subnautica 멀티플레이어 모드에 대하여"
+        },
+        "download_count": "백만 건 이상의",
+        "downloads": "다운로드",
+        "user_count": "50만명 이상의",
+        "discord_members": "2만7천명 이상의",
+        "users": "유저들",
+        "discord": "디스코드 인원들"
+    }
+}

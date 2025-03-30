@@ -4,6 +4,377 @@
             "title": "Nitrox • 深海迷航多人遊戲模組",
             "description": "Nitrox是一個由社群為深海迷航開發的免費多人遊戲模組。"
         },
-        "hero_over": "<span>深海迷航</span> <span>Nitrox</span>"
+        "hero_over": "<span>深海迷航</span> <span>Nitrox</span>",
+        "feature": {
+            "lang": {
+                "languages": "中文、克羅埃西亞語、 匈牙利語、匈牙利語、希臘語、德語、義大利語、捷克語、捷克語、日語、法語、 波蘭語、葡萄牙文（巴西 )、羅馬尼亞語、俄語、斯洛伐克語、斯洛維尼亞語、瑞典語、泰語、土耳其文、烏克蘭語、越南語、 …",
+                "title": "Nitrox 也能使用您的語言。",
+                "headline": "社群添加語言",
+                "link": "貢獻並加入你的語言"
+            },
+            "play": {
+                "description": "隨機啟動逃生艙、資源和動物群的隨機和保存種子、新保存系統、植物和農業…等等。",
+                "headline": "玩"
+            },
+            "upnp": {
+                "description": "Nitrox 會自動打開所需的端口，讓您可以直接連接到您的朋友，而無需任何第三方 VPN 軟體。",
+                "headline": "UPnP 支援",
+                "title": "自動連接埠轉發"
+            },
+            "stores": {
+                "description": "與您最喜歡的商店相容。模組中內置了原生跨平台遊戲支援，可實現無縫多人遊戲。",
+                "title": "跨平台",
+                "headline": "目前支援的商店",
+                "tooltip": "目前不可用"
+            },
+            "multiplayer": {
+                "headline": "模組",
+                "title": "Nitrox 多人遊戲",
+                "description": "最後開始和朋友玩深海迷航。加入或建立您自己的伺服器。"
+            },
+            "code": {
+                "title": "開源",
+                "description": "來自慷慨捐助者的定期支持和更新。貢獻力量並使模型變得更好。",
+                "headline": "代碼庫"
+            },
+            "gameplay": {
+                "headline": "遊戲玩法",
+                "title": "你的遊戲玩法",
+                "description": "玩深海迷航，從與朋友一起的生存遊戲到創意建構遊戲。"
+            },
+            "community": {
+                "downloads": "下載",
+                "headline": "社群",
+                "title": "玩家群",
+                "discord": "Discord 會員",
+                "description": "成為不斷壯大的 Nitrox 社群的一部分。尋找新伺服器，取得協助並與其他 Nitrox 玩家交談。"
+            },
+            "chat": {
+                "description": "與 Nitrox 跨平台相容的內建遊戲訊息系統保持聯繫。",
+                "title": "遊戲內訊息",
+                "headline": "溝通"
+            },
+            "launcher": {
+                "description": "使用目前可用於 Windows 的 Nitrox Launcher。具有精心設計的使用者介面，使多人遊戲變得更加容易。",
+                "title": "Nitrox Launcher",
+                "headline": "經驗",
+                "view": "看正在進行的概念"
+            },
+            "host": {
+                "headline": "主機",
+                "description": "輕鬆舉辦大型玩家活動，支援最多 100 名玩家。",
+                "subtitle": "最大限度。插槽"
+            },
+            "server": {
+                "headline": "公共伺服器",
+                "description": "在 Nitrox Discord 中尋找可以玩的永久伺服器。",
+                "subtitle": "伺服器",
+                "number": "24/7"
+            }
+        },
+        "hero_cta": "免費下載",
+        "explore": "體驗深海迷航 <span class=\"“opacity-5”\">就像一個全新的遊戲。組隊。探索新的深度。構建史詩基礎.</span>",
+        "hero_slogan": "<span>您的</span> <span>多人遊戲</span> <span>模組</span> 用於 <span>深海迷航</span>",
+        "nextsteps": {
+            "get": {
+                "download": "下載",
+                "description": "免費下載 Nitrox 模組並開始玩多人遊戲！",
+                "latest_version": "最新版本：",
+                "title": "獲取模組"
+            },
+            "wiki": {
+                "description": "閱讀安裝指南和常見問題頁面",
+                "title": "入門",
+                "link": "參觀指南"
+            }
+        }
+    },
+    "launcher": {
+        "redesigned": "從頭開始重新設計。 <span class=\"opacity-5\">專注於提供有用的資訊。快速進入多人遊戲。詳細診斷。託管伺服器所需的一切。</span>",
+        "settings": "智慧設定",
+        "server": "伺服器",
+        "server_more": "了解更多",
+        "server_info": "Nitrox 伺服器已整合到啟動器中。這允許您快速設定您自己的多人遊戲實例。由於 UPNP，Nitrox 可以自動處理連接埠轉送。該伺服器重量輕，易於運行，無需佔用大量系統資源。",
+        "meta": {
+            "description": "Nitrox Launcher 是您進入多人遊戲深海迷航體驗的入口。",
+            "title": "Nitrox Launcher· 特點"
+        },
+        "hero": "一體化<br>多人遊戲。",
+        "coming_soon": "即將推出",
+        "preview": "預覽新的 Nitrox Launcher。 <span class=\"opacity-5\">您的多人遊戲體驗入口。精心設計，易於使用。即將推出。</span>",
+        "launcher": "Nitrox Launcher.",
+        "hub_info": "透過重新設計的啟動器，您可以輕鬆了解與 Nitrox 相關的所有最新資訊。第一個獲取最新版本、增強伺服器體驗的詳細資訊以及可存取 24/7 社群託管伺服器的社群標籤。",
+        "settings_info": "購買了多份深海迷航？沒問題。 Nitrox Launcher 可以自動偵測您所有的深海迷航遊戲安裝，讓您在不同的商店版本之間快速進行選擇。簡化設置，無需手動指定路徑。",
+        "hub": "您的 Nitrox 一切的中心。"
+    },
+    "server": {
+        "features": "Nitrox 伺服器<span class=\"opacity-5\">功能強大，但易於託管。使用為 Subnautica 編寫的最佳化程式碼。它運作起來非常輕便，幾乎不需要任何資源，就能獲得最佳的遊戲效能。</span>",
+        "cards": {
+            "host_info": "輕鬆舉辦大型玩家活動，支援多達 100 名玩家。",
+            "connect_info": "透過使用 UPNP 自動進行連接埠轉發，實現快速設定。",
+            "play_footnote": "公共伺服器不由 Nitrox 託管，並且不能保證 100% 的正常運作時間。第三方伺服器不受 Nitrox 團隊的管理。",
+            "play": "玩",
+            "host_slots": "最大限度。插槽",
+            "host": "主機",
+            "play_subtitle": "伺服器",
+            "play_info": "在 Nitrox 社群中託管或尋找可以玩的永久伺服器。",
+            "connect_subtitle": "科技",
+            "connect": "連接",
+            "host_footnote": "最大限度。 100 名伺服器玩家，建議玩家數量為 5 名。"
+        },
+        "feature_list": "<p class=\"lead\">Nitrox 伺服器包含啟動、託管和在多人模式下玩深海迷航所需的一切。\n</p><ul class=\"lead\">\n<li>伺服器控制台</li>\n<li>內建聊天系統</li>\n<li>可設定伺服器連接埠</li>\n<li>最大。 100 位已連線的玩家</li>\n<li>自動儲存功能</li>\n<li>可設定的遊戲模式設定</li>\n<li>公共伺服器模式</li>\n<li>受密碼保護的私人伺服器</li>\n</ul>",
+        "features_included": "包含什麼？",
+        "meta": {
+            "title": "Nitrox 伺服器 · 功能",
+            "description": "Nitrox 擁有強大的多人遊戲伺服器，同時又極為輕巧且資源高效。"
+        },
+        "title": "Nitrox 伺服器<br>輕量且功能強大。"
+    },
+    "download": {
+        "sidebar": "Nitrox 模組。 <span class=\"opacity-5\">遊戲深海迷航的開源多人遊戲修改版。</span>",
+        "header": {
+            "alpha": "早期 ALPHA",
+            "title": "下載 Nitrox",
+            "stores": "支援的商店版本",
+            "download": "開始下載",
+            "subtitle": "你的冒險正在等著你。免費下載 Nitrox 模組並開始玩深海迷航多人遊戲！",
+            "version": "Alpha"
+        },
+        "meta": {
+            "title": "下載 Nitrox · 深海迷航多人遊戲模組",
+            "description": "下載 Nitrox：由社群開發的遊戲深海迷航的免費多人遊戲模組。"
+        },
+        "changelog_older": "查看較舊的變更日誌條目",
+        "changelog": "變更日誌"
+    },
+    "community": {
+        "twitter": "關注 Nitrox X ( Twitter ) 帳戶，隨時了解最新動態、活動和發布。",
+        "bluesky": "關注 Nitrox Bluesky 帳戶，始終瞭解最新的發展、活動和版本。",
+        "bluesky_follow": "在 Bluesky 上關注",
+        "meta": {
+            "title": "Nitrox 社群 · 深海迷航多人遊戲模組",
+            "description": "成為不斷壯大的 Nitrox 社群的一部分。尋找新伺服器，取得協助並與其他 Nitrox 玩家交談。"
+        },
+        "title": "Nitrox 社區",
+        "discord": "加入我們活躍的 Discord 伺服器，尋找可以玩的伺服器，獲得支援團隊的協助等等。",
+        "subtitle": "加入由來自世界各地的玩家組成的大型 Nitrox 社群。",
+        "discord_join": "加入 Discord",
+        "reddit_join": "在 Reddit 上加入 Subreddit",
+        "twitter_follow": "在 X (Twitter )上關注",
+        "github_link": "在 GitHub 上做出貢獻",
+        "reddit": "加入 Nitrox Subreddit 以了解最新發布並發布社群內容。",
+        "github": "想成為團隊的一員嗎？為 GitHub 上的 Nitrox 專案貢獻程式碼和翻譯。"
+    },
+    "os": {
+        "title": "由<br>開源提供支援。",
+        "meta": {
+            "description": "開源程式碼是 Nitrox 模組的核心。從建造它的社區到維護它的支持。",
+            "title": "開源 Nitrox · 特點"
+        },
+        "hero": "開源是 Nitrox 的核心。 <span class=\"opacity-5\">該模型正處於開發的早期階段；不過，為社區的迭代打下了堅實的基礎。</span>",
+        "license": "GNU 通用公共授權 v3.0",
+        "license_info": "深海迷航Nitrox/Nitrox 已獲得 GNU 通用公共授權 v3.0 的許可",
+        "license_link": "了解更多",
+        "dev_resources_code": "代碼維基",
+        "dev_resources": "開發資源",
+        "dev_resources_info": "閱讀我們在 GitHub 上的入門和程式碼貢獻指南。",
+        "dev_resources_contribute": "貢獻",
+        "join": "你想成為團隊的一員嗎？",
+        "join_info": "您可以透過以下方式做出貢獻。"
+    },
+    "resources": {
+        "images_info": "Nitrox 多人遊戲截圖。 <span class=\"opacity-5\">使用這些來分享深海迷航的多人遊戲體驗。在 Discord 伺服器上分享它們或推文給我們。</span>",
+        "images": "圖片",
+        "fonts": "字體",
+        "title": "Nitrox<span class=\"opacity-5\">資源</span>",
+        "meta": {
+            "description": "下載官方 Nitrox 模組資源，包括標誌、字體、圖像等。",
+            "title": "官方 Nitrox 資源 · 標誌、字體、圖像"
+        }
+    },
+    "about": {
+        "title": "模組製作者已將多人遊戲帶到了深海迷航。",
+        "servers": "社區。 <span class=\"opacity-5\">尋找新伺服器，取得協助並與其他 Nitrox 玩家交談。</span>",
+        "download_count": "1,000,000+",
+        "discord_join": "加入 Discord",
+        "downloads": "下載",
+        "meta": {
+            "title": "關於 Nitrox ·深海迷航多人遊戲模組",
+            "description": "了解團隊和開源 Nitrox 專案背後的更多信息"
+        },
+        "why": "為什麼選擇 Nitrox？",
+        "download_header": "準備好？取得模組！",
+        "quote": "引自",
+        "opensource": "開源。 <span class=\"opacity-5\">來自慷慨貢獻者的定期支持和更新。</span>",
+        "multiplayer": "多人遊戲。 <span class=\"opacity-5\">在多人遊戲中，依照深海迷航的預期玩法來進行遊戲。</span>",
+        "metrics": "我們的指標",
+        "user_count": "500,250+",
+        "download_title": "早期 ALPHA",
+        "users": "使用者",
+        "discord": "Discord 會員",
+        "discord_members": "27,000+",
+        "featured": "精選",
+        "download": "下載",
+        "version": "最新版本：",
+        "download_description": "你的冒險正在等著你。免費下載 Nitrox 模組並開始玩深海迷航多人遊戲！"
+    },
+    "footer-extended": {
+        "community": {
+            "bluesky_join": "點擊訪問@nitroxmod",
+            "twitter_join": "點擊訪問@modnitrox",
+            "discord": "Nitrox Discord 伺服器",
+            "discord_description": "與超過 27,000 名成員聊天討論深海迷航多人遊戲，尋找其他玩家一起玩遊戲並獲得支援。",
+            "twitter": "在 X ( Twitter ) 上關注",
+            "bluesky": "在 Bluesky 上關注",
+            "bluesky_description": "關注 Bluesky，始終瞭解來自 Nitrox Bluesky 官方帳戶的最新資訊、見解和更多資訊。",
+            "twitter_description": "請關注 X ( Twitter )，隨時了解來自官方 Nitrox X ( Twitter ) 帳戶的最新資訊、見解等。",
+            "discord_join": "點擊加入 Discord"
+        },
+        "downloads": "下載",
+        "users": "獨立用戶",
+        "community_description": "與其他 Nitrox 玩家聯繫和聊天",
+        "community_title": "社群",
+        "nexus": "Nexus 視圖",
+        "discord": "Discord 會員",
+        "footnote_1": "Windows 商店需要額外的設定。設定步驟和支援可以在 Nitrox Discord 中找到。",
+        "featured": "精選",
+        "footnote_2": "最大限度。 100 名伺服器玩家，建議玩家數量為 5 名。",
+        "footnote_3": "公共伺服器不由 Nitrox 託管，並且不能保證 100% 的正常運作時間。第三方伺服器不受 Nitrox 團隊的管理。"
+    },
+    "download_start": {
+        "header": {
+            "helper_link": "重新開始下載",
+            "started": "已開始下載",
+            "helper": "您的下載將在 <span id=\"countdowntimer\">2</span> 秒內自動開始。如果沒有的話， "
+        },
+        "download_infos": "下載訊息",
+        "guide": "安裝和升級指南",
+        "meta": {
+            "title": "已開始下載…· 深海迷航多人遊戲模組",
+            "description": "下載 Nitrox：由社區開發的遊戲深海迷航的免費多人遊戲模組。"
+        },
+        "next_steps": "後續步驟",
+        "install_vid": "安裝影片",
+        "version": "版本",
+        "file_size": "文件大小",
+        "guide_link": "Nitrox 安裝嚮導",
+        "community_join": "加入社區",
+        "md5": "MD5 Hash"
+    },
+    "team": {
+        "join_description": "您也可以成為該模組的貢獻者。您可以開發高氧或加入支援團隊！只需在 Discord 伺服器或 Subreddit 頁面中申請即可。",
+        "meta": {
+            "title": "Team Nitrox · 深海迷航多人遊戲模組",
+            "description": "向開源 Nitrox 專案的慷慨貢獻者問好"
+        },
+        "join": "想加入團隊嗎？",
+        "title": "Nitrox 是由一支充滿熱情的開源貢獻者團隊創建的。"
+    },
+    "changelog": {
+        "meta": {
+            "title": "變更日誌 · 深海迷航多人遊戲模組",
+            "description": "查看 Nitrox 模組版本的最新變更日誌和版本歷史記錄。"
+        },
+        "title": "變更日誌",
+        "subtitle": "查看 Nitrox 模組版本的最新變更日誌和版本歷史記錄。",
+        "download": "下載",
+        "latest_version": "最新版本："
+    },
+    "wiki": {
+        "meta": {
+            "title": "指南和 Wiki · 深海迷航多人遊戲模組",
+            "description": "Nitrox 是社群為遊戲深海迷航開發的免費多人遊戲模組。"
+        },
+        "cards": {
+            "join": "加入伺服器",
+            "server_more": "安裝模組後，您可以透過運行和託管 Nitrox 伺服器開始一起玩。",
+            "install_more": "透過安裝 Nitrox 模組開始。仔細按照步驟操作，很快就能開始玩了！",
+            "server": "運行伺服器",
+            "install": "安裝 Nitrox",
+            "join_more": "想加入另一個伺服器嗎？了解如何新增和加入其他 Nitrox 伺服器以及玩深海迷航多人遊戲。"
+        },
+        "search_placeholder": "搜尋某些內容…",
+        "title": "歡迎來到 Nitrox 支援",
+        "quick_links": "快速連結",
+        "wizard": "安裝和升級嚮導",
+        "search_home": "Nitrox 升級和安裝嚮導",
+        "search_run": "運行並託管 Nitrox 伺服器",
+        "support": "獲取支援",
+        "search_join": "加入 Nitrox 伺服器",
+        "faq": {
+            "install_nitrox": {
+                "answer": "<p>請使用 Nitrox 安裝嚮導，或閱讀指南以了解如何安裝模組。</p>",
+                "question": "如何安裝 Nitrox？"
+            },
+            "why": {
+                "question": "為什麼叫「Nitrox」？",
+                "answer": "Nitrox 是一種替代空氣混合物，供肺潛水員使用，以延長潛水時間。作為一個模組，它將提供一個新維度的遊戲體驗，延長您的遊戲樂趣。"
+            },
+            "play": {
+                "question": "我怎麼才能玩這個模組？",
+                "answer": "從“下載”部分下載安裝程式。請記住，這仍處於開發階段，可能存在錯誤。"
+            },
+            "bz": {
+                "question": "Nitrox 與深海迷航 : 氷點之下相容嗎？",
+                "answer": "目前，Nitrox 模組僅適用於深海迷航基礎遊戲。計劃增加對氷點之下的支持，但在當前 Nitrox 版本穩定之前不會發布。"
+            },
+            "donate": {
+                "question": "我該如何捐款？",
+                "answer": "我們不接受對該模組的捐贈。希望捐款的人可以在這裡捐款：<a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+            },
+            "title": "常見問題",
+            "status": {
+                "question": "目前情況如何？",
+                "answer": "<p>該模組正處於開發的早期階段；然而，已經為社區的迭代奠定了堅實的基礎。已完成以下里程碑：</p><ul class=\"disc\"><li>客戶端/伺服器通訊</li><li>玩家移動</li><li>拾取/放下物品同步</li><li>遠端世界同步</li><li>基地建置</li><li>家具架</li><li>大多數在海洋家具（容器/醫療包和醫療包等製造商/ Exosuit 同步</li><li>基本獨眼巨人同步</li><li>基本聊天系統</li><li>用於遠端玩家的新 HUD</li><li>基本玩家動畫</li><li>與<a href=\"https://github.com/pardeike/Harmony\">Harmony&gt;</a></li></ul>"
+            },
+            "help": {
+                "answer": "請先閱讀我們 wiki 上的步驟。如果這不起作用，請在 discord 頻道中詢問我們的協助聊天。",
+                "question": "我如何獲得協助？"
+            },
+            "contribute": {
+                "question": "我能做出什麼貢獻？",
+                "answer": "只需在 <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">GitHub 頁面</a> 上提交拉取請求即可。您也可以隨時加入我們的<a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">discord 頻道</a>，與其他貢獻者、開發人員和玩家討論和交換回饋或想法。"
+            }
+        },
+        "wizard_more": "我們全新的互動式 Nitrox Wizard 將引導您逐步完成安裝和升級流程。只需回答每個步驟即可立即獲得答案。今天就來試試吧！",
+        "wizard_link": "啟動 Nitrox 嚮導",
+        "readmore": "閱讀更多",
+        "support_more": "我們的支援團隊隨時為您提供説明。<br>加入 Discord，我們將找到解決方案。",
+        "search_install": "為 Steam 和 Epic Games 安裝 Nitrox 模組",
+        "subtitle": "瀏覽有用的指南並閱讀如何開始使用 Nitrox 的第一步。",
+        "support_discord": "加入 Nitrox Discord"
+    },
+    "footer": {
+        "nav": {
+            "server_setup": "伺服器設定",
+            "install": "安裝指南",
+            "download": "下載 Nitrox",
+            "guides": "Nitrox 指南",
+            "resources": "資源",
+            "devblog": "開發部落格",
+            "server_join": "加入伺服器",
+            "about": "關於",
+            "changelog": "變更日誌",
+            "contribute": "貢獻",
+            "community": "社群",
+            "team": "團隊"
+        },
+        "getstarted": "立即開始",
+        "mod": "模組",
+        "learnmore": "了解更多",
+        "connect": "連接"
+    },
+    "navigation": {
+        "blog": "部落格",
+        "community": "社群",
+        "motd": "最新的開發部落格文章。",
+        "about": "關於",
+        "read_more": "閱讀更多",
+        "guides": "指南",
+        "home": "首頁"
+    },
+    "lang-select": {
+        "description": "選擇您的語言。",
+        "title": "語言"
     }
 }

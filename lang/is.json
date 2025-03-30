@@ -1,0 +1,78 @@
+{
+    "download": {
+        "header": {
+            "title": "Hlaða niður Nitrox",
+            "download": "Byrja niðurhal"
+        },
+        "meta": {
+            "title": "Niðurhalaðu Nitrox · Subautica fölspilunar mod"
+        }
+    },
+    "home": {
+        "feature": {
+            "server": {
+                "headline": "Opinber netþjón",
+                "number": "24/7",
+                "description": "Findu fastan netþjón til að spila á, í Nitrox Discordinu.",
+                "subtitle": "Netþjónar"
+            },
+            "lang": {
+                "languages": "Búlgarska, Kínverska, Króatíska, Tékkneska, Hollenska, Enska, Finnska, Franska, Þýska, Gríska, Ungverska, Ítalska, Japanska, Kóreska, Norska, Pólska, Portúgalska, Portúgalska (Brazilía), Rómenska, Rússnensku, Slóvakíska, Slóvenska, Spænska, Sænska, Taílenska, Tyrkíska, Úkraínska, Víetnamska, …",
+                "title": "Nitrox talar líka þitt tungumál."
+            },
+            "play": {
+                "headline": "Spila"
+            },
+            "gameplay": {
+                "title": "Þinn spilun",
+                "headline": "Spilun"
+            },
+            "chat": {
+                "headline": "Samskipti"
+            },
+            "multiplayer": {
+                "headline": "Modið",
+                "title": "Nitrox fjölspilun",
+                "description": "Loksins geturu byrjað að spila Subnautica saman með vinum þínum. Tengstu eða búðu til þinn eigin netþjón."
+            },
+            "stores": {
+                "tooltip": "Ekki í boði eins og er"
+            },
+            "code": {
+                "title": "Opinn hugbúnaður"
+            },
+            "community": {
+                "title": "leikmannagrunnur",
+                "downloads": "Niðurhal",
+                "discord": "Discord meðlimir",
+                "headline": "Samfélag",
+                "description": "Vertu partu af stóru, stækkandi Nitrox samfélaginu. Findu nýja netjón, fáðu hjálp og talaðu við aðra Nitrox spilara."
+            },
+            "launcher": {
+                "headline": "Reynsla"
+            }
+        },
+        "meta": {
+            "title": "Nitrox fyrir Subnautica · Subnautica Fjölspilunar Mod",
+            "description": "Nitrox er ókeypis mod fyrir leikinn Subnautica þróaður af samfélaginu."
+        },
+        "hero_cta": "Sækja ókeypis",
+        "nextsteps": {
+            "get": {
+                "latest_version": "Nýjasta útgáfa:",
+                "title": "Náðu í modið",
+                "description": "Niðurhalaðu Nitrox modið fyrir frítt og byrjaðu að spila fjölspilun!",
+                "download": "Niðurhal"
+            },
+            "wiki": {
+                "title": "Að byrja",
+                "description": "Lestu setja upp leiðarvísirinn og FAQ síðuna"
+            }
+        }
+    },
+    "download_start": {
+        "meta": {
+            "title": "Niðurhal byrjað... · Subnautica Fjölspilunar Mod"
+        }
+    }
+}

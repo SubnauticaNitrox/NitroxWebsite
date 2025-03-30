@@ -12,7 +12,7 @@
             },
             "stores": {
                 "headline": "Tällä hetkellä tuetut pelikaupat",
-                "title": "Kauppojenvälinen",
+                "title": "Monialustainen",
                 "tooltip": "Ei saatavilla juuri nyt",
                 "description": "Yhteensopiva suosikkikauppojesi kanssa. Kauppojen välinen yhteensopivuus mahdollistaa saumattoman moninpelikokemuksen."
             },
@@ -47,13 +47,13 @@
             "upnp": {
                 "headline": "UPnP-tuki",
                 "title": "Automaattinen porttiohjaus",
-                "description": "Nitrox automaattisesti avaa tarvittavat portit, joka mahdollistaa yhdistämisen ystäviisi ilman VPN-ohjelmistoja."
+                "description": "Nitrox automaattisesti avaa tarvittavat portit, joka mahdollistaa yhdistämisen ystäviisi ilman kolmannen osapuolen VPN-ohjelmistoja."
             },
             "lang": {
                 "headline": "Yhteisön lisäämät kielet",
                 "title": "Nitrox puhuu myös kieltäsi.",
                 "link": "Osallistu ja lisää kielesi",
-                "languages": "bulgariaksi, englanniksi, espanjaksi, hollanniksi, italiaksi, japaniksi, kiinaksi, koreaksi, kreikaksi, kroatiaksi, portugaliksi, puolaksi, ranskaksi, romaniaksi, ruotsiksi, saksaksi, slovakiaksi, sloveniaksi, thaiksi, tšekiksi, turkiksi, ukrainaksi, unkariksi, venäjäksi, …"
+                "languages": "bulgaria, kiina, kroatia, tšekki, hollanti, englanti, suomi, ranska, saksa, kreikka, unkari, italia, japani, korea, norja, puola, portugali, portugali (Brasilia), romania, venäjä, slovakki, sloveeni, espanja, ruotsi , thaimaa, turkki, ukraina, vietnami,…"
             },
             "host": {
                 "headline": "Isännöi",
@@ -65,10 +65,10 @@
                 "description": "Satunnaistettu pelastuskapseli, satunnainen tai tallennettu maailman siemen luonnonvaroihin ja eläimistöön, Uusi Tallennus -järjestelmä, Kasvit ja Viljely… ja paljon muuta."
             },
             "server": {
-                "headline": "Julkinen Palvelin",
+                "headline": "Julkinen palvelin",
                 "description": "Löydä pysyviä palvelimia millä pelata Nitroxin Discord-palvelimella.",
                 "number": "24/7",
-                "subtitle": "Palvelimia"
+                "subtitle": "Palvelimet"
             }
         },
         "meta": {
@@ -95,11 +95,11 @@
             "description": "Lataa Nitrox: ilmainen yhteisön tekemä moninpelimodi Subnauticalle."
         },
         "header": {
-            "alpha": "AIKAINEN ALPHA",
+            "alpha": "AIKAINEN ALFA",
             "title": "Lataa Nitrox",
             "download": "Aloita lataus",
             "subtitle": "Seikkailusi odottaa. Lataa Nitrox-moninpelimodi ilmaiseksi ja aloita Subnautican pelaaminen moninpelinä!",
-            "version": "Alpha",
+            "version": "Alfa",
             "stores": "Tuetut kaupat"
         },
         "changelog": "Muutosloki",
@@ -140,7 +140,9 @@
         "reddit": "Liity Nitroxin subredditille pysyäksesi perillä uusista julkaisuista ja julkaise itse yhteisösisältöä.",
         "reddit_join": "Liity Subredditille Redditissä",
         "github_link": "Osallistu GitHub:issa",
-        "github": "Haluatko olla osana tiimiä? Osallistu, koodista käännöksiin Nitrox-projektiin GitHub:issa."
+        "github": "Haluatko olla osana tiimiä? Osallistu, koodista käännöksiin Nitrox-projektiin GitHub:issa.",
+        "bluesky_follow": "Seuraa Blueskyssa",
+        "bluesky": "Seuraa Nitrox Bluesky-käyttäjää, niin voit olla aina ajan tasalla viimeisistä kehityksistä, tilaisuuksista ja julkaisuista."
     },
     "about": {
         "meta": {
@@ -151,7 +153,7 @@
         "quote": "Lainaus",
         "why": "Miksi Nitrox?",
         "discord_join": "Liity Discordiimme",
-        "multiplayer": "Moninpeli. <span class=\"opacity-5\">Pelaa Subnauticaa, miten sen oli tarkoitus olla: moninpelissä</span>",
+        "multiplayer": "Moninpeli. <span class=\"opacity-5\">Pelaa Subnauticaa moninpelissä, niin kuin se oli tarkoitus pelata.</span>",
         "opensource": "Avoin lähdekoodi. <span class=\"opacity-5\">Säännöllistä tukea ja päivityksiä anteliailta osallistujilta.</span>",
         "servers": "Yhteisö. <span class=\"opacity-5\">Löydä uusia palvelimia, saa apua ja keskustele toisten Nitrox-pelaajien kanssa.</span>",
         "metrics": "Meidän tilastot",
@@ -160,11 +162,11 @@
         "user_count": "500,250+",
         "users": "Käyttäjää",
         "discord_members": "27,000+",
-        "discord": "Discord-jäsentä",
+        "discord": "Discord-Jäseniä",
         "featured": "Näytetty myös",
-        "download_title": "AIKAINEN ALPHA",
+        "download_title": "AIKAINEN ALFA",
         "download_header": "Valmiina? Hanki modi!",
-        "download_description": "Seikkailusi odottaa. Lataa Nitrox-moninpelimodi ilmaiseksi ja aloita Subnautican pelaaminen moninpelinä!",
+        "download_description": "Seikkailusi odottaa. Lataa Nitrox-modi ilmaiseksi ja aloita Subnautican pelaaminen moninpelinä!",
         "download": "Lataa",
         "version": "Uusin versio:"
     },
@@ -212,11 +214,11 @@
             "play": "Pelaa",
             "play_info": "Isännöi tai löydä pysyviä palvelimia Nitrox-yhteisössä.",
             "play_subtitle": "Palvelimet",
-            "play_footnote": "Julkiset palvelimet eivät ole Nitroxin isännöimiä, eikä 100-prosenttista käyttöaikaa ole varmistettu. Kolmannen osapuolen palvelimia ei moderoi Nitrox-tiimi."
+            "play_footnote": "Julkiset palvelimet eivät ole Nitroxin isännöimiä, eikä 100% käyttöaikaa ole varmistettu. Kolmannen osapuolen palvelimia ei moderoi Nitrox-tiimi."
         },
         "features_included": "Mitä sisältyy?",
         "feature_list": "<p class=\"lead\">Nitrox-palvelin sisältää kaiken mitä tarvitset käynnistää, isännöidä ja pelata Subnauticaa moninpeli-tilassa.</p>\n<ul class=\"lead\">\n<li>Palvelinkonsoli</li>\n<li>Sisäänrakennettu viestintäjärjestelmä</li>\n<li>Muokattava palvelimen portti</li>\n<li>Maksimina 100 yhdistettyä pelaajaa samanaikaisesti</li>\n<li>Automaattinen tallennus</li>\n<li>Muokattavat pelimuodon asetukset</li>\n<li>Julkinen palvelimen tila</li>\n<li>Yksityinen salasanasuojattu palvelin</li>\n</ul>",
-        "features": "Nitrox-palvelimet <span class=\"opacity-5\">ovat tehokkaita, mutta helppoja isännöidä. Optimoitu koodi on kirjoitettu Subnauticaa varten. Se toimii kevyesti ja vaatii juuri lainkaan resursseja parasta pelikokemusta varten.</span>"
+        "features": "Nitrox-palvelimet <span class=\"opacity-5\">ovat tehokkaita, mutta helppoja isännöidä. Optimoitu koodi on kirjoitettu Subnauticaa varten. Se toimii kevyesti ja ei vaadi juuri lainkaan resursseja parasta pelikokemusta varten.</span>"
     },
     "launcher": {
         "meta": {
@@ -268,12 +270,15 @@
             "discord_join": "Klikkaa liittyäksesi Discordiin",
             "twitter": "Seuraa Twitterissä",
             "twitter_description": "Seuraa Twitterissä, että olet aina ajan tasalla tietojen, oivallusten ja paljon muun kanssa.",
-            "twitter_join": "Klikkaa käydäksesi @modnitrox"
+            "twitter_join": "Klikkaa käydäksesi @modnitrox",
+            "bluesky": "Seuraa Blueskyssa",
+            "bluesky_description": "Seuraa meitä Blueskyssä, niin voit olla aina ajan tasalla uusimpien tietojen ja infon avulla.",
+            "bluesky_join": "Klikkaa vierailleksasi @nitroxmod"
         },
         "featured": "Näytetty myös",
         "footnote_1": "Microsoft Store vaatii lisäaskelia. Vaiheet ja tuki löytyvät Nitroxin Discordista.",
         "footnote_2": "Maksimissaan 100 pelaajaa palvelimella, suositeltu pelaajamäärä 5.",
-        "footnote_3": "Julkiset palvelimet eivät ole Nitroxin isännöimiä, eikä 100-prosenttista käyttöaikaa ole varmistettu. Kolmannen osapuolen palvelimia ei moderoi Nitrox-tiimi."
+        "footnote_3": "Julkiset palvelimet eivät ole Nitroxin isännöimiä, eikä 100% käyttöaikaa ole varmistettu. Kolmannen osapuolen palvelimia ei moderoi Nitrox-tiimi."
     },
     "footer": {
         "getstarted": "Aloitetaan",
@@ -310,7 +315,7 @@
     },
     "wiki": {
         "meta": {
-            "title": "Ohjeet &amp; Wiki  · Subnautica moninpelimodi",
+            "title": "Oppaat ja Wiki · Subnautica moninpeli-Mod",
             "description": "Nitrox on yhteisön kehittämä, ilmainen moninpelimodi Subnautica-peliin."
         },
         "title": "Tervetuloa Nitroxin tukeen",
@@ -357,7 +362,7 @@
             },
             "donate": {
                 "question": "Miten voin lahjoittaa?",
-                "answer": "Emme hyväksy lahjoituksia modille.  Ne, jotka haluavat antaa rahaa, voivat tehä niin täällä: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+                "answer": "Emme hyväksy lahjoituksia Modille. Ne, jotka haluavat antaa rahaa, voivat tehä niin täällä: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
             },
             "contribute": {
                 "answer": "Lähetä pull request <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">GitHubissa</a>. Liity myös meidän <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">Discord-palvelimelle</a> jotta voit keskustella, antaa palautetta tai ideoita muiden pelaajien, kehittäjien ja osallistujien kanssa.",

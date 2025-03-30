@@ -2,21 +2,21 @@
     "home": {
         "meta": {
             "title": "Nitrox pro Subnauticu-Vícehráčový mód pro Subnauticu",
-            "description": "Nitrox je bezplatný vícehráčový mód pro hru Subnautica vytvořen komunitou."
+            "description": "Nitrox je bezplatný mod pro více hráčů pro hru Subnauticu vytvořen komunitou."
         },
-        "hero_cta": "Stáhnout bezplatně",
-        "explore": "Zažij Subnauticu <span class=\"opacity-5\">jako úplně novou hru. Seskup se. Prozkoumej nové hlubiny. Postav velkolepé stavby.</span>",
+        "hero_cta": "Stáhnout zdarma",
+        "explore": "Zažij Subnauticu <span class=\"opacity-5\">jako úplně novou hru. Spojte se. Prozkoumej nové hlubiny. Postav velkolepé stavby.</span>",
         "feature": {
             "multiplayer": {
-                "headline": "Mód",
-                "title": "Nitrox multiplayer",
-                "description": "Konečně začni hrát Subnauticu spolu se svými přáteli. Připoj se nebo vytvoř svůj vlastní server."
+                "headline": "Mod",
+                "title": "Nitrox režim pro více hráčů",
+                "description": "Konečně začni hrát Subnauticu se svými přáteli. Připoj se nebo vytvoř svůj vlastní server."
             },
             "stores": {
-                "headline": "Aktuálně podporované verze",
+                "headline": "Podporované verse",
                 "description": "Kompatibilní s oblíbenými obchody. Nativní podpora cross-play zabudovaná do modu umožňuje bezbariérový multiplayer.",
                 "tooltip": "Momentálně nedostupné",
-                "title": "Cross platform"
+                "title": "Cross-platform"
             },
             "code": {
                 "description": "Běžná podpora a aktualizace od štědrých přispěvatelů. Přispějte a udělejte mod lepším.",
@@ -54,7 +54,7 @@
             "host": {
                 "subtitle": "Max. sloty",
                 "headline": "Hostitel",
-                "description": "Snadno uspořádejte akci pro velké hráče s podporou až 100 hráčů."
+                "description": "Snadno uspořádejte akci pro skupinu hráčů s podporou až 100 hráčů."
             },
             "play": {
                 "headline": "Hrát",
@@ -69,12 +69,12 @@
             "lang": {
                 "headline": "Jazyky přidané komunitou",
                 "title": "Nitrox také mluví vaším jazykem.",
-                "languages": "čínština, chorvatština, holandština, angličtina, francouzština, němčina, řečtina, italština, japonština, korejština, polština, portugalština, rumunština, ruština, španělština, švédština, turečtina, ukrajinština, …",
+                "languages": "Bulharština, Čínština, Chorvatština, Čeština, Holandština, Angličtina, Francouzština, Němčina, Řečtina, Maďarština, Italština, Japonština, Korejština, Polština, Portugalština, Rumunština, Ruština, Slovenština, Slovinština, Španělština, Švédština, Thajština, Turečtina, Ukrajinština, Vietnamština, …",
                 "link": "Přispívání a přidávání jazyka"
             }
         },
         "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
-        "hero_slogan": "<span>Tvůj</span> <span>multiplayer</span> <span>Mod</span> <span>pro</span> <span>Subnauticu.</span>",
+        "hero_slogan": "<span>Tvůj</span> <span>multiplayer</span> <span>Mod</span> <span>for</span> <span>Subnautica.</span>",
         "nextsteps": {
             "get": {
                 "title": "Získat mód",
@@ -137,10 +137,12 @@
         "discord_join": "Připojte se na Discordu",
         "twitter": "Sledujte účet Nitrox na Twitteru, abyste byli vždy informováni o nejnovějším vývoji, událostech a vydáních.",
         "twitter_follow": "Sledujte na Twitteru",
-        "reddit_join": "Verze",
+        "reddit_join": "Připoj se pod Subreddit na Redditu",
         "github": "Chcete být součástí týmu? Přispívejte z kódu do překladů do projektu Nitrox na GitHubu.",
         "github_link": "Přispívání na GitHubu",
-        "reddit": "Připojte se k Nitrox Subreddit, abyste byli informováni o nejnovějších verzích a zveřejňovali obsah komunity."
+        "reddit": "Připojte se k Nitrox Subreddit, abyste byli informováni o nejnovějších verzích a zveřejňovali obsah komunity.",
+        "bluesky": "Sledujte účet Nitrox Bluesky, abyste byli vždy informováni o nejnovějším vývoji, událostech a vydáních.",
+        "bluesky_follow": "Sleduj na Bluesky"
     },
     "about": {
         "meta": {
@@ -166,7 +168,7 @@
         "version": "Nejnovější verze:",
         "download_header": "Připravený? Získejte mod!",
         "opensource": "Otevřený zdrojový kód. <span class=\"opacity-5\">Pravidelná podpora a aktualizace od štědrých přispěvatelů.</span>",
-        "download_description": "Vaše dobrodružství čeká. Stáhněte si Nitrox Mod zdarma a začněte hrát subnautica multiplayer!"
+        "download_description": "Vaše dobrodružství čeká. Stáhněte si Nitrox Mod zdarma a začněte hrát Subnautica multiplayer!"
     },
     "os": {
         "meta": {
@@ -243,7 +245,7 @@
         },
         "title": "Nitrox je postaven vášnivým týmem přispěvatelů open source.",
         "join": "Chcete se připojit k týmu?",
-        "join_description": "I vy můžete být přispěvatelem tohoto módu. Můžete vyvíjet pro Nitrox nebo se připojit k týmu podpory! Jednoduše se přihlaste na discord server nebo subreddit stránku"
+        "join_description": "I vy můžete být přispěvatelem tohoto módu. Můžete vyvíjet pro Nitrox nebo se připojit k týmu podpory! Jednoduše se přihlaste na discord server nebo subreddit stránku."
     },
     "changelog": {
         "meta": {
@@ -266,7 +268,10 @@
             "twitter": "Sledujte na Twitteru",
             "twitter_description": "Sledujte na Twitteru, abyste byli vždy ve smyčce s aktuálními informacemi, postřehy a mnohem více na oficiálním Twitteru Nitrox.",
             "twitter_join": "Klikněte pro návštěvu @modnitrox",
-            "discord_description": "Chatujte s více než 27k členy o hře Subnautica Multiplayer, najděte další hráče, které můžete hrát společně, a získejte podporu."
+            "discord_description": "Chatujte s více než 27k členy o hře Subnautica Multiplayer, najděte další hráče, které můžete hrát společně, a získejte podporu.",
+            "bluesky": "Sleduj na Bluesky",
+            "bluesky_join": "Klikni pro návštěvu @nitroxmod",
+            "bluesky_description": "Sledujte Bluesky a budete vždy v obraze s aktuálními informacemi, postřehy a dalšími informacemi z oficiálního účtu Nitrox Bluesky."
         },
         "featured": "Nejlepší na",
         "footnote_1": "Windows Store vyžaduje další nastavení. Kroky a podporu nastavení naleznete v Nitrox Discord.",
@@ -302,7 +307,7 @@
         "read_more": "Přečtěte si více",
         "home": "Domov",
         "community": "Komunita",
-        "motd": "Nejnovější příspěvek na blogu pro vývojáře."
+        "motd": "Nejnovější příspěvek od vývojářů."
     },
     "wiki": {
         "meta": {
