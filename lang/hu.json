@@ -8,10 +8,10 @@
             },
             "community": {
                 "headline": "Közösség",
-                "downloads": "Letöltések",
+                "downloads": "Letöltés",
                 "title": "Játékosbázis",
                 "description": "Legyen része a nagy, növekvő Nitrox közösségnek. Találj új szervereket, kérj segítséget és beszélgess más Nitrox játékosokkal.",
-                "discord": "Discord tagok"
+                "discord": "Discord tag"
             },
             "upnp": {
                 "title": "Automatikus porttovábbítás",
@@ -123,7 +123,7 @@
         "file_size": "Fájl méret",
         "next_steps": "Következő lépések",
         "install_vid": "Videó telepítése",
-        "download_infos": "Letöltés információk",
+        "download_infos": "Információ letöltése",
         "md5": "MD5 Hash"
     },
     "community": {
@@ -131,8 +131,8 @@
         "twitter_follow": "Kövess Twitteren",
         "reddit_join": "Verzió",
         "meta": {
-            "title": "Nitrox Közöséég · Subnatuica Többjátékos Mód",
-            "description": "Legyél egy része a nagy, növekvő Nitrox közösségnek. Keress új szervereket, kérj segítséget és beszélj más Nitrox játékosokkal."
+            "title": "Nitrox Közösség · Subnautica Többjátékos Mód",
+            "description": "Legyél része, a nagy és fejlődő Nitrox közösségben. Keress új szervereket, kapj segítséget  és beszélsz más Nitrox játékosokkal."
         },
         "title": "Nitrox közösség",
         "subtitle": "Csatlakozz a nagy Nitrox közösséghez, amely a világ összes részéről érkezhetnek.",
@@ -140,7 +140,9 @@
         "github_link": "Hózzájárulás GitHub-on",
         "github": "Egy tag szeretnél lenni a csapatban? Járuljon hozzá fórdításokkal a Nitrox projekthez a GitHubon.",
         "twitter": "Kövesd be a Nitrox Twitter oldalát, hogy sose maradj le a hírekről a Nitrox-al kapcsolatban.",
-        "reddit": "Csatlakozz a Nitrox Subreddit-re, hogy informált maradt a legújabb verziókról, és oda tudsz posztolni is."
+        "reddit": "Csatlakozz a Nitrox Subreddit-re, hogy informált maradt a legújabb verziókról, és oda tudsz posztolni is.",
+        "bluesky": "Kövesd a Nitrox Bluesky fiókját, hogy mindig értesülj a legújabb fejlesztésekről, eseményekről és kiadásokról.",
+        "bluesky_follow": "Kövessen a Bluesky-on"
     },
     "about": {
         "discord_join": "Csatlakozz Discordon",
@@ -180,7 +182,10 @@
         "license": "GNU General Public License v3.0",
         "license_link": "Tudj meg többet",
         "dev_resources_code": "Kód wiki",
-        "dev_resources_contribute": "Hozzájárulás"
+        "dev_resources_contribute": "Hozzájárulás",
+        "join": "A csapat része szeretnél lenni?",
+        "dev_resources_info": "Olvassa el a GitHubon a kezdeti lépéseket és a kódhoz való hozzájárulásról szóló útmutatónkat.",
+        "join_info": "Íme, hogyan járulhatsz hozzá."
     },
     "navigation": {
         "read_more": "Olvasd tovább",
@@ -188,7 +193,8 @@
         "blog": "Blog",
         "community": "Közösség",
         "about": "Rólunk",
-        "guides": "Útmutatók"
+        "guides": "Útmutatók",
+        "motd": "Legutóbbi fejlesztői bejegyzés"
     },
     "lang-select": {
         "title": "Nyelv",
@@ -206,11 +212,39 @@
             "server": "A szerver futtatása",
             "server_more": "A mod telepítése után belekezdhettek a közös játékba egy Nitrox szerver futtatásával és üzemeltetésével.",
             "join": "Csatlakozás egy szerverhez",
-            "install": "Nitrox telepítése"
+            "install": "Nitrox telepítése",
+            "join_more": "Másik szerverre akarsz csatlakozni? Tanulj meg hozzáadni és csatlakozni más Nitrox szerverekre és játsz Subnautica többjátékos módjával."
         },
         "search_run": "Futtass és hosztolj egy Nitrox Szervert",
         "readmore": "Olvasd tovább",
-        "search_join": "Csatlakozz egy Nitrox Szerverre"
+        "search_join": "Csatlakozz egy Nitrox Szerverre",
+        "quick_links": "Gyors hivatkozások",
+        "faq": {
+            "bz": {
+                "question": "A Nitrox kompatibilis a Subnautica: Below Zero-val?"
+            },
+            "donate": {
+                "question": "Hogyan tudok támogatni?"
+            },
+            "contribute": {
+                "question": "Hogyan tudok hozzájárulni?"
+            },
+            "why": {
+                "question": "Miért az a neve hogy \"Nitrox\"?"
+            },
+            "help": {
+                "question": "Hogyan kaphatok segítséget?"
+            },
+            "install_nitrox": {
+                "question": "Hogyan telepítem a Nitrox-ot?"
+            },
+            "title": "Gyakran ismételt kérdések"
+        },
+        "wizard_link": "Nitrox Varázsló indítása",
+        "support": "Segítség kérése",
+        "support_discord": "Csatlakozz a Nitrox Discord szerveréhez",
+        "wizard_more": "Az új interaktív Nitrox Varázsló végigsegít lépésről lépésre a telepítési és a fejlesztési folyamat során. Egyszerűen válaszolj minden kérdésre és kapjál azonnal választ. Próbáld ki ma!",
+        "wizard": "Telepítsd és Fejleszd a Varázslót"
     },
     "footer-extended": {
         "footnote_2": "Maximum 100 szerver játékos, ajánlott játékosok száma 5.",
@@ -218,12 +252,17 @@
             "discord_description": "Csevegj több mint 27 ezer emberrel a Subnautica Többjátékos modjáról, találj játszótársakat, és kérj segítséget.",
             "twitter": "Kövess minket Twitteren",
             "discord": "Nitrox Discord szerver",
-            "twitter_description": "Kövesd a Nitrox hivatalos Twitter oldalát a naprakész információkért, betekintésekért és további tartalmakért."
+            "twitter_description": "Kövesd a Nitrox hivatalos Twitter oldalát a naprakész információkért, betekintésekért és további tartalmakért.",
+            "bluesky_join": "Kattints a @nitroxmod megtekintéséhez",
+            "bluesky_description": "Kövesse a Bluesky-t, hogy mindig naprakész információkkal, betekintésekkel és még sok mással rendelkezzen a hivatalos Nitrox Bluesky fiókból.",
+            "discord_join": "Kattints a Discord szerverhez való csatlakozáshoz",
+            "twitter_join": "Kattints a @modnitrox megtekintéséhez",
+            "bluesky": "Kövessen Bluesky-on"
         },
         "community_description": "Csatlakozz &amp; csevegj más Nitrox játékosokkal",
         "footnote_1": "A Windows store további beállításokat igényel. A beállításhoz szükséges lépések és segítségnyújtás elérhető a Nitrox Discord szerverén.",
         "downloads": "Letöltés",
-        "nexus": "Nexus megtekintés",
+        "nexus": "Nexus látogató",
         "community_title": "Közösség",
         "users": "Egyedi felhasználó",
         "discord": "Discord tag",
@@ -239,8 +278,9 @@
             "contribute": "Hozzájárulás",
             "download": "Nitrox letöltése",
             "server_join": "Csatlakozás egy szerverhez",
-            "server_setup": "Szerver beállítása",
-            "team": "Csapat"
+            "server_setup": "Szerver Beállítás",
+            "team": "Csapat",
+            "resources": "Erőforrások"
         },
         "getstarted": "Kezdj bele",
         "learnmore": "Tudj meg többet",
@@ -249,11 +289,22 @@
     },
     "changelog": {
         "download": "Letöltés",
-        "latest_version": "Legutóbbi verzió:"
+        "latest_version": "Legutóbbi verzió:",
+        "meta": {
+            "title": "Változásnapló - Subnautica Többjátékos Mod",
+            "description": "Tekintse meg a legfrissebb változtatási naplót és a Nitrox Mod kiadások verziótörténetét."
+        },
+        "title": "Változásinapló",
+        "subtitle": "Tekintse meg a legfrissebb változtatási naplót és a Nitrox Mod kiadások verziótörténetét."
     },
     "team": {
         "join_description": "Te is hozzájárulhatsz a mod fejlesztéséhez. Csatlakozhatsz a Nitrox fejlesztői csapatához, vagy ügyfélszolgálatához! Add le jelentkezésed a discord szerveren, vagy subredditen.",
-        "join": "Szeretnél a csapat tagja lenni?"
+        "join": "Szeretnél a csapat tagja lenni?",
+        "meta": {
+            "title": "Team Nitrox - A Subnautica Többjátékos mód modja",
+            "description": "Köszöntsd a nyílt forráskódú Nitrox projekt nagylelkű támogatóit"
+        },
+        "title": "A Nitroxot nyílt forráskódú közreműködők szenvedélyes csapata készíti."
     },
     "server": {
         "feature_list": "<p class=\"lead\">A Nitrox szerver mindent tartalmaz ahhoz, hogy elkezdd, üzemeltesd és játszd a Subnauticát többjátékos módban.</p>\n<ul class=\"lead\">\n<li>Szerver konzol</li>\n<li>Beépített csevegés rendszer</li>\n<li>Konfigurálható szerver port</li>\n<li>Maxmum 100 csatlakozott játékos</li>\n<li>Automatikus mentés</li>\n<li>Konfigurálható játékmód beállítások</li>\n<li>Nyilvános szerver mód</li>\n<li>Privát jelszóvédett szerver</li>\n</ul>",
@@ -267,20 +318,43 @@
             "play_subtitle": "Szerverek",
             "play_footnote": "A nyilvános szervereket nem a Nitrox üzemelteti, a 100%-os üzemidő nem biztosított. Harmadik féltől származó szervereket nem a Nitrox csapata moderálja.",
             "play_info": "Üzemelj, vagy találj állandó szervereket a Nitrox közösségében.",
-            "connect_subtitle": "Technológia"
+            "connect_subtitle": "Technológia",
+            "host_info": "Könnyedén rendezhet nagy létszámú eseményeket, akár 100 játékos támogatásával.",
+            "host": "Host"
         },
-        "features_included": "Miket tartalmaz?"
+        "features_included": "Miket tartalmaz?",
+        "meta": {
+            "description": "A Nitrox nagy teljesítményű többjátékos szerverrel rendelkezik, miközben rendkívül könnyű és erőforrás-hatékony.",
+            "title": "Nitrox Szerver · Funkciók"
+        },
+        "features": "Nitrox servers <span class=\"„opacity-5”\">are powerful, yet easy to host. With optimized code written for Subnautica. It runs extremely lightweight and requires hardly any resources, for the best game performance.</span>"
     },
     "resources": {
         "images": "Képek",
         "images_info": "Nitrox Többjátékos képernyőképek. <span class=\"opacity-5\">Használd ezeket a Subnautica többjátékos élményének megosztásához.<br>Szeretnéd hozzáadni a sajátod? Oszd meg őket a Discord szerveren, vagy tweeteld nekünk.</span>",
-        "fonts": "Betűtípusok"
+        "fonts": "Betűtípusok",
+        "meta": {
+            "description": "Töltse le a hivatalos Nitrox Mod forrásokat, beleértve a logót, betűtípusokat, képeket és egyebeket.",
+            "title": "Hivatalos Nitrox Források - Logó, tipográfia, képek"
+        },
+        "title": "Nitrox <span class=\"opacity-5\">Erőforrások</span>"
     },
     "launcher": {
         "server": "Szerver",
         "server_more": "Tudj meg többet",
         "coming_soon": "Hamarosan...",
         "launcher": "Nitrox Launcher.",
-        "settings": "Okos beállítások"
+        "settings": "Okos beállítások",
+        "hero": "Minden az egyben<br>többjátékos.",
+        "preview": "Az új Nitrox Launcher előnézete. <span class=\"„opacity-5”\">A többjátékos élmény belépője. Carefully úgy tervezték, hogy könnyen használható legyen. Hamarosan megjelenik.</span>",
+        "hub_info": "Az újratervezett indítóprogrammal könnyedén naprakész maradhat minden, a Nitroxhoz kapcsolódó dologgal kapcsolatban. Elsőként kapja meg a legújabb verziókat, részletes információkat a szerverélmény fokozásához, valamint egy közösségi lapot, amely hozzáférést biztosít a 24/7 közösségi szerverekhez.",
+        "settings_info": "Több példányt is vásároltál a Subnauticából? Nem probléma. A Nitrox Launcher képes automatikusan felismerni az összes Subnautica játék telepítését, így gyorsan választhatsz a különböző bolti verziók között. Egyszerűsíti a telepítést, és megszünteti az útvonal manuális megadásának szükségességét.",
+        "server_info": "A Nitrox Server integrálva van az indítóprogramba. Ez lehetővé teszi a saját multiplayer példány gyors beállítását. Az UPNP-nek köszönhetően a Nitrox automatikusan gondoskodik a porttovábbításról. A szerver könnyű és könnyen futtatható anélkül, hogy sok rendszererőforrást használna.",
+        "meta": {
+            "title": "Nitrox Launcher · Jellemzők",
+            "description": "A Nitrox Launcher a belépő a többjátékos Subnautica-élménybe."
+        },
+        "redesigned": "Az alapoktól kezdve újratervezve. <span class=\"„opacity-5”\">Középpontjában a hasznos információk nyújtása áll. A többjátékos módhoz való gyors hozzáférés. Részletes diagnosztika. Mindent, amire egy szerver üzemeltetéséhez szüksége van.</span>",
+        "hub": "A központod minden Nitroxhoz."
     }
 }

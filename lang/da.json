@@ -1,8 +1,163 @@
 {
     "home": {
         "meta": {
-            "title": "Nitrox til Subnautica • Subnautica Samarbejds modifikation",
-            "description": "Nitrox er et gratis flerspillers applikation til spillet Subnautica udviklet af fællesskabet."
-        }
+            "title": "Nitrox for Subnautica · Subnautica Multiplayer Mod",
+            "description": "Nitrox er et gratis multiplayer mod for spillet Subnautica udviklet af fælleskabet"
+        },
+        "feature": {
+            "gameplay": {
+                "description": "Spil Subnautica, alt fra en overlevelses gennemgang med dine venner til en kreativ bygge session.",
+                "headline": "Gameplay",
+                "title": "Dit gameplay"
+            },
+            "multiplayer": {
+                "headline": "Modifikationen",
+                "description": "Begynd endelig at spille Subnautica med venner. Join eller lav din helt egne server",
+                "title": "Nitrox flerspiller"
+            },
+            "server": {
+                "description": "Find permanente servere at spille på i Nitrox Discorden.",
+                "headline": "offentlig server",
+                "subtitle": "Servere",
+                "number": "24/7"
+            },
+            "community": {
+                "discord": "Discord medlemmer",
+                "headline": "Fælleskab",
+                "title": "Spiller base",
+                "description": "Vær del af det store, groende Nitrox fællesskab. Find servere, få hjælp og tal med andre Nitrox spillere.",
+                "downloads": "Downloads"
+            },
+            "code": {
+                "headline": "Kode base",
+                "title": "Åben source",
+                "description": "Regelmæssig support og opdateringer fra de fantastiske hjælpere i fælleskabet. Hjælp os og gør mod'et bedre."
+            },
+            "play": {
+                "headline": "Spil",
+                "description": "Randomiseret starter Escape Pod, Randomiseret &amp; Gemt Seeds for Ressourcer og Fauna, Nye Save-system, Planter &amp; Farming ... og meget mere."
+            },
+            "lang": {
+                "link": "Bidrag og tilføj dit sprog",
+                "headline": "Fællesskabs tilføjede sprog",
+                "title": "Nitrox taler også dit sprog.",
+                "languages": "Bulgarsk, kinesisk, kroatisk, tjekkisk, hollandsk, engelsk, finsk, fransk, tysk, græsk, ungarsk, italiensk, japansk, koreansk, norsk, polsk, portugisisk, portugisisk (Brasilien), rumænsk, russisk, slovakisk, slovensk, spansk, svensk , thai, tyrkisk, ukrainsk, vietnamesisk, …"
+            },
+            "stores": {
+                "tooltip": "Ikke tilgængelig",
+                "headline": "Pt understøttet Butikker",
+                "title": "på kryds af platforme",
+                "description": "Kompatibel med dine yndlings butikker. Indbygget support på tværs af platforme som giver en fejlfri multiplayer oplevelse."
+            },
+            "launcher": {
+                "headline": "Oplevelse",
+                "title": "Nitrox Launcher",
+                "description": "Brug Nitrox Launcher, som i øjeblikket er tilgængelig til Windows. Med en veldesignet brugergrænseflade for at gøre det endnu nemmere at spille sammen.",
+                "view": "Vis koncepter under arbejde"
+            },
+            "chat": {
+                "headline": "Kommunikation",
+                "title": "Send beskeder In-game",
+                "description": "Hold kontakten med det Nitrox cross-platform-kompatible, indbyggede spilbeskedsystem."
+            },
+            "upnp": {
+                "headline": "UPnP Support",
+                "title": "Automatisk port forwarding",
+                "description": "Nitrox åbner automatisk de nødvendige porte, hvilket gør det muligt at oprette forbindelse til dine venner med det samme uden behov for tredjeparts VPN-software."
+            },
+            "host": {
+                "headline": "Vært",
+                "description": "Vær nemt vært for et stort spillerevent med op til 100 spillere.",
+                "subtitle": "Maks. Slots"
+            }
+        },
+        "nextsteps": {
+            "get": {
+                "download": "Hent",
+                "description": "Hent Nitrox modifikationen gratis og start med at spille med andre!",
+                "latest_version": "Seneste version:",
+                "title": "Få mod'et"
+            },
+            "wiki": {
+                "title": "Kom i gang",
+                "description": "Læs installations guiden og FAQ siden",
+                "link": "Besøg Guider"
+            }
+        },
+        "hero_cta": "Hent gratis",
+        "hero_slogan": "<span>Dit</span> <span>multiplayer</span> <span>mod</span> <span>for</span> <span>Subnautica.</span>",
+        "explore": "Oplev Subnautica <span class=\"opacity-5\">som et helt nyt spil. Team up. Udforsk nye dybder. Byg seje baser.</span>",
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>"
+    },
+    "wiki": {
+        "faq": {
+            "contribute": {
+                "question": "Hvordan kan jeg bidrage?"
+            },
+            "title": "Ofte stillede spørgsmål",
+            "donate": {
+                "question": "Hvordan kan jeg donere?"
+            }
+        },
+        "readmore": "Læs mere"
+    },
+    "about": {
+        "why": "Hvorfor Nitrox?",
+        "discord": "Discord medlemmer",
+        "users": "Brugere",
+        "discord_join": "Bliv medlem på Discord"
+    },
+    "download_start": {
+        "file_size": "Fil størrelse",
+        "version": "Version",
+        "install_vid": "Installerings video",
+        "meta": {
+            "title": "Download startet… · Subnautica Multiplayer Mod",
+            "description": "Download Nitrox: et gratis multiplayer-mod til spillet Subnautica udviklet af fællesskabet."
+        },
+        "header": {
+            "helper_link": "genstart downloadet",
+            "started": "Download startet",
+            "helper": "Dit download burde starte automatisk indenfor <span id=\"countdowntimer\">2</span> sekunder. Hvis det ikke gør, "
+        },
+        "next_steps": "Næste trin",
+        "community_join": "Deltag i fælleskabet",
+        "guide": "Installations- og opgraderingsvejledning",
+        "guide_link": "Nitrox Install Wizard",
+        "download_infos": "Download information",
+        "md5": "MD5 Hash"
+    },
+    "download": {
+        "header": {
+            "version": "Alpha",
+            "title": "Hent Nitrox",
+            "alpha": "TIDLIG ALPHA",
+            "subtitle": "Dit eventyr starter her. Download Nitrox Mod gratis og begynd at spille Subnautica multiplayer!",
+            "download": "Start Download",
+            "stores": "Understøttede butiksversioner"
+        },
+        "changelog": "Ændringslog",
+        "meta": {
+            "title": "Hent Nitrox · Subnautica Multiplayer Mod",
+            "description": "Download Nitrox: et gratis multiplayer-mod til spillet Subnautica udviklet af fællesskabet."
+        },
+        "changelog_older": "Se ældre changelog indtastninger"
+    },
+    "community": {
+        "twitter_follow": "Følg på Twitter",
+        "github_link": "Bidrag på GitHub",
+        "meta": {
+            "title": "Nitrox Fælleskab · Subnautica Multiplayer Mod",
+            "description": "Bliv del af et stort og voksende fællesskab. Find nye servere, få hjælp og tal med andre Nitrox-spillere."
+        },
+        "title": "Nitrox fælleskab",
+        "subtitle": "Slut dig til det store Nitrox-fællesskab med spillere fra hele verden.",
+        "discord": "Tilmeld dig vores aktive Discord-server for at finde servere at spille på, få hjælp fra vores support team og meget mere.",
+        "discord_join": "Join på Discord",
+        "twitter": "Følg Nitrox på Twitter for altid at være opdateret på seneste udviklinger, begivenheder og udgivelser.",
+        "reddit": "Tilmeld dig Nitrox Subreddit for at holde dig orienteret om seneste udgivelser og fælleskabet.",
+        "bluesky_follow": "Følg på Bluesky",
+        "bluesky": "Følg Nitrox Bluesky-kontoen for altid at være opdateret på seneste udviklinger, begivenheder og udgivelser.",
+        "reddit_join": "Join Subreddit på Reddit"
     }
 }

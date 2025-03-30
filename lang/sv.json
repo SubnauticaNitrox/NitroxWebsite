@@ -4,7 +4,7 @@
         "feature": {
             "stores": {
                 "tooltip": "För närvarande inte tillgängligt",
-                "title": "Plattformsoberoende",
+                "title": "jag hatar invandare",
                 "description": "Kompatibel med dina favoritbutiker. Inbyggt plattformsoberoende-stöd inbyggt i modden som möjliggör sömlöst flerspelarläge.",
                 "headline": "Butiker som för närvarande stöds"
             },
@@ -28,7 +28,7 @@
             "gameplay": {
                 "headline": "Spelupplevelse",
                 "title": "Din spelupplevelse",
-                "description": "Spela Subnautica, från en överlevnadsgenomspelning med dina vänner till en kreativ byggsession."
+                "description": "Spela Subnautica, allt från en överlevnadsgenomspelning med dina vänner till en kreativ byggsession."
             },
             "host": {
                 "headline": "Värd",
@@ -48,7 +48,7 @@
                 "view": "Se koncept för pågående arbete"
             },
             "chat": {
-                "description": "Håll kontakten med Nitrox plattformsoberoende kompatibla inbyggda spelmeddelandesystem.",
+                "description": "Håll kontakten med Nitrox inbyggda, plattformskompatibla meddelandesystem i spelet.",
                 "title": "Meddelanden i spelet",
                 "headline": "Kommunikation"
             },
@@ -65,7 +65,7 @@
             "upnp": {
                 "headline": "UPnP stöd",
                 "title": "Automatisk portvidarebefordran",
-                "description": "Nitrox öppnar automatiskt de nödvändiga portarna vilket gör det möjligt att ansluta till dina vänner direkt utan behov av VPN-programvara från tredje part."
+                "description": "Nitrox öppnar automatiskt de nödvändiga portarna, vilket gör det möjligt att ansluta till dina vänner direkt utan behov av en tredjeparts VPN."
             }
         },
         "meta": {
@@ -94,7 +94,7 @@
             "title": "Ladda ned Nitrox",
             "download": "Starta Nedladdning",
             "stores": "Butik-versioner som stöds",
-            "alpha": "TIDIGT ALFA",
+            "alpha": "TIDIG ALFA",
             "version": "Alfa",
             "subtitle": "Ditt äventyr väntar. Ladda ned Nitrox modden helt gratis och börja spela Subnautica flerspelarläge!"
         },
@@ -102,8 +102,8 @@
         "changelog_older": "Visa äldre ändringsloggposter",
         "sidebar": "Nitrox Mod. <span class=\"opacity-5\">En öppen källkod, multiplayer-modifikation för spelet Subnautica.</span>",
         "meta": {
-            "description": "Ladda ner Nitrox: en gratis multiplayer-mod för spelet Subnautica som utvecklats av communityn.",
-            "title": "Ladda ner Nitrox · Subnautica Multiplayer (flerspelar) Mod"
+            "description": "Ladda ned Nitrox: ett gratis flerspelars-mod för spelet Subnautica utvecklat av gemenskapen.",
+            "title": "Ladda ned Nitrox · Subnautica Flerspelarsmod"
         }
     },
     "download_start": {

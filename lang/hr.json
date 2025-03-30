@@ -243,7 +243,7 @@
         },
         "title": "Nitrox izgrađuje tim doprinositelja otvorenog koda.",
         "join": "Želiš se pridružiti timu?",
-        "join_description": "I ti možeš doprinijeti ovom modu. Možeš razvijati za Nitrox ili se pridružiti timu za podršku! Jednostavno se prijavi na Discord poslužitelju ili subreddit stranici"
+        "join_description": "I ti možeš doprinijeti ovom modusu. Možeš razvijati za Nitrox ili se pridružiti timu za podršku! Jednostavno se prijavi na Discord poslužitelju ili Subreddit stranici."
     },
     "changelog": {
         "meta": {
@@ -313,7 +313,7 @@
         "search_placeholder": "Traži nešto …",
         "search_home": "Nitrox nadogradnja i instalacijski čarobnjak",
         "meta": {
-            "title": "Upute i Wiki · Subnautica Mod za više igrača",
+            "title": "Upute i Wiki – Subnautica modus za više igrača",
             "description": "Nitrox je besplatni mod za više igrača za igru Subnautica koju razvija zajednica."
         },
         "readmore": "Saznaj više",
@@ -337,7 +337,7 @@
                 "answer": "<p>Mod se nalazi u vrlo ranoj fazi razvoja; međutim, postavljen je čvrst temelj za zajednicu za daljnji razvoj. Sljedeće etape su dovršene:</p><ul class=\"disc\"><li>Komunikacija između klijenta/poslužitelja</li><li>Kretanje igrača</li><li>Sinkronizacija podizanja/ispuštanja objekata</li><li>Sinkronizacija svijeta dugog dometa</li><li>Izgradnja baze</li><li>Izgradnja namještaja</li><li>Većina interakcija namještaja (kontejneri/proizvođači medicinskih pribora/punjači/itd.)</li><li>Upravljanje energijom</li><li>Seamoth i Exosuit sinkronizacija</li><li>Osnovna sinkronizacija kiklopa</li><li>Rudimentarni sustav razgovora</li><li>Novi HUD za udaljene igrače</li><li>Osnovne animacije igrača</li><li>Integracija s&nbsp;<a href=\"https://github.com/pardeike/Harmony\" target=\"_blank\">Harmony</a></li></ul>"
             },
             "play": {
-                "answer": "Preuzmi instalacijski program iz odjeljka „Preuzimanje”. Napomena: još uvijek se nalazi u fazi razvoja i može sadržati greške.",
+                "answer": "Preuzmi instalacijski program iz odjeljka „Preuzimanje”. Napomena: program se još uvijek nalazi u fazi razvoja i može sadržati greške.",
                 "question": "Kako mogu igrati ovaj mod?"
             },
             "bz": {
@@ -354,7 +354,7 @@
             },
             "donate": {
                 "question": "Kako mogu donirati?",
-                "answer": "Ne prihvaćamo donacije modu. Oni koji žele dati novac mogu to učiniti ovdje: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+                "answer": "Ne prihvaćamo donacije modusu. Oni koji žele dati novac mogu to učiniti ovdje: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
             },
             "why": {
                 "question": "Zašto ime „Nitrox”?",
@@ -367,7 +367,7 @@
         "support_discord": "Pridruži se Nitrox Discordu",
         "title": "Dobrodošlica Nitrox podrške",
         "subtitle": "Pregledaj korisne upute i pročitaj prve korake kako početi koristiti Nitrox.",
-        "search_install": "Instaliraj Nitrox Mod Steam i Epic Games",
+        "search_install": "Instaliraj Nitrox modus za Steam i Epic igre",
         "search_run": "Pokreni i hostiraj Nitrox poslužitelj",
         "search_join": "Pridruži se jednom Nitrox poslužitelju",
         "wizard": "Čarobnjak za instaliranje i nadogradnju"

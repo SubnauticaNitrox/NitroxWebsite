@@ -2,7 +2,9 @@
     "home": {
         "feature": {
             "host": {
-                "headline": "Vert"
+                "headline": "Vert",
+                "subtitle": "Maks. Spilleplasser",
+                "description": "Arranger enkelt en stor spillarrangement med støtte for opptil 100 spillere."
             },
             "multiplayer": {
                 "headline": "Modifikasjonen",
@@ -18,25 +20,51 @@
             "gameplay": {
                 "headline": "Spilling",
                 "title": "Dine spillinger",
-                "description": "Spill Subnautica, fra en overlevelsesopplevelse med vennene dine til en kreativ bygge økt."
+                "description": "Spill Subnautica, fra en overlevelsesopplevelse med vennene dine til en byggeøkt i kreativ-modus."
             },
             "community": {
                 "discord": "Discord medlemmer",
                 "downloads": "Nedlastninger",
-                "headline": "Samfunn"
+                "headline": "Samfunn",
+                "title": "Spill samfunn",
+                "description": "Bli en del av det store, voksende Nitrox-samfunnet. Finn nye servere, få hjelp og snakk med andre Nitrox-spillere."
             },
             "lang": {
-                "link": "Bidra og legg til språket ditt"
+                "link": "Bidra og legg til språket ditt",
+                "headline": "Språk som er lagt til i fellesskapet",
+                "languages": "Bulgarsk, kinesisk, kroatisk, tsjekkisk, nederlandsk, engelsk, fransk, tysk, gresk, ungarsk, italiensk, japansk, koreansk, polsk, portugisisk, rumensk, russisk, slovakisk, slovensk, spansk, svensk, thailandsk, tyrkisk, ukrainsk, …",
+                "title": "Nitrox snakke og ditt språk."
             },
             "server": {
-                "headline": "Offentlig Server"
+                "headline": "Offentlig Server",
+                "number": "24/7",
+                "subtitle": "Servere",
+                "description": "Finn permanente servere å spille på, i Nitrox Discord."
             },
             "launcher": {
-                "headline": "Opplevelse"
+                "headline": "Opplevelse",
+                "title": "Nitrox Starter",
+                "description": "Bruk Nitrox Launcher, for øyeblikket tilgjengelig for Windows. Med et godt designet grafisk brukergrensesnitt for å gjøre det enda enklere å spille flerspiller.",
+                "view": "Se pågående konsepter"
             },
             "chat": {
                 "title": "In-game meldinger",
-                "headline": "Kommunikasjon"
+                "headline": "Kommunikasjon",
+                "description": "Hold kontakten med Nitrox, kompatible på tvers av plattformer, innebygd spillmeldingssystem."
+            },
+            "code": {
+                "headline": "Kodebase",
+                "description": "Regelmessig støtte og oppdateringer fra de sjenerøse bidragsytere. Bidra og gjør modden bedre.",
+                "title": "Åpen kilde"
+            },
+            "play": {
+                "description": "Tilfeldig start Rømning kapsel, Tilfeldig &amp; Lagret Seeds for Resurser and Fauna, nytt Lagring-system, Planter &amp; Jordbruk ... og mye mer.",
+                "headline": "Spel"
+            },
+            "upnp": {
+                "description": "Nitrox åpner automatisk de nødvendige portene som gjør det mulig å koble til vennene dine umiddelbart uten behov for tredjeparts VPN-programvare.",
+                "title": "Automatisk portvideresending",
+                "headline": "UPnP-støtte"
             }
         },
         "hero_cta": "Last ned gratis",
@@ -46,11 +74,126 @@
         },
         "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
         "explore": "Opplev Subnautica <span class=\"opacity-5\">som et helt nytt spill. Samarbeid. Utforsk nye dybder. Bygg ville baser.</span>",
-        "hero_slogan": "<span>Din</span> <span>flerspiller</span> <span>Modifikasjon</span> <span>for</span> <span>Subnautica.</span>"
+        "hero_slogan": "<span>Din</span> <span>flerspiller</span> <span>Modifikasjon</span> <span>for</span> <span>Subnautica.</span>",
+        "nextsteps": {
+            "get": {
+                "latest_version": "Nyeste versjon:",
+                "description": "Last ned Nitrox Mod gratis og begynn å spille Multiplayer!",
+                "title": "Skaff deg modden",
+                "download": "Nedlasting"
+            },
+            "wiki": {
+                "title": "Å  komme i gang",
+                "link": "Besøk Guider",
+                "description": "Les installasjonsveiledningen og FAQ-siden"
+            }
+        }
     },
     "footer-extended": {
         "community": {
-            "twitter": "Følg oss på Twitter"
+            "twitter": "Følg på Twitter"
         }
+    },
+    "community": {
+        "bluesky_follow": "Følg Nitrox på Bluesky",
+        "reddit_join": "Versjon",
+        "reddit": "Bli med i Nitrox Subredditen for å holde deg informert om siste oppdateringer og legg ut poster i fellesskapet.",
+        "meta": {
+            "description": "Bli del av det store, voksende Nitrox fellesskapet. Finn nye servere, få hjelp og snakk med andre Nitrox spillere.",
+            "title": "Nitrox Fellesskap · Subnautica Flerspiller Mod"
+        },
+        "twitter_follow": "Følg på Twitter",
+        "twitter": "Følg Nitrox Twitter kontoen for å holde deg oppdatert på siste utviklinger, events, og oppdateringer.",
+        "title": "Nitrox felleskap",
+        "discord": "Bli med i vår aktive Discord server for å finne servere å spille på, få hjelp fra support laget og mye mer.",
+        "subtitle": "Bli del av det store Nitrox felleskapet med spillere fra hele kloden.",
+        "github": "Vil du være en del av laget? Bidra med kode til oversettelser for Nitrox prosjektet på GitHub.",
+        "discord_join": "Bli med i Discord",
+        "github_link": "Bidra på GitHub"
+    },
+    "about": {
+        "download": "Last ned",
+        "meta": {
+            "title": "Om Nitrox · Subnautica Flerspillermod",
+            "description": "Finn ut mer bak teamet og åpen kilde prosjektet Nitrox"
+        },
+        "download_header": "Klar? Få modifikasjonen!",
+        "version": "Siste versjon:",
+        "downloads": "Nedlastninger",
+        "discord_join": "Bli med i Discord serveren vår",
+        "discord": "Discord medlemmer",
+        "download_description": "Eventyret ditt venter. Last ned Nitrox-modifikasjonen gratis og start å spille Subnautica flerspiller!",
+        "quote": "Sitat fra",
+        "why": "Hvorfor Nitrox?",
+        "title": "Moddere har brakt flerspiller til Subnautica."
+    },
+    "os": {
+        "dev_resources_contribute": "Bidrag",
+        "join_info": "Her er måter du kan bidra.",
+        "dev_resources_code": "Kodewiki",
+        "join": "Vil du bli et del av laget?",
+        "meta": {
+            "title": "Åpen kildekode · Funksjoner",
+            "description": "Åpen kildekode er i hjertet til Nitrox modifikasjonen. Fra fellesskapet som bygget den, til støtten som opprettholder den."
+        },
+        "dev_resources": "Utviklingsressurser",
+        "dev_resources_info": "Les vår oppstart og kodebidrag retningslinje på GitHub."
+    },
+    "resources": {
+        "meta": {
+            "title": "Offisielle Nitrox-ressurser · Logo, typografi, bilder",
+            "description": "Last ned den offisielle Nitrox-modifiskajonressursene, inkludert logoen, skriftypene, bilder og mer."
+        },
+        "images": "Bilder",
+        "fonts": "Skriftyper"
+    },
+    "server": {
+        "meta": {
+            "title": "Nitrox Server · Funksjoner",
+            "description": "Nitrox inneholder en kraftig flerspillerserver, samtidig som den er ekstremt lett og ressurseffektiv."
+        },
+        "cards": {
+            "host_footnote": "Maks. 100 spillere, anbefalt spillermengde 5.",
+            "host": "Vert",
+            "host_info": "Du kan enkelt arrangere et stort spillerarrangement med støtte for opptil 100 spillere.",
+            "connect": "Tilkoble"
+        }
+    },
+    "download": {
+        "header": {
+            "alpha": "TIDLIG ALFA",
+            "title": "Last ned Nitrox",
+            "download": "Start nedlasting",
+            "stores": "Støttede butikkversjoner",
+            "subtitle": "Eventyret ditt venter. Last ned Nitrox Mod gratis og begynn å spille Subnautica flerspiller!",
+            "version": "Alfa"
+        },
+        "sidebar": "Nitrox Mod. <span class=\"opacity-5\">En åpen kildekode, flerspillermodifikasjon for spillet Subnautica.</span>",
+        "meta": {
+            "description": "Last ned Nitrox: en gratis flerspillermod for spillet Subnautica utviklet av fellesskapet.",
+            "title": "Last ned Nitrox · Subnautica Flerspiller Mod"
+        },
+        "changelog": "Endringslogg",
+        "changelog_older": "Se eldre endringsloggoppføringer"
+    },
+    "download_start": {
+        "header": {
+            "helper_link": "last ned på nytt",
+            "helper": "Din nedlasting burde starte automatisk om<span id=\"countdowntimer\">2</span> sekunder. Hvis den ikke starter, ",
+            "started": "Nedlasting startet"
+        },
+        "community_join": "Bli med i fellesskapet",
+        "file_size": "Fil størrelse",
+        "next_steps": "Neste steg",
+        "md5": "MD5 Hash",
+        "guide_link": "Nitrox installasjonsguide",
+        "meta": {
+            "description": "Last ned Nitrox: en gratis flerspillermod for spillet Subnautica utviklet av fellesskapet.",
+            "title": "Nedlastingen startet...  Subnautica Multiplayer Mod"
+        },
+        "install_vid": "Installer video",
+        "guide": "Installerings- og Oppdateringsguide",
+        "download_infos": "Last ned informasjon",
+        "version": "Versjon"
     }
 }

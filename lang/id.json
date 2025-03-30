@@ -6,7 +6,8 @@
             "description": "Nitrox adalah mod multiplayer gratis untuk game Subnautica yang dikembangkan oleh komunitas."
         },
         "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
-        "hero_slogan": "<span>Mod</span> <span>multiplayer</span> <span>Subnautica</span> <span>untuk</span> <span>Kamu.</span>"
+        "hero_slogan": "<span>Mod</span> <span>multiplayer</span> <span>Subnautica</span> <span>untuk</span> <span>Kamu.</span>",
+        "explore": "Rasakan subnautica<span class=\"opacity-5\">seperti game baru. Bersekutu dengan teman. Jelajahi area baru. Bangun markas epik.</span>"
     },
     "wiki": {
         "faq": {
@@ -41,6 +42,8 @@
         "download_title": "ALPHA AWAL",
         "download_header": "Siap? Dapatkan modnya!",
         "download_description": "Petualangan Anda menanti. Unduh Nitrox Mod secara gratis dan mulailah bermain multipemain subnautica!",
-        "version": "Versi terbaru:"
+        "version": "Versi terbaru:",
+        "discord": "Anggota discord",
+        "download": "Unduh"
     }
 }
