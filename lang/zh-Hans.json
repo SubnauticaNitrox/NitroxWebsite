@@ -52,7 +52,7 @@
                 "headline": "社区添加的语言",
                 "title": "Nitrox 也会说您的语言。",
                 "link": "贡献并添加您的语言",
-                "languages": "中文，保加利亚语，克罗地亚语， 捷克语， 荷兰语， 英语， 法语， 德语， 希腊语， 匈牙利语， 意大利语， 日语， 韩语， 波兰语， 葡萄牙语， 罗马尼亚语， 俄语， 斯洛伐克语， 斯洛文尼亚语， 西班牙语， 瑞典语， 泰语， 土耳其语， 乌克兰语， …"
+                "languages": "中文， 保加利亚语， 克罗地亚语， 捷克语， 荷兰语， 英语， 芬兰语， 法语， 德语， 希腊语， 匈牙利语， 意大利语， 日语， 韩语， 挪威语， 波兰语， 葡萄牙语， 葡萄牙语（巴西）， 罗马尼亚语， 俄语， 斯洛伐克语， 斯洛文尼亚语， 西班牙语， 瑞典语， 泰语， 土耳其语， 乌克兰语， 越南语， …"
             },
             "host": {
                 "headline": "主持人",
@@ -161,12 +161,14 @@
         "subtitle": "与世界各地的玩家一起加入 Nitrox 社区。",
         "discord": "加入我们活跃的 Discord 服务器，寻找供游玩的服务器，或是向支持团队寻求帮助。在这里能做的还远不止这些。",
         "discord_join": "在 Discord 上加入我们",
-        "reddit_join": "版本号",
+        "reddit_join": "加入Reddit讨论组",
         "twitter_follow": "在Twitter上关注",
         "github": "想成为团队的一员吗？为GitHub上的Nitrox项目做出从代码到翻译的贡献吧。",
         "github_link": "在GitHub上投稿",
         "reddit": "加入Nitrox Subreddit以了解最新发布的信息并发布社区内容。",
-        "twitter": "关注Nitrox推特账户，以了解最新的更新、活动以及发布。"
+        "twitter": "关注Nitrox推特账户，以了解最新的更新、活动以及发布。",
+        "bluesky": "关注 Nitrox Bluesky 帐户，随时了解最新的开发进度、事件和版本发布.",
+        "bluesky_follow": "在Bluesky上关注"
     },
     "resources": {
         "title": "Nitrox <span class=\"opacity-5\">资源</span>",
@@ -201,7 +203,7 @@
             "description": "Nitrox能提供强大的多人联机服务，同时又非常轻巧和节省资源。",
             "title": "Nitrox服务器 · 特点"
         },
-        "features": "Nitrox服务器 <span class=\"opacity-5\">是强大的，并易于托管。拥有为深海迷航编写的优化代码。运行非常轻量化，几乎不需要任何繁重资源，即可获得最佳的游戏性能。</span>",
+        "features": "Nitrox服务器 <span class=\"opacity-5\">性能强劲，开服容易。拥有为深海迷航专门定制的优化代码。运行极致轻量化，几乎不占用任何系统资源，即可获得最佳的游戏性能。</span>",
         "feature_list": "<p class=\"lead\">从开始、到开服、到开玩深海迷航多人游戏，Nitrox 服务器包含所有你需要的东西。</p>\n<ul class=\"lead\">\n<li>提供服务端控制台</li>\n<li>内置聊天系统</li>\n<li>服务器端口可更改</li>\n<li>支持最大100名在线玩家</li>\n<li>支持自动保存</li>\n<li>可调整游戏模式</li>\n<li>支持公共服务器模式</li>\n<li>支持私人服务器和密码保护</li>\n</ul>",
         "cards": {
             "host_info": "轻松举办大型玩家活动，支持多达 100 名玩家。",
@@ -247,7 +249,7 @@
             },
             "donate": {
                 "question": "我如何捐款？",
-                "answer": "我们不接受对Mod的捐赠。 那些希望捐款的人可以在这里这样做：<a href=\"“https://www.doctorswithoutborders.org/”\" target=\"“_blank”\">https://www.doctorswithoutborders.org/</a>"
+                "answer": "我们不接受对Mod的捐赠。 那些希望捐款的人可以在这里这样做：<a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
             },
             "why": {
                 "question": "为什么叫“Nitrox”？",
@@ -265,13 +267,13 @@
         },
         "wizard_more": "我们新的互动式 Nitrox 向导将一步一步地引导你完成安装和升级过程。只需回答每个步骤，就能得到即时的答案。现在就试试吧！",
         "meta": {
-            "title": "说明书&amp;百科 · 深海迷航多人游戏Mod",
+            "title": "说明书 &amp; 百科 · 深海迷航多人游戏Mod",
             "description": "Nitrox 是由社区开发的深海迷航游戏的免费多人游戏Mod。"
         },
         "title": "欢迎访问 Nitrox 支持",
         "quick_links": "快捷链接",
         "search_placeholder": "搜索些什么…",
-        "search_install": "安装Nitrox Mod Steam 和 Epic Games",
+        "search_install": "为Steam 和 Epic Games版本安装Nitrox Mod",
         "search_run": "运行并托管一个Nitrox 服务器",
         "search_join": "加入一个Nitrox 服务器",
         "search_home": "Nitrox 升级和安装向导",
@@ -292,7 +294,7 @@
         },
         "coming_soon": "即将推出",
         "launcher": "Nitrox 启动器.",
-        "hero": "全内置设计<br>多人游戏.",
+        "hero": "全功能<br>多人游戏.",
         "preview": "预览新的Nitrox启动器。<span class=\"opacity-5\">您体验多人游戏的不二之选。为便捷好用而精心设计。即将推出。</span>",
         "redesigned": "从头开始重新设计。<span class=\"opacity-5\">专注于提供有用的信息。快速实现多人联机。详细的诊断日志。开服所需的一切。</span>",
         "hub": "Nitrox，你梦寐以求的一切。",
@@ -316,8 +318,11 @@
             "discord": "Nitrox Discord 服务器",
             "discord_join": "点击在Discord加入",
             "twitter": "在Twitter上关注",
-            "twitter_description": "在twitter上关注，始终在官方Nitrox Twitter上了解最新信息、见解等。",
-            "twitter_join": "点击访问 @modnitrox"
+            "twitter_description": "在Twitter上关注，始终在Twitter的Nitrox官方账号上了解最新信息、见解等。",
+            "twitter_join": "点击访问 @modnitrox",
+            "bluesky_join": "点击访问@nitroxmod",
+            "bluesky_description": "在Bluesky关注，从Bluesky上的Nitrox官方帐户随时了解最新新闻、计划和更多信息。",
+            "bluesky": "在Bluesky上关注"
         },
         "footnote_1": "Windows 应用商店需要额外的设置。设置的步骤和支持可以在Nitrox Discord找到。",
         "community_title": "社区",
@@ -350,7 +355,7 @@
         },
         "title": "Nitrox 由一个充满激情的开源贡献者团队构建。",
         "join": "想加入我们吗？",
-        "join_description": "你也可以成为这个模组的贡献者。您可以开发 Nitrox 或加入客服团队！只需在discord服务器或子版块页面中申请"
+        "join_description": "你也可以成为这个模组的贡献者。您可以开发 Nitrox 或加入客服团队！只需在discord服务器或子版块页面中申请."
     },
     "footer": {
         "getstarted": "从这里开始",

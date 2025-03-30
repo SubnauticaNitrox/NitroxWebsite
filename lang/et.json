@@ -1,1 +1,10 @@
-{}
+{
+    "home": {
+        "hero_cta": "Laadi alla tasuta",
+        "feature": {
+            "stores": {
+                "tooltip": "Pole hetkel saadaval"
+            }
+        }
+    }
+}

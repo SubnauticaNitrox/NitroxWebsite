@@ -4,7 +4,7 @@
             "title": "Nitrox do gry Subnautica - Mod Wieloosobowy do Subnautica",
             "description": "Nitrox jest darmową, stworzoną przez społeczność modyfikacją do gry Subnautica dodającą wieloosobową rozgrywkę."
         },
-        "hero_slogan": "<span>Mod</span> <span>wieloosobowy</span> <span>dla</span> <span>twojej</span> <span>przygody</span> <span>w</span> <span>Subnautica.</span>",
+        "hero_slogan": "<span>Twój</span> <span>mod</span> <span>wieloosobowy</span> <span>do</span> <span>gry</span> <span>Subnautica.</span>",
         "hero_cta": "Pobierz za darmo",
         "feature": {
             "multiplayer": {
@@ -16,7 +16,7 @@
                 "title": "Kompatybilność między platformami",
                 "tooltip": "Obecnie niedostępne",
                 "headline": "Obsługiwane Platformy",
-                "description": "Kompatybilny z twoimi ulubionymi platformami. Wieloplatformowość jest wbudowana w modyfikację, dzięki czemu gra wieloosobowa odbywa się czysto i bez bólu."
+                "description": "Kompatybilny z twoimi ulubionymi platformami. Wieloplatformowość jest wbudowana w modyfikację, dzięki czemu gra wieloosobowa odbywa się bezproblemowo."
             },
             "code": {
                 "headline": "Kod źródłowy",
@@ -49,7 +49,7 @@
             "lang": {
                 "headline": "Tłumaczenia od społeczności",
                 "title": "Nitrox mówi też po twojemu.",
-                "languages": "bułgarski, chiński, chorwacki, czeski, holenderski, angielski, francuski, niemiecki, grecki, węgierski, włoski, japoński, koreański, polski, portugalski, rumuński, rosyjski, słowacki, słoweński, hiszpański, szwedzki, tajski, turecki, ukraiński,…",
+                "languages": "bułgarski, chiński, chorwacki, czeski, holenderski, angielski, fiński, francuski, niemiecki, grecki, węgierski, włoski, japoński, koreański, norweski, polski, portugalski, portugalski (Brazylia), rumuński, rosyjski, słowacki, słoweński, hiszpański, szwedzki, tajski, turecki, ukraiński, wietnamski, …",
                 "link": "Przetłumacz na własny język"
             },
             "play": {
@@ -136,11 +136,13 @@
         "discord_join": "Dołącz na Discordzie",
         "twitter": "Śledź nasze poczynania na naszym Twitterze Nitrox aby uzyskiwać najnowsze aktualności.",
         "reddit": "Dołącz na Subreddit Nitrox aby nie zostać w tyle z aktualnościami o modzie.",
-        "reddit_join": "Wersja",
+        "reddit_join": "Dołącz do nas na Reddicie",
         "github": "Chcesz dołączyć do zespołu? Dołącz do nas na GitHubie i dopomóż przy programowaniu lub tłumaczeniu.",
         "twitter_follow": "Śledź na Twitterze",
         "subtitle": "Dołącz do rozległej społeczności Nitrox wraz z graczami dookoła świata.",
-        "github_link": "Wspomóż na GitHubie"
+        "github_link": "Wspomóż na GitHubie",
+        "bluesky": "Śledź konto Nitrox Bluesky, aby zawsze być na bieżąco z najnowszymi osiągnięciami, wydarzeniami i wydaniami.",
+        "bluesky_follow": "Obserwuj na Bluesky"
     },
     "about": {
         "meta": {
@@ -223,7 +225,7 @@
             "title": "Launcher Nitrox",
             "description": "Launcher Nitrox to twoje wrota w rozległy świat wieloosobowej rozgrywki Subnautica."
         },
-        "hero": "Wszystko w jednym<br>trybie wieloosobowym.",
+        "hero": "Kompletny<br>tryb wieloosobowy.",
         "hub": "Twój hub dla wszystkiego związanego z Nitrox.",
         "hub_info": "Dzięki przebudowanemu launcherowi uzyskujesz łatwy dostęp do aktualności o wszystkim związanym z Nitrox. Bądź pierwszy przy najnowszych aktualizacjach, i uzyskaj szczegółowe informacje by poprawić jakość rogrywki na swoim serwerze, uzyskując także dostep do zakładki społeczności z całodobowymi serwerami społeczności.",
         "settings": "Ustawienia",
@@ -243,7 +245,7 @@
         },
         "title": "Nitrox jest rozbudowywany przez zespół współtwórców z pasją.",
         "join": "Chcesz dołączyć do załogi?",
-        "join_description": "Ty również możesz wspomóc ten mod. Możesz albo rozwijać kod źródłowy Nitrox albo dołączyć do zespołu pomocy technicznej! Wystarczy, że złożysz aplikację na naszym serwerze Discorda albo Subreddicie"
+        "join_description": "Ty również możesz wspomóc ten mod. Możesz albo rozwijać kod źródłowy Nitrox albo dołączyć do zespołu pomocy technicznej! Wystarczy, że złożysz aplikację na naszym serwerze Discord albo Subreddicie."
     },
     "changelog": {
         "meta": {
@@ -259,11 +261,14 @@
         "users": "Unikalnych Użytkowników",
         "community": {
             "discord_join": "Naciśnij, by dołączyć do nas na Discordzie",
-            "twitter_description": "Śledź nas na Twitterze, by zawsze uzyskiwać na czas aktualności, informacje, ogłoszenia i wiele więcej na oficjalnym Twitterze Nitrox.",
+            "twitter_description": "Śledź nas na Twitterze, by zawsze uzyskiwać aktualności, informacje, ogłoszenia i wiele więcej na oficjalnym Twitterze Nitrox.",
             "discord_description": "Rozmawiaj z ponad 27k graczami o trybie wieloosobowym Subnautica, znajdź graczy do wspólnej gry i uzyskuj pomoc w razie problemów.",
             "discord": "Serwer Discord Nitrox",
             "twitter": "Śledź nas na Twitterze",
-            "twitter_join": "Naciśnij, by odwiedzić Twitter @modnitrox"
+            "twitter_join": "Naciśnij, by odwiedzić Twitter @modnitrox",
+            "bluesky": "Obserwuj na Bluesky",
+            "bluesky_join": "Kliknij, aby odwiedzić @nitroxmod",
+            "bluesky_description": "Śledź nas na Bluesky, by zawsze uzyskiwać aktualności, informacje, ogłoszenia i wiele więcej na oficjalnym Bluesky Nitrox."
         },
         "featured": "Uwzględniony przez",
         "footnote_1": "Platforma Windows Store wymaga dodatkowych kroków, które można znaleźć na serwerze Discord.",
@@ -306,7 +311,7 @@
     },
     "wiki": {
         "meta": {
-            "title": "Instrukcje i Wiki  · Mod Wieloosobowy do gry Subnautica",
+            "title": "Instrukcje i Wiki · Mod Wieloosobowy do gry Subnautica",
             "description": "Nitrox jest darmowym, stworzonym przez społeczność modem wieloosobowym dla gry Subnautica."
         },
         "subtitle": "Przejrzyj przydatne artykuły i przeczytaj pierwsze kroki, by rozpocząć swoją przygodę z Nitrox.",
@@ -337,7 +342,7 @@
             },
             "play": {
                 "question": "Jak mogę zagrać w tego moda?",
-                "answer": "Pobierz najnowszy instalator z zakładki \"Pobierz\".  Pamiętaj jednak, że mod jest jeszcze we wczesnej fazie i będzie zawierał błędy."
+                "answer": "Pobierz najnowszy instalator z zakładki \"Pobierz\". Pamiętaj jednak, że mod jest jeszcze we wczesnej fazie i będzie zawierał błędy."
             },
             "bz": {
                 "answer": "Na chwilę obecną Nitrox działa tylko i wyłącznie z podstawową grą Subnautica. Wsparcie dla Below Zero jest planowane, ale nie zostanie ruszone dopóki obecny Nitrox nie osiągnie stabilnej wersji.",
@@ -345,7 +350,7 @@
             },
             "donate": {
                 "question": "Jak mogę złożyć dotację?",
-                "answer": "Nie akceptujemy żadnych dotacji za tego moda.  Jeśli chcesz wydać pieniądze, wydaj je tutaj: <a href=\"https://doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+                "answer": "Nie akceptujemy żadnych dotacji za tego moda. Jeśli chcesz wydać pieniądze, wydaj je tutaj: <a href=\"https://doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
             },
             "why": {
                 "question": "Dlaczego mod nazywa się akurat \"Nitrox\"?",

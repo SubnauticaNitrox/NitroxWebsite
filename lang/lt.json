@@ -2,7 +2,7 @@
     "home": {
         "meta": {
             "title": "Nitrox Subnauticai · Subnauticos Žaidimo kartu modifikacija",
-            "description": "Nitrox yra nemokama žaidimo kartu modifikacija žaidimui Subnautica sukurta visuomenės."
+            "description": "Nitrox yra nemokama žaidimo kartu modifikacija žaidimui Subnautica sukurta jos bendruomenės."
         },
         "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
         "hero_slogan": "<span>Tavo</span> <span>žaidimo kartu</span> <span>modifikacija</span> <span>žaidimui</span> <span>Subnautica.</span>",
@@ -13,13 +13,13 @@
                 "description": "Pagaliau pradėkite žaisti Subnautica kartu su savo draugais. Prisijunkite ar sukurkite savo paties serverį."
             },
             "stores": {
-                "title": "Veikia per visas platformas",
-                "headline": "Šiuo metu palaikomos prekybvietės",
+                "title": "Veikia su visomis platformomis",
+                "headline": "Šiuo metu palaikomos parduotuvės",
                 "description": "Suderinama su tavo mėgstamiausiomis parduotuvėmis. Integruotas veikimas per visas platformas, leidžiantis žaisti kartu be problemų.",
                 "tooltip": "Šiuo metu nepasiekiama"
             },
             "gameplay": {
-                "headline": "Žaidimas",
+                "headline": "Žaidimo eiga",
                 "title": "Tavo žaidimo stilius",
                 "description": "Žaiskite Subnautica, nuo išgyvenimo su savo draugais, iki statymo su neribotais resursais."
             },
@@ -29,7 +29,7 @@
                 "description": "Pastovi pagalba bei atnaujinimai nuo dosniujų prisidėjusių. Prisidėk ir tu kad padaryti šią modifikaciją geresnę."
             },
             "community": {
-                "title": "Žaidėju bazė",
+                "title": "Žaidėjų bazė",
                 "downloads": "Atsisiuntimai",
                 "discord": "\"Discord\" nariai",
                 "headline": "Visuomenė",
@@ -54,13 +54,13 @@
             "lang": {
                 "headline": "Visuomenės pridėtos kalbos",
                 "title": "Nitrox kalba ir jūsų kalba.",
-                "languages": "Bulgarian, Chinese, Croatian, Czech, Dutch, English, French, German, Greek, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukrainian, …",
+                "languages": "Bulgarų, Kinų, Kroatų, Čekų, Olandų, Anglų, Suomių, Prancūzų, Vokiečių, Graikų, Vengrų, Italų, Japonų, Korėjiečių, Norvegų, Lenkų, Portugalų, Portugalų(Brazilų), Romunų, Rusų, Slovakų, Slovėnų, Ispanų, Švedų, Tailandiečių, Turkų, Ukrainiečių…",
                 "link": "Prisidėkite ir pridėkite savo kalbą"
             },
             "host": {
                 "headline": "Paleisti",
                 "subtitle": "Max. Vietos",
-                "description": "Lengvai paleiskite didelį žaidėjų eventą su 100 žmonių."
+                "description": "Lengvai sukurkite didelį žaidėjų renginį iki 100 žmonių"
             },
             "server": {
                 "headline": "Viešasis Serveris",
@@ -73,19 +73,129 @@
                 "headline": "Žaisti"
             }
         },
-        "hero_cta": "Atsisiusti nemokamai",
-        "explore": "Patirkite Subnautica <span class=\"opacity-5\">Kaip visiškai naują žaidimą. Susiburkite kartu. Tyrinėkite naujas gilumas. Statykite Kietas bazes.</span>",
+        "hero_cta": "Atsisiųsti nemokamai",
+        "explore": "Patirkite Subnautica <span class=\"opacity-5\">Kaip visiškai naują žaidimą. Susiburkite kartu. Tyrinėkite naujas gilumas. Statykite įspūdingas bazes.</span>",
         "nextsteps": {
             "get": {
-                "title": "Gaukite modą",
+                "title": "Gaukite papildinį",
                 "latest_version": "Naujausia versija:",
-                "download": "parsisiųsti",
+                "download": "Parsiųsk",
                 "description": "Atsisiųskite „Nitrox Mod“ nemokamai ir pradėkite žaisti kelių žaidėjų režimą!"
             },
             "wiki": {
                 "title": "pradedama",
                 "description": "Perskaitykite diegimo vadovą ir DUK puslapį"
             }
+        }
+    },
+    "download": {
+        "header": {
+            "subtitle": "Tavo kelionė laukia. Parsisiųsk 'Nitrox' modifikacija nemokamai ir pradėk žaisti 'Subnautica' su draugais!",
+            "version": "Anksti versija",
+            "alpha": "ANKSTI VERSIJA",
+            "download": "Pradėti atsisiuntimą",
+            "title": "Parsisiųsti 'Nitrox'",
+            "stores": "Palaikomos parduotuvės versijos"
+        },
+        "changelog": "Pakeitimai",
+        "changelog_older": "Žiūrėti senesnius pakeitimus",
+        "sidebar": "'Nitrox' modifikacija. <span class=\"opacity-5\">Atviro kodo, su draugais modifikacija žaidimui 'Subnautica'.</span>",
+        "meta": {
+            "description": "Atsisiųsti Nitrox: nemokamą kelių žaidėjų modifikaciją skirtą Subnautica, sukurtą bendruomenės.",
+            "title": "Atsisiųsti Nitrox - Subnautica kelių žaidėjų modifikaciją"
+        }
+    },
+    "download_start": {
+        "meta": {
+            "title": "Parsisiuntimas pradėtas... · 'Subnautica' žaisti su kitais modifikacija",
+            "description": "Parsisiųsk 'Nitrox': Nemokamas su draugais modifikacija žaidimui 'Subnautica' su pagalba iš bendruomenės."
+        },
+        "guide_link": "'Nitrox' instaliavimo burtininkas",
+        "header": {
+            "started": "Parsisiuntimas pradėtas",
+            "helper": "Jūsų parsisiuntimas turėtu pradėti per <span id=\"countdowntimer\">2</span> sekundės. Jei ne, ",
+            "helper_link": "iš naujo pradėti siųstis"
+        },
+        "install_vid": "Instaliavimo video",
+        "community_join": "Prisijunk prie bendromėnes",
+        "file_size": "Failo dydis",
+        "version": "Versija",
+        "md5": "MD5 Maiša",
+        "download_infos": "Parsisiųsti informaciją",
+        "next_steps": "Kiti žingsniai",
+        "guide": "Instaliavimo ir patobulinimo gidas"
+    },
+    "community": {
+        "meta": {
+            "description": "Būk dalis didelės, augančios 'Nitrox' Bendruomenės. Surask naujų serverių, gauk pagalbos ir pakalbės su kitais 'Nitrox' žaidėjais.",
+            "title": "'Nitrox' Bendruomenė · 'Subnautica' su kitais žmonėmis modifikacija"
+        },
+        "title": "'Nitrox' bendruomenė",
+        "twitter_follow": "Sek per Twitterį",
+        "discord_join": "Prisijungti per 'Discord'",
+        "github_link": "Prisidėti per 'GitHub'",
+        "discord": "Prisijunk į mūsų aktyvių 'Discord' serverį kad surastum serverius pažaisti, gauti pagalbos iš pagalbos komandos ir daug daugiau.",
+        "subtitle": "Prisijunk prie didelio 'Nitrox' bendruomenės su žaidėjais iš viso pasaulio.",
+        "reddit_join": "Versija",
+        "twitter": "Sek 'Nitrox' Twitterį paskyrą kad visada žinotum apie programavimus, šventes ir net išleidimus.",
+        "github": "Nori būti dalis komandos? Prisidėk nuo kodo iki transliacijų prie 'Nitrox' projektų per 'GitHub'.",
+        "reddit": "Prisijunk į 'Nitrox Subreddit' kad žinotum apie naujausius išleidimus ir sukurk bendruomenės turinį."
+    },
+    "about": {
+        "multiplayer": "Su draugais. <span class=\"opacity-5\">Žaisk 'Subnautica' kaip reikėjo kad būtų, su kitais.</span>",
+        "meta": {
+            "description": "Sužinok daugiau apie komanda ir atviro kodo 'Nitrox' projectą",
+            "title": "Apie 'Nitrox'  · 'Subnautica' su kitais modifikacija"
+        },
+        "users": "Naudotojai",
+        "discord_members": "27,000+",
+        "title": "Modifikacijos kūrėjai atnešę kitų žmonių prisijungimą prie 'Subnautica'.",
+        "downloads": "Parsisiuntimai",
+        "user_count": "500,250+",
+        "servers": "Bendruomenė. <span class=\"opacity-5\">Surask naujus serverius, gauk pagalbos ir kalbėk su kitais 'Nitrox' žaidėjais.</span>",
+        "discord_join": "Prisijungk per 'Discord'",
+        "quote": "Citata iš",
+        "why": "Kodėl 'Nitrox'?",
+        "opensource": "Atviras kodas. <span class=\"opacity-5\">Reguliari pagalba ir atnaujinimai iš dosnių \"bendradarbių\".</span>",
+        "metrics": "Mūsų metrikai",
+        "download_count": "1,000,000+",
+        "discord": "'Discord' nariai",
+        "download_title": "ANKSTI VERSIJA",
+        "download_description": "Tavo kelionė laukia. Parsisiųsk 'Nitrox' modifikacija nemokamai ir pradėk žaisti 'Subnautica' su kitais!",
+        "download": "Parsisiųsk",
+        "version": "Paskutinė versija:",
+        "download_header": "Pasiruošęs? Parsisiųsk modifikacija!"
+    },
+    "os": {
+        "license": "GNU bendroji viešoji licencija v3.0",
+        "meta": {
+            "title": "Atvira kodo 'Nitrox' · Funkcijos",
+            "description": "Atvira kodo yra prie širdies 'Nitrox' modifikacijos. Nuo bendruomenes kuri pastatė jį, kiti tos kurios palaiko ją."
+        },
+        "join_info": "Čia yra kaip gali prisidėti.",
+        "license_info": "'SubnauticaNitrox'/'Nitrox' licencijuota pagal GNU bendrąją viešąją licenciją v3.0",
+        "join": "Ar tu nori būti dalis komandos?",
+        "license_link": "Sužinoti daugiau",
+        "dev_resources": "Programuotojo resursai",
+        "dev_resources_info": "Perskaityk kaip pradėti ir kodo pateikimo gaires per „GitHub“.",
+        "dev_resources_code": "Kodo wiki",
+        "dev_resources_contribute": "Prisidėjimas",
+        "title": "Maitinamas<br>atviro kodo",
+        "hero": "Atviras kodas yra iki 'Nitrox' širdies. <span class=\"opacity-5\">Modifikacija yra labai ankstyvos versijos programavimo; tačiau, kietas pamatas buvo padėtas bendruomenes.</span>"
+    },
+    "resources": {
+        "images": "Nuotraukos",
+        "meta": {
+            "title": "Oficiali 'Nitrox' resurcai  · Logotipas, tipografija, nuotraukos",
+            "description": "Parsisiųsk oficialią 'Nitrox' modifikacijos resursus įskaitant logotipą, šriftus, nuotraukos ir daugiau."
+        },
+        "title": "'Nitrox' <span class=\"opacity-5\">Resursai</span>",
+        "fonts": "Šriftai",
+        "images_info": "'Nitrox' su kitais nuotraukos. <span class=\"opacity-5\">Naudok šiuos kad pasidalintum su kitais žaidėjais nuotykius per 'Subnautica'.<br> Nori pridėti savo? Pasidalink jais 'Discord' serverį arba parašyk mums per 'Twitter'.</span>"
+    },
+    "server": {
+        "meta": {
+            "title": "'Nitrox' Serveris · Funkcijos"
         }
     }
 }

@@ -34,7 +34,7 @@
             "upnp": {
                 "headline": "UPnP Support",
                 "title": "Automatické presmerovanie portov",
-                "description": "Nitrox automaticky otvorí požadované porty, vďaka čomu sa môžete okamžite pripojiť k vašim priateľom bez potreby softvéru tretej strany VPN."
+                "description": "Nitrox automaticky otvorí požadované porty, vďaka čomu sa môžete okamžite pripojiť k vašim priateľom bez potreby VPN softvéru tretej strany."
             },
             "server": {
                 "number": "24/7",
@@ -51,7 +51,7 @@
                 "headline": "Aktuálne podporované obchody",
                 "title": "Viac platforiem",
                 "tooltip": "Momentálne nedostupné",
-                "description": "Kompatibilné s vašimi obľúbenými obchodmi. Natívna podpora cross-play zabudovaná do modu umožňuje bezproblémový multiplayer."
+                "description": "Kompatibilné s vašimi obľúbenými obchodmi. Natívna podpora cross-play zabudovaná do módu umožňuje bezproblémovú hru s viacerými hráčmi."
             },
             "gameplay": {
                 "headline": "Hrateľnosť",
@@ -66,13 +66,13 @@
             "chat": {
                 "headline": "Komunikácia",
                 "title": "Správy v hre",
-                "description": "Zostaňte v kontakte so vstavaným systémom zasielania správ v hre Nitrox kompatibilným s viacerými platformami."
+                "description": "Zostaňte v kontakte so vstavaným systémom odosielania správ v móde Nitrox kompatibilným s viacerými platformami."
             },
             "lang": {
                 "headline": "Jazyky pridané komunitou",
                 "title": "Nitrox hovorí aj vaším jazykom.",
                 "link": "Prispejte a pridajte svoj jazyk",
-                "languages": "Bulharčína,Čínština, Chorvátčina,Čeština, Holandčina, Angličtina, Francúzština, Nemčina, Gréčtina,Madarčina,Taliančina, Japončina, Kórejčina, Poľština, Portugalčina, Rumunčina, Ruština,Slovenčína,Slovinčina,Španielčina, Švédčina, Thajčina ,Turečtina, Ukrajinčina, …"
+                "languages": "Bulharčina, Čínština, Chorvátčina, Čeština, Holandčina, Angličtina, Fínština, Francúzština, Nemčina, Gréčtina, Madarčina, Taliančina, Japončina, Kórejčina, Nórčina, Poľština, Portugalčina, Portugalčina (Brazília), Rumunčina, Ruština, Slovenčina, Slovinčina, Španielčina, Švédčina, Thajčina, Turečtina, Ukrajinčina, Vietnamčina, …"
             },
             "host": {
                 "headline": "Host",
@@ -136,12 +136,12 @@
         "download_header": "Pripravený? Dostaň ten mod!",
         "discord": "Discord členovia",
         "featured": "Zobrazené zapnuté",
-        "download_description": "Vaše dobrodružstvá čakajú. Stiahnite si zadarmo Nitrox Mod a začnite hrať subnautica multiplayer!",
+        "download_description": "Vaše dobrodružstvá čakajú. Stiahnite si zadarmo Nitrox Mod a začnite hrať Subnauticu v multiplayeri!",
         "version": "Posledná Verzia:",
         "quote": "Citát z",
         "why": "Prečo Nitrox?",
         "downloads": "Stiahnutí",
-        "multiplayer": "Multiplayer. <span class=\"opacity-5\">Zahraj Subnauticu tak,ako to bolo zamýšľané, v Mutliplayeri.</span>",
+        "multiplayer": "Multiplayer. <span class=\"opacity-5\">Zahraj si Subnauticu tak, ako to bolo zamýšľané, v Mutliplayeri.</span>",
         "title": "Modders priniesli multiplayer na Subnauticu.",
         "discord_join": "Pripoj sa na Discord",
         "opensource": "Otvorený zdroj. <span class=\"opacity-5\">Pravidelná podpora a aktualizácie od veľkorysých prispievateľov.</span>",
@@ -182,14 +182,20 @@
         "twitter_follow": "Sledujte náš Twitter",
         "twitter": "Sledujte účet Nitrox na Twitteri, aby ste boli vždy v aktuálnom stave o najnovšom vývoji, udalostiach a poblikáciach.",
         "reddit": "Pripojte sa k Nitrox subredditu, aby ste boli informovaní o najnovších publikáciach a o obsahu spoločenstva.",
-        "reddit_join": "Verzia",
-        "github_link": "Príspevok na Githube"
+        "reddit_join": "Pridajte sa do Subredditu na Reddite",
+        "github_link": "Príspevok na Githube",
+        "bluesky": "Sledujte Nitrox účet na Bluesky pre novinky o vývoji, udalostiach a vydaniach.",
+        "bluesky_follow": "Sledujte na Bluesky"
     },
     "resources": {
         "meta": {
-            "title": "Officialne Nitrox Zdroje · Logo, Typografia, obrázky"
+            "title": "Officialne Nitrox Zdroje · Logo, Typografia, obrázky",
+            "description": "Stiahnite si oficiálne prostriedky Módu Nitrox, zahŕňajúc logo, fonty, obrázky a viac."
         },
-        "images": "Obrázky"
+        "images": "Obrázky",
+        "fonts": "Fonty",
+        "title": "<span class=\"opacity-5\">Zdroje</span> Nitrox",
+        "images_info": "Snímky obrazovky Multiplayeru Nitrox. <span class=\"opacity-5\">Použite tieto na zdieľanie zážitkov Subnauticy.<br> Chete pridať vlastné? Zdieľajte ich na Discord serveri alebo na twitteri.</span>"
     },
     "server": {
         "cards": {
@@ -197,18 +203,22 @@
             "host_slots": "Max. Sloty",
             "host_footnote": "Max. 100 hráčov na servery, doporučený počet hráčov 5.",
             "connect": "Pripojiť",
-            "play_footnote": "Verejné servery nie sú hosťované spoločnosťou Nitrox a nie je zabezpečená 100 % prevádzková doba. Servery tretích strán nie sú moderované tímom Nitrox.",
+            "play_footnote": "Verejné servery nie sú usporiadavané spoločnosťou Nitrox a nie je zabezpečená 100 % prevádzková doba. Servery tretích strán nie sú moderované tímom Nitrox.",
             "host": "Hostiteľ",
             "connect_subtitle": "Technológie",
-            "connect_info": "Automatické prepájanie portov pomocou UPNP na rýchle nastavenie.",
+            "connect_info": "Automatické prepájanie portov pomocou UPNP pre rýchle nastavenie.",
             "host_info": "Ľahko zorganizujete podujatie pre veľký počet hráčov s podporou až 100 hráčov.",
-            "play": "Hrať"
+            "play": "Hrať",
+            "play_info": "Usporiadajte si vlastný, alebo nájdite si pernamentné servery v komunite Nitrox."
         },
         "title": "Nitrox Server <br> Ľahký a výkonný.",
         "meta": {
-            "title": "Nitrox Server · Funkcie"
+            "title": "Nitrox Server · Funkcie",
+            "description": "Nitrox obsahuje silný server multiplayer, pričom je efektívne a ľahké na systémové zdroje"
         },
-        "features_included": "Čo je zahrnuté?"
+        "features_included": "Čo je zahrnuté?",
+        "features": "Servery Nitrox <span class=\"opacity-5\">sú silné, ale jednoduché na usporiadanie. S optimalizovaným kódom písaným pre Subnauticu. Vyžaduje minimálne zdroje a je veľmi ľahké, pre najlepší výkon hry.</span>",
+        "feature_list": "<p class=\"lead\">Server Nitrox zahŕňa všetko čo potrebujete na začiatok hostingu a hrajte hru Subnautica s viacerými hráčmi</p>\n<ul class=\"lead\">\n<li>Serverová Konzola</li>\n<li>Zabudovaná textová komunikácia</li>\n<li>Nastaviteľný serverový port</li>\n<li>Max. 100 pripojených hráčov</li>\n<li>Automatické ukladanie hry</li>\n<li>Nastaviteľný herný režim</li>\n<li>Režim verejných serverov</li>\n<li>Osobné, heslom zabezpečené servery</li>\n</ul>"
     },
     "launcher": {
         "meta": {
@@ -217,6 +227,13 @@
         },
         "settings": "Inteligentné nastavenie",
         "launcher": "Nitrox Launcher.",
-        "coming_soon": "Už čoskoro"
+        "coming_soon": "Už čoskoro",
+        "hero": "Všetko v jednom<br>multiplayer.",
+        "hub_info": "S nanovo dizajnovaným launcherom môžete jednoducho zostať aktualizovaní so všetkým ohľadom Nitrox. Buďte prví čo dostanú najnovšiu verziu, podrobné informácie aby ste si rozšírili zážitok zo sreveru a záložka komunita s prístupom na 24/7 komunitné servery.",
+        "hub": "Vaše centrum pre všetko Nitrox.",
+        "preview": "Náhľad na nový Nitrox Launcher. <span class=\"opacity-5\">Váš vstup do zážitku z hry pre viacerých hráčov. Vytvorené na jednoduché použitie. Už čoskoro.</span>",
+        "redesigned": "Nadizajnované odznova. <span class=\"opacity-5\">So zameraním na poskytovaní pomocných informácii. Rýchly prístup do hry pre viacerých hráčov. Detailné diagnostické údaje. Všetko čo potrebujete na hosting serveru.</span>",
+        "settings_info": "Kúpili ste viacero kópii hry Subnautica? Žiadny problém. Nitrox launcher automaticky detekuje všetky inštalácie Subnautica, umožňujúc rýchly výber medzi rôznymi verziami obchodu. Zjednodušenie nastavenia bez potreby zadávania adresy súboru.",
+        "server": "Server"
     }
 }
