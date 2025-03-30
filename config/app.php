@@ -102,6 +102,7 @@ return [
         'Finnish' => 'fi',
         'Norwegian' => 'nb-NO',
         'Swedish' => 'sv',
+        'Icelandic' => 'is',
         'Greek' => 'el',
         'Korean' => 'ko',
         'Polish' => 'pl',
