@@ -19,10 +19,10 @@
             <h2 class="pt-5">Fresh install or update from previous version?</h2>
             <p>Choose if you would like to install a new version of nitrox or update to the latest version.</p>
             <div class="row pt-5">
-            <div class="col-6 pr-md-2">
+            <div class="col-md-6 col-12 pr-md-2">
                 <a href="{{ route('wizard.choose.fresh') }}" class="btn btn-primary btn-rounded btn-block btn-lg px-5 py-3">New installation</a>
             </div>
-            <div class="col-6 pl-md-2">
+            <div class="col-md-6 col-12 pl-md-2">
                 <a href="{{ route('wizard.choose.update') }}" class="btn btn-secondary btn-rounded btn-block btn-lg px-5 py-3">Update</a>
             </div>
             </div>
