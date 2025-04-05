@@ -16,7 +16,7 @@
             "upnp": {
                 "title": "Automatikus porttovábbítás",
                 "headline": "UPnP támogatás",
-                "description": "A Nitrox automatikusan megnyitja a szükséges portokat hogy a kapcsolat sikeres legyen a barátaiddal VPN vagy bármilyen 3. féltől való software nélkül."
+                "description": "A Nitrox automatikusan megnyitja a szükséges portokat, hogy a kapcsolat sikeres legyen a barátaiddal VPN vagy bármilyen 3. féltől származó szoftver nélkül."
             },
             "chat": {
                 "title": "Játékbeli üzenetküldés",
@@ -38,7 +38,7 @@
                 "headline": "Jelenleg támogatott boltok",
                 "tooltip": "Jelenleg nem elérhető",
                 "title": "Cross platform",
-                "description": "Kompatibilis a kedvenc áruházaiddal. A nemzetközi ,,cross-play \" támogatás lehetővé teszi a gördülékeny többjátékos játékélményt."
+                "description": "Kompatibilis a kedvenc áruházaiddal. A beágyazott ,,cross-play \" támogatás lehetővé teszi a gördülékeny többjátékos játékélményt."
             },
             "host": {
                 "subtitle": "Maximális férőhely",
@@ -52,7 +52,7 @@
                 "view": "Folyamatban lévő koncepciók megtekintése"
             },
             "lang": {
-                "languages": "Bolgár, Kínai, Horvát, Cseh, Holland, Angol, Francia, Német, Görög, Magyar, Olasz, Japán, Kóreai, Lengyel, Portugál, Román, Orosz, Szlovák, Szlovén, Spanyol, Svéd, Thai, Török, Ukrán,…",
+                "languages": "Bolgár, Kínai, Horvát, Cseh, Holland, Angol, Finn, Francia, Német, Görög, Magyar, Olasz, Japán, Kóreai, Norvég, Lengyel, Portugál, Portugál (Brazil), Román, Orosz, Szlovák, Szlovén, Spanyol, Svéd, Thai, Török, Ukrán, Vietnámi, …",
                 "link": "Járulj hozzá és add hozzá a te nyelvedet",
                 "headline": "Közösség által hozzá adott nyelvek",
                 "title": "A Nitrox a te nyelvedet is beszéli."
@@ -64,7 +64,7 @@
             "gameplay": {
                 "headline": "Játékmenet",
                 "title": "A játékmeneted",
-                "description": "Játssz Subnauticát, túlélő vagy creatív oldalról a barátaiddal."
+                "description": "Subnauticázz a barátaiddal, túlélőtől egészen kreatív módig."
             }
         },
         "meta": {
@@ -129,7 +129,7 @@
     "community": {
         "discord_join": "Csatlakozz Discordon",
         "twitter_follow": "Kövess Twitteren",
-        "reddit_join": "Verzió",
+        "reddit_join": "Csatlakozz a Subreddithez Redditen",
         "meta": {
             "title": "Nitrox Közösség · Subnautica Többjátékos Mód",
             "description": "Legyél része, a nagy és fejlődő Nitrox közösségben. Keress új szervereket, kapj segítséget  és beszélsz más Nitrox játékosokkal."
@@ -161,7 +161,7 @@
         "download_description": "Vár a kaland. Töltsd le a Nitrox Modot ingyenesen és kezdj el játszani a Subnautica többjátékos móddal!",
         "title": "A modderek meghozták a többjátékos módot a Subnautica játékba.",
         "why": "Miért Nitrox?",
-        "multiplayer": "Többjátékos. <span class=\"opacity-5\">Játszd a Subnauticát úgy, ahogy tervezve volt, többjátékos módban.</span>",
+        "multiplayer": "Többjátékos. <span class=\"opacity-5\">Subnauticázz úgy, ahogy tervezve volt, többjátékos módban.</span>",
         "servers": "Közösség. <span class=\"opacity-5\">Találj új szervereket, kérj segítséget és beszélj más Nitrox játékosokkal.</span>",
         "user_count": "500,250+",
         "opensource": "Nyílt forráskódú. <span class=\"opacity-5\">Rendszeres támogatás és frissítések a jószivá hozzájárulóktól.</span>",
@@ -238,13 +238,18 @@
             "install_nitrox": {
                 "question": "Hogyan telepítem a Nitrox-ot?"
             },
-            "title": "Gyakran ismételt kérdések"
+            "title": "Gyakran ismételt kérdések",
+            "play": {
+                "question": "Hogyan használom a modot?"
+            }
         },
         "wizard_link": "Nitrox Varázsló indítása",
         "support": "Segítség kérése",
         "support_discord": "Csatlakozz a Nitrox Discord szerveréhez",
         "wizard_more": "Az új interaktív Nitrox Varázsló végigsegít lépésről lépésre a telepítési és a fejlesztési folyamat során. Egyszerűen válaszolj minden kérdésre és kapjál azonnal választ. Próbáld ki ma!",
-        "wizard": "Telepítsd és Fejleszd a Varázslót"
+        "wizard": "Telepítsd és Fejleszd a Varázslót",
+        "search_install": "Telepítsd a Nitrox Modot Steamhez és Epic Gameshez",
+        "support_more": "Segítségből nincs hiány.<br>Csatlakozz a Discord szerverünkre és közösen találunk megoldást."
     },
     "footer-extended": {
         "footnote_2": "Maximum 100 szerver játékos, ajánlott játékosok száma 5.",
@@ -280,7 +285,8 @@
             "server_join": "Csatlakozás egy szerverhez",
             "server_setup": "Szerver Beállítás",
             "team": "Csapat",
-            "resources": "Erőforrások"
+            "resources": "Erőforrások",
+            "changelog": "Változások"
         },
         "getstarted": "Kezdj bele",
         "learnmore": "Tudj meg többet",
