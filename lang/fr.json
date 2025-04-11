@@ -9,13 +9,13 @@
             "chat": {
                 "headline": "Communication",
                 "title": "Messagerie en jeu",
-                "description": "Restez en contact avec le système de messagerie en jeu cross-platform de Nitrox."
+                "description": "Restez en contact avec le système de messagerie en jeu multiplateforme de Nitrox."
             },
             "stores": {
                 "tooltip": "Non disponible pour le moment",
                 "headline": "Magasins pris en charge",
                 "title": "Cross-platform",
-                "description": "Compatible avec vos magasins préférés. Un support cross-platform natif pour un multijoueur parfait."
+                "description": "Compatible avec vos magasins préférés. Un support multiplateforme natif pour un multijoueur parfait."
             },
             "gameplay": {
                 "headline": "Gameplay",
@@ -171,7 +171,7 @@
         "discord_members": "27,000+",
         "discord": "Membres Discord",
         "download_header": "Prêt ? Télécharge le mod !",
-        "download_description": "L'aventure t'attends. Télécharge le Mod Nitrox gratuitement et commence à jouer à Subnautica en multijoueur!",
+        "download_description": "L'aventure t'attends. Télécharge le Mod Nitrox gratuitement et commence à jouer à Subnautica en multijoueur !",
         "download": "Télécharger",
         "version": "Dernière version :",
         "opensource": "Open source. <span class=\"opacity-5\">Mise à jour et support réguliers par les généreux contributeurs.</span>",
@@ -214,7 +214,7 @@
     "launcher": {
         "settings_info": "Vous possédez plusieurs copies de Subnautica ? Pas de problème. Le launcher Nitrox peux automatiquement détecter toutes vos installations de Subnautica, vous permettant de choisir rapidement depuis les différentes versions de magasins différents. Simplifiant la configuration et supprimant la nécessité de spécifier manuellement le chemin vers le jeu.",
         "meta": {
-            "description": "Le Launcher Nitrox est votre porte d'entrée pour votre expérience multijoueur de subnautica.",
+            "description": "Le Launcher Nitrox est votre porte d'entrée pour votre expérience multijoueur de Subnautica.",
             "title": "Lanceur Nitrox · Fonctionnalité"
         },
         "hero": "Tout en un<br>multijoueur.",
