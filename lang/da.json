@@ -105,7 +105,16 @@
         "why": "Hvorfor Nitrox?",
         "discord": "Discord medlemmer",
         "users": "Brugere",
-        "discord_join": "Bliv medlem på Discord"
+        "discord_join": "Bliv medlem på Discord",
+        "multiplayer": "Multiplayer. <span class=\"opacity-5\">Spil Subnautica som det var designet til, Multiplayer!</span>",
+        "meta": {
+            "title": "Om Nitrox · Subnatica Multiplayer Mod",
+            "description": "Find ud af mere om holdet og open source Nitrox projectet!"
+        },
+        "title": "Modderer har bragt multiplayer til Subnautica.",
+        "quote": "Kvote fra",
+        "opensource": "Open source. <span class=\"opacity-5\">Fast støtte og opdateringer fra generøse bidragere!</span>",
+        "servers": "Kommunity. <span class=\"opacity-5\">Find nye server, få hjælp og snak med andre Nitrox spillere.</span>"
     },
     "download_start": {
         "file_size": "Fil størrelse",
@@ -141,7 +150,8 @@
             "title": "Hent Nitrox · Subnautica Multiplayer Mod",
             "description": "Download Nitrox: et gratis multiplayer-mod til spillet Subnautica udviklet af fællesskabet."
         },
-        "changelog_older": "Se ældre changelog indtastninger"
+        "changelog_older": "Se ældre changelog indtastninger",
+        "sidebar": "Nitrox Mod. <span class=\"opacity-5\">Et open-source, multiplayer mod til spillet Subnautica.</span>"
     },
     "community": {
         "twitter_follow": "Følg på Twitter",
@@ -158,6 +168,7 @@
         "reddit": "Tilmeld dig Nitrox Subreddit for at holde dig orienteret om seneste udgivelser og fælleskabet.",
         "bluesky_follow": "Følg på Bluesky",
         "bluesky": "Følg Nitrox Bluesky-kontoen for altid at være opdateret på seneste udviklinger, begivenheder og udgivelser.",
-        "reddit_join": "Join Subreddit på Reddit"
+        "reddit_join": "Join Subreddit på Reddit",
+        "github": "Vil du være en del af holdet? Bidrag med kodning eller oversættelser til Nitrox projected på GitHub."
     }
 }
