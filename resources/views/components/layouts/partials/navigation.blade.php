@@ -79,19 +79,19 @@
     </div>
 </nav>
 
-    @if(request()->routeIs('home'))
+    @if(request()->routeIs('home') && isset($latestBlogPost))
         <div class="nav-top ribbon-down">
             <div class="ribbon">
                 <div class="container ribbon-color">
                     <div class="row">
                         <div class="col">
                             <span>
-                                Nitrox Dev Blog &mdash; Code, time and patience.
+                                Latest from the blog {{ \Carbon\Carbon::parse($latestBlogPost['date'])->format('M j') }} &mdash; {{ $latestBlogPost['title'] }}
                             </span>
-                            <a href="https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/" target="_blank" class="stretched-link">{{ __('navigation.read_more') }}
+                            <a href="{{ $latestBlogPost['link'] }}" target="_blank" class="stretched-link">{{ __('navigation.read_more') }}
                                 <span class="material-icons" style="position: absolute;font-size: 20px;margin: 1px 0px 0px -2px;">
-                             chevron_right
-                         </span>
+                                    chevron_right
+                                </span>
                             </a>
                         </div>
                     </div>

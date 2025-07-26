@@ -14,6 +14,63 @@ The website is written with the following frameworks
 - [Laravel](https://laravel.com/)
 - [Bootstrap](https://getbootstrap.com/)
 
+## API Documentation
+
+The website provides a REST API for accessing Nitrox version information, changelogs, and blog posts.
+
+### Base URL
+```
+https://nitrox.rux.gg/api
+```
+
+### Endpoints
+
+#### Version Information
+- `GET /version/latest` - Get the latest version information
+- `GET /version/releases` - Get all available versions
+- `GET /version/{version}` - Get specific version information
+
+**Response Example:**
+```json
+{
+  "url": "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.7.1.0/Nitrox_1.7.1.0.zip",
+  "version": "1.7.1.0",
+  "filesize": "8.2",
+  "md5": "f7d25be0395feec244bc865acfa07043"
+}
+```
+
+#### Changelog Information
+- `GET /changelog/latest` - Get the latest changelog
+- `GET /changelog/releases` - Get all changelogs
+- `GET /changelog/{version}` - Get specific version changelog
+
+**Response Example:**
+```json
+{
+  "version": "1.7.1.0",
+  "released": "2023-01-03T23:48:00Z",
+  "permalink": "https://nitrox.rux.gg/pages/changelog#nitrox%C2%A01-7-1-0",
+  "patchnotes": [
+    "Minor fix and Adjustement for the Subnautica 2.0 incompatibility",
+    "Fixed a bug where Windows 7 users would not be able to open the launcher."
+  ]
+}
+```
+
+#### Blog Information
+- `GET /blog/latest` - Get the latest blog post from the Nitrox Dev Blog
+
+**Features:**
+- **Automatic updates**: The latest blog post is fetched from the WordPress API
+- **Caching**: Blog posts are cached for 1 hour
+
+**Cache Management:**
+```bash
+# Clear the blog cache
+php artisan blog:clear-cache
+```
+
 ## Translations
 To make the website more accessible we have added a translation feature. If you would like to contribute by translating the Nitrox website into another language, please add your translations to the Weblate project.
 - [Weblate translations](https://hosted.weblate.org/engage/subnauticanitrox/)

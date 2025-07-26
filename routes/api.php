@@ -21,3 +21,5 @@ Route::get('/version/{version}', [\App\Http\Controllers\Api\VersionController::c
 Route::get('/changelog/latest', [\App\Http\Controllers\Api\ChangelogController::class, 'latest'])->name('api.changelog.latest');
 Route::get('/changelog/releases', [\App\Http\Controllers\Api\ChangelogController::class, 'releases'])->name('api.changelog.releases');
 Route::get('/changelog/{version}', [\App\Http\Controllers\Api\ChangelogController::class, 'version'])->name('api.changelog');
+
+Route::get('/blog/latest', [\App\Http\Controllers\Api\BlogController::class, 'latest'])->name('api.blog.latest');
