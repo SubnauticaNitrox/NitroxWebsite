@@ -22,8 +22,11 @@
                     </a>
                 </div>
 
-                <div class="col-md-12 mt-5 text-center move-up ">
-                    <img src="{{ asset('/assets/img/launcher-2022.jpg') }}" class="img-fluid mt-3 rounded" alt="Nitrox Launcher">
+                <div class="col-md-12 mt-5 text-center move-up mb-5">
+                    <!-- <img src="{{ asset('/assets/img/launcher-2022.jpg') }}" class="img-fluid mt-3 rounded" alt="Nitrox Launcher">-->
+                    <div class="embed-responsive embed-responsive-16by9 rounded-xl shadow-lg overflow-hidden">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mdtCnXThNNw" allowfullscreen></iframe>
+</div>
                 </div>
 
             </div>
@@ -68,16 +71,22 @@
                                 <p class="lead">{{ __('home.feature.stores.description') }}</p>
                             </div>
                             <div class="col-md-6 my-auto">
-                                <div class="row">
+                                <div class="row row-cols-3 justify-content-center">
                                     <div class="col">
                                         <img src="{{ asset('/assets/img/logos/steam.png') }}" class="img-fluid" style="filter: invert(1);">
                                     </div>
                                     <div class="col">
-                                        <img src="{{ asset('/assets/img/logos/epic.png') }}" class="img-fluid" style="filter: invert(1); opacity: .25" data-toggle="tooltip" data-placement="bottom" title="{{ __('home.feature.stores.tooltip') }}">
+                                        <img src="{{ asset('/assets/img/logos/epic.png') }}" class="img-fluid" style="filter: invert(1);">
                                     </div>
                                     <div class="col">
-                                        <img src="{{ asset('/assets/img/logos/windows.png') }}" class="img-fluid" style="filter: invert(1); opacity: .25" data-toggle="tooltip" data-placement="bottom" title="{{ __('home.feature.stores.tooltip') }}">
+                                        <img src="{{ asset('/assets/img/logos/windows.png') }}" class="img-fluid" style="filter: invert(1);">
                                         <sup class="fnote" style="position: absolute; top: 3em; margin-left: -8px"><a class="text-white opacity-5 p-1 d-none" href="#footnote-1">1</a></sup>
+                                    </div>
+                                    <div class="col">
+                                        <img src="{{ asset('/assets/img/logos/mac.png') }}" class="img-fluid" style="filter: invert(1); opacity: .25" data-toggle="tooltip" data-placement="bottom" title="Currently unavailable">
+                                    </div>
+                                    <div class="col">
+                                        <img src="{{ asset('/assets/img/logos/linux.png') }}" class="img-fluid" style="filter: invert(1);">
                                     </div>
                                 </div>
                             </div>
