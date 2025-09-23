@@ -50,7 +50,7 @@
                         <div class="col text-center">
                             <div class="d-inline-block">
                                 <span class="icon-wrapper">
-                                    <img src="{{ asset('/assets/img/logos/social/bluesky-2.png') }}" width="56px" alt="Bluesky" style="background-color: #1da1f1;">
+                                    <img src="{{ asset('/assets/img/bluesky.svg') }}" width="56px" height="56px" alt="Bluesky" style="background-color: #1da1f1; padding: 12px">
                                 </span>
                             </div>
 
@@ -119,11 +119,11 @@
                         <div class="col text-center">
                             <div class="d-inline-block">
                                 <span class="icon-wrapper">
-                                    <img src="{{ asset('/assets/img/Twitter.svg') }}" width="56px" alt="Twitter" style="padding: .75rem; background-color: #1da1f1;">
+                                    <img src="{{ asset('/assets/img/x.svg') }}" width="56px" height="56px" alt="Twitter" style="padding: .75rem; background-color: #000;">
                                 </span>
                             </div>
 
-                            <h2 class="font-weight-bold mt-4">Twitter</h2>
+                            <h2 class="font-weight-bold mt-4">X</h2>
                             <p>{{ __('community.twitter') }}</p>
                             <p class="font-weight-500">
                                 <a href="https://twitter.com/modnitrox" target="_blank">{{ __('community.twitter_follow') }}

@@ -4,10 +4,25 @@
 
 return [
     [
-        "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.7.1.0/Nitrox_1.7.1.0.zip",
         "version" => "1.7.1.0",
         "filesize" => "8.2",
-        "md5" => "f7d25be0395feec244bc865acfa07043",
+        "platforms" => [
+            "windows" => [
+                "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.7.1.0/Nitrox_1.7.1.0_windows_x64.zip",
+                "architectures" => ["x64"],
+                "md5" => "f7d25be0395feec244bc865acfa07043"
+            ],
+            "linux" => [
+                "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.7.1.0/Nitrox_1.7.1.0_linux_x64.zip",
+                "architectures" => ["x64", "arm64"],
+                "md5" => "f7d25be0395feec244bc865acfa07043"
+            ],
+            "osx" => [
+                "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.7.1.0/Nitrox_1.7.1.0_osx_x64.zip",
+                "architectures" => ["x64", "arm64"],
+                "md5" => "f7d25be0395feec244bc865acfa07043"
+            ]
+        ]
     ],
     [
         "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.7.0.0/Nitrox_1.7.0.0.zip",

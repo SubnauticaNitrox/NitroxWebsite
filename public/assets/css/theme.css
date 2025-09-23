@@ -1,8 +1,8 @@
 /*!
  * Nitrox Website Theme - https://nitrox.rux.gg
- * Version - 2.0.1
+ * Version - 2.0.2
  *
- * Copyright (c) 2022 Keebfox
+ * Copyright (c) 2025 Zanethefox
  * https://github.com/SubnauticaNitrox/NitroxWebsite
  */
 
@@ -464,6 +464,12 @@ h1 .fnote {
     border-bottom: 1px solid rgba(0, 0, 0, .75);
 }
 
+.bg-darkish {
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    background: rgba(0, 0, 0, 0.5);
+}
+
 .navbar.scrolled {
     transition: border ease-in-out .2s background-color ease-in-out .2s;
     border-bottom: 1px solid rgba(255, 255, 255, 0.22);
@@ -603,7 +609,7 @@ h6 {
 }
 
 .home-cover {
-    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 1)), url(../img/cover.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 1)), url(../img/cover-1.webp);
     background-position: center;
     background-size: cover;
     position: relative;

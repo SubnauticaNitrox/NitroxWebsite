@@ -6,7 +6,7 @@
 @section('og:image', asset('/assets/img/favicon.png'))
 
 <x-layouts.default>
-    <div class="section home-cover cover-download overflow-hidden">
+    <div class="section home-cover cover-download">
         <div class="container">
             <div class="row">
 
@@ -17,15 +17,28 @@
 
                 <div class="row">
                     <div class="col d-flex align-items-center my-4">
-                        <a href="{{ route('download.start') }}" class="btn btn-lg btn-primary btn-rounded py-3 px-4 mr-4 ripple">
-                            <div class="d-flex px-2">
-                                <div class="d-flex align-items-center">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" width="24" height="24" class="mr-2"><path d="M0 0h24v24H0z" fill="none"/><path d="M19 12v7H5v-7H3v7c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-7h-2zm-6 .67l2.59-2.58L17 11.5l-5 5-5-5 1.41-1.41L11 12.67V3h2z"/></svg>
+                        <div class="d-flex flex-column flex-md-row align-items-start align-items-md-center">
+                            <a href="#" id="downloadButton" class="btn btn-lg btn-primary btn-rounded py-3 px-4 mr-4 ripple">
+                                <div class="d-flex px-2">
+                                    <div class="d-flex align-items-center">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" width="24" height="24" class="mr-2"><path d="M0 0h24v24H0z" fill="none"/><path d="M19 12v7H5v-7H3v7c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-7h-2zm-6 .67l2.59-2.58L17 11.5l-5 5-5-5 1.41-1.41L11 12.67V3h2z"/></svg>
+                                    </div>
+                                    <div class="d-flex download-text">{{ __('download.header.download') }}</div>
                                 </div>
-                                <div class="d-flex">{{ __('download.header.download') }}</div>
+                            </a>
+                            
+                            @if(isset($version['platforms']) && count($version['platforms']) > 1)
+                            <div class="dropdown ml-0 ml-md-2 mt-2 mt-md-0">
+                                <button class="btn btn-outline-secondary dropdown-toggle" type="button" id="platformDropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <small>Other Platforms</small>
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="platformDropdownButton" id="platformDropdownMenu">
+                                    <!-- Options will be populated by JavaScript -->
+                                </div>
                             </div>
-                        </a>
-                        <p class="opacity-75 mb-0 d-md-block d-none">{{ __('download.header.version') }}&nbsp;{{ $version['version'] }}&nbsp;·&nbsp;{{ $version['filesize'] }} MB</p>
+                            @endif
+                        </div>
+                        <p class="opacity-75 mb-0 d-md-block d-none ml-3">{{ __('download.header.version') }}&nbsp;{{ $version['version'] }}&nbsp;·&nbsp;{{ $version['filesize'] }} MB</p>
                     </div>
                 </div>
                 <p class="opacity-75 mb-0 d-md-none d-block">{{ __('download.header.version') }}&nbsp;{{ $version['version'] }}&nbsp;·&nbsp;{{ $version['filesize'] }} MB</p>
@@ -47,10 +60,16 @@
                     <img src="{{ asset('/assets/img/logos/steam.png') }}" class="img-fluid" style="filter: invert(1);">
                 </div>
                 <div class="col-md-2 col-4">
-                    <img src="{{ asset('/assets/img/logos/epic.png') }}" class="img-fluid" style="filter: invert(1); opacity: .25" data-toggle="tooltip" data-placement="bottom" title="Currently not available">
+                    <img src="{{ asset('/assets/img/logos/epic.png') }}" class="img-fluid" style="filter: invert(1);">
                 </div>
                 <div class="col-md-2 col-4">
-                    <img src="{{ asset('/assets/img/logos/windows.png') }}" class="img-fluid" style="filter: invert(1); opacity: .25" data-toggle="tooltip" data-placement="bottom" title="Currently not available">
+                    <img src="{{ asset('/assets/img/logos/windows.png') }}" class="img-fluid" style="filter: invert(1);">
+                </div>
+                <div class="col-md-2 col-4">
+                    <img src="{{ asset('/assets/img/logos/mac.png') }}" class="img-fluid" style="filter: invert(1); opacity: 0.5" data-toggle="tooltip" data-placement="bottom" title="Currently unavailable">
+                </div>
+                <div class="col-md-2 col-4">
+                    <img src="{{ asset('/assets/img/logos/linux.png') }}" class="img-fluid" style="filter: invert(1);" data-toggle="tooltip" data-placement="bottom" title="Currently in early-access">
                 </div>
             </div>
         </div>
@@ -99,5 +118,13 @@
     </div>
 
     <x-layouts.partials.footer-extended></x-layouts.partials.footer-extended>
+
+    @push('scripts')
+    <script>
+        // Pass version data to JavaScript
+        window.versionData = @json($version);
+    </script>
+    <script src="{{ asset('/assets/js/platform-detection.js') }}"></script>
+    @endpush
 
 </x-layouts.default>
