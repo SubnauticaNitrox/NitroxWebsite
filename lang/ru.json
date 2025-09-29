@@ -1,8 +1,8 @@
 {
     "home": {
         "meta": {
-            "title": "Nitrox для Subnautica - Мод для Subnautica, дающий возможность играть с друзьями.",
-            "description": "Nitrox - это бесплатный мультиплеер мод для игры в Subnautica, созданный сообществом nitrox."
+            "title": "Nitrox для Subnautica - Мод для Subnautica, дающий возможность играть с друзьями (мультиплеер)",
+            "description": "Nitrox - это бесплатный мультиплеер мод для игры в Subnautica, созданный сообществом Nitrox."
         },
         "hero_over": "<span>Subnautica</span> <span>Nitrox </span>",
         "hero_cta": "Скачать бесплатно",
@@ -242,7 +242,7 @@
             },
             "donate": {
                 "question": "Как я могу пожертвовать?",
-                "answer": "Мы не принимаем пожертвования.  Желающие пожертвовать деньги могут сделать это здесь :<a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+                "answer": "Мы не принимаем пожертвования. Желающие пожертвовать деньги могут сделать это здесь :<a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
             },
             "why": {
                 "question": "Почему название \"Nitrox\"?",

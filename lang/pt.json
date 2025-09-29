@@ -284,7 +284,7 @@
     "navigation": {
         "community": "Comunidade",
         "blog": "Blogue",
-        "motd": "Último post dos devs",
+        "motd": "Último post dos devs.",
         "read_more": "Lê mais",
         "home": "Início",
         "about": "Sobre",
@@ -296,7 +296,7 @@
     },
     "wiki": {
         "meta": {
-            "title": "Guias &amp; Wiki  · Subnautica Multiplayer Mod",
+            "title": "Guias &amp; Wiki · Subnautica Multiplayer Mod",
             "description": "Nitrox é um mod multijogador gratuito para o jogo Subnautica desenvolvido pela comunidade."
         },
         "title": "Bem-vindo ao Suporte Nitrox",
@@ -321,7 +321,7 @@
             },
             "play": {
                 "question": "Como posso jogar este mod?",
-                "answer": "Descarrega o instalador na secção \"Download\".  Tem em mente que isto ainda está em desenvolvimento e pode ter bugs."
+                "answer": "Descarrega o instalador na secção \"Download\". Tem em mente que isto ainda está em desenvolvimento e pode ter bugs."
             },
             "bz": {
                 "question": "O Nitrox é compatível com Subnautica: Below Zero?",
@@ -341,7 +341,7 @@
             },
             "donate": {
                 "question": "Como posso doar?",
-                "answer": "Não aceitamos doações para o mod.  Aqueles que desejem doar dinheiro podem fazê-lo aqui: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+                "answer": "Não aceitamos doações para o mod. Aqueles que desejem doar dinheiro podem fazê-lo aqui: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
             },
             "why": {
                 "question": "Porquê o nome \" Nitrox\"?",
@@ -375,6 +375,6 @@
         },
         "title": "Nitrox é construído por uma equipa apaixonada de contribuidores de código aberto.",
         "join": "Queres juntar-te à equipa?",
-        "join_description": "Também tu, podes ser um contribuidor para este mod. Tu podes desenvolver para o Nitrox ou juntar-te à equipa de suporte! Basta candidatares-te no servidor de discord ou na página de subreddit"
+        "join_description": "Também tu, podes ser um contribuidor para este mod. Tu podes desenvolver para o Nitrox ou juntar-te à equipa de suporte! Basta candidatares-te no servidor de discord ou na página de subreddit."
     }
 }

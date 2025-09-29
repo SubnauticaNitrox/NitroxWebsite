@@ -1,18 +1,18 @@
 {
     "home": {
         "meta": {
-            "title": "Nitrox for Subnautica · Subnautica Multiplayer Mod",
-            "description": "Nitrox er et gratis multiplayer mod for spillet Subnautica udviklet af fælleskabet"
+            "title": "",
+            "description": "Nitrox er et gratis multiplayer mod for spillet Subnautica udviklet af fælleskabet."
         },
         "feature": {
             "gameplay": {
                 "description": "Spil Subnautica, alt fra en overlevelses gennemgang med dine venner til en kreativ bygge session.",
-                "headline": "Gameplay",
+                "headline": "",
                 "title": "Dit gameplay"
             },
             "multiplayer": {
                 "headline": "Modifikationen",
-                "description": "Begynd endelig at spille Subnautica med venner. Join eller lav din helt egne server",
+                "description": "Begynd endelig at spille Subnautica med venner. Join eller lav din helt egne server.",
                 "title": "Nitrox flerspiller"
             },
             "server": {
@@ -109,12 +109,14 @@
         "multiplayer": "Multiplayer. <span class=\"opacity-5\">Spil Subnautica som det var designet til, Multiplayer!</span>",
         "meta": {
             "title": "Om Nitrox · Subnatica Multiplayer Mod",
-            "description": "Find ud af mere om holdet og open source Nitrox projectet!"
+            "description": "Find ud af mere om holdet og open source Nitrox projectet"
         },
         "title": "Modderer har bragt multiplayer til Subnautica.",
         "quote": "Kvote fra",
         "opensource": "Open source. <span class=\"opacity-5\">Fast støtte og opdateringer fra generøse bidragere!</span>",
-        "servers": "Kommunity. <span class=\"opacity-5\">Find nye server, få hjælp og snak med andre Nitrox spillere.</span>"
+        "servers": "Kommunity. <span class=\"opacity-5\">Find nye server, få hjælp og snak med andre Nitrox spillere.</span>",
+        "download_title": "TIDLIG ALPHA",
+        "download_header": "klar? få moddet!"
     },
     "download_start": {
         "file_size": "Fil størrelse",
