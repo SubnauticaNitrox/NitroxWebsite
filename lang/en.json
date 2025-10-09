@@ -37,7 +37,7 @@
                 "download_count": "1 M",
                 "downloads": "Downloads",
                 "discord_count": "44 K",
-                "discord": "Discord members"
+                "discord": "Discord online"
             },
             "launcher": {
                 "headline": "Experience",
@@ -269,8 +269,8 @@
         "downloads": "Downloads",
         "nexus_views": "1,267,200+",
         "nexus": "Nexus Views",
-        "discord_members": "44,000+",
-        "discord": "Discord Members",
+        "discord_members": "13,000+",
+        "discord": "Discord Online",
         "community": {
             "discord": "Nitrox Discord Server",
             "discord_description": "Chat with more than 27k members about Subnautica Multiplayer, find other players to game together and get support.",

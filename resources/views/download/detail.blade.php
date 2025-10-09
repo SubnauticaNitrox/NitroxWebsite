@@ -10,7 +10,7 @@
         <div class="container">
             <div class="row">
 
-            <div class="col-md-8 text-left pb-3 pt-3">
+            <div class="col-md-12 text-left pb-3 pt-3">
                 <span class="badge badge-primary">{{ __('download.header.alpha') }}</span>
                 <h1 class="mt-3 font-weight-bold display-3">{{ __('download.header.title') }}</h1>
                 <p class="lead opacity-75 mt-4">{{ __('download.header.subtitle') }}</p>
@@ -29,19 +29,19 @@
                             
                             @if(isset($version['platforms']) && count($version['platforms']) > 1)
                             <div class="dropdown ml-0 ml-md-2 mt-2 mt-md-0">
-                                <button class="btn btn-outline-secondary dropdown-toggle" type="button" id="platformDropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    <small>Other Platforms</small>
+                                <button class="btn btn-outline-light rounded-pill dropdown-toggle py-2" type="button" id="platformDropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <span class="pl-2">Other Platforms</span>
                                 </button>
-                                <div class="dropdown-menu" aria-labelledby="platformDropdownButton" id="platformDropdownMenu">
+                                <div class="dropdown-menu rounded-xl overflow-hidden" aria-labelledby="platformDropdownButton" id="platformDropdownMenu">
                                     <!-- Options will be populated by JavaScript -->
                                 </div>
                             </div>
                             @endif
                         </div>
-                        <p class="opacity-75 mb-0 d-md-block d-none ml-3">{{ __('download.header.version') }}&nbsp;{{ $version['version'] }}&nbsp;·&nbsp;{{ $version['filesize'] }} MB</p>
+                        <p class="opacity-75 mb-0 d-md-block d-none ml-3">{{ __('download.header.version') }}&nbsp;{{ $version['version'] }}&nbsp;·&nbsp;<span id="fileSize">{{ $version['platforms']['windows']['filesize'] ?? $version['filesize'] }}</span> MB</p>
                     </div>
                 </div>
-                <p class="opacity-75 mb-0 d-md-none d-block">{{ __('download.header.version') }}&nbsp;{{ $version['version'] }}&nbsp;·&nbsp;{{ $version['filesize'] }} MB</p>
+                <p class="opacity-75 mb-0 d-md-none d-block">{{ __('download.header.version') }}&nbsp;{{ $version['version'] }}&nbsp;·&nbsp;<span id="fileSizeMobile">{{ $version['platforms']['windows']['filesize'] ?? $version['filesize'] }}</span> MB</p>
             </div>
 
             </div>

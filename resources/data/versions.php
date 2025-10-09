@@ -4,23 +4,33 @@
 
 return [
     [
-        "version" => "1.7.1.0",
-        "filesize" => "8.2",
+        "version" => "1.8.0.0",
+        "filesize" => "8.2", // Fallback for old format compatibility
         "platforms" => [
             "windows" => [
-                "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.7.1.0/Nitrox_1.7.1.0_windows_x64.zip",
-                "architectures" => ["x64"],
-                "md5" => "f7d25be0395feec244bc865acfa07043"
+                "filesize" => "24.8",
+                "architectures" => [
+                    "x64" => [
+                        "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.8.0.0/Nitrox_1.8.0.0_win_x64.zip",
+                        "md5" => "4bee98aa3ec0709a0402fa30468dfd39",
+                        "filesize" => "24.8"
+                    ]
+                ]
             ],
             "linux" => [
-                "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.7.1.0/Nitrox_1.7.1.0_linux_x64.zip",
-                "architectures" => ["x64", "arm64"],
-                "md5" => "f7d25be0395feec244bc865acfa07043"
-            ],
-            "osx" => [
-                "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.7.1.0/Nitrox_1.7.1.0_osx_x64.zip",
-                "architectures" => ["x64", "arm64"],
-                "md5" => "f7d25be0395feec244bc865acfa07043"
+                "filesize" => "22.8", // Default to x64 size
+                "architectures" => [
+                    "x64" => [
+                        "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.8.0.0/Nitrox_1.8.0.0_linux_x64.zip",
+                        "md5" => "97ae9b0c079b928e57a56ed5b91c2bf5",
+                        "filesize" => "22.8"
+                    ],
+                    "arm64" => [
+                        "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.8.0.0/Nitrox_1.8.0.0_linux_arm64.zip",
+                        "md5" => "0801fb4d9c515e73234cc8ba7d4921a4",
+                        "filesize" => "22.3"
+                    ]
+                ]
             ]
         ]
     ],

@@ -23,3 +23,10 @@ Route::get('/changelog/releases', [\App\Http\Controllers\Api\ChangelogController
 Route::get('/changelog/{version}', [\App\Http\Controllers\Api\ChangelogController::class, 'version'])->name('api.changelog');
 
 Route::get('/blog/latest', [\App\Http\Controllers\Api\BlogController::class, 'latest'])->name('api.blog.latest');
+
+Route::middleware('throttle:60,1')->group(function () {
+    Route::get('/stats/community', [\App\Http\Controllers\Api\StatsController::class, 'community'])->name('api.stats.community');
+    Route::get('/stats/downloads', [\App\Http\Controllers\Api\StatsController::class, 'downloads'])->name('api.stats.downloads');
+    Route::get('/stats/discord', [\App\Http\Controllers\Api\StatsController::class, 'discord'])->name('api.stats.discord');
+    Route::get('/stats/nexus', [\App\Http\Controllers\Api\StatsController::class, 'nexus'])->name('api.stats.nexus');
+});

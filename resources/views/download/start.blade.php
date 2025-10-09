@@ -87,7 +87,7 @@
 
             <div class="col-3 text-left mb-3">
                 <h6>{{ __('download_start.file_size') }}</h6>
-                <h4>{{ $version['filesize'] }} MB</h4>
+                <h4>{{ $selectedDownload['filesize'] ?? $version['filesize'] }} MB</h4>
             </div>
 
             <div class="col-3 text-left mb-3">

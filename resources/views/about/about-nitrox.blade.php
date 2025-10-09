@@ -86,15 +86,15 @@
                     <h1 class="mb-5 mt-4 font-weight-bold">{{ __('about.metrics') }}</h1>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <h1 class="font-weight-bold">{{ __('about.download_count') }}</h1>
+                    <h1 class="font-weight-bold">{{ $stats['downloads'] ?? __('about.download_count') }}</h1>
                     <h6>{{ __('about.downloads') }}</h6>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <h1 class="font-weight-bold">{{ __('about.user_count') }}</h1>
-                    <h6>{{ __('about.users') }}</h6>
+                    <h1 class="font-weight-bold">{{ $stats['nexus_views'] ?? __('about.nexus_views') }}</h1>
+                    <h6>{{ __('about.nexus') }}</h6>
                 </div>
                 <div class="col-md-4 mb-3">
-                    <h1 class="font-weight-bold">{{ __('about.discord_members') }}</h1>
+                    <h1 class="font-weight-bold">{{ $stats['discord_members'] ?? __('about.discord_members') }}</h1>
                     <h6>{{ __('about.discord') }}</h6>
                 </div>
             </div>

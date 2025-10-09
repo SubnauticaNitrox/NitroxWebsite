@@ -3,15 +3,17 @@
 namespace App\Http\Controllers;
 
 use App\Models\Version;
+use App\Services\StatsService;
 
 class HomeController extends Controller
 {
-    public function __invoke()
+    public function __invoke(StatsService $statsService)
     {
         $version = collect(require_once resource_path('data/versions.php'))->first();
         $version = $this->normalizeVersion($version);
+        $stats = $statsService->getCommunityStats();
 
-        return view('home', compact('version'));
+        return view('home', compact('version', 'stats'));
     }
 
     /**
@@ -31,9 +33,12 @@ class HomeController extends Controller
                 'filesize' => $version['filesize'],
                 'platforms' => [
                     'windows' => [
-                        'url' => $version['url'],
-                        'architectures' => ['x64'],
-                        'md5' => $version['md5']
+                        'architectures' => [
+                            'x64' => [
+                                'url' => $version['url'],
+                                'md5' => $version['md5']
+                            ]
+                        ]
                     ]
                 ]
             ];

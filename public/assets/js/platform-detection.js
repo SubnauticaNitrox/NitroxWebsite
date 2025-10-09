@@ -85,22 +85,27 @@ class PlatformDetection {
             const platformData = versionData.platforms[platform];
             
             // Check if the detected architecture is supported
-            if (platformData.architectures && platformData.architectures.includes(architecture)) {
+            if (platformData.architectures && platformData.architectures[architecture]) {
+                const archData = platformData.architectures[architecture];
                 return {
-                    url: platformData.url,
+                    url: archData.url,
                     platform: platform,
                     architecture: architecture,
-                    md5: platformData.md5
+                    md5: archData.md5,
+                    filesize: archData.filesize || platformData.filesize
                 };
             }
             
             // Fallback to first available architecture
-            if (platformData.architectures && platformData.architectures.length > 0) {
+            if (platformData.architectures && Object.keys(platformData.architectures).length > 0) {
+                const firstArch = Object.keys(platformData.architectures)[0];
+                const archData = platformData.architectures[firstArch];
                 return {
-                    url: platformData.url,
+                    url: archData.url,
                     platform: platform,
-                    architecture: platformData.architectures[0],
-                    md5: platformData.md5
+                    architecture: firstArch,
+                    md5: archData.md5,
+                    filesize: archData.filesize || platformData.filesize
                 };
             }
         }
@@ -109,12 +114,17 @@ class PlatformDetection {
         const firstPlatform = Object.keys(versionData.platforms)[0];
         if (firstPlatform) {
             const platformData = versionData.platforms[firstPlatform];
-            return {
-                url: platformData.url,
-                platform: firstPlatform,
-                architecture: platformData.architectures ? platformData.architectures[0] : 'x64',
-                md5: platformData.md5
-            };
+            if (platformData.architectures && Object.keys(platformData.architectures).length > 0) {
+                const firstArch = Object.keys(platformData.architectures)[0];
+                const archData = platformData.architectures[firstArch];
+                return {
+                    url: archData.url,
+                    platform: firstPlatform,
+                    architecture: firstArch,
+                    md5: archData.md5,
+                    filesize: archData.filesize || platformData.filesize
+                };
+            }
         }
 
         return null;
@@ -134,33 +144,57 @@ class PlatformDetection {
             const platformData = versionData.platforms[platform];
             const platformName = this.platforms[platform] || platform;
             
-            if (platformData.architectures && platformData.architectures.length > 1) {
+            if (platformData.architectures && Object.keys(platformData.architectures).length > 1) {
                 // Multiple architectures available
-                platformData.architectures.forEach(arch => {
+                Object.keys(platformData.architectures).forEach(arch => {
+                    const archData = platformData.architectures[arch];
                     options.push({
                         value: `${platform}_${arch}`,
                         label: `${platformName} (${this.architectures[arch] || arch})`,
-                        url: platformData.url,
+                        url: archData.url,
                         platform: platform,
                         architecture: arch,
-                        md5: platformData.md5
+                        md5: archData.md5,
+                        filesize: archData.filesize || platformData.filesize
                     });
                 });
             } else {
                 // Single architecture
-                const arch = platformData.architectures ? platformData.architectures[0] : 'x64';
+                const archKeys = platformData.architectures ? Object.keys(platformData.architectures) : ['x64'];
+                const arch = archKeys[0];
+                const archData = platformData.architectures ? platformData.architectures[arch] : { url: platformData.url, md5: platformData.md5 };
                 options.push({
                     value: platform,
                     label: platformName,
-                    url: platformData.url,
+                    url: archData.url,
                     platform: platform,
                     architecture: arch,
-                    md5: platformData.md5
+                    md5: archData.md5,
+                    filesize: archData.filesize || platformData.filesize
                 });
             }
         });
 
         return options;
+    }
+
+    /**
+     * Update file size display elements
+     */
+    updateFileSizeDisplay(filesize) {
+        if (!filesize) return;
+        
+        // Update desktop file size display
+        const fileSizeElement = document.getElementById('fileSize');
+        if (fileSizeElement) {
+            fileSizeElement.textContent = filesize;
+        }
+        
+        // Update mobile file size display
+        const fileSizeMobileElement = document.getElementById('fileSizeMobile');
+        if (fileSizeMobileElement) {
+            fileSizeMobileElement.textContent = filesize;
+        }
     }
 
     /**
@@ -186,6 +220,9 @@ class PlatformDetection {
             if (buttonText) {
                 buttonText.textContent = `Download for ${this.platforms[bestDownload.platform] || bestDownload.platform}`;
             }
+            
+            // Update file size display
+            this.updateFileSizeDisplay(bestDownload.filesize);
         }
 
         // Generate platform options for dropdown
@@ -226,6 +263,9 @@ class PlatformDetection {
                     if (buttonText) {
                         buttonText.textContent = `Download for ${option.label}`;
                     }
+                    
+                    // Update file size display
+                    this.updateFileSizeDisplay(option.filesize);
                     
                     // Close dropdown
                     const dropdown = optionElement.closest('.dropdown');

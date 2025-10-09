@@ -50,9 +50,12 @@ class VersionController extends Controller
                 'filesize' => $version['filesize'],
                 'platforms' => [
                     'windows' => [
-                        'url' => $version['url'],
-                        'architectures' => ['x64'],
-                        'md5' => $version['md5']
+                        'architectures' => [
+                            'x64' => [
+                                'url' => $version['url'],
+                                'md5' => $version['md5']
+                            ]
+                        ]
                     ]
                 ]
             ];

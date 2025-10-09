@@ -234,7 +234,8 @@ h1 .fnote {
 }
 
 .about-intro span,
-.about-intro .btn {
+.about-intro .btn,
+.about-intro .btn-disclaimer {
     -webkit-animation-duration: 0.6s;
     animation-duration: 0.6s;
     -webkit-animation-fill-mode: both;
@@ -274,9 +275,24 @@ h1 .fnote {
     animation-delay: 0.5s;
 }
 
+.about-intro span:nth-child(7) {
+    -webkit-animation-delay: 0.55s;
+    animation-delay: 0.55s;
+}
+
+.about-intro span:nth-child(8) {
+    -webkit-animation-delay: 0.6s;
+    animation-delay: 0.6s;
+}
+
 .about-intro .btn {
     -webkit-animation-delay: 0.75s;
     animation-delay: 0.75s;
+}
+
+.about-intro .btn-disclaimer {
+    -webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
 }
 
 @-webkit-keyframes fadeInHero {

@@ -232,6 +232,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         App\Providers\BlogViewServiceProvider::class,
+        App\Providers\StatsViewServiceProvider::class,
 
     ],
 

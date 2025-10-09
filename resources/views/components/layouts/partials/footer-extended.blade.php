@@ -8,23 +8,18 @@
         </div>
 
         <div class="row mb-4 mt-2 d-none d-md-flex">
-            <div class="col-md-3 col-6 mb-3">
-                <h1>{{ __('footer-extended.user_count') }}</h1>
-                <h6>{{ __('footer-extended.users') }}</h6>
-            </div>
-
-            <div class="col-md-3 col-6 mb-3">
-                <h1>{{ __('footer-extended.download_count') }}</h1>
+            <div class="col-md-4 col-6 mb-3">
+                <h1>{{ $stats['downloads'] ?? __('footer-extended.download_count') }}</h1>
                 <h6>{{ __('footer-extended.downloads') }}</h6>
             </div>
 
-            <div class="col-md-3 col-6 mb-3">
-                <h1>{{ __('footer-extended.nexus_views') }}</h1>
+            <div class="col-md-4 col-6 mb-3">
+                <h1>{{ $stats['nexus_views'] ?? __('footer-extended.nexus_views') }}</h1>
                 <h6>{{ __('footer-extended.nexus') }}</h6>
             </div>
 
-            <div class="col-md-3 col-6 mb-3">
-                <h1>{{ __('footer-extended.discord_members') }}</h1>
+            <div class="col-md-4 col-6 mb-3">
+                <h1>{{ $stats['discord_members'] ?? __('footer-extended.discord_members') }}</h1>
                 <h6>{{ __('footer-extended.discord') }}</h6>
             </div>
         </div>
@@ -54,7 +49,7 @@
                     <div class="card-body text-left p-5">
                         <div class="d-inline-block">
                             <span class="icon-wrapper">
-                                <img src="{{ asset('/assets/img/logos/social/bluesky.png') }}" width="56px" alt="Bluesky" style=" background-color: #1da1f1;">
+                                <img src="{{ asset('/assets/img/bluesky.svg') }}" width="56px" height="56px" alt="Bluesky" style="background-color: #1da1f1; padding: 12px">
                             </span>
                         </div>
                         <h5 class="card-title mt-3 font-weight-bold">{{ __('footer-extended.community.bluesky') }}</h5>

@@ -8,8 +8,8 @@ class DownloadController extends Controller
 {
     public function downloadDetail()
     {
-        $version = collect(require_once resource_path('data/versions.php'))->first();
-        $changelog = collect(require_once resource_path('data/changelogs.php'))->first();
+        $version = collect(require resource_path('data/versions.php'))->first();
+        $changelog = collect(require resource_path('data/changelogs.php'))->first();
 
         // Handle both old and new version formats
         $version = $this->normalizeVersion($version);
@@ -19,7 +19,7 @@ class DownloadController extends Controller
 
     public function downloadStart(Request $request)
     {
-        $version = collect(require_once resource_path('data/versions.php'))->first();
+        $version = collect(require resource_path('data/versions.php'))->first();
 
         // Handle both old and new version formats
         $version = $this->normalizeVersion($version);
@@ -36,14 +36,17 @@ class DownloadController extends Controller
             $firstPlatform = array_key_first($version['platforms']);
             if ($firstPlatform) {
                 $platformData = $version['platforms'][$firstPlatform];
+                $firstArch = array_key_first($platformData['architectures'] ?? []);
+                $archData = $platformData['architectures'][$firstArch] ?? [];
                 $selectedDownload = [
-                    'url' => $platformData['url'],
+                    'url' => $archData['url'] ?? $platformData['url'] ?? '',
                     'platform' => $firstPlatform,
-                    'architecture' => $platformData['architectures'][0] ?? 'x64',
-                    'md5' => $platformData['md5']
+                    'architecture' => $firstArch ?? 'x64',
+                    'md5' => $archData['md5'] ?? $platformData['md5'] ?? '',
+                    'filesize' => $archData['filesize'] ?? $platformData['filesize'] ?? $version['filesize']
                 ];
                 $platform = $firstPlatform;
-                $architecture = $platformData['architectures'][0] ?? 'x64';
+                $architecture = $firstArch ?? 'x64';
             }
         }
 
@@ -88,22 +91,27 @@ class DownloadController extends Controller
             $platformData = $version['platforms'][$platform];
             
             // Check if the requested architecture is supported
-            if (isset($platformData['architectures']) && in_array($architecture, $platformData['architectures'])) {
+            if (isset($platformData['architectures'][$architecture])) {
+                $archData = $platformData['architectures'][$architecture];
                 return [
-                    'url' => $platformData['url'],
+                    'url' => $archData['url'],
                     'platform' => $platform,
                     'architecture' => $architecture,
-                    'md5' => $platformData['md5']
+                    'md5' => $archData['md5'],
+                    'filesize' => $archData['filesize'] ?? $platformData['filesize'] ?? $version['filesize']
                 ];
             }
             
             // Fallback to first available architecture
             if (isset($platformData['architectures']) && count($platformData['architectures']) > 0) {
+                $firstArch = array_key_first($platformData['architectures']);
+                $archData = $platformData['architectures'][$firstArch];
                 return [
-                    'url' => $platformData['url'],
+                    'url' => $archData['url'],
                     'platform' => $platform,
-                    'architecture' => $platformData['architectures'][0],
-                    'md5' => $platformData['md5']
+                    'architecture' => $firstArch,
+                    'md5' => $archData['md5'],
+                    'filesize' => $archData['filesize'] ?? $platformData['filesize'] ?? $version['filesize']
                 ];
             }
         }
@@ -113,12 +121,17 @@ class DownloadController extends Controller
             $firstPlatform = array_key_first($version['platforms']);
             if ($firstPlatform) {
                 $platformData = $version['platforms'][$firstPlatform];
-                return [
-                    'url' => $platformData['url'],
-                    'platform' => $firstPlatform,
-                    'architecture' => $platformData['architectures'][0] ?? 'x64',
-                    'md5' => $platformData['md5']
-                ];
+                if (isset($platformData['architectures']) && count($platformData['architectures']) > 0) {
+                    $firstArch = array_key_first($platformData['architectures']);
+                    $archData = $platformData['architectures'][$firstArch];
+                    return [
+                        'url' => $archData['url'],
+                        'platform' => $firstPlatform,
+                        'architecture' => $firstArch,
+                        'md5' => $archData['md5'],
+                        'filesize' => $archData['filesize'] ?? $platformData['filesize'] ?? $version['filesize']
+                    ];
+                }
             }
         }
 
@@ -128,7 +141,8 @@ class DownloadController extends Controller
                 'url' => $version['url'],
                 'platform' => 'windows',
                 'architecture' => 'x64',
-                'md5' => $version['md5']
+                'md5' => $version['md5'],
+                'filesize' => $version['filesize']
             ];
         }
 
