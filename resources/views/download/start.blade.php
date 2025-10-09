@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-md-12 text-left mb-5">
                 <h1 class="mt-5 font-weight-bold display-3">{{ __('download_start.header.started') }}</h1>
-                <p class="lead opacity-75">{!! __('download_start.header.helper') !!}<a href="{{ $version['url'] }}" id="restartDownload">{{ __('download_start.header.helper_link') }}</a>.</p>
+                <p class="lead opacity-75">{!! __('download_start.header.helper') !!}<a href="{{ $selectedDownload['url'] ?? '#' }}" id="restartDownload">{{ __('download_start.header.helper_link') }}</a>.</p>
             </div>
         </div>
     </div>
@@ -87,7 +87,7 @@
 
             <div class="col-3 text-left mb-3">
                 <h6>{{ __('download_start.file_size') }}</h6>
-                <h4>{{ $version['filesize'] }} MB</h4>
+                <h4>{{ $selectedDownload['filesize'] ?? $version['filesize'] }} MB</h4>
             </div>
 
             <div class="col-3 text-left mb-3">
@@ -95,9 +95,14 @@
                 <h4>{{ $version['version'] }}</h4>
             </div>
 
-            <div class="col-4 text-left mb-3">
+            <div class="col-3 text-left mb-3">
+                <h6>Platform</h6>
+                <h4>{{ ucfirst($platform) }} ({{ strtoupper($architecture) }})</h4>
+            </div>
+
+            <div class="col-3 text-left mb-3">
                 <h6>{{ __('download_start.md5') }}</h6>
-                <kbd>{{ $version['md5'] }}</kbd>
+                <kbd id="versionMd5">{{ $selectedDownload['md5'] ?? 'N/A' }}</kbd>
             </div>
         </div>
 
@@ -106,17 +111,36 @@
 
 @push('scripts')
 <script>
+// Pass version data to JavaScript
+window.versionData = @json($version);
+window.selectedDownload = @json($selectedDownload);
+
 var timeleft = 1;
 var downloadTimer = setInterval(function(){
     if(timeleft <= 0){
         clearInterval(downloadTimer);
         document.getElementById("countdowntimer").innerHTML = "";
-        document.location.href = '{{ $version['url'] }}';
+        
+        // Use the selected download URL
+        if (window.selectedDownload && window.selectedDownload.url) {
+            document.location.href = window.selectedDownload.url;
+        } else {
+            // Fallback for old format
+            document.location.href = '{{ $version['url'] ?? '#' }}';
+        }
     } else {
         document.getElementById("countdowntimer").innerHTML = timeleft;
     }
     timeleft -= 1;
 }, 1000);
+
+// Set up restart download link
+document.addEventListener('DOMContentLoaded', function() {
+    const restartLink = document.getElementById('restartDownload');
+    if (restartLink && window.selectedDownload) {
+        restartLink.href = window.selectedDownload.url;
+    }
+});
 </script>
 @endpush
 

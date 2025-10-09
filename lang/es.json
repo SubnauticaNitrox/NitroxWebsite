@@ -314,7 +314,7 @@
             },
             "contribute": {
                 "question": "¿Cómo puedo contribuir?",
-                "answer": "Simplemente envía una solicitud de extracción en la <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">página de GitHub</a>. No dudes en unirte también a nosotros en nuestro <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">Canal de Discord</a> para discutir e intercambiar comentarios o ideas con otros colaboradores, desarrolladores y jugadores."
+                "answer": "Simplemente envía una solicitud de extracción en la <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">página de GitHub</a>. Para información detallada sobre el proyecto, configuración de un entorno de desarrollo y pautas de contribución, consulta nuestra <a href=\"https://subnauticanitrox.github.io/Documentation/docs/intro\" target=\"_blank\">documentación</a>. No dudes en unirte también a nosotros en nuestro <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">Canal de Discord</a> para discutir e intercambiar comentarios o ideas con otros colaboradores, desarrolladores y jugadores."
             },
             "donate": {
                 "question": "¿Cómo puedo donar?",
