@@ -60,7 +60,7 @@
             "host": {
                 "headline": "Paleisti",
                 "subtitle": "Max. Vietos",
-                "description": "Lengvai sukurkite didelį žaidėjų renginį iki 100 žmonių"
+                "description": "Lengvai sukurkite didelį žaidėjų renginį iki 100 žmonių."
             },
             "server": {
                 "headline": "Viešasis Serveris",
@@ -145,7 +145,7 @@
         "multiplayer": "Su draugais. <span class=\"opacity-5\">Žaisk 'Subnautica' kaip reikėjo kad būtų, su kitais.</span>",
         "meta": {
             "description": "Sužinok daugiau apie komanda ir atviro kodo 'Nitrox' projectą",
-            "title": "Apie 'Nitrox'  · 'Subnautica' su kitais modifikacija"
+            "title": "Apie Nitrox · Subnautica su kitais modifikacija"
         },
         "users": "Naudotojai",
         "discord_members": "27,000+",
@@ -180,13 +180,13 @@
         "dev_resources_info": "Perskaityk kaip pradėti ir kodo pateikimo gaires per „GitHub“.",
         "dev_resources_code": "Kodo wiki",
         "dev_resources_contribute": "Prisidėjimas",
-        "title": "Maitinamas<br>atviro kodo",
+        "title": "Maitinamas<br>atviro kodo.",
         "hero": "Atviras kodas yra iki 'Nitrox' širdies. <span class=\"opacity-5\">Modifikacija yra labai ankstyvos versijos programavimo; tačiau, kietas pamatas buvo padėtas bendruomenes.</span>"
     },
     "resources": {
         "images": "Nuotraukos",
         "meta": {
-            "title": "Oficiali 'Nitrox' resurcai  · Logotipas, tipografija, nuotraukos",
+            "title": "Oficiali 'Nitrox' resurcai · Logotipas, tipografija, nuotraukos",
             "description": "Parsisiųsk oficialią 'Nitrox' modifikacijos resursus įskaitant logotipą, šriftus, nuotraukos ir daugiau."
         },
         "title": "'Nitrox' <span class=\"opacity-5\">Resursai</span>",

@@ -1,0 +1,72 @@
+{
+    "home": {
+        "meta": {
+            "title": "Nitrox cho Subnautica · Mod Subnautica nhiều người chơi",
+            "description": "Nitrox là một mod nhiều người chơi miễn phí cho trò chơi subnautica do cộng đồng phát triển."
+        },
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_slogan": "<span>Mod</span> <span>nhiều người chơi</span> <span>của bạn</span> <span>cho</span> <span>Subnautica.</span>",
+        "hero_cta": "Tải xuống miễn phí",
+        "feature": {
+            "multiplayer": {
+                "headline": "Bản mod",
+                "title": "Nitrox nhiều người chơi",
+                "description": "Cuối cùng, hãy bắt đầu chơi Subnautica cùng bạn bè. Tham gia hoặc tạo máy chủ của riêng bạn."
+            },
+            "stores": {
+                "headline": "Hiện đang hỗ trợ các cửa hàng",
+                "title": "Đa nền tảng",
+                "description": "Tương thích với các nền tảng cửa hàng mà bạn yêu thích. Hỗ trợ chơi chéo được tích hợp sẵn trong mod, mang lại trải nghiệm nhiều người chơi mượt mà.",
+                "tooltip": "Hiện tại không khả dụng"
+            },
+            "gameplay": {
+                "headline": "Lối chơi",
+                "title": "Lối chơi của bạn",
+                "description": "Khám phá Subnautica, từ chế độ sinh tồn bên bạn bè đến những buổi xây dựng thỏa sức sáng tạo."
+            },
+            "code": {
+                "headline": "Mã nguồn",
+                "title": "Mã nguồn mở",
+                "description": "Hỗ trợ thường xuyên và cập nhật từ những người đóng góp hào phóng. Đóng góp và làm cho mod tốt hơn."
+            },
+            "community": {
+                "headline": "Cộng đồng",
+                "title": "Cộng đồng người chơi",
+                "description": "Hãy trở thành một phần của cộng đồng Nitrox lớn mạnh và đang không ngừng phát triển. Tìm máy chủ mới, nhận hỗ trợ và trò chuyện với những người chơi Nitrox khác.",
+                "downloads": "Lượt tải xuống",
+                "discord": "Số thành viên Discord"
+            },
+            "launcher": {
+                "headline": "Trải nghiệm",
+                "title": "Trình khởi chạy Nitrox",
+                "description": "Sử dụng trình khởi chạy Nitrox, hiện có sẵn cho Windows. Với giao diện người dùng được thiết kế tốt để giúp chơi nhiều người chơi dễ dàng hơn.",
+                "view": "Xem ý tưởng đang trong quá trình hoàn thiện"
+            },
+            "chat": {
+                "headline": "Giao tiếp",
+                "title": "Tin nhắn trong trò chơi",
+                "description": "Giữ liên lạc với bạn bè qua hệ thống nhắn tin tích hợp, hỗ trợ đa nền tảng của Nitrox."
+            },
+            "upnp": {
+                "headline": "Hỗ trợ UPnP",
+                "title": "Tự động mở cổng",
+                "description": "Nitrox tự động mở các cổng cần thiết, giúp bạn kết nối với bạn bè ngay lập tức mà không cần phần mềm VPN bên thứ ba."
+            },
+            "lang": {
+                "headline": "Ngôn ngữ được cộng đồng bổ sung",
+                "title": "Nitrox cũng nói ngôn ngữ của bạn.",
+                "languages": "Tiếng Bulgaria, Tiếng Trung, Tiếng Croatia, Tiếng Séc, Tiếng Hà Lan, Tiếng Anh, Tiếng Phần Lan, Tiếng Pháp, Tiếng Đức, Tiếng Hy Lạp, Tiếng Hungary, Tiếng Ý, Tiếng Nhật, Tiếng Hàn, Tiếng Na Uy, Tiếng Ba Lan, Tiếng Bồ Đào Nha, Tiếng Bồ Đào Nha (Brazil), Tiếng Romania, Tiếng Nga, Tiếng Slovakia, Tiếng Slovenia, Tiếng Tây Ban Nha, Tiếng Thụy Điển, Tiếng Thái, Tiếng Thổ Nhĩ Kỳ, Tiếng Ukraina, Tiếng Việt, …",
+                "link": "Đóng góp và thêm ngôn ngữ của bạn"
+            },
+            "host": {
+                "headline": "Chủ phòng",
+                "description": "Mở server dễ dàng, hỗ trợ lên tới 100 người chơi.",
+                "subtitle": "Số người chơi tối đa"
+            },
+            "play": {
+                "headline": "Chơi"
+            }
+        },
+        "explore": "Trải nghiệm Subnautica <span class=\"opacity-5\">như một trò chơi hoàn toàn mới. Hợp tác. Khám phá độ sâu mới. Xây dựng các căn cứ hoành tráng. </span>"
+    }
+}
