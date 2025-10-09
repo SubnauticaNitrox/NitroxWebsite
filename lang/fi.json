@@ -73,7 +73,7 @@
         },
         "meta": {
             "description": "Nitrox on yhteisön kehittämä, ilmainen moninpelimodi Subnautica-peliin.",
-            "title": "Nitrox Subnauticalle · Subnautica Moninpelimodi"
+            "title": "Nitrox Subnauticalle · Subnautica moninpelimodi"
         },
         "nextsteps": {
             "get": {
@@ -108,7 +108,7 @@
     },
     "download_start": {
         "meta": {
-            "title": "Lataus aloitettu... · Subnautica Moninpelimodi",
+            "title": "Lataus aloitettu... · Subnautica moninpelimodi",
             "description": "Lataa Nitrox: ilmainen yhteisön tekemä moninpelimodi Subnauticalle."
         },
         "header": {
@@ -138,7 +138,7 @@
         "twitter": "Seuraa Nitroxin Twitter-tiliä ollaksesi aina perillä uusista päivityksistä ja tapahtumista.",
         "twitter_follow": "Seuraa Twitterissä",
         "reddit": "Liity Nitroxin subredditille pysyäksesi perillä uusista julkaisuista ja julkaise itse yhteisösisältöä.",
-        "reddit_join": "Liity Subredditille Redditissä",
+        "reddit_join": "Liity subredditille Redditissä",
         "github_link": "Osallistu GitHub:issa",
         "github": "Haluatko olla osana tiimiä? Osallistu, koodista käännöksiin Nitrox-projektiin GitHub:issa.",
         "bluesky_follow": "Seuraa Blueskyssa",
@@ -157,11 +157,11 @@
         "opensource": "Avoin lähdekoodi. <span class=\"opacity-5\">Säännöllistä tukea ja päivityksiä anteliailta osallistujilta.</span>",
         "servers": "Yhteisö. <span class=\"opacity-5\">Löydä uusia palvelimia, saa apua ja keskustele toisten Nitrox-pelaajien kanssa.</span>",
         "metrics": "Meidän tilastot",
-        "download_count": "1,000,000+",
+        "download_count": "1 000 000+",
         "downloads": "Latauksia",
-        "user_count": "500,250+",
+        "user_count": "500 250+",
         "users": "Käyttäjää",
-        "discord_members": "27,000+",
+        "discord_members": "27 000+",
         "discord": "Discord-Jäseniä",
         "featured": "Näytetty myös",
         "download_title": "AIKAINEN ALFA",
@@ -189,7 +189,7 @@
     },
     "resources": {
         "meta": {
-            "title": "Viralliset Nitrox Resurssit · Logo, fontit, kuvat",
+            "title": "Viralliset Nitrox resurssit · Logo, fontit, kuvat",
             "description": "Lataa viralliset Nitrox-modin resurssit, mukaan lukien logo, fontit, kuvat ja enemmän."
         },
         "title": "Nitrox <span class=\"opacity-5\">Resurssit</span>",
@@ -245,7 +245,7 @@
         },
         "title": "Nitroxia rakentaa intohimoinen avoimen lähdekoodin osallistuja tiimi.",
         "join": "Haluatko liittyä tiimiin?",
-        "join_description": "Sinäkin voit osallistua modin kehittämiseen. Voit osallistua Nitroxiin kehitykseen tai liittyä tukitiimiin! Pistä vain viestiä discord-palvelimeen tai subreddit-sivulle"
+        "join_description": "Sinäkin voit osallistua modin kehittämiseen. Voit osallistua Nitroxiin kehitykseen tai liittyä tukitiimiin! Pistä vain viestiä discord-palvelimeen tai subreddit-sivulle."
     },
     "changelog": {
         "meta": {
@@ -266,7 +266,7 @@
         "discord": "Discord-jäsenet",
         "community": {
             "discord": "Nitroxin Discord-palvelin",
-            "discord_description": "Keskustele yli 27,000 jäsenen kanssa Subnautica moninpelistä, löydä muita pelaajia pelaamaan yhdessä ja saa apua.",
+            "discord_description": "Keskustele yli 27 000 jäsenen kanssa Subnautica moninpelistä, löydä muita pelaajia pelaamaan yhdessä ja saa apua.",
             "discord_join": "Klikkaa liittyäksesi Discordiin",
             "twitter": "Seuraa Twitterissä",
             "twitter_description": "Seuraa Twitterissä, että olet aina ajan tasalla tietojen, oivallusten ja paljon muun kanssa.",
@@ -315,7 +315,7 @@
     },
     "wiki": {
         "meta": {
-            "title": "Oppaat ja Wiki · Subnautica moninpeli-Mod",
+            "title": "Oppaat ja Wiki · Subnautica moninpeli -modi",
             "description": "Nitrox on yhteisön kehittämä, ilmainen moninpelimodi Subnautica-peliin."
         },
         "title": "Tervetuloa Nitroxin tukeen",

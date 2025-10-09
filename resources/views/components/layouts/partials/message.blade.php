@@ -4,7 +4,7 @@
             <span class="material-icons" style="font-size: 20px;">close</span>
         </button>
         <div class="d-flex">
-            <img src="{{ asset('assets/img/logos/social/bluesky.png') }}" alt="Bluesky" width="24px" height="24px" class="d-flex mr-2 rounded-8">
+            <img src="{{ asset('assets/img/logos/social/Bluesky_Logo.svg') }}" alt="Bluesky" width="24px" height="24px" class="d-flex mr-2 rounded-8">
             <h5 class="font-weight-bold d-flex ms-1">Follow Nitrox on Bluesky.</h5>
         </div>
 

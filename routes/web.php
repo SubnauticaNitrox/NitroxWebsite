@@ -39,7 +39,6 @@ Route::view('/about/team', 'about.team')->name('about.team');
 Route::redirect('/deeplink/download/latest', config('nitrox.download_url'), 302);
 
 Route::view('/features/resources', 'features.resources')->name('features.resources');
-Route::view('/features/launcher', 'features.launcher')->name('features.launcher');
 Route::view('/features/server', 'features.server')->name('features.server');
 Route::view('/features/open-source', 'features.open-source')->name('features.open-source');
 

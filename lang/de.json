@@ -307,7 +307,7 @@
                 "question": "Ist Nitrox kompatibel mit Subnautica: Below Zero?"
             },
             "contribute": {
-                "answer": "Erstelle einfach einen Pull-Request auf der<a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">GitHub Seite</a>. Du kannst auch gerne an unserem <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">Diskord-Kanal</a> teilnehmen, um Feedback und Ideen mit anderen Mitwirkenden, Entwicklern und Spielern zu diskutieren und auszutauschen.",
+                "answer": "Erstelle einfach einen Pull-Request auf der <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">GitHub Seite</a>. Für detaillierte Informationen über das Projekt, die Einrichtung einer Entwicklungsumgebung und Beitragsrichtlinien, schaue dir unsere <a href=\"https://subnauticanitrox.github.io/Documentation/docs/intro\" target=\"_blank\">Dokumentation</a> an. Du kannst auch gerne an unserem <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">Diskord-Kanal</a> teilnehmen, um Feedback und Ideen mit anderen Mitwirkenden, Entwicklern und Spielern zu diskutieren und auszutauschen.",
                 "question": "Wie kann ich dazu beitragen?"
             },
             "why": {

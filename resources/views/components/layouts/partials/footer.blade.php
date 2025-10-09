@@ -88,14 +88,14 @@
                     </a>
                     <small class="d-inline-block mt-3 mb-3 text-white">© {{ Carbon\Carbon::now()->format('Y') }} Nitrox &#183</small>
                     <small class="d-inline-block mt-3 mb-3">
-                        <a class="text-white opacity-5" href="https://github.com/zanethefox" target="_blank">Design + Code by Rux</a>
+                        <a class="text-white opacity-5" href="https://github.com/zanethefox" target="_blank">Website by Zane (Rux)</a>
                     </small>
                 </div>
                 <div class="col-md-6 col-12">
                     <ul class="nav">
                         <li class="nav-item ml-md-auto">
                             <a class="nav-link p-2 mr-2 link-bg ripple text-center" style="width: 42px" href="https://bsky.app/profile/nitroxmod.bsky.social" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Bluesky" data-offset="0, 5, 0, 0">
-                                <img width="24px" src="{{ asset('/assets/img/logos/social/bluesky.png') }}" alt="Bluesky" class="rounded-8">
+                                <img width="24px" src="{{ asset('/assets/img/bluesky.svg') }}" alt="Bluesky" class="rounded-8">
                             </a>
                         </li>
                         <li class="nav-item">
@@ -104,8 +104,8 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-2 mr-2 link-bg ripple text-center" style="width: 42px" href="https://twitter.com/modnitrox" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Twitter" data-offset="0, 5, 0, 0">
-                                <img width="24px" src="{{ asset('/assets/img/Twitter.svg') }}" alt="Twitter">
+                            <a class="nav-link p-2 mr-2 link-bg ripple text-center" style="width: 42px" href="https://x.com/modnitrox" target="_blank" data-toggle="tooltip" data-placement="bottom" title="X" data-offset="0, 5, 0, 0">
+                                <img width="24px" src="{{ asset('/assets/img/x.svg') }}" alt="X">
                             </a>
                         </li>
                         <li class="nav-item">
