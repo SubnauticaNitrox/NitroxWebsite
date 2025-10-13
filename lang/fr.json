@@ -27,7 +27,7 @@
                 "title": "Base de joueurs",
                 "description": "Rejoignez la communauté grandissante de Nitrox. Trouvez de nouveaux serveurs, aidez et discuter avec les autre joueurs.",
                 "downloads": "Téléchargements",
-                "discord": "Membres Discord"
+                "discord": "Membres Discord en ligne"
             },
             "launcher": {
                 "description": "Utilisez le lanceur Nitrox, disponible pour Windows. Une interface intuitive pour un multijoueurs plus facile.",
@@ -36,7 +36,7 @@
                 "view": "Voire les concepts en cours de développement"
             },
             "code": {
-                "headline": "Code de base",
+                "headline": "Base de code",
                 "title": "Open source",
                 "description": "Support et mise-à-jour régulière grâce à nos généreux contributeurs. Contribuez à rendre le mode meilleur."
             },
@@ -59,7 +59,7 @@
                 "headline": "Langues ajoutées par la communauté",
                 "title": "Nitrox parle aussi ta langue.",
                 "link": "Contribue &amp; ajoute ton langage",
-                "languages": "Bulgare, Chinois, Croate, Tchèque, Néerlandais, Anglais, Finnois, Français, Allemand, Grec, Hongrois, Italien, Japonais, Coréen, Norvégien, Polonais, Portugais, Portugais (Brésil), Roumain, Russe, Slovaque, Slovène, Espagnol, Suédois, Thaï, Turc, Ukrainien, Vietnamien, …"
+                "languages": "Bulgare, Chinois (Simplifié), Chinois (Traditionnel), Tchèque, Danois, Néerlandais, Anglais, Finnois, Français, Allemand, Grec, Hongrois, Irlandais, Italien, Japonais, Coréen, Lituanien, Norvégien, Polonais, Portugais, Portugais (Brésil), Roumain, Russe, Serbe, Serbe (Cyrillique), Slovaque, Slovène, Espagnol, Suédois, Thaï, Turc, Ukrainien, Vietnamien, …"
             },
             "host": {
                 "headline": "Hôte",
@@ -190,7 +190,7 @@
     },
     "footer-extended": {
         "downloads": "Téléchargements",
-        "discord": "Membres Discord",
+        "discord": "Membres Discord en ligne",
         "community_title": "Communauté",
         "users": "Utilisateurs uniques",
         "community": {
