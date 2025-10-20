@@ -3,6 +3,32 @@
 
 return [
     [
+        "version" => "1.8.0.1",
+        "released" => "2025-10-20T19:00:00Z",
+        "permalink" => "https://nitrox.rux.gg/pages/changelog#nitrox%C2%A01-8-0-1",
+        "patchnotes" => [
+            "# Launcher",
+            "Added a minimum Subnautica version to be able to launch Nitrox",
+            "Fixed a bug where \"InvalidOperationException\" error popup were shown upon launching multiplayer",
+            "Fixed a bug with section titles in changelogs not displaying correctly",
+            "# Server",
+            "Added --data-path argument to allow you to set the absolute path where Nitrox stores files (logs, cache, save files, ...)",
+            "Added --game-path argument to allow to set absolute game installation path (an alternative to SUBNAUTICA_INSTALLATION_PATH environment variable)",
+            "Fixed a bug where server could throw errors upon early user input during server initialization",
+            "Fixed a bug where server would not load when specific usage of posters, bags, hats & lab equipments (Entity level 100)",
+            "Server will now demote player permissions upon disconnection (to avoid admin spoofing)",
+            "Prevent the server from being blocked when finding level 100 entities",
+            "# In Game",
+            "Fixed a bug where vehicles were not charging (Cyclops, Moonpool) with multiple players connected",
+            "Fixed a bug where player inventory would be dumped into waterproof lockers or bags upon relog",
+            "Fixed a bug where barnacles on reefbacks were tiny",
+            "Fixed a bug where Nitrox's server list couldn't appear due to a corrupted format",
+            "Fixed more instances of exosuit falling into the ground upon loading",
+            "Fixed multiple instances of base building desync",
+            "Fixed the in-game keybind that allows the Enter/Return key to open Dev Console",
+        ],
+    ],
+    [
         "version" => "1.8.0.0",
         "released" => "2025-10-09T19:00:00Z",
         "permalink" => "https://nitrox.rux.gg/pages/changelog#nitrox%C2%A01-8-0-0",

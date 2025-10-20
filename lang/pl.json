@@ -26,7 +26,7 @@
             "community": {
                 "headline": "Społeczność",
                 "downloads": "Pobrań",
-                "discord": "Członków serwera Discord",
+                "discord": "Aktywni członkowie serwera discord",
                 "title": "Baza graczy",
                 "description": "Zostań częścią rozległej, stale rozwijającej się społeczności Nitrox. Znajduj serwery, uzyskuj pomoc i poznawaj innych graczy używających Nitrox."
             },
@@ -277,7 +277,7 @@
         "community_description": "Połącz się i czatuj z innymi graczami używającymi moda Nitrox",
         "nexus": "Wyświetleń na Nexusie",
         "downloads": "Pobrań",
-        "discord": "Członków Serwera Discord",
+        "discord": "Aktywni członkowie serwera discord",
         "community_title": "Społeczność"
     },
     "footer": {

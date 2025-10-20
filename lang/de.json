@@ -9,7 +9,7 @@
             "stores": {
                 "headline": "Aktuell unterstütze Stores",
                 "title": "Plattformübergreifend",
-                "description": "Kompatibel mit deinen Lieblings Vertriebsplattformen. Das plattformübergreifende Spielen ist in der Mod nativ integriert und ermöglicht einen unkomplizierten Mehrspielermodus.",
+                "description": "Kompatibel mit deinen Lieblings-Verkaufsplattformen. Das plattformübergreifende Spielen ist in der Mod nativ integriert und ermöglicht einen unkomplizierten Mehrspielermodus.",
                 "tooltip": "Derzeit nicht verfügbar"
             },
             "gameplay": {
@@ -25,7 +25,7 @@
             "community": {
                 "title": "Spieler Basis",
                 "downloads": "Downloads",
-                "discord": "Discord-Mitglieder",
+                "discord": "Discord online",
                 "headline": "Gemeinschaft",
                 "description": "Sei ein Teil der großen und stetig wachsenden Nitrox Gemeinschaft. Finde neue Server, bekomme Hilfe und rede mit anderen Nitrox Spielern."
             },
@@ -38,7 +38,7 @@
             "chat": {
                 "headline": "Kommunikation",
                 "title": "In-Game Messaging",
-                "description": "Bleibe in Kontakt mit dem plattformübergreifend kompatiblen Nitrox Kurznachrichten-System im Spiel."
+                "description": "Bleibe in Kontakt mit dem Nitrox plattformübergreifenden im Spiel Kurznachrichten-System."
             },
             "upnp": {
                 "title": "Automatische Portweiterleitung",
@@ -46,7 +46,7 @@
                 "description": "Nitrox öffnet automatisch die erforderlichen Ports, sodass eine Verbindung mit deinen Freunden ohne VPN-Software von Drittanbietern ermöglicht wird."
             },
             "lang": {
-                "languages": "Bulgarisch, Chinesisch, Deutsch, Englisch, Finnisch, Französisch, Griechisch, Italienisch, Japanisch, Koreanisch, Kroatisch, Niederländisch, Norwegisch, Polnisch, Portugiesisch, Portugiesisch (Brasilien), Rumänisch, Russisch, Schwedisch, Slowakisch, Slowenisch, Spanisch, Thailändisch, Tschechisch, Türkisch, Ukrainisch, Ungarisch, Vietnamesisch, …",
+                "languages": "Bulgarisch, Chinesisch (Simplifiziert), Chinesisch (Traditionell), Dänisch, Deutsch, Englisch, Finnisch, Französisch, Griechisch, Irisch, Italienisch, Koreanisch, Litauisch, Niederländisch, Norwegisch, Polnisch, Portugiesisch, Portugiesisch (Brasilien), Rumänisch, Russisch, Schwedisch, Serbisch, Serbisch (Kyrillisch), Slowakisch, Slowenisch, Spanisch, Thailändisch, Tschechisch, Türkisch, Ukrainisch, Ungarisch, Vietnamesisch, …",
                 "headline": "Von der Community hinzugefügte Sprachen",
                 "title": "Nitrox spricht auch deine Sprache.",
                 "link": "Trage bei und füge deine Sprache hinzu"
@@ -105,7 +105,7 @@
         "twitter": "Folge dem Nitrox-Twitter-Account, um immer über die neuesten Entwicklungen, Veranstaltungen und Veröffentlichungen auf dem Laufenden zu sein.",
         "reddit_join": "Trete dem Subreddit bei",
         "bluesky_follow": "Folge auf Bluesky",
-        "bluesky": "Folge dem Nitrox Bluesky Konto um immer auf dem neuesten Stand bezüglich dem aktuellem Entwicklungsstand, Ereignissen und Veröffentlichungen zu sein."
+        "bluesky": "Folge dem Nitrox Bluesky Konto um immer über die neuesten Entwicklungen, Ereignisse und Veröffentlichungen auf dem Laufenden zu bleiben."
     },
     "about": {
         "why": "Warum Nitrox?",
@@ -174,7 +174,7 @@
         "title": "Nitrox Server <br>Leicht und leistungsstark."
     },
     "footer-extended": {
-        "discord": "Discord-Mitglieder",
+        "discord": "Discord Online",
         "community_title": "Gemeinschaft",
         "community": {
             "discord": "Nitrox Discord Server",
@@ -267,7 +267,7 @@
             "title": "Team Nitrox - Subnautica Mehrspieler-Mod"
         },
         "title": "Nitrox wird von einem engagierten Team von Open-Source-Beitragenden entwickelt.",
-        "join_description": "Auch du kannst an dieser Mod mitarbeiten. Du kannst für Nitrox entwickeln oder dem Support-Team beitreten! Bewirb dich einfach auf dem Discord-Server oder der Subreddit-Seite.",
+        "join_description": "Auch du kannst an dieser Mod mitarbeiten. Du kannst an Nitrox mitentwickeln oder dem Support-Team beitreten! Bewirb dich einfach auf dem Discord-Server oder der Subreddit-Seite.",
         "join": "Möchtest du dem Team beitreten?"
     },
     "changelog": {
@@ -283,7 +283,7 @@
     "wiki": {
         "meta": {
             "description": "Nitrox ist ein kostenloser Multiplayer-Mod für das Spiel Subnautica, der von der Community entwickelt wurde.",
-            "title": "Anleitungen &amp; Wiki · Subnautica Multiplayer Mod"
+            "title": "Anleitungen &amp; Wiki · Subnautica Mehrspieler Mod"
         },
         "quick_links": "Schnelle Links",
         "search_join": "Einem Nitrox-Server beitreten",
@@ -307,7 +307,7 @@
                 "question": "Ist Nitrox kompatibel mit Subnautica: Below Zero?"
             },
             "contribute": {
-                "answer": "Erstelle einfach einen Pull-Request auf der <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">GitHub Seite</a>. Für detaillierte Informationen über das Projekt, die Einrichtung einer Entwicklungsumgebung und Beitragsrichtlinien, schaue dir unsere <a href=\"https://subnauticanitrox.github.io/Documentation/docs/intro\" target=\"_blank\">Dokumentation</a> an. Du kannst auch gerne an unserem <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">Diskord-Kanal</a> teilnehmen, um Feedback und Ideen mit anderen Mitwirkenden, Entwicklern und Spielern zu diskutieren und auszutauschen.",
+                "answer": "Erstelle einfach einen Pull-Request auf der <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">GitHub Seite</a>. Für detaillierte Informationen über das Projekt, die Einrichtung einer Entwicklungsumgebung und Beitragsrichtlinien, schaue dir unsere <a href=\"https://subnauticanitrox.github.io/Documentation/docs/intro\" target=\"_blank\">Dokumentation</a> an. Du kannst auch gerne unserem <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">Diskord-Kanal</a> beitreten, um Feedback und Ideen mit anderen Mitwirkenden, Entwicklern und Spielern zu diskutieren und auszutauschen.",
                 "question": "Wie kann ich dazu beitragen?"
             },
             "why": {
@@ -329,7 +329,7 @@
             },
             "donate": {
                 "question": "Wie kann ich spenden?",
-                "answer": "Wir nehmen keine Spenden für den Mod an. Diejenigen, die Geld spenden möchten, können dies hier tun: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+                "answer": "Wir nehmen keine Spenden für die Mod an. Diejenigen, die Geld spenden möchten, können dies hier tun: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
             }
         },
         "title": "Willkommen beim Nitrox Support",
