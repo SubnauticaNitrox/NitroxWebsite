@@ -4,6 +4,37 @@
 
 return [
     [
+        "version" => "1.8.0.1",
+        "filesize" => "8.2", // Fallback for old format compatibility
+        "platforms" => [
+            "windows" => [
+                "filesize" => "24.8",
+                "architectures" => [
+                    "x64" => [
+                        "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.8.0.1/Nitrox_1.8.0.1_win_x64.zip",
+                        "md5" => "647e91c43d37a48a3a47b11686497956",
+                        "filesize" => "24.8"
+                    ]
+                ]
+            ],
+            "linux" => [
+                "filesize" => "22.8", // Default to x64 size
+                "architectures" => [
+                    "x64" => [
+                        "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.8.0.1/Nitrox_1.8.0.1_linux_x64.zip",
+                        "md5" => "f916f9d15bf4af1a5dcf3681d755d94e",
+                        "filesize" => "22.8"
+                    ],
+                    "arm64" => [
+                        "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.8.0.1/Nitrox_1.8.0.1_linux_arm64.zip",
+                        "md5" => "81f783ad56ac4cb512876297096ddc95",
+                        "filesize" => "22.3"
+                    ]
+                ]
+            ]
+        ]
+    ],
+    [
         "version" => "1.8.0.0",
         "filesize" => "8.2", // Fallback for old format compatibility
         "platforms" => [
