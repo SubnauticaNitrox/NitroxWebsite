@@ -15,7 +15,7 @@
             <div class="row" style="perspective: 400px;">
 
                 <div class="col-md-8 offset-md-2 text-center mt-5 about-intro pt-md-5">
-                    <span class="d-sm-inline-flex align-items-center gap-1 py-2 px-3 me-2 mb-2 mb-lg-0 rounded-pill text-white bg-darkish">Version 1.8.0.0 out now!</span>
+                    <span class="d-sm-inline-flex align-items-center gap-1 py-2 px-3 me-2 mb-2 mb-lg-0 rounded-pill text-white bg-darkish">Version 1.8.0.1 out now!</span>
                     <h1 class="pt-md-5 mt-3 font-weight-bold opacity-75">{!! __('home.hero_over') !!}</h1>
                     <h1 class="mt-3 font-weight-bold display-3">{!!__('home.hero_slogan') !!}</h1>
                     <a href="{{ route('download') }}" class="btn btn-lg btn-primary btn-loading btn-rounded mt-4 mb-4 px-5 py-2">
