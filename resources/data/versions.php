@@ -22,13 +22,13 @@ return [
                 "architectures" => [
                     "x64" => [
                         "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.8.0.1/Nitrox_1.8.0.1_linux_x64.zip",
-                        "md5" => "f916f9d15bf4af1a5dcf3681d755d94e",
-                        "filesize" => "22.8"
+                        "md5" => "23d7aef982186dc252dc27ea4d0ad8b5",
+                        "filesize" => "21.3"
                     ],
                     "arm64" => [
                         "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.8.0.1/Nitrox_1.8.0.1_linux_arm64.zip",
-                        "md5" => "81f783ad56ac4cb512876297096ddc95",
-                        "filesize" => "22.3"
+                        "md5" => "44e16c760750ca7ce24650495476ebf4",
+                        "filesize" => "20.9"
                     ]
                 ]
             ]
