@@ -5,7 +5,9 @@
 return [
     [
         "version" => "1.8.0.1",
-        "filesize" => "8.2", // Fallback for old format compatibility
+        "filesize" => "23.7", // Fallback for old format compatibility
+        "md5" => "",
+        "url" => "",
         "platforms" => [
             "windows" => [
                 "filesize" => "24.8",
@@ -13,7 +15,7 @@ return [
                     "x64" => [
                         "url" => "https://github.com/SubnauticaNitrox/Nitrox/releases/download/1.8.0.1/Nitrox_1.8.0.1_win_x64.zip",
                         "md5" => "647e91c43d37a48a3a47b11686497956",
-                        "filesize" => "24.8"
+                        "filesize" => "23.7"
                     ]
                 ]
             ],
