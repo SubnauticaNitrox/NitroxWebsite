@@ -2,7 +2,7 @@
     "home": {
         "meta": {
             "title": "Nitrox pro Subnauticu · Subnautica Multiplayer Mod",
-            "description": "Nitrox je bezplatný mod pro více hráčů pro hru Subnauticu vytvořen komunitou."
+            "description": "Nitrox je bezplatný multiplayer mod pro hru Subnautica vytvořen komunitou."
         },
         "hero_cta": "Stáhnout zdarma",
         "explore": "Zažij Subnauticu <span class=\"opacity-5\">jako úplně novou hru. Spojte se. Prozkoumejte nové hlubiny. Postavte velkolepé základny.</span>",
@@ -28,7 +28,7 @@
                 "title": "Hráčská základna",
                 "downloads": "Stažení",
                 "description": "Buďte částí velké, rostoucí Nitrox komunity. Najdi nové servery, sežeň pomoc a povídej si s dalšími Nitrox hráči.",
-                "discord": "Discord členů"
+                "discord": "Discord online"
             },
             "launcher": {
                 "headline": "Zkušenost",
@@ -69,7 +69,7 @@
             "lang": {
                 "headline": "Jazyky přidané komunitou",
                 "title": "Nitrox také mluví vaším jazykem.",
-                "languages": "Bulharština, Čínština, Chorvatština, Čeština, Holandština, Angličtina, Francouzština, Němčina, Řečtina, Maďarština, Italština, Japonština, Korejština, Polština, Portugalština, Rumunština, Ruština, Slovenština, Slovinština, Španělština, Švédština, Thajština, Turečtina, Ukrajinština, Vietnamština, …",
+                "languages": "Bulharština, Čínština, Chorvatština, Čeština, dánština, Holandština, Angličtina, finština, Francouzština, Němčina, Řečtina, Maďarština, Irština, Italština, Japonština, Korejština, Litevština, Norština, Polština, Portugalština, Rumunština, Ruština, Slovenština, Slovinština, Španělština, Švédština, Thajština, Turečtina, Ukrajinština, Vietnamština, …",
                 "link": "Přispívání a přidávání jazyka"
             }
         },
@@ -261,7 +261,7 @@
         "community_description": "Spojte se a chatujte s ostatními hráči Nitroxu",
         "users": "Jedineční uživatelé",
         "nexus": "Zobrazení zařízení Nexus",
-        "discord": "Členové Discordu",
+        "discord": "Online na Discord",
         "community": {
             "discord": "Discord Server Nitroxu",
             "discord_join": "Klikněte pro připojení na Discord",
@@ -355,7 +355,7 @@
             },
             "contribute": {
                 "question": "Jak mohu přispět?",
-                "answer": "Jednoduše odešlete žádost o přijetí změn na <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">stránka GitHubu</a>. Připojte se k nám také na našem kanálu <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">discord</a> diskutovat a vyměňovat si zpětnou vazbu nebo nápady s ostatními přispěvateli, vývojáři a hráči."
+                "answer": "Jednoduše odešlete žádost o přijetí změn na <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">stránka GitHubu</a>. Pro detailní informace o projektu, nastavení vývojového prostředí, a pravidla pro přispětí, prosím navštivte naši a href=\"https://subnauticanitrox.github.io/Documentation/docs/intro\" target=\"_blank\"&gt;documentaci. Připojte se k nám také na našem kanálu <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">discord</a> diskutovat a vyměňovat si zpětnou vazbu nebo nápady s ostatními přispěvateli, vývojáři a hráči."
             },
             "donate": {
                 "question": "Jak mohu darovat?",

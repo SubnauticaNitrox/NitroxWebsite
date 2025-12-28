@@ -2,12 +2,92 @@
     "home": {
         "hero_cta": "Download gratis",
         "meta": {
-            "title": "Nitrox for Subnautica · Mod Multiplayer Subnautica",
+            "title": "Nitrox untuk Subnautica · Mod Multiplayer Subnautica",
             "description": "Nitrox adalah mod multiplayer gratis untuk game Subnautica yang dikembangkan oleh komunitas."
         },
         "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
         "hero_slogan": "<span>Mod</span> <span>multiplayer</span> <span>Subnautica</span> <span>untuk</span> <span>Kamu.</span>",
-        "explore": "Rasakan subnautica<span class=\"opacity-5\">seperti game baru. Bersekutu dengan teman. Jelajahi area baru. Bangun markas epik.</span>"
+        "explore": "Rasakan subnautica<span class=\"opacity-5\">seperti game baru. Bersekutu dengan teman. Jelajahi area baru. Bangun markas epik.</span>",
+        "feature": {
+            "community": {
+                "headline": "Komunitas",
+                "downloads": "Unduhan",
+                "title": "Markas pemain",
+                "description": "Jadi bagian dari komunitas Nitrox yang besar dan berkembang. Temukan server baru, dapatkan dukungan dan ngobrol dengan pemain Nitrox lainnya.",
+                "discord": "Jumlah online Discord"
+            },
+            "stores": {
+                "tooltip": "Saat ini tidak tersedia",
+                "headline": "Toko yang Didukung Saat Ini",
+                "title": "Lintas-platform",
+                "description": "Kompatibel dengan toko favoritmu. Permainan bersilang antar platform didukung secara bawaan dalam mod agar lancar dengan multipemain."
+            },
+            "multiplayer": {
+                "description": "Akhirnya dapat bermain Subnautica bersama teman-temanmu. Masuk atau buat server sendiri.",
+                "title": "Nitrox multipemain",
+                "headline": "Mod-nya"
+            },
+            "gameplay": {
+                "title": "Permainanmu",
+                "headline": "Permainan",
+                "description": "Main Subnautica, dari alur permainan bertahan hidup dengan teman-temanmu hingga sesi bangun kreatif."
+            },
+            "launcher": {
+                "headline": "Pengalaman",
+                "title": "Peluncur Nitrox",
+                "description": "Gunakan launcher Nitrox, saat ini tersedia untuk Windows. Dengan fitur desain tampilan yang menarik agar bermain multiplayer lebih mudah.",
+                "view": "Lihat konsep-konsep kinerja dalam proses"
+            },
+            "upnp": {
+                "headline": "Dukungan UPnP",
+                "title": "Port forwarding otomatis",
+                "description": "Nitrox otomatis membuka port-port yang diperlukan agar mampu mengkoneksikan langsung ke teman-temanmu tanpa membutuhkan software VPN luar."
+            },
+            "host": {
+                "subtitle": "Maks. Slot",
+                "headline": "Tuan Rumah",
+                "description": "Dapat dengan mudah membuat acara pemain berjumlah besar mencapai 100 pemain."
+            },
+            "play": {
+                "headline": "Main",
+                "description": "Lokasi Kapsul Penyelamat awal diacak, Bibit untuk Sumber daya dan fauna diacak serta tersimpan, Sistem simpan terbaru, tumbuhan &amp; bercocok tanam…  dan masih banyak lagi."
+            },
+            "chat": {
+                "headline": "Komunikasi",
+                "title": "Obrolan dalam game",
+                "description": "Tetap terhubung dengan fitur sistem pesan dalam game dari Nitrox yang kompatibel dengan antar-platform."
+            },
+            "server": {
+                "headline": "Server Publik",
+                "description": "Temukan server permanen untuk bermain di Discord Nitrox.",
+                "number": "24/7",
+                "subtitle": "Servers"
+            },
+            "code": {
+                "headline": "Basis kode",
+                "title": "Sumber terbuka",
+                "description": "Dukungan umum dan pembaharuan dari kontributor dermawan. Kontribusi dan buat mod ini lebih baik."
+            },
+            "lang": {
+                "headline": "Bahasa-bahasa yang ditambahkan oleh komunitas",
+                "title": "Nitrox juga bicara bahasamu.",
+                "languages": "Belanda, Bulgaria, Cina (Tersimplifikasi), Cina (Tradisional), Ceko, Denmark, Finlandia, Hungaria, Irlandia, Italia, Indonesia, Inggris, Jerman, Korea, Lithuania, Norwegia, Perancis, Polandia, Portugal, Portugis (Brasil), Romania, Rusia, Serbia, Serbia (Krilik), Slovakia, Slovenia, Spanyol, Swedia, Thailand, Turki, Ukraina, Vietnam, Yunani, …",
+                "link": "Kontribusi &amp; tambahkan bahasamu"
+            }
+        },
+        "nextsteps": {
+            "get": {
+                "title": "Dapatkan modnya",
+                "description": "Unduh mod Nitrox gratis dan mulai bermain dengan banyak teman!",
+                "download": "Unduh",
+                "latest_version": "Versi mutakhir:"
+            },
+            "wiki": {
+                "title": "Panduan Memulai",
+                "description": "Baca panduan instalasi dan halaman FAQ",
+                "link": "Kunjungi Panduan"
+            }
+        }
     },
     "wiki": {
         "faq": {
@@ -45,5 +125,34 @@
         "version": "Versi terbaru:",
         "discord": "Anggota discord",
         "download": "Unduh"
+    },
+    "download": {
+        "meta": {
+            "title": "Unduh Nitrox · Mod Multiplayer Subnautica",
+            "description": "Unduh Nitrox: mod multiplayer gratis untuk game Subnautica yang dikembangkan oleh komunitas."
+        },
+        "header": {
+            "alpha": "AWAL ALPHA",
+            "title": "Unduh Nitrox",
+            "subtitle": "Petualanganmu menunggu. Unduh mod Nitrox secara gratis dan mulai bermain Subnautica multiplayer!",
+            "download": "Mulai Unduh",
+            "version": "Alpha",
+            "stores": "Versi Toko yang Didukung"
+        },
+        "changelog": "Log Perubahan",
+        "changelog_older": "Tampilkan entri log perubahan lama"
+    },
+    "community": {
+        "twitter_follow": "Ikuti Kami di Twitter",
+        "reddit": "Bergabung di Subreddit Nitrox untuk tetap terinformasi dengan versi rilis dan konten postingan komunitas terbaru."
+    },
+    "changelog": {
+        "download": "Unduh"
+    },
+    "footer-extended": {
+        "community_title": "Komunitas",
+        "community_description": "Koneksi &amp; ngobrol dengan pemain Nitrox lain",
+        "users": "Pengguna Unik",
+        "downloads": "Unduhan"
     }
 }
