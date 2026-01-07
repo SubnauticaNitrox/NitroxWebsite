@@ -1,1 +1,9 @@
-{}
+{
+    "home": {
+        "meta": {
+            "title": "Nitrox para Subnautica - Mod Multijugador para Subnautica",
+            "description": "Nitrox es un mod gratuito para multijugador creado para Subnautica, desarrollado por la comunidad"
+        },
+        "hero_slogan": "<span>Tu</span> <span>Mod</span> <span>Multijugador</span> <span>para</span> <span>Subnautica.</span>"
+    }
+}
