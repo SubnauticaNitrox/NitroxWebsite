@@ -75,7 +75,7 @@
                 "title": "Spelers",
                 "description": "Maak deel uit van de grote, groeiende Nitrox gemeenschap. Vind nieuwe servers, krijg hulp en praat met andere Nitrox spelers.",
                 "downloads": "Downloads",
-                "discord": "Discord leden"
+                "discord": "Discord online"
             },
             "launcher": {
                 "headline": "Ervaring",
@@ -158,7 +158,7 @@
             "title": "Download Nitrox"
         },
         "meta": {
-            "title": "",
+            "title": "Download Nitrox · Subnautica Multiplayer Mod",
             "description": "Download Nitrox: een gratis multiplayer mod voor het spel Subnautica ontwikkeld door de gemeenschap."
         },
         "changelog": "Wijzigingsoverzicht",
@@ -274,7 +274,7 @@
             "bluesky_join": "Klik om @nitroxmod te bekijken",
             "bluesky": "Volg op Bluesky"
         },
-        "discord": "Discord Leden",
+        "discord": "Discord Online",
         "featured": "Zoals verschenen in",
         "footnote_2": "Max. 100 server spelers, aanbevolen speleraantal 5.",
         "footnote_1": "Windows store vereist extra werk om werkend te krijgen. Stappen en ondersteuning kan in de Nitrox Discord gevonden worden.",

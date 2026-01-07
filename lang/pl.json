@@ -49,7 +49,7 @@
             "lang": {
                 "headline": "Tłumaczenia od społeczności",
                 "title": "Nitrox mówi też po twojemu.",
-                "languages": "bułgarski, chiński, chorwacki, czeski, holenderski, angielski, fiński, francuski, niemiecki, grecki, węgierski, włoski, japoński, koreański, norweski, polski, portugalski, portugalski (Brazylia), rumuński, rosyjski, słowacki, słoweński, hiszpański, szwedzki, tajski, turecki, ukraiński, wietnamski, …",
+                "languages": "Bułgarski, Chiński (Uproszczony), Chiński (Tradycyjny), Czeski, Duński, Holenderski, Angielski, Fiński, Francuski, Niemiecki, Grecki, Węgierski, Szkocki, Włoski, Koreański, Litewski, Norweski, Polski, Portugalski, Portugalski (Brazylia), Rumuński, Rosyjski, Serbski, Serbski (Cyrylica), Słowacki, Słoweński, Hiszpański, Szwedzki, Tajski, Turecki, Ukraiński, Wietnamski, …",
                 "link": "Przetłumacz na własny język"
             },
             "play": {
@@ -363,7 +363,7 @@
             },
             "contribute": {
                 "question": "Jak mogę wspomóc projekt?",
-                "answer": "Wystarczy zatwierdzić Pull Request na <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">naszej stronie GitHuba</a>. Możesz także dołączyć do nas na naszym <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">serwerze Discorda</a> by przedyskutować i podzielić się radami i pomysłami z innymi współtwórcami, deweloperami, oraz graczami."
+                "answer": "Wystarczy złóżyć pull requesta na naszej <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">stronie GitHub</a>. Aby uzyskać szczegółowe informacje o projekcie, konfiguracji środowiska deweloperskiego oraz wytycznych dotyczących współpracy, zapoznaj się z naszą <a href=\"https://subnauticanitrox.github.io/Documentation/docs/intro\" target=\"_blank\">dokumentacją</a>. Zachęcamy również do dołączenia do naszego <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">Discorda</a>, aby omawiać i wymieniać opinie lub pomysły z innymi współtwórcami, deweloperami i graczami."
             }
         },
         "title": "Witaj we Wsparciu Nitrox",
