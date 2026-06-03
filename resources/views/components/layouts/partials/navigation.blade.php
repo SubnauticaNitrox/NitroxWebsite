@@ -44,12 +44,15 @@
             <div class="d-block d-lg-none">
                 <div class="pt-4"></div>
             </div>
-            <ul class="navbar-nav">
+            <ul class="navbar-nav d-flex align-items-center">
                 <li class="nav-item">
                     <a href="{{ route('download') }}" class="btn btn-sm {{ Route::current()->getName() !== 'download' ? 'btn-primary' : 'btn-light' }} btn-rounded px-3 font-weight-500">Download</a>
                 </li>
                 <a class="nav-link p-1 ml-2 ml-lg-3 d-none d-lg-flex" data-toggle="modal" data-target="#translationSelectModal">
-                    <span class="material-icons" style="cursor: pointer" data-toggle="tooltip" data-placement="bottom" title="{{ __('lang-select.title') }}">language</span>
+                    <span class="material-icons" style="cursor: pointer" data-toggle="tooltip" data-placement="bottom" title="{{ __('lang-select.title') }}" data-offset="0 12 0 0">language</span>
+                </a>
+                <a class="nav-link" href="https://github.com/SubnauticaNitrox/Nitrox" target="_blank" data-toggle="tooltip" data-placement="bottom" title="GitHub" data-offset="0 5 0 0">
+                    <img src="{{ asset('/assets/img/github.svg') }}" alt="GitHub" width="20px" height="20px">
                 </a>
             </ul>
             <ul class="navbar-nav d-none flex-row">
