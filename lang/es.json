@@ -48,7 +48,7 @@
                 "headline": "Comunidad",
                 "description": "Se parte de la larga y creciente comunidad de Nitrox. Encuentra nuevos servidores, obtén ayuda y habla con otros jugadores de Nitrox.",
                 "downloads": "Descargas",
-                "discord": "Miembros de Discord",
+                "discord": "Miembros de Discord online",
                 "title": "Jugador Base"
             },
             "host": {
@@ -71,8 +71,8 @@
             "title": "Nitrox para Subnautica · Mod Multijugador para Subnautica",
             "description": "Nitrox es un mod multijugador gratuito para el juego Subnautica desarrollado por la comunidad."
         },
-        "hero_slogan": "<span>Tu</span> <span>Mod</span> <span>Multijugador</span> <span>para</span> <span>Subnautica.</span>",
-        "hero_cta": "Descargalo de forma gratuita",
+        "hero_slogan": "<span>Tu</span> <span>Mod</span> <span>multijugador</span> <span>para</span> <span>Subnautica.</span>",
+        "hero_cta": "Descargalo gratis",
         "explore": "Experimenta Subnautica <span class=\"opacity-5\">como un si fuera un juego nuevo. Haz equipo con amigos. Explora nuevas profundidades. Construye bases epicas.</span>",
         "nextsteps": {
             "get": {
@@ -275,7 +275,7 @@
         },
         "downloads": "Descargas",
         "footnote_3": "Los servidores públicos no están alojados en Nitrox y no se garantiza el 100 % de tiempo de actividad. Los servidores de terceros no están moderados por el equipo de Nitrox.",
-        "discord": "Miembros de Discord",
+        "discord": "Miembros de Discord Online",
         "nexus": "Vistas Nexus",
         "footnote_1": "La tienda de Windows requiere configuración adicional. Los pasos y la ayuda para la configuración se pueden encontrar en Nitrox Discord.",
         "featured": "Presentado en"

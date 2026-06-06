@@ -20,11 +20,11 @@
                 "tooltip": "Saat ini tidak tersedia",
                 "headline": "Toko yang Didukung Saat Ini",
                 "title": "Lintas-platform",
-                "description": "Kompatibel dengan toko favoritmu. Permainan bersilang antar platform didukung secara bawaan dalam mod agar lancar dengan multipemain."
+                "description": "Kompatibel dengan toko favoritmu. Permainan bersilang antar platform didukung secara bawaan dalam mod agar lancar dengan multiplayer."
             },
             "multiplayer": {
                 "description": "Akhirnya dapat bermain Subnautica bersama teman-temanmu. Masuk atau buat server sendiri.",
-                "title": "Nitrox multipemain",
+                "title": "Nitrox multiplayer",
                 "headline": "Mod-nya"
             },
             "gameplay": {
@@ -106,7 +106,18 @@
             "help": {
                 "answer": "Silakan baca terlebih dahulu langkah-langkah di wiki kami. Jika tidak berhasil, silakan tanyakan pada obrolan bantuan kami di kanal discord."
             }
-        }
+        },
+        "meta": {
+            "title": "Panduan &amp; Wiki · Mod Multiplayer Subnautica",
+            "description": "Nitrox merupakan mod multiplayer gratis untuk game Subnautica yang dikembangkan oleh komunitas."
+        },
+        "title": "Selamat datang di Halaman Dukungan Nitrox",
+        "subtitle": "Jelajahi panduan dan baca langkah awal untuk mulai menggunakan Nitrox.",
+        "quick_links": "Tautan cepat",
+        "search_placeholder": "Cari sesuatu…",
+        "search_install": "Instal Mod Nitrox untuk Steam dan Epic Games",
+        "search_run": "Hosting dan jalankan server Nitrox",
+        "search_join": "Bergabung ke sebuah server Nitrox"
     },
     "os": {
         "title": "Didukung oleh<br>open source.",
@@ -121,10 +132,20 @@
         "featured": "Ditampilkan di",
         "download_title": "ALPHA AWAL",
         "download_header": "Siap? Dapatkan modnya!",
-        "download_description": "Petualangan Anda menanti. Unduh Nitrox Mod secara gratis dan mulailah bermain multipemain subnautica!",
+        "download_description": "Petualangan Anda menanti. Unduh Nitrox Mod secara gratis dan mulailah bermain multiplayer Subnautica!",
         "version": "Versi terbaru:",
         "discord": "Anggota discord",
-        "download": "Unduh"
+        "download": "Unduh",
+        "meta": {
+            "title": "Tentang Nitrox · Mod Multiplayer Subnautica",
+            "description": "Ketahui lebih lanjut tentang tim dan proyek Nitrox sumber terbuka"
+        },
+        "title": "Para modder telah menambahkan fitur multiplayer ke Subnautica.",
+        "quote": "Kutipan dari",
+        "why": "Mengapa Nitrox?",
+        "discord_join": "Bergabunglah di Discord",
+        "multiplayer": "Multiplayer. <span class=\"opacity-5\">Mainkan Subnautica sesuai dengan tujuan aslinya, dalam mode Multiplayer.</span>",
+        "opensource": "Sumber terbuka. <span class=\"opacity-5\">Dukungan dan pembaruan rutin dari para kontributor yang bermurah hati.</span>"
     },
     "download": {
         "meta": {
@@ -140,11 +161,26 @@
             "stores": "Versi Toko yang Didukung"
         },
         "changelog": "Log Perubahan",
-        "changelog_older": "Tampilkan entri log perubahan lama"
+        "changelog_older": "Tampilkan entri log perubahan lama",
+        "sidebar": "Nitrox Mod. <span class=\"opacity-5\">Modifikasi sumber terbuka untuk permainan multiplayer Subnautica.</span>"
     },
     "community": {
         "twitter_follow": "Ikuti Kami di Twitter",
-        "reddit": "Bergabung di Subreddit Nitrox untuk tetap terinformasi dengan versi rilis dan konten postingan komunitas terbaru."
+        "reddit": "Bergabung di Subreddit Nitrox untuk tetap terinformasi dengan versi rilis dan konten postingan komunitas terbaru.",
+        "meta": {
+            "title": "Komunitas Nitrox · Mod Multiplayer Subnautica",
+            "description": "Bergabunglah dengan komunitas Nitrox yang besar dan terus berkembang. Temukan server baru, dapatkan bantuan, dan bicaralah dengan pemain Nitrox lainnya."
+        },
+        "title": "Komunitas Nitrox",
+        "subtitle": "Bergabunglah dengan komunitas Nitrox yang besar bersama para pemain dari seluruh dunia.",
+        "discord": "Bergabunglah dengan server Discord kami untuk mencari server tempat bermain, mendapatkan bantuan dari tim dukungan, dan lain-lain.",
+        "discord_join": "Bergabunglah di Discord",
+        "bluesky": "Ikuti akun Bluesky Nitrox agar selalu mendapatkan informasi terbaru mengenai perkembangan, acara, dan rilis terbaru.",
+        "bluesky_follow": "Ikuti di Bluesky",
+        "twitter": "Ikuti akun Twitter Nitrox agar selalu mendapatkan informasi terbaru mengenai perkembangan, acara, dan rilis terbaru.",
+        "reddit_join": "Bergabunglah dengan Subreddit di Reddit",
+        "github": "Ingin bergabung dengan tim kami? Berkontribusilah mulai dari penulisan kode hingga penerjemahan untuk proyek Nitrox di GitHub.",
+        "github_link": "Berikan kontribusi di GitHub"
     },
     "changelog": {
         "download": "Unduh"
@@ -154,5 +190,28 @@
         "community_description": "Koneksi &amp; ngobrol dengan pemain Nitrox lain",
         "users": "Pengguna Unik",
         "downloads": "Unduhan"
+    },
+    "download_start": {
+        "meta": {
+            "title": "Pengunduhan dimulai… · Mod Multiplayer Subnautica",
+            "description": "Unduh Nitrox: sebuah mod multiplayer gratis untuk game Subnautica yang dikembangkan oleh komunitas."
+        },
+        "header": {
+            "started": "Unduhan dimulai",
+            "helper": "Unduhan Anda akan dimulai secara otomatis dalam <span id=\"countdowntimer\">2</span> detik. Jika tidak, ",
+            "helper_link": "Download Ulang"
+        },
+        "next_steps": "Langkah selanjutnya",
+        "install_vid": "Install video",
+        "community_join": "Bergabung dengan komunitas",
+        "guide": "Panduan Instalasi dan Pembaruan",
+        "guide_link": "Nitrox Install Wizard",
+        "download_infos": "Informasi unduhan",
+        "file_size": "Ukuran file",
+        "version": "Versi",
+        "md5": "Hash MD5"
+    },
+    "lang-select": {
+        "description": "Pilih bahasamu."
     }
 }

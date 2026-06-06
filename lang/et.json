@@ -3,8 +3,166 @@
         "hero_cta": "Laadi alla tasuta",
         "feature": {
             "stores": {
-                "tooltip": "Pole hetkel saadaval"
+                "tooltip": "Pole hetkel saadaval",
+                "headline": "Hetkel toetatud platformid",
+                "title": "Platformi-ülene",
+                "description": "Ühildub teie lemmikplatformidega. Modi sisse ehitatud on üle-platformiline tugi võimaldab sujuvat multiplayerit."
+            },
+            "multiplayer": {
+                "headline": "Mod",
+                "title": "Nitrox multiplayer",
+                "description": "Lõpuks mängige Subnauticat koos oma sõpradega. Looge oma server või liituge sõbra omaga."
+            },
+            "gameplay": {
+                "headline": "Mäng",
+                "title": "Sinu mäng",
+                "description": "Mängi Subnauticat, alates ellujäämismängust koos sõpradega kuni loomingulise ehitussessioonini."
+            },
+            "code": {
+                "headline": "Kodeerimise alus",
+                "title": "Avatud lähtekoodiga",
+                "description": "Regulaarne tugi ja uuendused abivalmitelt panustajatelt. Panusta ja muuda modi paremaks."
+            },
+            "community": {
+                "headline": "Kogukond",
+                "title": "Mängijate baas",
+                "description": "Liitu suure ja kasvava Nitroxi kogukonnaga. Leia uusi servereid, saa abi ja räägi teiste Nitroxi mängijatega.",
+                "downloads": "Allalaadimisi",
+                "discord": "Discord võrgus"
+            },
+            "launcher": {
+                "headline": "Kogemus",
+                "title": "Nitroxi Launcher",
+                "description": "Kasutage Nitrox Launcherit, mis on Windowsile saadaval. Sellel on hästi disainitud kasutajaliides, mis muudab multiplayeris mängimise veelgi lihtsamaks.",
+                "view": "Vaata pooleliolevaid kontseptsioone"
+            },
+            "chat": {
+                "headline": "Suhtlus",
+                "title": "Mängusisene sõnumivahetus",
+                "description": "Püsi ühenduses Nitroxi platvormideülese ühilduva sisseehitatud mängusõnumisüsteemiga."
+            },
+            "upnp": {
+                "headline": "UPnP toetus",
+                "title": "Automaatne port forwarding",
+                "description": "Nitrox avab automaatselt vajalikud pordid, mis võimaldab teil sõpradega kohe ühenduse luua ilma kolmanda osapoole VPN-tarkvarata."
+            },
+            "lang": {
+                "headline": "Kogukonna lisatud keeled",
+                "title": "Nitrox räägib ka teie keelt.",
+                "languages": "Bulgaaria, hiina (lihtsustatud), hiina (traditsiooniline), tšehhi, taani, hollandi, inglise, soome, prantsuse, saksa, kreeka, ungari, iiri, itaalia, korea, leedu, norra, poola, portugali, portugali (Brasiilia), rumeenia, vene, serbia, serbia (kirillitsa), slovaki, sloveeni, hispaania, rootsi, tai, türgi, ukraina, vietnami, …",
+                "link": "Lisa oma keel ja anna oma panus"
+            },
+            "host": {
+                "headline": "Võõrustaja",
+                "description": "Korralda hõlpsalt online üritus toetusega kuni 100 mängijale.",
+                "subtitle": "Max. Pesade arv"
+            },
+            "play": {
+                "headline": "Mängige",
+                "description": "Randomiseeritud algne põgenemiskapsel, juhuslikud ja salvestatud maailma seemned ressursside ja loomastiku jaoks, uus salvestussüsteem, taimed ja põllumajandus… ja palju muud."
+            },
+            "server": {
+                "headline": "Avalik server",
+                "description": "Leia Nitrox Discordist püsiservereid, kus mängida.",
+                "number": "24/7",
+                "subtitle": "Serverid"
             }
+        },
+        "meta": {
+            "title": "Nitrox Subnauticale - Subnautica Multiplayer Mod",
+            "description": "Nitrox on tasuta multiplayer mod mängule Subnautica, mis on kogukonna poolt arendatud."
+        },
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_slogan": "<span>Your</span> <span>multiplayer</span> <span>Mod</span> <span>for</span> <span>Subnautica.</span>",
+        "explore": "Kogege Subnauticat <span class=\"opacity-5\">täiesti uue mänguna. Kutsuge tiimikaaslased . Avastage uusi sügavusi. Ehitage ägedaid baase.</span>",
+        "nextsteps": {
+            "get": {
+                "title": "Hankige mod",
+                "description": "Laadige Nitrox Mod tasuta alla ja hakake multiplayerit mängima!",
+                "download": "Allalaadimine",
+                "latest_version": "Uusim versioon:"
+            },
+            "wiki": {
+                "title": "Alustamine",
+                "description": "Loe paigaldusjuhendit ja KKK lehte",
+                "link": "Külasta juhendeid"
+            }
+        }
+    },
+    "download": {
+        "meta": {
+            "title": "Laadi alla Nitrox · Subnautica multiplayer mod",
+            "description": "Laadige alla Nitrox: kogukonna loodud tasuta multiplayer mod mängule Subnautica."
+        },
+        "header": {
+            "alpha": "VARAJANE ALFA",
+            "title": "Laadige alla Nitrox",
+            "subtitle": "Seiklus ootab sind. Laadi alla Nitroxi modifikatsioon tasuta ja alusta Subnautica multiplayeri mängimist!",
+            "download": "Alusta allalaadimist",
+            "version": "Alfa",
+            "stores": "Toetatud platformide versioonid"
+        },
+        "changelog": "Muudatuste logi",
+        "changelog_older": "Kuva vanemad muudatuste logi kirjed",
+        "sidebar": "Nitroxi Mod. <span class=\"opacity-5\">Avatud lähtekoodiga mitmikmängu modifikatsioon mängule Subnautica.</span>"
+    },
+    "download_start": {
+        "meta": {
+            "title": "Allalaadimine alustatud… · Subnautica mitmikmängu mod",
+            "description": "Laadige alla Nitrox: kogukonna loodud tasuta mitmikmängu mod mängule Subnautica."
+        },
+        "header": {
+            "started": "Allalaadimine alustatud",
+            "helper": "Allalaadimine peaks automaatselt algama <span id=\"countdowntimer\">2</span> sekundi pärast. Kui see ei toimi, ",
+            "helper_link": "taaskäivitage allalaadimine"
+        },
+        "next_steps": "Järgmised sammud",
+        "install_vid": "Installeerimise video",
+        "community_join": "Liitu kogukonnaga",
+        "guide": "Installi- ja uuendamisjuhend",
+        "guide_link": "Nitroxi installiviisard",
+        "download_infos": "Teabe allalaadimine",
+        "file_size": "Faili suurus",
+        "version": "Versioon",
+        "md5": "MD5 Hash"
+    },
+    "community": {
+        "discord_join": "Liitu Discord'is",
+        "bluesky_follow": "Jälgi Bluesky's",
+        "twitter_follow": "Jälgi Twitter'is",
+        "title": "Nitrox kogukond"
+    },
+    "about": {
+        "why": "Miks Nitrox?",
+        "discord_join": "Liitu Discord'is",
+        "download": "Lae alla",
+        "version": "Uusim versioon:"
+    },
+    "os": {
+        "join": "Kas sa tahad liituda meeskonnaga?"
+    },
+    "resources": {
+        "images": "Pildid"
+    },
+    "server": {
+        "cards": {
+            "play": "Mängi",
+            "play_subtitle": "Serverid"
+        }
+    },
+    "launcher": {
+        "coming_soon": "Varsti tulemas",
+        "server": "Server"
+    },
+    "changelog": {
+        "download": "Lae alla",
+        "latest_version": "Uusim versioon:"
+    },
+    "footer-extended": {
+        "community_title": "Kogukond",
+        "community_description": "Ühine ja räägi teiste Nitrox mängijatega",
+        "community": {
+            "discord_join": "Vajuta, et liituda Discord'is"
         }
     }
 }

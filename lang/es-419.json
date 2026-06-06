@@ -2,8 +2,379 @@
     "home": {
         "meta": {
             "title": "Nitrox para Subnautica - Mod Multijugador para Subnautica",
-            "description": "Nitrox es un mod gratuito para multijugador creado para Subnautica, desarrollado por la comunidad"
+            "description": "Nitrox es un mod gratuito para multijugador creado para Subnautica, desarrollado por la comunidad."
         },
-        "hero_slogan": "<span>Tu</span> <span>Mod</span> <span>Multijugador</span> <span>para</span> <span>Subnautica.</span>"
+        "hero_slogan": "<span>Tu</span> <span>Mod</span> <span>Multijugador</span> <span>para</span> <span>Subnautica.</span>",
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_cta": "Descargar gratis",
+        "explore": "Disfruta de Subnautica <span class=\"opacity-5\">como si fuera un juego completamente nuevo. Forma equipo. Explora nuevas profundidades. Construye bases épicas.</span>",
+        "feature": {
+            "multiplayer": {
+                "headline": "El mod",
+                "title": "Nitrox multiplayer",
+                "description": "Por fin puedes empezar a jugar a Subnautica con tus amigos. Únete a un servidor o crea el tuyo propio."
+            },
+            "stores": {
+                "headline": "Tiendas compatibles actualmente",
+                "title": "Multiplataforma",
+                "description": "Compatible con tus tiendas favoritas. Compatibilidad nativa con cross-play integrado en el mod, lo que permite un modo multijugador sin interrupciones.",
+                "tooltip": "Actualmente no disponible"
+            },
+            "gameplay": {
+                "headline": "Gameplay",
+                "title": "Tu estilo de juego",
+                "description": "Juega Subnautica, desde un survival con tus amigos hasta una sesión creativa de construcción."
+            },
+            "code": {
+                "headline": "Código base",
+                "title": "De código abierto",
+                "description": "Soporte y actualizaciones regulares por parte de nuestros generosos colaboradores. Contribuye a mejorar el mod."
+            },
+            "community": {
+                "headline": "Comunidad",
+                "title": "Base de jugadores",
+                "description": "Se parte de la extensa, y creciente comunidad de Nitrox. Encuentra servidores nuevos, obtén ayuda y habla con otros jugadores de Nitrox.",
+                "downloads": "Descargas",
+                "discord": "En línea en Discord"
+            },
+            "launcher": {
+                "headline": "Experiencia",
+                "title": "Nitrox Launcher",
+                "description": "Utiliza Nitrox Launcher, actualmente disponible para Windows. Cuenta con una interfaz de usuario bien diseñada para facilitar aún más el juego multijugador.",
+                "view": "Ver conceptos en desarrollo"
+            },
+            "chat": {
+                "headline": "Comunicación",
+                "title": "Mensajería dentro del juego",
+                "description": "Mantente en contacto con Nitrox gracias al sistema de mensajería integrado y compatible con todas las plataformas."
+            },
+            "upnp": {
+                "headline": "Compatibilidad con UPnP",
+                "title": "Reenvío automático de puertos",
+                "description": "Nitrox abre de forma automática los puertos necesarios lo que permite conectarte con tus amigos sin la necesidad de software VPN de terceros."
+            },
+            "lang": {
+                "headline": "Idiomas añadidos por la comunidad",
+                "title": "Nitrox también habla tu idioma.",
+                "languages": "Búlgaro, Chino (simplificado), Chino (tradicional), Checo, Danés, Neerlandés, Inglés, Finés, Francés, Alemán, Griego, Húngaro, Irlandés, Italiano, Coreano, Lituano, Noruego, Polaco, Portugués, Portugués (Brasil), Rumano, Ruso, Serbio, Serbio (cirílico), Eslovaco, Esloveno, Español, Sueco, Tailandés, Turco, Ucraniano, Vietnamita, …",
+                "link": "Contribuya y añada su idioma"
+            },
+            "host": {
+                "headline": "Host",
+                "description": "Organiza fácilmente un gran evento para jugadores con capacidad para hasta 100 participantes.",
+                "subtitle": "Espacios máximos"
+            },
+            "play": {
+                "headline": "Juega",
+                "description": "Cápsula de escape aleatoria, semillas aleatorias y guardadas para recursos y fauna, nuevo sistema de guardado, plantas y agricultura... y mucho más."
+            },
+            "server": {
+                "headline": "Servidor Público",
+                "description": "Encuentra servidores permanentes para jugar en el Discord de Nitrox.",
+                "number": "24/7",
+                "subtitle": "Servidores"
+            }
+        },
+        "nextsteps": {
+            "get": {
+                "title": "Obtén el mod",
+                "description": "¡Descarga Nitrox Mod gratis y empieza a jugar en modo multijugador!",
+                "download": "Descargar",
+                "latest_version": "Ultima versión:"
+            },
+            "wiki": {
+                "title": "Primeros pasos",
+                "description": "Lee la guía de instalación y la página de preguntas frecuentes (FAQ)",
+                "link": "Ver las guías"
+            }
+        }
+    },
+    "download": {
+        "meta": {
+            "title": "Descargar Nitrox · Mod multijugador para Subnautica",
+            "description": "Descarga Nitrox: un mod multijugador gratuito para el juego Subnautica desarrollado por la comunidad."
+        },
+        "header": {
+            "alpha": "ALFA TEMPRANA",
+            "title": "Descargar Nitrox",
+            "subtitle": "Tu aventura te espera. !Descarga gratis el mod Nitrox y empieza a jugar Subnautica en multijugador!",
+            "download": "Iniciar descarga",
+            "version": "Alpha",
+            "stores": "Tiendas compatibles"
+        },
+        "changelog": "Registro de cambios",
+        "changelog_older": "Ver entradas anteriores del registro de cambios",
+        "sidebar": "Nitrox Mod. <span class=\"opacity-5\">Una modificación multijugador de código abierto para el juego Subnautica.</span>"
+    },
+    "download_start": {
+        "meta": {
+            "title": "Descarga iniciada... · Mod multijugador de Subnautica",
+            "description": "Descarga Nitrox: un mod multijugador gratuito para el juego Subnautica desarrollado por la comunidad."
+        },
+        "header": {
+            "started": "Descarga iniciada",
+            "helper": "La descarga debería comenzar automáticamente en <span id=\"countdowntimer\">2</span> segundos. Si no es así, ",
+            "helper_link": "reinicia la descarga"
+        },
+        "next_steps": "Próximos pasos",
+        "install_vid": "Video de instalación",
+        "community_join": "Únete a la comunidad",
+        "guide": "Guía de instalación y actualización",
+        "guide_link": "Asistente de instalación de Nitrox",
+        "download_infos": "Información de descarga",
+        "file_size": "Tamaño del archivo",
+        "version": "Versión",
+        "md5": "Hash MD5"
+    },
+    "community": {
+        "meta": {
+            "title": "Comunidad de Nitrox · Mod multijugador de Subnautica",
+            "description": "Únete a la gran y creciente comunidad de Nitrox. Encuentra nuevos servidores, obtén ayuda y habla con otros jugadores de Nitrox."
+        },
+        "title": "Comunidad de Nitrox",
+        "subtitle": "Únete a la gran comunidad de Nitrox con jugadores de todo el mundo.",
+        "discord": "Únete a nuestro activo servidor de Discord para encontrar servidores en los que jugar, obtener ayuda del equipo de soporte y mucho más.",
+        "discord_join": "Únete a Discord",
+        "bluesky": "Sigue la cuenta de Nitrox en Bluesky para estar siempre al día de las últimas novedades, eventos y lanzamientos.",
+        "bluesky_follow": "Síguenos en Bluesky",
+        "twitter": "Sigue la cuenta de Twitter de Nitrox para estar siempre al día de las últimas novedades, eventos y lanzamientos.",
+        "twitter_follow": "Síguenos en Twitter",
+        "reddit": "Únete al subreddit de Nitrox para mantenerte informado sobre las últimas novedades y publicar contenido de la comunidad.",
+        "reddit_join": "Únete al Subreddit en Reddit",
+        "github": "¿Desea formar parte del equipo? Colabore con el proyecto Nitrox en GitHub, desde el código hasta las traducciones.",
+        "github_link": "Contribuye en GitHub"
+    },
+    "about": {
+        "meta": {
+            "title": "Acerca de Nitrox · Mod multijugador de Subnautica",
+            "description": "Más información sobre el equipo y el proyecto Nitrox de código abierto"
+        },
+        "title": "Los modders han añadido el modo multijugador a Subnautica.",
+        "quote": "Cita de",
+        "why": "¿Por qué Nitrox?",
+        "discord_join": "Únete a Discord",
+        "multiplayer": "Multijugador. <span class=\"opacity-5\">Juega a Subnautica como se diseñó para jugar, en modo multijugador.</span>",
+        "opensource": "De código abierto. <span class=\"opacity-5\">Soporte y actualizaciones periódicas por parte de generosos colaboradores.</span>",
+        "servers": "Comunidad. <span class=\"opacity-5\">Encuentra nuevos servidores, obtén ayuda y habla con otros jugadores de Nitrox.</span>",
+        "metrics": "Nuestras métricas",
+        "download_count": "1,000,000+",
+        "downloads": "Descargas",
+        "user_count": "500,250+",
+        "users": "Usuarios",
+        "discord_members": "27,000+",
+        "discord": "Miembros de Discord",
+        "featured": "Destacado en",
+        "download_title": "EARLY ALPHA",
+        "download_header": "¿Listo? ¡Obtén el mod!",
+        "download_description": "La aventura te espera. ¡Descarga el mod Nitrox gratis y empieza a jugar Subnautica en multijugador!",
+        "download": "Descargar",
+        "version": "Última versión:"
+    },
+    "os": {
+        "meta": {
+            "title": "Nitrox de código abierto · Características",
+            "description": "El código abierto es la base del mod Nitrox. Desde la comunidad que lo creó hasta el soporte que lo mantiene."
+        },
+        "title": "Desarrollado con<br>código abierto.",
+        "hero": "El código abierto es la esencia de Nitrox. <span class=\"opacity-5\">El mod se encuentra en una fase muy temprana de desarrollo; sin embargo, ya se han sentado unas bases sólidas sobre las que la comunidad puede seguir trabajando.</span>",
+        "license": "GNU General Public License v3.0",
+        "license_info": "SubnauticaNitrox/Nitrox está licenciado bajo la Licencia Pública General GNU v3.0",
+        "license_link": "Más información",
+        "dev_resources": "Recursos para desarrolladores",
+        "dev_resources_info": "Lee nuestra guía de inicio y nuestras directrices para contribuir con código en GitHub.",
+        "dev_resources_code": "Wiki de código",
+        "dev_resources_contribute": "Contribuyendo",
+        "join": "¿Quieres formar parte del equipo?",
+        "join_info": "Aquí tienes algunas formas en las que puedes contribuir."
+    },
+    "resources": {
+        "meta": {
+            "title": "Recursos oficiales de Nitrox · Logotipo, tipografía, imágenes",
+            "description": "Descarga los recursos oficiales de Nitrox Mod, incluyendo el logotipo, las fuentes, las imágenes y mucho más."
+        },
+        "title": "Nitrox <span class=\"opacity-5\">Recursos</span>",
+        "fonts": "Fuentes tipográficas",
+        "images": "Imágenes",
+        "images_info": "Capturas de pantalla multijugador de Nitrox. <span class=\"opacity-5\">Úsalas para compartir la experiencia multijugador de Subnautica. ¿Quieres añadir las tuyas propias? Compártelas en el servidor de Discord o envíanos un tuit.</span>"
+    },
+    "server": {
+        "meta": {
+            "title": "Servidor de Nitrox · Características",
+            "description": "Nitrox cuenta con un potente servidor multijugador, a la vez que es extremadamente ligero y eficiente en cuanto a recursos."
+        },
+        "title": "Servidor Nitrox <br>Ligero y potente.",
+        "features": "Los servidores Nitrox <span class=\"opacity-5\">son potentes, pero fáciles de alojar. Con código optimizado escrito para Subnautica. Funciona de manera extremadamente ligera y apenas requiere recursos, para obtener el mejor rendimiento del juego.</span>",
+        "cards": {
+            "host": "Host",
+            "host_info": "Organiza fácilmente un evento para un gran número de jugadores, con capacidad para hasta 100 participantes.",
+            "host_slots": "Max. de Jugadores",
+            "host_footnote": "Máximo 100 jugadores en el servidor, número recomendado de jugadores: 5.",
+            "connect": "Conectar",
+            "connect_info": "Reenvío automático de puertos mediante el uso de UPNP para una configuración rápida.",
+            "connect_subtitle": "Tecnología",
+            "play": "Jugar",
+            "play_info": "Aloja o encuentra servidores permanentes para jugar en la comunidad Nitrox.",
+            "play_subtitle": "Servidores",
+            "play_footnote": "Los servidores públicos no están alojados por Nitrox y no se garantiza un tiempo de actividad del 100 %. Los servidores de terceros no están moderados por el equipo de Nitrox."
+        },
+        "features_included": "¿Qué incluye?",
+        "feature_list": "<p class=\"lead\">El servidor Nitrox incluye todo lo necesario para iniciar, alojar y jugar a Subnautica en modo multijugador.</p>\n<ul class=\"lead\">\n<li>Consola del servidor</li>\n<li>Sistema de chat integrado</li>\n<li>Puerto del servidor configurable</li>\n<li>Máximo de 100 jugadores conectados</li>\n<li>Función de guardado automático</li>\n<li>Configuración del modo de juego configurable</li>\n<li>Modo de servidor público</li>\n<li>Servidor privado protegido con contraseña</li>\n</ul>"
+    },
+    "launcher": {
+        "meta": {
+            "title": "Nitrox Launcher · Características",
+            "description": "El launcher de Nitrox es tu puerta de entrada a la experiencia multijugador de Subnautica."
+        },
+        "hero": "Multijugador<br>todo en uno.",
+        "coming_soon": "Próximamente",
+        "launcher": "Nitrox Launcher.",
+        "preview": "Echa un vistazo al nuevo launcher de Nitrox. <span class=\"opacity-5\">Tu puerta de entrada a la experiencia multijugador. Cuidadosamente diseñado para ser fácil de usar. Próximamente disponible.</span>",
+        "redesigned": "Rediseñado desde cero. <span class=\"opacity-5\">Con el objetivo de proporcionar información útil. Acceso rápido al modo multijugador. Diagnósticos detallados. Todo lo que necesitas para alojar un servidor.</span>",
+        "hub": "Tu centro de referencia para todo lo relacionado con Nitrox.",
+        "hub_info": "Con el launcher rediseñado, podrás mantenerte al día fácilmente de todo lo relacionado con Nitrox. Sé el primero en obtener las últimas versiones, información detallada para mejorar tu experiencia en el servidor y una pestaña de comunidad con acceso a servidores alojados por la comunidad las 24 horas del día, los 7 días de la semana.",
+        "settings": "Configuración inteligente",
+        "settings_info": "¿Has comprado varias copias de Subnautica? No hay problema. Nitrox Launcher puede detectar automáticamente todas tus instalaciones de Subnautica, lo que te permite elegir rápidamente entre las diferentes versiones de la tienda. Simplifica la configuración y elimina la necesidad de especificar manualmente una ruta.",
+        "server": "Servidor",
+        "server_info": "Nitrox Server está integrado en el launcher. Esto permite una configuración rápida de tu propia instancia multijugador. Gracias a UPNP, Nitrox se encarga automáticamente del reenvío de puertos. El servidor es ligero y fácil de ejecutar sin utilizar muchos recursos del sistema.",
+        "server_more": "Más información"
+    },
+    "team": {
+        "meta": {
+            "title": "Equipo de Nitrox · Mod multijugador de Subnautica",
+            "description": "Saluda a los generosos colaboradores del proyecto de código abierto Nitrox"
+        },
+        "title": "Nitrox está desarrollado por un equipo apasionado de colaboradores de código abierto.",
+        "join": "¿Quieres unirte al equipo?",
+        "join_description": "Tú también colaborador para este mod. ¡Puedes desarrollar para Nitrox o unirte al equipo de soporte! Solo tienes que enviar tu solicitud en el servidor de Discord o en la página del subreddit."
+    },
+    "changelog": {
+        "meta": {
+            "title": "Registro de cambios · Mod multijugador de Subnautica",
+            "description": "Consulte el registro de cambios y el historial de versiones más recientes de las versiones de Nitrox Mod."
+        },
+        "title": "Registro de cambios",
+        "subtitle": "Consulte el último registro de cambios y el historial de versiones de las publicaciones de Nitrox Mod.",
+        "latest_version": "Ultima versión:",
+        "download": "Descargar"
+    },
+    "footer-extended": {
+        "community_title": "Comunidad",
+        "community_description": "Conéctate y chatea con otros jugadores de Nitrox",
+        "users": "de Usuarios Únicos",
+        "downloads": "de Descargas",
+        "nexus": "Opiniones de Nexus",
+        "discord": "miembros en Discord",
+        "community": {
+            "discord": "Servidor de Discord de Nitrox",
+            "discord_description": "Chatea con más de 27k miembros sobre el modo multijugador de Subnautica, encuentra otros jugadores con los que jugar y obtén ayuda.",
+            "discord_join": "Haz clic aquí para unirte a Discord",
+            "twitter": "Síguenos en Twitter",
+            "twitter_description": "Síguenos en Twitter para estar siempre al tanto de las últimas novedades, información y mucho más desde la cuenta oficial de Twitter de Nitrox.",
+            "twitter_join": "Haz clic aquí para visitar @modnitrox",
+            "bluesky": "Síguenos en Bluesky",
+            "bluesky_description": "Síguenos en Bluesky para estar siempre al tanto de las últimas novedades, información y mucho más desde la cuenta oficial de Bluesky de Nitrox.",
+            "bluesky_join": "Haz clic aquí para visitar @nitroxmod"
+        },
+        "featured": "Destacado en",
+        "footnote_1": "La tienda de Windows requiere una configuración adicional. Los pasos y la ayuda para la configuración se pueden encontrar en el Discord de Nitrox.",
+        "footnote_2": "100 jugadores máximos por servidor, se recomienda mantenerlo en 5.",
+        "footnote_3": "Los servidores públicos no son alojados por Nitrox y no se garantiza un tiempo de actividad del 100%. Los servidores de terceros no son moderados por el equipo de Nitrox."
+    },
+    "footer": {
+        "getstarted": "Por donde empezar",
+        "mod": "Mod",
+        "connect": "Conectate",
+        "learnmore": "Más información",
+        "nav": {
+            "guides": "Guías de Nitrox",
+            "install": "Guía de instalación",
+            "server_setup": "Configurar un servidor",
+            "server_join": "Unirse a un servidor",
+            "download": "Descargar Nitrox",
+            "changelog": "Registro de cambios",
+            "contribute": "Contribuir",
+            "community": "Comunidad",
+            "devblog": "Blog del desarrollo",
+            "about": "Acerca de",
+            "team": "Equipo",
+            "resources": "Recursos"
+        }
+    },
+    "navigation": {
+        "home": "Inicio",
+        "guides": "Guías",
+        "about": "Acerca de",
+        "community": "Comunidad",
+        "blog": "Blog",
+        "motd": "Última publicación del blog de desarrollo.",
+        "read_more": "Leer más"
+    },
+    "lang-select": {
+        "title": "Idioma",
+        "description": "Elija su idioma."
+    },
+    "wiki": {
+        "meta": {
+            "title": "Guías y Wiki · Mod multijugador de Subnautica",
+            "description": "Nitrox es un mod multijugador gratuito para Subnautica desarrollado por la comunidad."
+        },
+        "title": "Bienvenido al soporte de Nitrox",
+        "subtitle": "Explora las útiles guías y lee los primeros pasos para empezar a utilizar Nitrox.",
+        "quick_links": "Enlaces rápidos",
+        "search_placeholder": "Buscar algo…",
+        "search_install": "Instalar Nitrox en Steam y Epic Games",
+        "search_run": "Ejecutar y alojar un servidor de Nitrox",
+        "search_join": "Unirse a un servidor de Nitrox",
+        "search_home": "Asistente de actualización e instalación de Nitrox",
+        "readmore": "Leer más",
+        "cards": {
+            "install": "Instalación de Nitrox",
+            "install_more": "Empieza por instalar Nitrox. ¡Sigue los pasos con atención y estarás listo para jugar en un abrir y cerrar de ojos!",
+            "server": "Ejecutar el servidor",
+            "server_more": "Después de instalar el mod, puedes empezar a jugar con otros ejecutando y alojando el servidor de Nitrox.",
+            "join": "Conectarse a un servidor",
+            "join_more": "¿Quieres unirte a otro servidor? Aprende a añadir y unirte a otros servidores de Nitrox y juega Subnautica en multijugador."
+        },
+        "wizard": "Asistente de instalación y actualización",
+        "wizard_more": "Nuestro nuevo asistente interactivo de Nitrox te guía paso a paso a través del proceso de instalación y actualización. Solo tienes que responder a cada pregunta y obtendrás una respuesta instantánea. ¡Pruébalo hoy mismo!",
+        "wizard_link": "Iniciar el asistente de Nitrox",
+        "support": "Obtener asistencia",
+        "support_more": "Nuestro equipo de soporte está aquí para ayudarte. Únete a Discord y encontraremos una solución.",
+        "support_discord": "Únete al Discord de Nitrox",
+        "faq": {
+            "title": "Preguntas frecuentes",
+            "install_nitrox": {
+                "question": "¿Cómo instalo Nitrox?",
+                "answer": "<p>Utilice el asistente de instalación de Nitrox o lea las guías para aprender a instalar el mod.</p>"
+            },
+            "status": {
+                "question": "¿Cuál es la situación actual?",
+                "answer": "<p>El mod se encuentra en una fase muy temprana de desarrollo; sin embargo, se han sentado unas bases sólidas sobre las que la comunidad puede seguir trabajando. Se han completado los siguientes hitos:</p><ul class=\"disc\"><li>Comunicación entre el cliente y el servidor</li><li>Movimiento del jugador</li><li>Sincronización de la recogida y el abandono de objetos</li><li>Sincronización del mundo a larga distancia</li><li>Construcción de bases</li><li>Construcción de muebles</li> servidor<li>Movimiento del jugador</li><li>Sincronización de recogida/soltar objetos</li><li>Sincronización del mundo a larga distancia</li><li>Construcción de bases</li><li>Construcción de muebles</li><li>La mayoría de las interacciones con muebles (contenedores/fabricadores de botiquines/cargadores/etc.)</li><li>Gestión de la energía</li><li>Sincronización de Seamoth y Exosuit</li><li>Sincronización básica de Cyclops</li><li>Sistema de chat rudimentario</li><li>Nuevo HUD para jugadores remotos</li><li>Animaciones básicas de los jugadores</li><li>Integración con&nbsp;<a href=\"https://github.com/pardeike/Harmony\" target=\"_blank\">Harmony</a></li></ul>"
+            },
+            "play": {
+                "question": "¿Cómo puedo jugar a este mod?",
+                "answer": "Descarga el instalador desde la sección «Descargar». Ten en cuenta que aún se encuentra en fase de desarrollo y puede contener errores."
+            },
+            "bz": {
+                "question": "¿Es Nitrox compatible con Subnautica: Below Zero?",
+                "answer": "Actualmente, el mod Nitrox solo funciona con el juego base. Se planea añadir compatibilidad con Below Zero, pero no se lanzará hasta que la versión actual de Nitrox sea estable."
+            },
+            "help": {
+                "question": "¿Cómo puedo obtener ayuda?",
+                "answer": "Por favor, lee primero los pasos que se indican en nuestra wiki. Si eso no funciona, solicita ayuda en nuestro chat de ayuda en el canal de Discord."
+            },
+            "contribute": {
+                "question": "¿Cómo puedo contribuir?",
+                "answer": "Simplemente envíe una solicitud de extracción en la <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">página de GitHub</a>. Para obtener información detallada sobre el proyecto, la configuración del entorno de desarrollo y las directrices de contribución, consulta nuestra <a href=\"https://subnauticanitrox.github.io/Documentation/docs/intro\" target=\"_blank\">documentación</a>. No dude en unirse a nuestro <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">canal de Discord</a> para debatir e intercambiar opiniones o ideas con otros colaboradores, desarrolladores y jugadores."
+            },
+            "donate": {
+                "question": "¿Cómo puedo hacer una donación?",
+                "answer": "No aceptamos donaciones para el mod. Aquellos que deseen hacer una donación pueden hacerlo aquí: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+            },
+            "why": {
+                "question": "¿Por qué el nombre «Nitrox»?",
+                "answer": "El Nitrox es una mezcla de aire alternativa que utilizan los buceadores para prolongar el tiempo de inmersión. Como mod, aportará una nueva dimensión al juego que te permitirá disfrutar aún más."
+            }
+        }
     }
 }

@@ -218,7 +218,7 @@
         },
         "features_included": "Co je zahrnuto?",
         "features": "Nitrox servery <span class=\"opacity-5\"> jsou výkonné, ale snadno se hostují. Jsou vybaveny optimalizovaným kódem napsaným pro Subnautica. Fungují velmi lehce a nevyžadují téměř žádné zdroje, což zajišťuje nejlepší herní výkon.</span>",
-        "feature_list": "<p class=\"lead\">Nitrox server obsahuje vše, co potřebujete ke spuštění, hostování a hraní Subnautica v režimu pro více hráčů.</p>\n<ul class=\"lead\">\n<li>Konzoli Serveru</li>\n<li>Vestavěný chatovací systém</li>\n<li>Konfigurovatelný port serveru</li><li>Max. 100 připojených hráčů</li>\n<li>Funkce automatického ukládání</li>\n<li>Konfigurovatelné nastavení herního režimu</li>\n<li>Režim veřejného serveru</li>\n<li>Server zabezpečený vlastním heslem</li>\n</ul>"
+        "feature_list": "<p class=\"lead\">Nitrox server obsahuje vše, co potřebujete ke spuštění, hostování a hraní Subnautica v režimu pro více hráčů.</p>\n<ul class=\"lead\">\n<li>Konzoli Serveru</li>\n<li>Vestavěný chatovací systém</li>\n<li>Konfigurovatelný port serveru</li>\n<li>Max. 100 připojených hráčů</li>\n<li>Funkce automatického ukládání</li>\n<li>Konfigurovatelné nastavení herního režimu</li>\n<li>Režim veřejného serveru</li>\n<li>Server zabezpečený vlastním heslem</li>\n</ul>"
     },
     "launcher": {
         "meta": {

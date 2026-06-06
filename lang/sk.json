@@ -234,6 +234,8 @@
         "preview": "Náhľad na nový Nitrox Launcher. <span class=\"opacity-5\">Váš vstup do zážitku z hry pre viacerých hráčov. Vytvorené na jednoduché použitie. Už čoskoro.</span>",
         "redesigned": "Nadizajnované odznova. <span class=\"opacity-5\">So zameraním na poskytovaní pomocných informácii. Rýchly prístup do hry pre viacerých hráčov. Detailné diagnostické údaje. Všetko čo potrebujete na hosting serveru.</span>",
         "settings_info": "Kúpili ste viacero kópii hry Subnautica? Žiadny problém. Nitrox launcher automaticky detekuje všetky inštalácie Subnautica, umožňujúc rýchly výber medzi rôznymi verziami obchodu. Zjednodušenie nastavenia bez potreby zadávania adresy súboru.",
-        "server": "Server"
+        "server": "Server",
+        "server_info": "Server Nitrox je zabudovaný do launcheru. To umožňuje rýchle nastavenie pre vaše vlastné servery pre viac hráčov. Vďaka UPNP, Nitrox automaticky zariadi port forwarding. Server je ľahký, beží bez využitia mnoho systémových zdrojov.",
+        "server_more": "Zistite viac"
     }
 }
