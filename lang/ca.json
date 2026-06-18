@@ -13,7 +13,7 @@
             },
             "community": {
                 "title": "Base de jugadors",
-                "discord": "Membres de Discord",
+                "discord": "Membres de Discord online",
                 "headline": "Comunitat",
                 "downloads": "Descàrregues",
                 "description": "Sigues part de la gran i creixent comunitat de Nitrox. Troba nous servidors, rep ajuda o parla a altres jugadors de Nitrox."
@@ -26,7 +26,7 @@
             "stores": {
                 "headline": "Tendes suportades actualment",
                 "title": "Entre plataformes",
-                "description": "Compatible amb les teves tendes favorites. Joc multiplataforma natiu integrat en el mod, permetent multijugador transparent.",
+                "description": "Compatible amb les teves tendes preferides. Joc multiplataforma natiu integrat en el mod, permetent multijugador transparent.",
                 "tooltip": "Actualment no disponible"
             },
             "launcher": {
@@ -43,7 +43,7 @@
             "lang": {
                 "link": "Contribueix i afegeix la teva llengua",
                 "headline": "Llenguatges afegits per la comunitat",
-                "languages": "Alemany, Búlgar, Xinès, Croat, Eslovè, Anglès, Espanyol, Francès, Grec, Hongarès, Italià, Japonès, Corean, Polonès, Portuguès, Romanès, Rus, Eslovac, Eslovè, Espanyol, Suec, Tailandès, Turc, Ucraïnès, …",
+                "languages": "Búlgar, xinès (simplificat), xinès (tradicional), txec, danès, neerlandès, anglès, finès, francès, alemany, grec, hongarès, irlandès, italià, coreà, lituà, noruec, polonès, portuguès, portuguès (Brasil), romanès, rus, serbi, serbi (ciríl·lic), eslovac, eslovè, castellà, suec, tailandès, turc, ucraïnès, vietnamita, …",
                 "title": "Nitrox també parla la teva llengua."
             },
             "code": {
@@ -91,7 +91,167 @@
     },
     "download": {
         "meta": {
-            "title": "Descarrega Nitrox - Mod Multijugador per Subnautica"
+            "title": "Descarrega Nitrox - Mod Multijugador per Subnautica",
+            "description": "Descarga't Nitrox: un mod multijugador gratuït per al joc Subnautica desenvolupat per la comunitat."
+        },
+        "header": {
+            "alpha": "ALPHA INICIAL",
+            "title": "Descarrega't Nitrox",
+            "subtitle": "L'aventura t'espera. Descarrega't el mod Nitrox gratuïtament i comença a jugar al mode multijugador de Subnautica!",
+            "download": "Iniciar la descàrrega",
+            "version": "Alfa",
+            "stores": "Versions de botiga compatibles"
+        },
+        "changelog": "Registre de canvis",
+        "changelog_older": "Veure entrades del registre de canvis antigues",
+        "sidebar": "El mod de Nitrox. <span class=\"opacity-5\">Una modificació multijugador de codi obert per al joc Subnautica.</span>"
+    },
+    "download_start": {
+        "meta": {
+            "title": "La descàrrega ha començat… · Mod multijugador de Subnautica",
+            "description": "Descarrega't Nitrox: un mod multijugador gratuït per al joc Subnautica desenvolupat per la comunitat."
+        },
+        "header": {
+            "started": "La descàrrega ha començat",
+            "helper": "La descàrrega hauria de començar automàticament en <span id=\"countdowntimer\">2</span> segons. Si no ho fa, ",
+            "helper_link": "reinicieu la descàrrega"
+        },
+        "next_steps": "Següents passos",
+        "install_vid": "Instal·lar vídeo",
+        "community_join": "Uneix-te a la comunitat",
+        "guide": "Guia d'instal·lació i actualització",
+        "guide_link": "Assistent d'instal·lació de Nitrox",
+        "download_infos": "Informació de la descarrega",
+        "file_size": "Mida del fitxer",
+        "version": "Versió",
+        "md5": "Hash MD5"
+    },
+    "community": {
+        "meta": {
+            "title": "Comunitat de Nitrox · Mod multijugador de Subnautica",
+            "description": "Forma part de la gran i creixent comunitat de Nitrox. Troba nous servidors, rep ajuda i parla amb altres jugadors de Nitrox."
+        },
+        "title": "Comunitat de Nitrox",
+        "subtitle": "Uneix-te a la gran comunitat Nitrox amb jugadors d'arreu del món.",
+        "discord": "Uneix-te al nostre servidor de Discord actiu per trobar servidors on jugar, obtenir ajuda de l'equip de suport i molt més.",
+        "discord_join": "Uneix-te al Discord",
+        "bluesky": "Segueix el compte de Nitrox Bluesky per estar sempre al dia de les darreres novetats, esdeveniments i llançaments.",
+        "bluesky_follow": "Segueix-nos a Bluesky",
+        "twitter": "Segueix el compte de Twitter de Nitrox per estar sempre al dia de les darreres novetats, esdeveniments i llançaments.",
+        "twitter_follow": "Segueix-nos a Twitter",
+        "reddit": "Uneix-te al Subreddit de Nitrox per mantenir-te informat sobre els últims llançaments i publicar contingut de la comunitat.",
+        "reddit_join": "Uneix-te al nostre Subreddit",
+        "github": "Vols formar part de l'equip? Contribueix des del codi fins a les traduccions del projecte Nitrox a GitHub.",
+        "github_link": "Contribueix a GitHub"
+    },
+    "about": {
+        "meta": {
+            "title": "Sobre Nitrox · Mod multijugador de Subnautica",
+            "description": "Descobreix més sobre l'equip i el projecte de codi obert Nitrox"
+        },
+        "title": "Els modders han portat el mode multijugador a Subnautica.",
+        "quote": "Cita de",
+        "why": "Per què Nitrox?",
+        "discord_join": "Uneix-te a Discord",
+        "multiplayer": "Multijugador. <span class=\"opacity-5\">Juga a Subnautica tal com estava pensat, en multijugador.</span>",
+        "opensource": "Codi obert. <span class=\"opacity-5\">Suport i actualitzacions regulars dels generosos col·laboradors.</span>",
+        "servers": "Comunitat. <span class=\"opacity-5\">Troba nous servidors, rep ajuda i parla amb altres jugadors de Nitrox.</span>",
+        "metrics": "Les nostres mètriques",
+        "download_count": "+1.000.000",
+        "downloads": "Descàrregues",
+        "user_count": "+500.250",
+        "users": "Usuaris",
+        "discord_members": "+27.000",
+        "discord": "Membres de Discord",
+        "featured": "Destacat a",
+        "download_title": "ALFA INICIAL",
+        "download_header": "Preparat? Aconsegueix el mod!",
+        "download_description": "L'aventura t'espera. Descarrega el mod Nitrox gratuïtament i comença a jugar al mode multijugador de Subnautica!",
+        "download": "Descarregar",
+        "version": "Última versió:"
+    },
+    "os": {
+        "meta": {
+            "title": "Codi obert Nitrox · Característiques",
+            "description": "El codi obert és el cor del mod Nitrox. Des de la comunitat que el va crear fins al suport per al seu manteniment."
+        },
+        "title": "Amb tecnologia de<br>codi obert.",
+        "hero": "El codi obert és el nucli de Nitrox. <span class=\"opacity-5\">El mod es troba en les primeres etapes de desenvolupament; tanmateix, s'ha establert una base sòlida sobre la qual la comunitat pugui seguir treballant.</span>",
+        "license": "Llicència Pública General de GNU v3.0",
+        "license_info": "SubnauticaNitrox/Nitrox està subjecte a la Llicència Pública General GNU v3.0",
+        "license_link": "Més informació",
+        "dev_resources": "Recursos de desenvolupadors",
+        "dev_resources_info": "Llegeix la nostra guia d'introducció i contribució de codi a GitHub.",
+        "dev_resources_code": "Wiki del codi",
+        "dev_resources_contribute": "Contribuint",
+        "join": "Vols formar part de l'equip?",
+        "join_info": "Aquí teniu maneres de contribuir."
+    },
+    "resources": {
+        "meta": {
+            "title": "Recursos oficials de Nitrox · Logotip, tipografia, imatges",
+            "description": "Descarrega't els recursos oficials del mod Nitrox, incloent-hi el logotip, les fonts, les imatges i molt més."
+        },
+        "title": "<span class=\"opacity-5\">Recursos de</span>Nitrox",
+        "fonts": "Fonts tipogràfiques",
+        "images": "Imatges",
+        "images_info": "Captures de pantalla del mode multijugador de Nitrox. <span class=\"opacity-5\">Utilitza-les per compartir l'experiència multijugador de Subnautica.<br>Vols afegir les teves? Comparteix-les al servidor Discord o envia'ns un tuit.</span>"
+    },
+    "server": {
+        "meta": {
+            "title": "Servidor Nitrox · Característiques",
+            "description": "Nitrox compta amb un potent servidor multijugador, alhora que és extremadament lleuger i eficient en termes de recursos."
+        },
+        "title": "Servidor Nitrox <br>Lleuger i potent.",
+        "features": "Els servidors Nitrox <span class=\"opacity-5\">són potents, però fàcils d'allotjar. Amb codi optimitzat escrit per a Subnautica. Funciona de manera extremadament lleugera i gairebé no requereix recursos, per obtenir el millor rendiment del joc.</span>",
+        "cards": {
+            "host": "Host",
+            "host_info": "Organitza fàcilment un gran esdeveniment de jugadors amb suport per a fins a 100 jugadors.",
+            "host_slots": "Màx. Jugadors",
+            "host_footnote": "Màxim 100 jugadors al servidor, nombre de jugadors recomanat és 5.",
+            "connect": "Connectar",
+            "connect_info": "Reenviament automàtic de ports mitjançant l'ús d'UPNP per a una configuració ràpida.",
+            "connect_subtitle": "Tecnologia",
+            "play": "Jugar",
+            "play_info": "Allotja o troba servidors permanents per jugar a la comunitat Nitrox.",
+            "play_subtitle": "Servidors",
+            "play_footnote": "Els servidors públics no estan allotjats per Nitrox i no es garanteix un temps de funcionament del 100%. Els servidors de tercers no estan moderats per l'equip de Nitrox."
+        },
+        "features_included": "Què s'inclou?",
+        "feature_list": "<p class=\"lead\">El servidor Nitrox inclou tot el que necessiteu per iniciar, allotjar i jugar a Subnautica en mode multijugador.</p>\n<ul class=\"lead\">\n<li>Consola del servidor</li>\n<li>Sistema de xat integrat</li>\n<li>Port del servidor configurable</li>\n<li>Màxim 100 jugadors connectats</li>\n<li>Funció de desament automàtic</li>\n<li>Configuració del mode de joc configurable</li>\n<li>Mode de servidor públic</li>\n<li>Servidor privat protegit amb contrasenya</li>\n</ul>"
+    },
+    "launcher": {
+        "meta": {
+            "title": "Llançador Nitrox · Característiques",
+            "description": "El llançador de Nitrox és la teva entrada a l'experiència multijugador de Subnautica."
+        },
+        "hero": "Multijugador<br>tot en un.",
+        "coming_soon": "Pròximament",
+        "launcher": "Llançador Nitrox.",
+        "preview": "Previsualitza el nou llançador de Nitrox. <span class=\"opacity-5\">La teva entrada a l'experiència multijugador. Dissenyat amb cura per ser fàcil d'utilitzar. Pròximament.</span>",
+        "redesigned": "Redissenyat des de zero. <span class=\"opacity-5\">Amb un enfocament en proporcionar informació útil. Accés ràpid al mode multijugador. Diagnòstics detallats. Tot el que necessiteu per allotjar un servidor.</span>",
+        "hub": "El teu centre de tot allò relacionat amb Nitrox.",
+        "hub_info": "Amb el llançador redissenyat, pots mantenir-te fàcilment al dia de tot el relacionat amb Nitrox. Sigues el primer a obtenir les darreres versions, informació detallada per millorar la teva experiència al servidor i una pestanya de comunitat amb accés a servidors allotjats per la comunitat les 24 hores del dia, els 7 dies de la setmana.",
+        "settings": "Configuració intel·ligent",
+        "settings_info": "Has comprat diverses còpies de Subnautica? Cap problema. El llançador de Nitrox pot detectar automàticament totes les teves instal·lacions de jocs de Subnautica, cosa que et permet triar ràpidament entre diferents versions de la botiga. Simplifica la configuració i elimina la necessitat d'especificar manualment una ruta.",
+        "server": "Servidor",
+        "server_info": "El servidor Nitrox està integrat al llançador. Això permet una configuració ràpida de la teva pròpia instància multijugador. Gràcies a UPNP, Nitrox s'encarrega automàticament del reenviament de ports. El servidor és lleuger i fàcil d'executar sense utilitzar molts recursos del sistema.",
+        "server_more": "Més informació"
+    },
+    "wiki": {
+        "faq": {
+            "why": {
+                "question": "Per què el nom “Nitrox”?"
+            },
+            "donate": {
+                "question": "Com puc donar?"
+            },
+            "contribute": {
+                "question": "Com puc contribuir?"
+            },
+            "help": {
+                "answer": "Siusplau, primer llegeix les pases a la nostra wiki. Si aixo no funciona, siusplau pregunta en el nostre chat d'ajuda en el canal de discord"
+            }
         }
     }
 }

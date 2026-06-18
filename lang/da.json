@@ -1,13 +1,13 @@
 {
     "home": {
         "meta": {
-            "title": "",
+            "title": "Nitrox til Subnautica · Subnautica Multiplayer Mod",
             "description": "Nitrox er et gratis multiplayer mod for spillet Subnautica udviklet af fælleskabet."
         },
         "feature": {
             "gameplay": {
                 "description": "Spil Subnautica, alt fra en overlevelses gennemgang med dine venner til en kreativ bygge session.",
-                "headline": "",
+                "headline": "Gameplay",
                 "title": "Dit gameplay"
             },
             "multiplayer": {

@@ -110,7 +110,8 @@
             "title": "เกี่ยวกับ Nitrox · Subnautica มอดผู้เล่นหลายคน"
         },
         "users": "ผู้ใช้",
-        "download_header": "พร้อมหรือยัง ที่จะรับมอด"
+        "download_header": "พร้อมหรือยัง ที่จะรับมอด",
+        "discord_join": "เข้าร่วม Discord"
     },
     "download": {
         "header": {

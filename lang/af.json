@@ -1,7 +1,380 @@
 {
     "home": {
         "meta": {
-            "title": "Nitrox vir Subnautica · Subnautica Multispeler Mod"
+            "title": "Nitrox vir Subnautica · Subnautica Multispeler Mod",
+            "description": "Nitrox is 'n gratis multispeler mod vir die speletjie Subnautica ontwikkel deur die gemeenskap."
+        },
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_slogan": "<span>Jou</span> <span>multispeler</span> <span>Mod</span> <span>vir</span> <span>Subnautica.</span>",
+        "hero_cta": "Laai af verniet",
+        "explore": "Ervaar Subnautica <span class=\"opacity-5\">soos 'n heeltemal nuwe speletjie. Span saam. Verken nuwe dieptes. Bou uitmuntende basise.</span>",
+        "feature": {
+            "multiplayer": {
+                "headline": "Die mod",
+                "title": "Nitrox multispeler",
+                "description": "Begin uiteindelik Subnautica saamspeel met jou vriende. Sluit in of skep sowaar jou eie bediener."
+            },
+            "stores": {
+                "headline": "Huidige Geondersteune Winkels",
+                "title": "Kruisplatform",
+                "description": "Versoenbaar met jou gunsteling winkels. Inheemse kruisspeelondersteuning ingebou in die mod wat vir uitstekende multispeler toelaat.",
+                "tooltip": "Huidiglik nie beskikbaar nie"
+            },
+            "gameplay": {
+                "headline": "Speling",
+                "title": "Jou speling",
+                "description": "Speel Subnautica, van 'n oorlewingsdeurspel met jou vriende tot 'n kreatief bousessie."
+            },
+            "code": {
+                "headline": "Kodebasis",
+                "title": "Oopbron",
+                "description": "Gereelde ondersteuning en opdaterings van die vrygewige bydraers. Dra by en maak die mod beter."
+            },
+            "community": {
+                "headline": "Gemeenskap",
+                "title": "Spelerbasis",
+                "description": "Wees deel van die groot, groeiende Nitrox-gemeenskap. Vind nuwe bedieners, kry hulp en praat met ander Nitrox-spelers.",
+                "downloads": "Aflaaiings",
+                "discord": "Discord aanlyn"
+            },
+            "launcher": {
+                "headline": "Ervaring",
+                "title": "Nitrox Loodser",
+                "description": "Gebruik die Nitrox Loodser, huidiglik beskikbaar vir Windows. Bevat 'n goed ontwerpte gebruikerskoppelvlak om die speling van multispeler nog makliker te maak.",
+                "view": "Wys werk-in-progressie konsepte"
+            },
+            "chat": {
+                "headline": "Kommunikasie",
+                "title": "In-speletjie boodskappe",
+                "description": "Bly in kennis met die Nitrox kruisplatform-versoenbare, ingeboude speletjieboodskapsisteem."
+            },
+            "upnp": {
+                "headline": "UPnP Ondersteuning",
+                "title": "Outomatiese port forwarding",
+                "description": "Nitrox maak outomaties die vereiste ports oop wat dit moontlik maak om dadelik te konnekteer met jou vriende sonder die nood vir enige derdeparty VPN-sagteware."
+            },
+            "lang": {
+                "headline": "Gemeenskap-bygevoegde tale",
+                "title": "Nitrox praat ook jou taal.",
+                "languages": "Bulgaars, Chinees (Vereenvoudig), Chinees (Tradisioneel), Tsjeggies, Deens, Nederlands, Engels, Fins, Frans, Duits, Grieks, Hongaars, Iers, Italiaans, Koreaans, Litaus, Noors, Pools, Portugees, Portugees (Brazil), Roemeens, Russies, Serwies, Serwies (Cyrillies), Slowaaks, Sloweens, Spaans, Sweeds, Thai, Turks, Oekraïens, Viëtnamees, …",
+                "link": "Dra by &amp; voeg by jou taal"
+            },
+            "host": {
+                "headline": "Huisves",
+                "description": "Huisves maklik 'n groot spelergeleentheid met ondersteuning tot en met 100 spelers.",
+                "subtitle": "Maks. Slotte"
+            },
+            "play": {
+                "headline": "Speel",
+                "description": "Ewekansige begin Ontsnap-pod, Ewekansige &amp; Gestoorde Sade vir Hulpbronne en Fauna, Nuwe Stoor-sisteem, Plante &amp; Boerdery... en soveel meer."
+            },
+            "server": {
+                "headline": "Publieke Bediener",
+                "description": "Vind permanente bedieners om op te speel, in die Nitrox Discord.",
+                "number": "24/7",
+                "subtitle": "Bedieners"
+            }
+        },
+        "nextsteps": {
+            "get": {
+                "title": "Kry die mod",
+                "description": "Laai die Nitrox Mod verniet af en begin Multispeler speel!",
+                "download": "Laai af",
+                "latest_version": "Nuutste weergawe:"
+            },
+            "wiki": {
+                "title": "Begin",
+                "description": "Lees die installasiegids en GGV-bladsy",
+                "link": "Besoek Gidse"
+            }
         }
+    },
+    "download": {
+        "meta": {
+            "title": "Laai Nitrox Af · Subnautica Multispelermod",
+            "description": "Laai Nitrox af: 'n verniet multispeler mod vir die speletjie Subnautica ontwikkel deur die gemeenskap."
+        },
+        "header": {
+            "alpha": "VROEË ALFA",
+            "title": "Laai Nitrox Af",
+            "subtitle": "Jou avontuur wag. Laai die Nitrox Mod verniet af en begin Subnautica multispeler speel!",
+            "download": "Begin Aflaaiing",
+            "version": "Alfa",
+            "stores": "Ondersteunde Winkelweergawes"
+        },
+        "changelog": "Veranderingslys",
+        "changelog_older": "Bekyk ouer veranderingslysinskrywings",
+        "sidebar": "Nitrox Mod. <span class=\"opacity-5\">'n Oopbron, multispeler modifikasie vir die speletjie Subnautica.</span>"
+    },
+    "download_start": {
+        "meta": {
+            "title": "Aflaaiing begin… · Subnautica Multispelermod",
+            "description": "Laai Nitrox af: 'n verniet multispeler mod vir die speletjie Subnautica ontwikkel deur die gemeenskap."
+        },
+        "header": {
+            "started": "Aflaaiing begin",
+            "helper": "Jou aflaaiing behoort outomaties te begin in <span id=\"countdowntimer\">2</span> sekondes. As dit nie, ",
+            "helper_link": "begin die aflaaiing oor"
+        },
+        "next_steps": "Volgende stappe",
+        "install_vid": "Installasievideo",
+        "community_join": "Sluit by die gemeenskap aan",
+        "guide": "Installeer en Opgradeergids",
+        "guide_link": "Nitrox-installeringshelper",
+        "download_infos": "Aflaaiing inligting",
+        "file_size": "Lêergrootte",
+        "version": "Weergawe",
+        "md5": "MD5 Hash"
+    },
+    "community": {
+        "meta": {
+            "title": "Nitrox Gemeenskap · Subnautica Multispelermod",
+            "description": "Wees deel van die groot, groeiende Nitrox-gemeenskap. Vind nuwe bedieners, kry hulp en praat met ander Nitrox-spelers."
+        },
+        "title": "Nitrox-gemeenskap",
+        "subtitle": "Sluit by die groot Nitrox-gemeenskap aan met spelers regoor die wêreld.",
+        "discord": "Sluit aan by ons aktiewe Discord-bediener om bedieners te vind om op te speel, hulp te kry van die ondersteuningsspan en soveel meer.",
+        "discord_join": "Sluit by ons Discord aan",
+        "bluesky": "Volg die Nitrox Bluesky rekening om altyd op datum te wees met die nuutste verwikkelinge, geleenthede en vrystellings.",
+        "bluesky_follow": "Volg op Bluesky",
+        "twitter": "Volg die Nitrox Twitter rekening om altyd op datum te wees met die nuutste verwikkelinge, geleenthede, en vrystellings.",
+        "twitter_follow": "Volg op Twitter",
+        "reddit": "Sluit by die Nitrox Subreddit aan om ingelig te bly oor nuutste vrystellings en gemeenskapinhoud uit te stal.",
+        "reddit_join": "Sluit by Subreddit op Reddit aan",
+        "github": "Wil jy deel van die span wees? Dra by van kode tot vertalings aan die Nitrox-projek op Github.",
+        "github_link": "Dra by op Github"
+    },
+    "about": {
+        "meta": {
+            "title": "Oor Nitrox · Subnautica Multispelermod",
+            "description": "Vind uit meer agter die span en oopbron Nitrox-projek"
+        },
+        "title": "Modders het multispeler na Subnautica gebring.",
+        "quote": "Aanhaling van",
+        "why": "Hoekom Nitrox?",
+        "discord_join": "Sluit aan op Discord",
+        "multiplayer": "Multispeler. <span class=\"opacity-5\">Speel Subnautica hoe dit bedoel was om te speel, in Multispeler.</span>",
+        "opensource": "Oopbron. <span class=\"opacity-5\">Gereelde ondersteuning en opdaterings van die vrygewende bydraers.</span>",
+        "servers": "Gemeenskap. <span class=\"opacity-5\">Vind nuwe bedieners, kry hulp en praat met ander Nitrox-spelers.</span>",
+        "metrics": "Ons statistieke",
+        "download_count": "1,000,000+",
+        "downloads": "Aflaaiings",
+        "user_count": "500,250+",
+        "users": "Gebruikers",
+        "discord_members": "27,000+",
+        "discord": "Discord-lede",
+        "featured": "Kenmerkend op",
+        "download_title": "VROEË ALFA",
+        "download_header": "Gereed? Kry die mod!",
+        "download_description": "Jou avontuur wag. Laai die Nitrox mod verniet af en begin Subnautica multispeler speel!",
+        "download": "Laai af",
+        "version": "Nuutste weergawe:"
+    },
+    "footer-extended": {
+        "featured": "Kenmerkend op",
+        "community_title": "Gemeenskap",
+        "community_description": "Konnekteer &amp; klets met ander Nitrox-spelers",
+        "users": "Unieke Gebruikers",
+        "downloads": "Aflaaiings",
+        "nexus": "Nexus-bekykings",
+        "discord": "Discord Aanlyn",
+        "community": {
+            "discord": "Nitrox Discord-bediener",
+            "discord_description": "Klets met meer as 27k lede oor Subnautica Multispeler, vind ander spelers om saam te speel en kry ondersteuning.",
+            "discord_join": "Klik om aan te sluit op Discord",
+            "twitter": "Volg op Twitter",
+            "twitter_description": "Volg op Twitter om altyd op hoogte te bly met op datum inligting, insigte en soveel meer van die amptelike Nitrox Twitter-rekening.",
+            "twitter_join": "Klik om @modnitrox te besoek",
+            "bluesky_join": "Klik om @modnitrox te besoek",
+            "bluesky": "Volg op Bluesky",
+            "bluesky_description": "Volg op Bluesky om altyd op hoogte te bly met op datum inligting, insigte en soveel meer van die amptelike Nitrox Bluesky-rekening."
+        },
+        "footnote_1": "Windows-winkel vereis addisionele opstelling. Stappe en ondersteuning om op te stel kan gevind word in Nitrox Discord.",
+        "footnote_2": "Maks. 100 bedienerspelers, voorgestelde spelertelling 5.",
+        "footnote_3": "Publieke bedieners is nie deur Nitrox gehuisves nie en 100% aanlyntyd is nie verseker nie. Derdeparty bedieners is nie gemodereer deur die Nitrox-span nie."
+    },
+    "os": {
+        "meta": {
+            "title": "Oopbron Nitrox · Kenmerke",
+            "description": "Oopbronkode is in die hart van die Nitrox-mod. Van die gemeenskap wat dit opgebou het tot die ondersteuning wat dit handhaaf."
+        },
+        "title": "Gedryf deur<br>oopbron.",
+        "hero": "Oopbron is in die kern van Nitrox. <span class=\"opacity-5\">Die mod is in die baie vroeë stadiums van ontwikkeling; nietemin, 'n vaste fondament is gelê vir die gemeenskap om mee te werk.</span>",
+        "license": "GNU Algemene Publieke Lisensie v3.0",
+        "license_info": "SubnauticaNitrox/Nitrox is gelisenseerd onder die GNU Algemene Publieke Lisensie v3.0",
+        "license_link": "Leer meer",
+        "dev_resources": "Ontw hulpbronne",
+        "dev_resources_info": "Lees ons begin- en kodebydrariglyn op Github.",
+        "dev_resources_code": "Kode wiki",
+        "dev_resources_contribute": "Bydrae",
+        "join": "Wil jy deel van die span wees?",
+        "join_info": "Hier is maniere wat jy kan bydra."
+    },
+    "resources": {
+        "meta": {
+            "title": "Amptelike Nitrox-hulpbronne · Logo, tipografie, beelde",
+            "description": "Laai die amptelike Nitrox-mod hulpbronne af insluitend die logo, skriftipes, beelde en meer."
+        },
+        "title": "Nitrox <span class=\"opacity-5\">Hulpbronne</span>",
+        "fonts": "Skriftipes",
+        "images": "Beelde",
+        "images_info": "Nitrox-multispeler skermskote. <span class=\"opacity-5\">Gebruik hierdie om die multispeler-ervaring van Subnautica te deel.<br> Wil jy jou eie bysit? Deel hulle op die Discord-bediener of tweet ons.</span>"
+    },
+    "server": {
+        "meta": {
+            "title": "Nitrox-bediener · Kenmerke",
+            "description": "Nitrox kenmerk 'n kragtige multispelerbediener, als terwyl dit verskriklik ligweg- en hulpbrondoeltreffend is."
+        },
+        "title": "Nitrox-bediener <br>Ligweg &amp; kragtig.",
+        "features": "Nitrox-bedieners <span class=\"opacity-5\">is kragtig, nogtans maklik om te huisves. Met geoptimaliseerde kode geskryf vir Subnautica. Dit hardloop verskriklik ligweg en vereis skaars enige hulpbronne, vir die beste speletjie-verrigting.</span>",
+        "cards": {
+            "host": "Huisves",
+            "host_info": "Huisves maklik 'n groot spelergeleentheid met ondersteuning van tot en met 100 spelers.",
+            "host_slots": "Maks. Slotte",
+            "host_footnote": "Maks. 100 bedienerspelers, voorgestelde spelertelling 5.",
+            "connect": "Konnekteer",
+            "connect_info": "Outomatiese port forwarding deur gebruik van UPNP vir vinnige opstelling.",
+            "connect_subtitle": "Tegnologie",
+            "play": "Speel",
+            "play_info": "Huisves of vind permanente bedieners om op te speel, in die Nitrox-gemeenskap.",
+            "play_subtitle": "Bedieners",
+            "play_footnote": "Publieke bedieners is nie deur Nitrox gehuisves nie en 100% aanlyntyd is nie verseker nie. Derdeparty bedieners is nie gemodereer deur die Nitrox-span nie."
+        },
+        "features_included": "Wat is ingesluit?",
+        "feature_list": "<p class=\"lead\">Nitrox-bediener sluit in alles jy benodig het om te Subnautica in multispelermodus te begin, huisves en speel.</p>\n<ul class=\"lead\">\n<li>Bedienerkonsole</li>\n<li>Ingeboude kletssisteem</li>\n<li>Veranderlike bedienerpoort</li>\n<li>Maks. 100 gekonnekteerde spelers</li>\n<li>Outomatiese stoorfunksie</li>\n<li>Veranderlike speletjiemodusinstelling</li>\n<li>Publieke bedienermodus</li>\n<li>Private wagwoordbeskermde bedieners</li>\n</ul>"
+    },
+    "launcher": {
+        "meta": {
+            "title": "Nitrox Loodser · Kenmerke",
+            "description": "Die Nitrox Loodser is jou ingang tot die multispeler Subnautica-ervaring."
+        },
+        "hero": "Alles-in-een<br>multispeler.",
+        "coming_soon": "Kom gou",
+        "launcher": "Nitrox Loodser.",
+        "preview": "Voorskou die nuwe Nitrox Loodser. <span class=\"opacity-5\">Jou ingang tot die multispeler-ervaring. Versigtig ontwerp om maklik bruikbaar te wees. Kom gou.</span>",
+        "redesigned": "Herontwerp van die grond op. <span class=\"opacity-5\">Met 'n fokus aan helpvol inligting aanbied. Vinnige toegang tot multispeler. Gedetailleerde diagnostiek. Alles wat jy benodig om 'n bediener te huisves.</span>",
+        "hub": "Jou hub vir alles Nitrox.",
+        "hub_info": "Met die herontwerpe loodser kan jy maklik op datum bly met alles Nitrox-geleë. Wees die eerste om nuutste weergawes, gedetailleerde inligting om jou bedienerervaring te verryk en 'n gemeenskapoortjie met toegang na 24/7 gemeenskaphuisveste bedieners te kry.",
+        "settings": "Sliminstellings",
+        "settings_info": "Het jy vele kopieë van Subnautica gekoop? Geen probleem. Die Nitrox Loodser kan outomaties al jou Subnautica-speletjieinstallasies opspoor, wat jou toelaat om vinnig tussen verskillende winkelweergawes te kies. Vereenvoudig die opstelling en verwyder die nood om met die hand 'n pad te spesifiseer.",
+        "server": "Bediener",
+        "server_info": "Nitrox Bediener is geïntegreer in die loodser. Hierdie laat toe vir 'n vinnige opstelling van sowaar jou eie multispelerinstansie. Te danke aan UPNP sorg Nitrox outomaties van port forwarding. Die bediener is ligweg en maklik om te hardloop sonder om baie stelselhulpbronne te gebruik.",
+        "server_more": "Leer meer"
+    },
+    "team": {
+        "meta": {
+            "title": "Nitrox-span · Subnautica Multispelermod",
+            "description": "Sê hallo na die vrygewende bydraers van die oopbron Nitrox-projek"
+        },
+        "title": "Nitrox is gebou deur 'n passievolle span van oopbron bydraers.",
+        "join": "Wil jy by die span aansluit?",
+        "join_description": "Jy kan ook 'n bydraer wees vir hierdie mod. Jy kan vir Nitrox ontwikkel of by die ondersteuningsspan aansluit! Doen eenvoudig aansoek in die Discord-bediener of Subreddit-blad."
+    },
+    "changelog": {
+        "meta": {
+            "title": "Veranderingslys · Subnautica Multispelermod",
+            "description": "Bekyk die nuutste veranderingslys en weergawegeskiedenis vir die Nitrox-mod vrystellings."
+        },
+        "title": "Veranderingslys",
+        "subtitle": "Bekyk die nuutste veranderingslys en weergawegeskiedenis vir die Nitrox-mod vrystellings.",
+        "latest_version": "Nuutste weergawe:",
+        "download": "Laai af"
+    },
+    "footer": {
+        "getstarted": "Begin",
+        "mod": "Mod",
+        "connect": "Konnekteer",
+        "learnmore": "Leer meer",
+        "nav": {
+            "guides": "Nitrox-gidse",
+            "install": "Installasiegids",
+            "server_setup": "Bedieneropstelling",
+            "server_join": "Sluit by 'n Bediener aan",
+            "download": "Laai Nitrox af",
+            "changelog": "Veranderingslys",
+            "contribute": "Dra By",
+            "community": "Gemeenskap",
+            "devblog": "Ontw Blog",
+            "about": "Oor",
+            "team": "Span",
+            "resources": "Hulpbronne"
+        }
+    },
+    "navigation": {
+        "home": "Tuis",
+        "guides": "Gidse",
+        "about": "Oor",
+        "community": "Gemeenskap",
+        "blog": "Blog",
+        "motd": "Nuutste ontw bloguitstal.",
+        "read_more": "Lees meer"
+    },
+    "lang-select": {
+        "title": "Taal",
+        "description": "Kies jou taal."
+    },
+    "wiki": {
+        "meta": {
+            "title": "Gidse &amp; Wiki · Subnautica Multispelermod",
+            "description": "Nitrox is 'n verniet multispelermod vir die speletjie Subnautica ontwikkel deur die gemeenskap."
+        },
+        "title": "Welkom na Nitrox Ondersteuning",
+        "subtitle": "Blaai deur die helpvol gidse en lees die eerste stappe oor hoe om Nitrox te begin gebruik.",
+        "quick_links": "Vinnige skakels",
+        "search_placeholder": "Soek vir iets…",
+        "search_install": "Installeer Nitrox-mod vir Steam en Epic Games",
+        "search_run": "Hardloop en huisves 'n Nitrox-bediener",
+        "search_join": "Sluit aan by 'n Nitrox-bediener",
+        "search_home": "Nitrox-opgradering- en Installeringshelper",
+        "wizard": "Installerings- &amp; Opgraderingshelper",
+        "wizard_more": "Ons nuwe Interaktiewe Nitrox-helper lei jou stap vir stap deur die installsie- en opgraderingsproses. Antwoord eenvoudig elke stap en kry 'n onmiddelike antwoord. Probeer dit vandag!",
+        "wizard_link": "Begin Nitrox-helper",
+        "faq": {
+            "install_nitrox": {
+                "answer": "<p>Gebruik asseblief die Nitrox-installeringshelper, of lees deur die gidse om te leer hoe om die Mod te installeer.</p>",
+                "question": "Hoe installeer ek Nitrox?"
+            },
+            "title": "Gereelde vrae",
+            "status": {
+                "question": "Wat is die huidige status?",
+                "answer": "<p>Die mod is in die baie vroeë stadiums van ontwikkeling; nietemin, 'n vaste fondament is geleë vir die gemeenskap om mee te werk.</p><ul class=\"disc\"><li>Kliënt- / Bedienerkommunikasie</li><li>Spelerbeweging</li><li>Optel / Gooi item syncing</li><li>Vergereikte wêreld syncing</li><li>Bouery</li><li>Meubel bouery</li><li>Meeste meubelinterakties (houers / noodkissie fabrikators / laaiers / ens)</li><li>Kragbestuur</li><li>Seemot &amp; Eksopak Syncing</li><li>Basiese sikloop syncing</li><li>Basiese kletsstelsel</li><li>Nuwe HUD vir afgeleë spelers</li><li>Basiese speleranimasies</li><li>Integrasie met&nbsp;<a href=\"https://github.com/pardeike/Harmony\" target=\"_blank\">Harmony</a></li></ul>"
+            },
+            "play": {
+                "question": "Hoe kan ek hierdie mod speel?",
+                "answer": "Laai die installeerder af van die \"Aflaai\"-seksie. Hou in gedagte dat hierdie steeds in ontwikkeling is en kan programfoute hê."
+            },
+            "bz": {
+                "question": "Is Nitrox versoenbaar met Subnautica: Below Zero?",
+                "answer": "Huidiglik werk die Nitrox-mod net met die basisspeletjie van Subnautica. Die byvoeging van ondersteuning vir Below Zero is beplan, maar sal nie vrygestel word voor die huidige Nitrox-weergawe stabiel is nie."
+            },
+            "help": {
+                "question": "Hoe kan ek hulp kry?",
+                "answer": "Lees asseblief die stappe op ons wiki. As dit nie werk nie, vra asseblief ons hulpklets in die discord-kanaal."
+            },
+            "contribute": {
+                "question": "Hoe kan ek bydra?",
+                "answer": "Dien eenvoudig 'n versoek in op die <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">GitHub-blad</a>. Vir gedetailleerde inligting oor die projek, om 'n ontwikkellaarsomgewing op te stel, en bydrariglyne, bekyk asseblief ons <a href=\"https://subnauticanitrox.github.io/Documentation/docs/intro\" target=\"_blank\">dokumentasie</a>. Voel gerus om ook by ons aan te sluit in ons <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">discord-kanaal</a> om te bespreek en terugvoering te deel of idees met ander bydraers, ontwikkellaars en spelers."
+            },
+            "donate": {
+                "question": "Hoe kan ek skenk?",
+                "answer": "Ons aanvaar nie skenkings aan die mod nie. Dié wat wens om geld te gee kan hierso doen: <a href=\"https://www.doctorswithoutborders.org/\" target=\"_blank\">https://www.doctorswithoutborders.org/</a>"
+            },
+            "why": {
+                "question": "Hoekom die naam \"Nitrox\"?",
+                "answer": "Nitroks is 'n alternatiewe lugmengsel, gebruik deur duikers, om langer bodemtye te bereik. As 'n mod, sal dit 'n nuwe dimensie van spel bring om jou genot te verleng."
+            }
+        },
+        "readmore": "Lees meer",
+        "cards": {
+            "install": "Besig om Nitrox te Installeer",
+            "install_more": "Begin deur die Nitrox-mod te installeer. Volg die stappe versigtig en jy sal gereed wees om te speel in geen tyd!",
+            "server": "Hardloop die bediener",
+            "server_more": "Nadat jy die mod geïnstalleer het kan jy begin saamspeel deur die Nitrox-bediener die hardloop en huisves.",
+            "join": "Om by 'n bediener aan te sluit",
+            "join_more": "Wil jy by 'n ander bediener aansluit? Leer hoe om ander Nitrox-bedieners by te voeg en by dit aan te sluit en Subnautica multispeler te speel."
+        },
+        "support": "Kry Ondersteuning",
+        "support_more": "Ons ondersteuningsspan is hier om te help.<br>Sluit by Discord aan en ons sal 'n oplossing kry.",
+        "support_discord": "Sluit by Nitrox Discord aan"
     }
 }

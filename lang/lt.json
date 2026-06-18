@@ -44,7 +44,7 @@
             "chat": {
                 "headline": "Komunikacija",
                 "title": "Rašinėjimasis žaidime",
-                "description": "Likite susisieke su Nitrox Visų platformų suderinama žaidimo susirašinėjimo sistema."
+                "description": "Likite susisiekę su Nitrox visų platformų suderinama žaidimo susirašinėjimo sistema."
             },
             "upnp": {
                 "headline": "UPnP palaikymas",
@@ -54,7 +54,7 @@
             "lang": {
                 "headline": "Visuomenės pridėtos kalbos",
                 "title": "Nitrox kalba ir jūsų kalba.",
-                "languages": "Bulgarų, Kinų, Kroatų, Čekų, Olandų, Anglų, Suomių, Prancūzų, Vokiečių, Graikų, Vengrų, Italų, Japonų, Korėjiečių, Norvegų, Lenkų, Portugalų, Portugalų(Brazilų), Romunų, Rusų, Slovakų, Slovėnų, Ispanų, Švedų, Tailandiečių, Turkų, Ukrainiečių…",
+                "languages": "Bulgarų, Kinų (Supaprastina), Kinų (Tradicinė), Čekų, Danų, Olandų, Anglų, Suomių, Prancūzų, Vokiečių, Graikų, Vengrų, Airių, Italų, Korėjiečių, Lietuvių, Norvegų, Lenkų, Portugalų, Portugalų(Brazilų), Romunų, Rusų, Serbų, Serbų (Kirilica), Slovakų, Slovėnų, Ispanų, Švedų, Tailandiečių, Turkų, Ukrainiečių…",
                 "link": "Prisidėkite ir pridėkite savo kalbą"
             },
             "host": {
@@ -84,7 +84,8 @@
             },
             "wiki": {
                 "title": "pradedama",
-                "description": "Perskaitykite diegimo vadovą ir DUK puslapį"
+                "description": "Perskaitykite diegimo vadovą ir DUK puslapį",
+                "link": "Aplankyti Gidus"
             }
         }
     },
@@ -139,7 +140,9 @@
         "reddit_join": "Versija",
         "twitter": "Sek 'Nitrox' Twitterį paskyrą kad visada žinotum apie programavimus, šventes ir net išleidimus.",
         "github": "Nori būti dalis komandos? Prisidėk nuo kodo iki transliacijų prie 'Nitrox' projektų per 'GitHub'.",
-        "reddit": "Prisijunk į 'Nitrox Subreddit' kad žinotum apie naujausius išleidimus ir sukurk bendruomenės turinį."
+        "reddit": "Prisijunk į 'Nitrox Subreddit' kad žinotum apie naujausius išleidimus ir sukurk bendruomenės turinį.",
+        "bluesky": "Sekite Nitrox Bluesky paskyrą, kad visada sužinotumėte apie atnaujinimus, įvykius ir išleidimus.",
+        "bluesky_follow": "Sekti ant Bluesky"
     },
     "about": {
         "multiplayer": "Su draugais. <span class=\"opacity-5\">Žaisk 'Subnautica' kaip reikėjo kad būtų, su kitais.</span>",
@@ -164,7 +167,8 @@
         "download_description": "Tavo kelionė laukia. Parsisiųsk 'Nitrox' modifikacija nemokamai ir pradėk žaisti 'Subnautica' su kitais!",
         "download": "Parsisiųsk",
         "version": "Paskutinė versija:",
-        "download_header": "Pasiruošęs? Parsisiųsk modifikacija!"
+        "download_header": "Pasiruošęs? Parsisiųsk modifikacija!",
+        "featured": "Paminėta"
     },
     "os": {
         "license": "GNU bendroji viešoji licencija v3.0",
@@ -195,7 +199,148 @@
     },
     "server": {
         "meta": {
-            "title": "'Nitrox' Serveris · Funkcijos"
+            "title": "'Nitrox' Serveris · Funkcijos",
+            "description": "Nitrox pristato galingą multiplayer serverį, taupant jūsų resursus."
+        },
+        "title": "Nitrox Serveris <br>Lengvas ir galingas.",
+        "features": "Nitrox serveriai <span class=\"opacity-5\">yra galingi ir lengvai padaromi. Su optimizuotu kodu parašyta Subnautica. Veikia ypač lengvai ir nereikalauja daug resursų, geriausiai žaidimo kokybei. </span>",
+        "cards": {
+            "host": "Paleisti",
+            "host_info": "Lengvai paleiskite didelio žmonių kiekio įvyki su palaikymu iki 100 žaidėjų.",
+            "host_slots": "Max. Vietų",
+            "host_footnote": "Max. 100 serverio žaidėjų, rekomenduojamas žaidėjų kiekis 5.",
+            "connect": "Prisijungti",
+            "connect_info": "Automatinis port forwarding per UPNP greitam paruošimui.",
+            "connect_subtitle": "Technologija",
+            "play": "Žaisti",
+            "play_info": "Sukurkite arba raskite amžinus serverius žaisti, Nitrox grupėje.",
+            "play_subtitle": "Serveriai",
+            "play_footnote": "Vieši serveriai nėra palaikomi Nitrox ir 100% veikimo laikas nėra garantuotas. Nitrox nepriklausantys serveriai nėra moderuojami Nitrox komandos."
+        },
+        "features_included": "Kas įeina?",
+        "feature_list": "<p class=\"lead\">Nitrox serveris turi viską, ko reikia pradžiai, sukurk ir žaisk Subnautica su kitais žaidėjais.</p>\n<ul class=\"lead\">\n<li>Serverio konsolė</li>\n<li>Įdiegta pokalbių sistema</li>\n<li>Nustatomas serverio port</li>\n<li>Max. 100 prisijungusių žaidėjų</li>\n<li>Automatinis žaidimo saugojimas</li>\n<li>Nustatomas žaidimo režimas</li>\n<li>Viešo žaidimo režimas</li>\n<li>Privataus slaptažodžio apsaugotas serveris</li>\n</ul>"
+    },
+    "launcher": {
+        "meta": {
+            "title": "Nitrox Paleidėjas · Funkcijos",
+            "description": "Nitrox Paleidėjas yra tavo kelias į Subnautica patirtį su kitais žaidėjais."
+        },
+        "hero": "Viskas viename <br> su kitais žaidėjais.",
+        "coming_soon": "Greitai bus",
+        "launcher": "Nitrox Paleidėjas.",
+        "preview": "Peržvelgite naują Nitrox Paleidėją.<span class=\"opacity-5\">Tavo kelias į Subnautica patirtį su kitais žaidėjais. Kruopščiai padarytas lengvam naudojimui. Greitai bus.</span>",
+        "redesigned": "Perdarytas nuo nieko.<span class=\"opacity-5\">Su fokusavimusi pateikiant padedančią informaciją. Greitas priėjimas prie žaidimo su kitais. Detali diagnostika. Viskas, ko tau reikia paleidžiant serverį.</span>",
+        "hub": "Tavo centras viskam Nitrox.",
+        "hub_info": "Su perdarytu paleidėju gali lengvai sekti naujienas susįjusias su Nitrox. Būk pirmas gaunant naujausias versijas, detalios informacijos pagerinti tavo serverio patirtį ir grupės priėjimą su 24/7 kitų žmonių paleistais serveriais.",
+        "settings": "Smart nustatymai",
+        "settings_info": "Nusipirkote keletą kopijų Subnautica? Jokių problemų. Nitrox Paleidėjas gali automatiškai aptikti visas jūsų Subnautica žaidimo instaliacijas, leidžiant jums greitai pasirinkti kitas parduotuvių versijas. Supaprastinant pasiruošimą ir išimant reikalavimą savarankiškai specifikuoti kelią.",
+        "server": "Serveris",
+        "server_info": "Nitrox Serveriai įeina į paleidėją. Tai leidžia greitam paruošimui tavo žaidimą su kitais žaidėjais. Dėl UPNP Nitrox automatiškai susitvarko su port forwarding. Serveris yra paprastas ir nereikalauja daug sistemos resursų.",
+        "server_more": "Sužinokite daugiau"
+    },
+    "team": {
+        "meta": {
+            "title": "Nitrox Komanda · Subnautica Multiplayer Mod",
+            "description": "Pasakykite labas dosniems atvirojo kodo projekto Nitrox rėmėjams"
+        },
+        "title": "Nitrox kuria atsidavusi atvirojo kodo bendraautorių komanda.",
+        "join": "Norite prisijungti prie komandos?",
+        "join_description": "Galite ir jūs tapti šios modifikacijos remėju. Galite prisidėti kurti Nitrox arba prisidėti prie komandos! Papraščiausiai pateikite paraišką Discord serveryje ar Subreddit puslapyje."
+    },
+    "changelog": {
+        "meta": {
+            "title": "Pakeitimai · Subnautica Multiplayer Mod",
+            "description": "Peržiūrėkite naujausius pakeitimus ir versijos istorijas, kad sužinotumėte apie Nitrox Mod išleidimus."
+        },
+        "title": "Pakeitimai",
+        "subtitle": "Peržiūrėkite naujausius pakeitimus ir versijos istorijas, kad sužinotumėte apie Nitrox Mod išleidimus.",
+        "latest_version": "Naujausia versija:",
+        "download": "Atsisiųsti"
+    },
+    "footer-extended": {
+        "community_title": "Grupė",
+        "community_description": "Prisijungite ir kalbėkite su kitais Nitrox žaidėjais",
+        "users": "Unikalūs Naudotojai",
+        "downloads": "Atsisiuntimai",
+        "nexus": "Nexus Peržiūros",
+        "discord": "Aktyvūs Discord",
+        "community": {
+            "discord": "Nitrox Discord Serveris",
+            "discord_description": "Kalbėkites su daugiau negu 27 tūkstančiai žmonių apie Subnautica Multiplayer, suraskite grupes, žaisti kartu ir gauti pagalbos.",
+            "discord_join": "Paspauskite, kad prisijungtumėte prie Discord",
+            "twitter": "Sekti Twitter",
+            "twitter_description": "Sekite Twitter, kad visados žinotumėte apie tai, kas vyksta, detalia informaciją ir daug daugiau iš oficialaus Nitrox Twitter paskyros.",
+            "twitter_join": "Paspauskite, kad aplankytumėte @modnitrox",
+            "bluesky": "Sekti Bluesky",
+            "bluesky_description": "Sekite Bluesky, kad visados žinotumėte apie tai, kas vyksta, detalia informaciją ir daug daugiau iš oficialaus Nitrox Bluesky paskyros.",
+            "bluesky_join": "Paspauskite, kad apsilankytumėte @nitroxmod"
+        },
+        "featured": "Paminėta",
+        "footnote_1": "Windows parduotuvė reikalauja papildomo pasiruošimo. Kaip pasiruošti ir pagalba galima rasti Nitrox Discord.",
+        "footnote_2": "Max. 100 serverio žaidėjų, rekuomenduojamas kiekis 5.",
+        "footnote_3": "Viešieji serveriai nepriklauso Nitrox, todėl 100 % jų veikimo laikas nėra garantuojamas. Nitrox komanda nemoderuoja trečiųjų šalių serverių."
+    },
+    "footer": {
+        "getstarted": "Pradėkite",
+        "mod": "Mod",
+        "connect": "Prisijungti",
+        "learnmore": "Sužinoti daugiau",
+        "nav": {
+            "guides": "Nitrox Gidai",
+            "install": "Instaliavimo Gidas",
+            "server_setup": "Serverio Paruošimas",
+            "server_join": "Prisijungti prie Serverio",
+            "download": "Atsisiųsti Nitrox",
+            "changelog": "Pakeitimai",
+            "contribute": "Prisidėti",
+            "community": "Grupė",
+            "devblog": "Kūrėjų Blog",
+            "about": "Apie",
+            "team": "Komanda",
+            "resources": "Resursai"
+        }
+    },
+    "navigation": {
+        "home": "Pagrindinis Puslapis",
+        "guides": "Gidai",
+        "about": "Apie",
+        "community": "Grupė",
+        "blog": "Blog",
+        "motd": "Naujausias kūrėjų blog puslapis.",
+        "read_more": "Skaityti daugiau"
+    },
+    "lang-select": {
+        "title": "Kalba",
+        "description": "Pasirinkite kalbą."
+    },
+    "wiki": {
+        "meta": {
+            "title": "Gidai ir Wiki · Subnautica Multiplayer Mod",
+            "description": "Nitrox yra nemokama modifikacija, kad žaisti su kitais žaidėjais, sukurta žmonių."
+        },
+        "title": "Sveiki atvykę į Nitrox Pagalbą",
+        "subtitle": "Apsilankykite giduose ir perskaitykite pirmus žingsnius, kaip pradėti naudotis Nitrox.",
+        "quick_links": "Greitos nuorodos",
+        "search_placeholder": "Ieškokite kažko…",
+        "search_install": "Atsisiųskite Nitrox Mod Steam arba Epic Games",
+        "search_run": "Paleiskite ir kontroliuokite Nitrox Serverį",
+        "search_join": "Prisijunkite prie Nitrox Serverio",
+        "search_home": "Nitrox Upgrade ir Install Wizard",
+        "readmore": "Skaityti daugiau",
+        "cards": {
+            "install": "Atsisiųsti Nitrox",
+            "install_more": "Pradėkite atsisiuntus Nitrox Mod. Sekite žingsnius atsargiai ir būsite pasiruošę žaisti labai greitai!",
+            "server": "Paleidžiant serverį",
+            "server_more": "Po mod atsisiuntimo galite pradėti žaisti kartu paleidžiant Nitrox serverį.",
+            "join": "Prisijungiant prie serverio",
+            "join_more": "Norite prisijungti prie kito serverio? Sužinokite kaip pridėti ir prisijungti prie kitų Nitrox serverių ir žaiskite Subnautica kartu."
+        },
+        "wizard": "Install ir Upgrade Wizard",
+        "faq": {
+            "title": "Dažnai užduodami klausimai",
+            "install_nitrox": {
+                "question": "Kaip parsisiūsti Nitrox?"
+            }
         }
     }
 }

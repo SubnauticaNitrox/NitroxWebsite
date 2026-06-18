@@ -3,15 +3,15 @@
         "feature": {
             "multiplayer": {
                 "headline": "A mod",
-                "title": "Nitrox többjátékos",
+                "title": "Nitrox többjátékos mód",
                 "description": "Végre elkezdheted játszani a Subnauticát a barátaiddal. Csatlakozz egy szerverhez, vagy készítsd el a sajátodat."
             },
             "community": {
                 "headline": "Közösség",
                 "downloads": "Letöltés",
                 "title": "Játékosbázis",
-                "description": "Legyen része a nagy, növekvő Nitrox közösségnek. Találj új szervereket, kérj segítséget és beszélgess más Nitrox játékosokkal.",
-                "discord": "Discord tag"
+                "description": "Legyél része a nagy, növekvő Nitrox közösségnek. Találj új szervereket, kérj segítséget és beszélgess más Nitrox játékosokkal.",
+                "discord": "Discord tagok online"
             },
             "upnp": {
                 "title": "Automatikus porttovábbítás",
@@ -32,13 +32,13 @@
             "code": {
                 "title": "Nyílt forráskódú",
                 "headline": "Kódbázis",
-                "description": "Rendszeres támogatás és frissítések a nagylelkű támogatóktól. Hozzájárulj és tedd jobbá a modot."
+                "description": "Rendszeres támogatás és frissítések a nagylelkű támogatóktól. Járulj hozzá és tedd jobbá a modot."
             },
             "stores": {
                 "headline": "Jelenleg támogatott boltok",
                 "tooltip": "Jelenleg nem elérhető",
                 "title": "Keresztplatformos",
-                "description": "Kompatibilis a kedvenc áruházaiddal. A beágyazott ,,cross-play \" támogatás lehetővé teszi a gördülékeny többjátékos játékélményt."
+                "description": "Kompatibilis a kedvenc áruházaiddal. A beágyazott ,,cross-play\" támogatás lehetővé teszi a gördülékeny többjátékos játékélményt."
             },
             "host": {
                 "subtitle": "Maximális férőhely",
@@ -52,7 +52,7 @@
                 "view": "Folyamatban lévő koncepciók megtekintése"
             },
             "lang": {
-                "languages": "Bolgár, Kínai, Horvát, Cseh, Holland, Angol, Finn, Francia, Német, Görög, Magyar, Olasz, Japán, Kóreai, Norvég, Lengyel, Portugál, Portugál (Brazil), Román, Orosz, Szlovák, Szlovén, Spanyol, Svéd, Thai, Török, Ukrán, Vietnámi, …",
+                "languages": "Bolgár, kínai (egyszerűsített), kínai (hagyományos), cseh, dán, holland, angol, finn, francia, német, görög, magyar, ír, olasz, koreai, litván, norvég, lengyel, portugál, portugál (brazíliai), román, orosz, szerb, szerb (cirill), szlovák, szlovén, spanyol, svéd, thai, török, ukrán, vietnámi, …",
                 "link": "Járulj hozzá és add hozzá a te nyelvedet",
                 "headline": "Közösség által hozzá adott nyelvek",
                 "title": "A Nitrox a te nyelvedet is beszéli."
@@ -68,8 +68,8 @@
             }
         },
         "meta": {
-            "description": "Egy ingyenes többjátékos mod a Subnautica játékhoz a közösség által fejlesztve.",
-            "title": "Nitrox a Subnautica-hoz - A Subnautica Többjátékos Mód"
+            "description": "A Nitrox egy ingyenes többjátékos mod a Subnautica játékhoz a közösség által fejlesztve.",
+            "title": "Nitrox a Subnautica-hoz - A Subnautica Többjátékos Mod"
         },
         "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
         "hero_slogan": "<span>A</span> <span>többjátékos</span> <span>Mód</span> <span>Subnautica-hoz.</span>",
@@ -230,7 +230,7 @@
             },
             "contribute": {
                 "question": "Hogyan tudok hozzájárulni?",
-                "answer": "Egyszerűen küldj be egy pull kérést a <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">GitHub oldalunkon</a>. Nyugodtan csatlakozz hozzánk a <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">Discord csatornánkon</a> is, hogy megbeszélhessük az ötleteket, visszajelzéseket adhass, vagy beszélgethess más közreműködőkkel, fejlesztőkkel és játékosokkal."
+                "answer": "Egyszerűen küldj be egy pull kérést a <a href=\"https://github.com/SubnauticaNitrox/Nitrox\" target=\"_blank\">GitHub oldalunkon</a>. A projekttel, a fejlesztői környezet beállításával és a közreműködési irányelvekkel kapcsolatos részletes információkért kérjük, tekintsd meg a <a href=\"https://subnauticanitrox.github.io/Documentation/docs/intro\" target=\"_blank\">dokumentációnkat</a>. Nyugodtan csatlakozz hozzánk a <a href=\"https://discord.gg/E8B4X9s\" target=\"_blank\">Discord csatornánkon</a> is, hogy megbeszélhessük az ötleteket, visszajelzéseket adhass, vagy beszélgethess más közreműködőkkel, fejlesztőkkel és játékosokkal."
             },
             "why": {
                 "question": "Miért az a neve hogy \"Nitrox\"?",
@@ -283,7 +283,7 @@
         "nexus": "Nexus látogató",
         "community_title": "Közösség",
         "users": "Egyedi felhasználó",
-        "discord": "Discord tag",
+        "discord": "Discord Tagok Online",
         "footnote_3": "A nyilvános szervereket nem a Nitrox üzemelteti, a 100%-os üzemidő nem biztosított. Harmadik féltől származó szervereket nem a Nitrox csapata moderálja.",
         "featured": "Szerepel a"
     },
